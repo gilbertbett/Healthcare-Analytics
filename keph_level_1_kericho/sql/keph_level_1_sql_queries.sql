@@ -149,43 +149,86 @@ GROUP BY sub_county, water_safety
 ORDER BY sub_county, water_safety DESC;
 
 
+/* ================================================================================
+	B. HEALTH SERVICE UTILIZATION
+================================================================================== */
+
+-- i. Distribution of pregnant women attending ANC visits
+
+-- a. By county
+SELECT
+    ROUND(100.0 * SUM(CASE WHEN anc_visits >= 1 THEN 1 ELSE 0 END) / 
+    (SELECT SUM(pregnant_women) FROM kericho_community_health_data WHERE 1 > 0), 2) AS percentage_ANC_visits
+FROM kericho_community_health_data
+WHERE pregnant_women > 0;
 
 
+-- ii. By sub_county
+SELECT
+    sub_county,
+    ROUND(100.0 * SUM(CASE WHEN anc_visits >= 1 THEN 1 ELSE 0 END) / COUNT(*), 2) AS percentage_ANC_visits
+FROM kericho_community_health_data
+WHERE pregnant_women > 0
+GROUP BY sub_county
+ORDER BY sub_county;
 
 
+-- ii. Distribution of skilled deliveries 
+-- a. By county
+SELECT
+    ROUND(100.0 * SUM(CASE WHEN skilled_delivery = 'Yes' THEN 1 ELSE 0 END) / 
+    (SELECT COUNT(*) FROM kericho_community_health_data), 2) AS skilled_delivery_percentage
+FROM kericho_community_health_data;
 
-
-
-
--- 1. HOUSEHOLD DEMOGRAPHICS
--- Goal: Understand household composition and population distribution
-
--- i. Average household size by sub-county
-SELECT sub_county, AVG(household_size) AS avg_household_size
+-- b. By sub_county
+SELECT
+	sub_county,
+    ROUND(100.0 * SUM(CASE WHEN skilled_delivery = 'Yes' THEN 1 ELSE 0 END) / 
+    COUNT(*), 2) AS skilled_delivery_percentage
 FROM kericho_community_health_data
 GROUP BY sub_county
-ORDER BY avg_household_size DESC;
+ORDER BY sub_county;
 
-/* 
-	Insight: 
-		Londiani has the largest households and Bureti the smallest.
-		This analysis can inform resource allocation decisions for community health programs. 
-*/ 
+-- iii. Distribution of postnatal visits
+-- By county
+SELECT 
+	ROUND(100.0 * SUM(CASE WHEN postnatal_visit >= 1 THEN 1 ELSE 0 END) / 
+    (SELECT COUNT(*) FROM kericho_community_health_data),2) AS postnatal_visit_percentage
+FROM kericho_community_health_data;
 
--- ----------------------------------------------------------------------------------------- --
--- Drill-down
--- ii. Average household size by sub-county and ward 
-SELECT sub_county, ward, AVG(household_size) AS avg_household_size
+-- By sub_county
+SELECT 
+	sub_county,
+	ROUND(100.0 * SUM(CASE WHEN postnatal_visit >= 1 THEN 1 ELSE 0 END) / COUNT(*),2) AS postnatal_visit_percentage
 FROM kericho_community_health_data
-GROUP BY sub_county, ward
-ORDER BY sub_county, avg_household_size DESC;
-/* 
-	Insight: 
-		Reveals wards with the largest and smallest household sizes, highlighting local demographic differences within sub-counties.​
-        Identifies specific wards that may need more resources or targeted interventions based on higher household size.
-        Helps design more precise community health and service delivery strategies for each ward.
-*/
+GROUP BY sub_county
+ORDER BY sub_county;
 
--- ---------------------------------------------------------------------------------------------------------------------------------- --
+-- iv. Average immunization coverage rates 
+-- By county
+SELECT 
+	ROUND(AVG(immunization_coverage),2) AS avg_immunization_coverage
+FROM kericho_community_health_data;
 
--- iii. Average 
+-- By sub_county
+SELECT
+	sub_county,
+	ROUND(AVG(immunization_coverage),2) AS avg_immunization_coverage
+FROM kericho_community_health_data
+GROUP BY sub_county
+ORDER BY sub_county;
+
+-- v. Counts and rates of community health activities
+SELECT
+    sub_county,
+    SUM(health_education_sessions) AS total_health_education_sessions,
+    SUM(community_cleanups) AS total_community_cleanup_days,
+    SUM(household_visits) AS total_household_visits,
+    ROUND(AVG(health_education_sessions), 2) AS avg_health_education_sessions,
+    ROUND(AVG(community_cleanups), 2) AS avg_community_cleanup_days,
+    ROUND(AVG(household_visits), 2) AS avg_household_visits
+FROM kericho_community_health_data
+GROUP BY sub_county
+ORDER BY sub_county;
+
+
