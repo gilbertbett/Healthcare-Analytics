@@ -56,7 +56,7 @@ GROUP BY sub_county;
 -- iii. Resource distribution
 -- a. Water source types
 
--- -By county
+-- -Overall
 SELECT water_source,  ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM kericho_community_health_data),2) AS percentage
 FROM kericho_community_health_data
 GROUP BY water_source;
@@ -79,7 +79,7 @@ FROM (
 ORDER BY sub_county, percentage DESC;
 
 -- b. Toilet type
--- -By conty
+-- -Overall
 SELECT toilet_type, ROUND(100.0 * COUNT(*)/(SELECT COUNT(*) FROM kericho_community_health_data),2) AS percentage
 FROM kericho_community_health_data
 GROUP BY toilet_type;
@@ -102,7 +102,7 @@ ORDER BY sub_county, percentage DESC;
 
 
 -- c. Handwashing facilities
--- By county
+-- Overall
 SELECT handwashing_facility, ROUND(100.0 * COUNT(*)/(SELECT COUNT(*) FROM kericho_community_health_data),2) AS percentage
 FROM kericho_community_health_data
 GROUP BY handwashing_facility;
@@ -124,7 +124,7 @@ FROM (
 ORDER BY sub_county, percentage DESC;
 
 -- d. Distrubiton of safe and unsafe water by county and sub_county
--- By county
+-- Overall
 SELECT
     CASE
         WHEN water_source IN ('piped', 'protected well') THEN 'Safe Water'
@@ -155,7 +155,7 @@ ORDER BY sub_county, water_safety DESC;
 
 -- i. Distribution of pregnant women attending ANC visits
 
--- a. By county
+-- a. Overall
 SELECT
     ROUND(100.0 * SUM(CASE WHEN anc_visits >= 1 THEN 1 ELSE 0 END) / 
     (SELECT SUM(pregnant_women) FROM kericho_community_health_data WHERE 1 > 0), 2) AS percentage_ANC_visits
@@ -174,7 +174,7 @@ ORDER BY sub_county;
 
 
 -- ii. Distribution of skilled deliveries 
--- a. By county
+-- a. Overall
 SELECT
     ROUND(100.0 * SUM(CASE WHEN skilled_delivery = 'Yes' THEN 1 ELSE 0 END) / 
     (SELECT COUNT(*) FROM kericho_community_health_data), 2) AS skilled_delivery_percentage
@@ -190,7 +190,7 @@ GROUP BY sub_county
 ORDER BY sub_county;
 
 -- iii. Distribution of postnatal visits
--- By county
+-- Overall
 SELECT 
 	ROUND(100.0 * SUM(CASE WHEN postnatal_visit >= 1 THEN 1 ELSE 0 END) / 
     (SELECT COUNT(*) FROM kericho_community_health_data),2) AS postnatal_visit_percentage
@@ -205,7 +205,7 @@ GROUP BY sub_county
 ORDER BY sub_county;
 
 -- iv. Average immunization coverage rates 
--- By county
+-- Overall
 SELECT 
 	ROUND(AVG(immunization_coverage),2) AS avg_immunization_coverage
 FROM kericho_community_health_data;
@@ -231,4 +231,51 @@ FROM kericho_community_health_data
 GROUP BY sub_county
 ORDER BY sub_county;
 
+/* ===================================================================================
+	C. DISEASE INCIDENCE AND SCREENING
+================================================================================== */
+-- a. Malnution incidences 
+-- Overall
+SELECT
+    SUM(malnutrition_cases) AS total_cases,
+    SUM(children_under5) AS total_children_assessed,
+    ROUND(((SUM(malnutrition_cases) / SUM(children_under5)) * 100), 2) AS malnutrition_rate_percent
+FROM kericho_community_health_data;
+
+-- By sub_county 
+SELECT
+	sub_county,
+    SUM(malnutrition_cases) AS total_cases,
+    SUM(children_under5) AS at_risk_population,
+    ROUND(((SUM(malnutrition_cases) / SUM(children_under5)) * 100),2) AS malnutrition_rate_percent
+FROM kericho_community_health_data
+GROUP BY sub_county
+ORDER BY sub_county;
+
+
+-- b. Malaria incidences
+-- Overall
+SELECT
+    (SUM(malaria_cases) / SUM(household_size)) * 1000 AS incidence_per_1000
+FROM kericho_community_health_data;
+
+-- By subcounty
+SELECT
+	sub_county,
+    ROUND((SUM(malaria_cases) / SUM(household_size) * 1000),2) AS incidence_per_1000
+FROM kericho_community_health_data
+GROUP BY sub_county
+ORDER BY sub_county;
+
+-- c. TB screening rate
+-- Overall
+SELECT
+    ROUND((SUM(tb_screened) / SUM(household_size)) * 100,2) AS screening_rate_percent
+FROM kericho_community_health_data;
+
+-- c. TB incidence rate 
+-- By subcounty
+SELECT
+    ROUND((SUM(tb_suspected) / SUM(household_size) * 100000),2) AS incidence_per_100000
+FROM kericho_community_health_data;
 
