@@ -279,3 +279,124 @@ SELECT
     ROUND((SUM(tb_suspected) / SUM(household_size) * 100000),2) AS incidence_per_100000
 FROM kericho_community_health_data;
 
+
+/* ======================================================================
+	D. HEALTH ACCESSIBILITY AND OUTCOME
+==================================================================== */
+
+-- a. Analysis of referral made and completed
+-- Overall
+SELECT
+    SUM(referrals_made) AS total_referrals_made,
+    SUM(referrals_completed) AS total_referrals_completed,
+    ROUND(100.0 * SUM(referrals_completed) / NULLIF(SUM(referrals_made), 0), 2) AS referral_completion_rate_percentage
+FROM kericho_community_health_data
+WHERE referrals_made IS NOT NULL AND referrals_completed IS NOT NULL;
+
+-- By sub-county
+SELECT
+    sub_county,
+    SUM(referrals_made) AS total_referrals_made,
+    SUM(referrals_completed) AS total_referrals_completed,
+    ROUND(100.0 * SUM(referrals_completed) / NULLIF(SUM(referrals_made), 0), 2) AS referral_completion_rate_percentage
+FROM kericho_community_health_data
+WHERE referrals_made IS NOT NULL AND referrals_completed IS NOT NULL
+GROUP BY sub_county
+ORDER BY sub_county;
+
+-- b. Analysis of barriers to care
+SELECT
+    barrier_to_care,
+    COUNT(*) AS count,
+    ROUND(100.0 * COUNT(*) / 
+    (SELECT COUNT(*) FROM kericho_community_health_data WHERE barrier_to_care IS NOT NULL), 2) AS percentage
+FROM kericho_community_health_data
+WHERE barrier_to_care IS NOT NULL
+GROUP BY barrier_to_care
+ORDER BY count DESC;
+
+-- c. Visit to Health Facilities rate
+-- Overall
+SELECT
+    ROUND(100.0 * SUM(CASE WHEN visited_health_facility = 'Yes' THEN 1 ELSE 0 END) / 
+    SUM(household_size), 2) AS health_facility_visit_rate_per_100_people
+FROM kericho_community_health_data
+WHERE household_size > 0;
+
+-- By sub-county
+SELECT
+    sub_county,
+    ROUND(100.0 * SUM(CASE WHEN visited_health_facility = 'Yes' THEN 1 ELSE 0 END) / 
+    SUM(household_size), 2) AS health_facility_visit_rate_per_100_people
+FROM kericho_community_health_data
+WHERE household_size > 0
+GROUP BY sub_county
+ORDER BY sub_county;
+
+-- d. Births and deaths last month as immediate health outcome
+-- Overall
+SELECT
+    SUM(births_last_month) AS total_births_last_month,
+    SUM(deaths_last_month) AS total_deaths_last_month,
+    ROUND(1000.0 * SUM(deaths_last_month) / 
+    NULLIF(SUM(births_last_month), 0), 2) AS deaths_per_1000_births
+FROM kericho_community_health_data
+WHERE births_last_month > 0 OR deaths_last_month > 0;
+
+-- By sub_county
+SELECT
+    sub_county,
+    SUM(births_last_month) AS total_births_last_month,
+    SUM(deaths_last_month) AS total_deaths_last_month,
+    ROUND(1000.0 * SUM(deaths_last_month) / 
+    NULLIF(SUM(births_last_month), 0), 2) AS deaths_per_1000_births
+FROM kericho_community_health_data
+WHERE births_last_month > 0 OR deaths_last_month > 0
+GROUP BY sub_county
+ORDER BY sub_county;
+
+/* =============================================================================
+	E. TEMPORAL AND SPATIAL ANALYSIS
+============================================================================= */
+
+-- a. Trends by data reporting month
+-- Temporal trends
+SELECT
+    data_reporting_month,
+    SUM(births_last_month) AS total_births,
+    SUM(deaths_last_month) AS total_deaths,
+    SUM(visited_health_facility) AS total_health_facility_visits,
+    SUM(referrals_made) AS total_referrals_made,
+    SUM(referrals_completed) AS total_referrals_completed
+FROM kericho_community_health_data
+GROUP BY data_reporting_month
+ORDER BY data_reporting_month;
+
+-- Spatial-temporal analysis
+SELECT
+    data_reporting_month,
+    sub_county,
+    SUM(births_last_month) AS total_births,
+    SUM(deaths_last_month) AS total_deaths,
+    SUM(visited_health_facility) AS total_health_facility_visits,
+    SUM(referrals_made) AS total_referrals_made,
+    SUM(referrals_completed) AS total_referrals_completed
+FROM kericho_community_health_data
+GROUP BY data_reporting_month, sub_county
+ORDER BY data_reporting_month, sub_county;
+
+-- Variations in health metrics by sub-county
+SELECT
+    sub_county,
+    SUM(births_last_month) AS total_births,
+    SUM(deaths_last_month) AS total_deaths,
+    ROUND(1000.0 * SUM(deaths_last_month) / 
+    NULLIF(SUM(births_last_month), 0), 2) AS deaths_per_1000_births,
+    SUM(visited_health_facility) AS total_health_facility_visits,
+    ROUND(100.0 * SUM(referrals_completed) / 
+    NULLIF(SUM(referrals_made), 0), 2) AS referral_completion_rate_percentage,
+    ROUND(AVG(immunization_coverage),2) AS average_immunization_coverage,
+    AVG(malnutrition_cases) AS average_malnutrition_cases
+FROM kericho_community_health_data
+GROUP BY sub_county
+ORDER BY sub_county;
