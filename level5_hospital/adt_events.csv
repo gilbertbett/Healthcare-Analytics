@@ -1,0 +1,1005 @@
+visit_id,patient_id,event_type,timestamp,ward_bed,admission_type,discharge_status
+V20004,P10227,Admission,2023-01-09 04:00:00,Surgical Ward-Bed41,Emergency,
+V20004,P10227,Discharge,2023-01-22 04:00:00,Private Wing-Bed27,,Transfer
+V20005,P10018,Admission,2023-09-03 03:00:00,Medical Ward-Bed26,Elective,
+V20005,P10018,Discharge,2023-09-04 03:00:00,ICU-Bed39,,Transfer
+V20007,P10160,Admission,2023-08-14 02:00:00,Medical Ward-Bed45,Elective,
+V20007,P10160,Discharge,2023-08-15 02:00:00,Surgical Ward-Bed12,,Home
+V20016,P10328,Admission,2023-05-25 02:00:00,Pediatric Ward-Bed12,Elective,
+V20016,P10328,Discharge,2023-05-28 02:00:00,Maternity-Bed31,,Death
+V20017,P10310,Admission,2023-06-21 04:00:00,Maternity-Bed9,Elective,
+V20017,P10310,Discharge,2023-06-26 04:00:00,ICU-Bed5,,Transfer
+V20018,P10482,Admission,2023-11-15 01:00:00,Medical Ward-Bed12,Elective,
+V20018,P10482,Discharge,2023-11-17 01:00:00,CCU-Bed7,,Home
+V20026,P10225,Admission,2023-05-18 03:00:00,ICU-Bed17,Elective,
+V20026,P10225,Discharge,2023-06-01 03:00:00,Medical Ward-Bed1,,Death
+V20034,P10209,Admission,2023-09-16 01:00:00,Maternity-Bed38,Elective,
+V20034,P10209,Discharge,2023-09-18 01:00:00,Maternity-Bed46,,Transfer
+V20038,P10085,Admission,2023-03-09 02:00:00,Private Wing-Bed6,Emergency,
+V20038,P10085,Discharge,2023-03-13 02:00:00,ICU-Bed39,,Transfer
+V20040,P10285,Admission,2023-12-31 04:00:00,Medical Ward-Bed18,Elective,
+V20040,P10285,Discharge,2024-01-13 04:00:00,Surgical Ward-Bed46,,Transfer
+V20042,P10369,Admission,2023-02-07 03:00:00,Surgical Ward-Bed41,Elective,
+V20042,P10369,Discharge,2023-02-21 03:00:00,Medical Ward-Bed10,,Death
+V20049,P10459,Admission,2023-10-24 01:00:00,Medical Ward-Bed14,Elective,
+V20049,P10459,Discharge,2023-10-27 01:00:00,Surgical Ward-Bed48,,Transfer
+V20051,P10416,Admission,2023-04-18 03:00:00,Maternity-Bed23,Elective,
+V20051,P10416,Discharge,2023-04-22 03:00:00,Private Wing-Bed49,,Death
+V20052,P10294,Admission,2023-06-10 01:00:00,ICU-Bed23,Emergency,
+V20052,P10294,Discharge,2023-06-18 01:00:00,Pediatric Ward-Bed17,,Death
+V20053,P10084,Admission,2023-05-28 02:00:00,Surgical Ward-Bed8,Emergency,
+V20053,P10084,Discharge,2023-06-02 02:00:00,ICU-Bed21,,Transfer
+V20059,P10218,Admission,2023-08-16 03:00:00,Private Wing-Bed18,Emergency,
+V20059,P10218,Discharge,2023-08-29 03:00:00,Medical Ward-Bed44,,Transfer
+V20060,P10151,Admission,2023-12-28 03:00:00,CCU-Bed24,Elective,
+V20060,P10151,Discharge,2024-01-02 03:00:00,CCU-Bed30,,Transfer
+V20063,P10038,Admission,2023-03-22 02:00:00,Surgical Ward-Bed5,Emergency,
+V20063,P10038,Discharge,2023-04-05 02:00:00,Surgical Ward-Bed13,,Home
+V20067,P10070,Admission,2023-07-12 04:00:00,Private Wing-Bed35,Elective,
+V20067,P10070,Discharge,2023-07-17 04:00:00,CCU-Bed40,,Death
+V20068,P10240,Admission,2023-09-06 01:00:00,Maternity-Bed50,Elective,
+V20068,P10240,Discharge,2023-09-14 01:00:00,Private Wing-Bed14,,Home
+V20070,P10383,Admission,2023-01-02 03:00:00,CCU-Bed44,Emergency,
+V20070,P10383,Discharge,2023-01-13 03:00:00,Maternity-Bed11,,Home
+V20071,P10285,Admission,2023-04-17 02:00:00,Private Wing-Bed36,Elective,
+V20071,P10285,Discharge,2023-05-01 02:00:00,CCU-Bed11,,Home
+V20073,P10326,Admission,2023-09-05 04:00:00,CCU-Bed1,Emergency,
+V20073,P10326,Discharge,2023-09-11 04:00:00,Private Wing-Bed5,,Death
+V20075,P10200,Admission,2023-07-02 04:00:00,Private Wing-Bed3,Elective,
+V20075,P10200,Discharge,2023-07-06 04:00:00,Pediatric Ward-Bed46,,Death
+V20076,P10049,Admission,2023-02-27 02:00:00,Maternity-Bed39,Emergency,
+V20076,P10049,Discharge,2023-02-28 02:00:00,Pediatric Ward-Bed47,,Death
+V20080,P10210,Admission,2023-05-01 02:00:00,ICU-Bed15,Elective,
+V20080,P10210,Discharge,2023-05-06 02:00:00,Private Wing-Bed15,,Transfer
+V20081,P10259,Admission,2023-07-29 01:00:00,Private Wing-Bed45,Emergency,
+V20081,P10259,Discharge,2023-07-30 01:00:00,ICU-Bed5,,Death
+V20082,P10133,Admission,2023-06-12 04:00:00,Maternity-Bed33,Elective,
+V20082,P10133,Discharge,2023-06-20 04:00:00,ICU-Bed5,,Transfer
+V20083,P10217,Admission,2023-05-14 03:00:00,Pediatric Ward-Bed17,Elective,
+V20083,P10217,Discharge,2023-05-17 03:00:00,CCU-Bed24,,Transfer
+V20084,P10372,Admission,2023-06-23 03:00:00,Medical Ward-Bed35,Emergency,
+V20084,P10372,Discharge,2023-06-30 03:00:00,Private Wing-Bed35,,Transfer
+V20086,P10399,Admission,2023-02-26 01:00:00,ICU-Bed40,Emergency,
+V20086,P10399,Discharge,2023-03-06 01:00:00,Maternity-Bed46,,Death
+V20087,P10066,Admission,2023-10-04 01:00:00,CCU-Bed44,Elective,
+V20087,P10066,Discharge,2023-10-05 01:00:00,Surgical Ward-Bed42,,Death
+V20090,P10101,Admission,2023-10-02 01:00:00,ICU-Bed30,Elective,
+V20090,P10101,Discharge,2023-10-05 01:00:00,Private Wing-Bed35,,Death
+V20093,P10386,Admission,2023-02-22 04:00:00,ICU-Bed37,Elective,
+V20093,P10386,Discharge,2023-03-07 04:00:00,ICU-Bed34,,Death
+V20100,P10301,Admission,2023-04-10 02:00:00,CCU-Bed39,Emergency,
+V20100,P10301,Discharge,2023-04-23 02:00:00,Pediatric Ward-Bed21,,Transfer
+V20101,P10217,Admission,2023-01-12 02:00:00,Maternity-Bed7,Elective,
+V20101,P10217,Discharge,2023-01-26 02:00:00,Private Wing-Bed29,,Death
+V20102,P10103,Admission,2023-05-16 02:00:00,Maternity-Bed15,Emergency,
+V20102,P10103,Discharge,2023-05-21 02:00:00,Private Wing-Bed6,,Death
+V20114,P10208,Admission,2023-05-18 04:00:00,Pediatric Ward-Bed12,Elective,
+V20114,P10208,Discharge,2023-05-30 04:00:00,Surgical Ward-Bed14,,Death
+V20115,P10279,Admission,2023-06-10 02:00:00,Maternity-Bed11,Emergency,
+V20115,P10279,Discharge,2023-06-20 02:00:00,Surgical Ward-Bed37,,Home
+V20118,P10082,Admission,2023-03-04 02:00:00,CCU-Bed43,Elective,
+V20118,P10082,Discharge,2023-03-06 02:00:00,Medical Ward-Bed26,,Home
+V20120,P10320,Admission,2023-09-07 02:00:00,ICU-Bed33,Emergency,
+V20120,P10320,Discharge,2023-09-10 02:00:00,CCU-Bed37,,Death
+V20121,P10204,Admission,2023-06-01 02:00:00,Surgical Ward-Bed8,Emergency,
+V20121,P10204,Discharge,2023-06-04 02:00:00,Private Wing-Bed8,,Home
+V20123,P10455,Admission,2023-10-16 02:00:00,Surgical Ward-Bed1,Emergency,
+V20123,P10455,Discharge,2023-10-20 02:00:00,Medical Ward-Bed45,,Death
+V20125,P10309,Admission,2023-08-30 04:00:00,Maternity-Bed25,Emergency,
+V20125,P10309,Discharge,2023-09-07 04:00:00,Medical Ward-Bed2,,Death
+V20129,P10096,Admission,2023-12-22 04:00:00,Maternity-Bed8,Emergency,
+V20129,P10096,Discharge,2024-01-03 04:00:00,ICU-Bed6,,Transfer
+V20131,P10080,Admission,2023-06-29 02:00:00,Maternity-Bed6,Elective,
+V20131,P10080,Discharge,2023-07-05 02:00:00,Medical Ward-Bed47,,Home
+V20132,P10321,Admission,2023-04-09 03:00:00,CCU-Bed16,Emergency,
+V20132,P10321,Discharge,2023-04-15 03:00:00,ICU-Bed33,,Home
+V20133,P10299,Admission,2023-06-06 04:00:00,Maternity-Bed49,Emergency,
+V20133,P10299,Discharge,2023-06-11 04:00:00,Surgical Ward-Bed21,,Transfer
+V20141,P10458,Admission,2023-03-12 04:00:00,ICU-Bed21,Emergency,
+V20141,P10458,Discharge,2023-03-26 04:00:00,Medical Ward-Bed1,,Home
+V20147,P10403,Admission,2023-12-17 01:00:00,Private Wing-Bed49,Elective,
+V20147,P10403,Discharge,2023-12-25 01:00:00,Surgical Ward-Bed1,,Transfer
+V20148,P10333,Admission,2023-04-02 03:00:00,CCU-Bed38,Elective,
+V20148,P10333,Discharge,2023-04-08 03:00:00,Maternity-Bed5,,Transfer
+V20152,P10002,Admission,2023-06-08 01:00:00,Medical Ward-Bed28,Elective,
+V20152,P10002,Discharge,2023-06-20 01:00:00,CCU-Bed25,,Transfer
+V20153,P10468,Admission,2023-09-15 03:00:00,Medical Ward-Bed1,Elective,
+V20153,P10468,Discharge,2023-09-17 03:00:00,Pediatric Ward-Bed20,,Home
+V20156,P10421,Admission,2023-08-30 01:00:00,Private Wing-Bed15,Elective,
+V20156,P10421,Discharge,2023-09-11 01:00:00,Medical Ward-Bed29,,Death
+V20160,P10363,Admission,2023-06-10 03:00:00,Maternity-Bed40,Elective,
+V20160,P10363,Discharge,2023-06-12 03:00:00,Private Wing-Bed40,,Transfer
+V20161,P10436,Admission,2023-12-02 01:00:00,ICU-Bed1,Elective,
+V20161,P10436,Discharge,2023-12-11 01:00:00,Private Wing-Bed36,,Home
+V20163,P10483,Admission,2023-09-22 04:00:00,ICU-Bed13,Elective,
+V20163,P10483,Discharge,2023-09-29 04:00:00,ICU-Bed10,,Transfer
+V20167,P10258,Admission,2023-03-30 04:00:00,Maternity-Bed39,Elective,
+V20167,P10258,Discharge,2023-04-02 04:00:00,Private Wing-Bed1,,Death
+V20170,P10059,Admission,2023-04-04 02:00:00,Maternity-Bed36,Emergency,
+V20170,P10059,Discharge,2023-04-13 02:00:00,Maternity-Bed34,,Death
+V20172,P10326,Admission,2023-08-24 04:00:00,ICU-Bed5,Elective,
+V20172,P10326,Discharge,2023-09-06 04:00:00,Medical Ward-Bed24,,Death
+V20173,P10428,Admission,2023-11-25 04:00:00,Pediatric Ward-Bed30,Emergency,
+V20173,P10428,Discharge,2023-11-28 04:00:00,ICU-Bed30,,Transfer
+V20174,P10027,Admission,2023-12-28 01:00:00,ICU-Bed16,Emergency,
+V20174,P10027,Discharge,2024-01-09 01:00:00,Medical Ward-Bed6,,Home
+V20183,P10395,Admission,2023-05-13 04:00:00,Private Wing-Bed23,Elective,
+V20183,P10395,Discharge,2023-05-25 04:00:00,Private Wing-Bed41,,Death
+V20185,P10239,Admission,2023-06-15 02:00:00,Medical Ward-Bed20,Emergency,
+V20185,P10239,Discharge,2023-06-22 02:00:00,ICU-Bed1,,Death
+V20187,P10183,Admission,2023-03-23 03:00:00,Medical Ward-Bed30,Elective,
+V20187,P10183,Discharge,2023-03-26 03:00:00,Pediatric Ward-Bed33,,Transfer
+V20188,P10172,Admission,2023-02-21 01:00:00,Maternity-Bed30,Elective,
+V20188,P10172,Discharge,2023-03-01 01:00:00,CCU-Bed6,,Death
+V20189,P10083,Admission,2023-10-07 02:00:00,Pediatric Ward-Bed25,Emergency,
+V20189,P10083,Discharge,2023-10-15 02:00:00,Private Wing-Bed5,,Home
+V20191,P10222,Admission,2023-07-24 02:00:00,Medical Ward-Bed39,Elective,
+V20191,P10222,Discharge,2023-07-29 02:00:00,Surgical Ward-Bed28,,Transfer
+V20197,P10066,Admission,2023-06-20 02:00:00,Surgical Ward-Bed39,Elective,
+V20197,P10066,Discharge,2023-06-23 02:00:00,Pediatric Ward-Bed33,,Death
+V20201,P10223,Admission,2023-05-06 01:00:00,Medical Ward-Bed46,Elective,
+V20201,P10223,Discharge,2023-05-14 01:00:00,CCU-Bed47,,Transfer
+V20202,P10002,Admission,2023-03-23 03:00:00,Medical Ward-Bed36,Elective,
+V20202,P10002,Discharge,2023-03-26 03:00:00,CCU-Bed19,,Transfer
+V20204,P10192,Admission,2023-12-28 04:00:00,Private Wing-Bed3,Elective,
+V20204,P10192,Discharge,2024-01-11 04:00:00,Maternity-Bed50,,Death
+V20205,P10065,Admission,2023-03-10 02:00:00,Private Wing-Bed37,Emergency,
+V20205,P10065,Discharge,2023-03-11 02:00:00,Surgical Ward-Bed24,,Transfer
+V20208,P10453,Admission,2023-04-02 01:00:00,ICU-Bed2,Emergency,
+V20208,P10453,Discharge,2023-04-14 01:00:00,Medical Ward-Bed41,,Transfer
+V20209,P10174,Admission,2023-01-01 02:00:00,Pediatric Ward-Bed27,Elective,
+V20209,P10174,Discharge,2023-01-13 02:00:00,Medical Ward-Bed30,,Home
+V20210,P10468,Admission,2023-11-27 02:00:00,Surgical Ward-Bed18,Elective,
+V20210,P10468,Discharge,2023-12-11 02:00:00,Surgical Ward-Bed33,,Home
+V20213,P10145,Admission,2023-07-18 03:00:00,Private Wing-Bed18,Emergency,
+V20213,P10145,Discharge,2023-07-30 03:00:00,Medical Ward-Bed6,,Transfer
+V20219,P10155,Admission,2023-05-13 02:00:00,CCU-Bed17,Elective,
+V20219,P10155,Discharge,2023-05-16 02:00:00,Surgical Ward-Bed6,,Home
+V20220,P10257,Admission,2023-08-31 04:00:00,Maternity-Bed35,Elective,
+V20220,P10257,Discharge,2023-09-02 04:00:00,Medical Ward-Bed31,,Home
+V20222,P10040,Admission,2023-01-04 01:00:00,Pediatric Ward-Bed36,Emergency,
+V20222,P10040,Discharge,2023-01-17 01:00:00,Medical Ward-Bed8,,Death
+V20224,P10237,Admission,2023-01-21 03:00:00,ICU-Bed12,Elective,
+V20224,P10237,Discharge,2023-01-22 03:00:00,Private Wing-Bed7,,Death
+V20225,P10187,Admission,2023-11-03 01:00:00,Surgical Ward-Bed28,Emergency,
+V20225,P10187,Discharge,2023-11-09 01:00:00,CCU-Bed3,,Death
+V20226,P10172,Admission,2023-06-01 03:00:00,Private Wing-Bed29,Emergency,
+V20226,P10172,Discharge,2023-06-05 03:00:00,Private Wing-Bed37,,Home
+V20227,P10091,Admission,2023-07-02 02:00:00,Medical Ward-Bed30,Emergency,
+V20227,P10091,Discharge,2023-07-03 02:00:00,Private Wing-Bed28,,Death
+V20231,P10074,Admission,2023-09-10 03:00:00,Medical Ward-Bed1,Elective,
+V20231,P10074,Discharge,2023-09-21 03:00:00,Pediatric Ward-Bed45,,Death
+V20235,P10326,Admission,2023-07-15 01:00:00,ICU-Bed20,Elective,
+V20235,P10326,Discharge,2023-07-24 01:00:00,CCU-Bed19,,Home
+V20240,P10242,Admission,2023-08-12 02:00:00,ICU-Bed34,Elective,
+V20240,P10242,Discharge,2023-08-25 02:00:00,Maternity-Bed38,,Death
+V20243,P10009,Admission,2023-12-03 02:00:00,Private Wing-Bed27,Elective,
+V20243,P10009,Discharge,2023-12-17 02:00:00,Surgical Ward-Bed39,,Transfer
+V20247,P10215,Admission,2023-11-01 03:00:00,Private Wing-Bed8,Elective,
+V20247,P10215,Discharge,2023-11-09 03:00:00,Private Wing-Bed47,,Home
+V20248,P10243,Admission,2023-01-07 02:00:00,Surgical Ward-Bed20,Emergency,
+V20248,P10243,Discharge,2023-01-15 02:00:00,Surgical Ward-Bed50,,Death
+V20250,P10272,Admission,2023-03-29 01:00:00,Pediatric Ward-Bed22,Emergency,
+V20250,P10272,Discharge,2023-03-30 01:00:00,Surgical Ward-Bed23,,Death
+V20252,P10176,Admission,2023-04-17 04:00:00,CCU-Bed12,Emergency,
+V20252,P10176,Discharge,2023-04-21 04:00:00,Maternity-Bed19,,Home
+V20256,P10251,Admission,2023-07-12 03:00:00,Pediatric Ward-Bed34,Emergency,
+V20256,P10251,Discharge,2023-07-20 03:00:00,Pediatric Ward-Bed10,,Transfer
+V20259,P10205,Admission,2023-07-29 01:00:00,Private Wing-Bed18,Elective,
+V20259,P10205,Discharge,2023-08-05 01:00:00,Medical Ward-Bed48,,Transfer
+V20262,P10272,Admission,2023-04-26 04:00:00,ICU-Bed36,Emergency,
+V20262,P10272,Discharge,2023-04-30 04:00:00,CCU-Bed17,,Transfer
+V20263,P10146,Admission,2023-03-22 02:00:00,Pediatric Ward-Bed12,Elective,
+V20263,P10146,Discharge,2023-03-31 02:00:00,Private Wing-Bed15,,Transfer
+V20265,P10464,Admission,2023-07-16 03:00:00,Surgical Ward-Bed35,Emergency,
+V20265,P10464,Discharge,2023-07-23 03:00:00,Pediatric Ward-Bed22,,Home
+V20269,P10127,Admission,2023-10-19 04:00:00,Maternity-Bed18,Emergency,
+V20269,P10127,Discharge,2023-11-02 04:00:00,Maternity-Bed24,,Transfer
+V20272,P10447,Admission,2023-03-31 03:00:00,Medical Ward-Bed24,Elective,
+V20272,P10447,Discharge,2023-04-06 03:00:00,Surgical Ward-Bed14,,Death
+V20279,P10275,Admission,2023-11-07 02:00:00,Private Wing-Bed1,Emergency,
+V20279,P10275,Discharge,2023-11-19 02:00:00,ICU-Bed22,,Transfer
+V20283,P10433,Admission,2023-10-24 01:00:00,Maternity-Bed41,Elective,
+V20283,P10433,Discharge,2023-10-25 01:00:00,CCU-Bed2,,Death
+V20284,P10211,Admission,2023-06-23 01:00:00,Medical Ward-Bed6,Emergency,
+V20284,P10211,Discharge,2023-06-27 01:00:00,Maternity-Bed50,,Death
+V20285,P10107,Admission,2023-02-19 04:00:00,ICU-Bed44,Emergency,
+V20285,P10107,Discharge,2023-02-21 04:00:00,Surgical Ward-Bed22,,Transfer
+V20286,P10460,Admission,2023-09-09 04:00:00,Maternity-Bed4,Emergency,
+V20286,P10460,Discharge,2023-09-20 04:00:00,Surgical Ward-Bed41,,Home
+V20289,P10075,Admission,2023-05-28 04:00:00,ICU-Bed24,Emergency,
+V20289,P10075,Discharge,2023-06-09 04:00:00,Pediatric Ward-Bed18,,Death
+V20295,P10006,Admission,2023-07-06 01:00:00,Surgical Ward-Bed1,Emergency,
+V20295,P10006,Discharge,2023-07-17 01:00:00,CCU-Bed9,,Home
+V20297,P10436,Admission,2023-06-10 04:00:00,Private Wing-Bed37,Elective,
+V20297,P10436,Discharge,2023-06-16 04:00:00,Private Wing-Bed4,,Home
+V20298,P10443,Admission,2023-11-28 02:00:00,Maternity-Bed49,Emergency,
+V20298,P10443,Discharge,2023-12-12 02:00:00,Medical Ward-Bed21,,Home
+V20299,P10089,Admission,2023-07-14 03:00:00,Private Wing-Bed47,Emergency,
+V20299,P10089,Discharge,2023-07-18 03:00:00,Pediatric Ward-Bed42,,Death
+V20300,P10115,Admission,2023-04-16 03:00:00,CCU-Bed40,Elective,
+V20300,P10115,Discharge,2023-04-24 03:00:00,Medical Ward-Bed29,,Transfer
+V20301,P10311,Admission,2023-03-03 01:00:00,Maternity-Bed7,Elective,
+V20301,P10311,Discharge,2023-03-17 01:00:00,CCU-Bed13,,Home
+V20305,P10492,Admission,2023-10-03 04:00:00,ICU-Bed4,Elective,
+V20305,P10492,Discharge,2023-10-13 04:00:00,CCU-Bed48,,Death
+V20308,P10367,Admission,2023-04-01 03:00:00,Medical Ward-Bed15,Emergency,
+V20308,P10367,Discharge,2023-04-12 03:00:00,Medical Ward-Bed1,,Transfer
+V20312,P10451,Admission,2023-06-13 03:00:00,ICU-Bed14,Elective,
+V20312,P10451,Discharge,2023-06-24 03:00:00,Private Wing-Bed47,,Home
+V20314,P10277,Admission,2023-04-21 02:00:00,ICU-Bed8,Emergency,
+V20314,P10277,Discharge,2023-05-03 02:00:00,Pediatric Ward-Bed23,,Home
+V20320,P10127,Admission,2023-05-21 01:00:00,Maternity-Bed3,Elective,
+V20320,P10127,Discharge,2023-05-25 01:00:00,Medical Ward-Bed5,,Death
+V20323,P10033,Admission,2023-12-11 03:00:00,ICU-Bed7,Emergency,
+V20323,P10033,Discharge,2023-12-22 03:00:00,CCU-Bed22,,Death
+V20327,P10153,Admission,2023-04-18 02:00:00,Pediatric Ward-Bed23,Emergency,
+V20327,P10153,Discharge,2023-04-27 02:00:00,Pediatric Ward-Bed44,,Death
+V20330,P10304,Admission,2023-05-18 03:00:00,Medical Ward-Bed24,Elective,
+V20330,P10304,Discharge,2023-05-21 03:00:00,Medical Ward-Bed3,,Home
+V20331,P10478,Admission,2023-07-09 04:00:00,ICU-Bed37,Emergency,
+V20331,P10478,Discharge,2023-07-17 04:00:00,CCU-Bed2,,Transfer
+V20332,P10372,Admission,2023-06-11 04:00:00,ICU-Bed4,Emergency,
+V20332,P10372,Discharge,2023-06-25 04:00:00,ICU-Bed25,,Death
+V20334,P10495,Admission,2023-07-01 04:00:00,Pediatric Ward-Bed3,Emergency,
+V20334,P10495,Discharge,2023-07-09 04:00:00,Maternity-Bed33,,Transfer
+V20335,P10009,Admission,2023-04-14 02:00:00,Surgical Ward-Bed43,Emergency,
+V20335,P10009,Discharge,2023-04-26 02:00:00,ICU-Bed19,,Transfer
+V20336,P10426,Admission,2023-01-13 03:00:00,Surgical Ward-Bed2,Emergency,
+V20336,P10426,Discharge,2023-01-27 03:00:00,Maternity-Bed32,,Transfer
+V20340,P10399,Admission,2023-07-19 04:00:00,Private Wing-Bed11,Elective,
+V20340,P10399,Discharge,2023-08-01 04:00:00,Pediatric Ward-Bed1,,Home
+V20342,P10327,Admission,2023-05-22 02:00:00,Pediatric Ward-Bed1,Emergency,
+V20342,P10327,Discharge,2023-06-02 02:00:00,Maternity-Bed14,,Transfer
+V20345,P10153,Admission,2023-04-13 03:00:00,Surgical Ward-Bed26,Emergency,
+V20345,P10153,Discharge,2023-04-18 03:00:00,Pediatric Ward-Bed7,,Transfer
+V20348,P10445,Admission,2023-12-31 03:00:00,ICU-Bed4,Emergency,
+V20348,P10445,Discharge,2024-01-03 03:00:00,CCU-Bed37,,Death
+V20350,P10235,Admission,2023-06-20 02:00:00,Private Wing-Bed15,Elective,
+V20350,P10235,Discharge,2023-06-24 02:00:00,Pediatric Ward-Bed7,,Home
+V20353,P10030,Admission,2023-07-11 01:00:00,Private Wing-Bed3,Emergency,
+V20353,P10030,Discharge,2023-07-23 01:00:00,CCU-Bed27,,Death
+V20354,P10016,Admission,2023-06-17 01:00:00,Surgical Ward-Bed1,Elective,
+V20354,P10016,Discharge,2023-06-23 01:00:00,ICU-Bed17,,Home
+V20358,P10097,Admission,2023-12-17 01:00:00,Medical Ward-Bed6,Elective,
+V20358,P10097,Discharge,2023-12-20 01:00:00,Maternity-Bed29,,Home
+V20361,P10378,Admission,2023-01-11 02:00:00,Medical Ward-Bed19,Elective,
+V20361,P10378,Discharge,2023-01-21 02:00:00,Maternity-Bed22,,Death
+V20368,P10167,Admission,2023-04-28 04:00:00,Private Wing-Bed37,Emergency,
+V20368,P10167,Discharge,2023-05-04 04:00:00,Medical Ward-Bed11,,Death
+V20369,P10083,Admission,2023-05-19 04:00:00,Surgical Ward-Bed26,Emergency,
+V20369,P10083,Discharge,2023-05-24 04:00:00,Surgical Ward-Bed16,,Transfer
+V20371,P10227,Admission,2023-04-17 02:00:00,Medical Ward-Bed45,Emergency,
+V20371,P10227,Discharge,2023-04-30 02:00:00,Maternity-Bed24,,Transfer
+V20375,P10481,Admission,2023-11-06 02:00:00,Pediatric Ward-Bed30,Elective,
+V20375,P10481,Discharge,2023-11-08 02:00:00,Medical Ward-Bed45,,Death
+V20376,P10097,Admission,2023-02-16 02:00:00,Maternity-Bed8,Emergency,
+V20376,P10097,Discharge,2023-02-17 02:00:00,Private Wing-Bed23,,Home
+V20378,P10194,Admission,2023-07-24 02:00:00,Private Wing-Bed36,Emergency,
+V20378,P10194,Discharge,2023-08-05 02:00:00,Surgical Ward-Bed13,,Transfer
+V20387,P10402,Admission,2023-01-16 02:00:00,CCU-Bed39,Emergency,
+V20387,P10402,Discharge,2023-01-18 02:00:00,Medical Ward-Bed23,,Death
+V20388,P10206,Admission,2023-07-11 01:00:00,ICU-Bed32,Emergency,
+V20388,P10206,Discharge,2023-07-20 01:00:00,CCU-Bed24,,Death
+V20390,P10376,Admission,2023-07-28 01:00:00,Medical Ward-Bed50,Emergency,
+V20390,P10376,Discharge,2023-08-04 01:00:00,ICU-Bed28,,Home
+V20393,P10057,Admission,2023-08-26 03:00:00,ICU-Bed36,Emergency,
+V20393,P10057,Discharge,2023-09-01 03:00:00,CCU-Bed38,,Transfer
+V20394,P10068,Admission,2023-11-23 04:00:00,Maternity-Bed11,Emergency,
+V20394,P10068,Discharge,2023-12-05 04:00:00,Maternity-Bed36,,Death
+V20395,P10240,Admission,2023-03-07 01:00:00,Medical Ward-Bed49,Elective,
+V20395,P10240,Discharge,2023-03-19 01:00:00,Surgical Ward-Bed31,,Death
+V20396,P10489,Admission,2023-12-09 02:00:00,ICU-Bed25,Emergency,
+V20396,P10489,Discharge,2023-12-11 02:00:00,ICU-Bed38,,Transfer
+V20402,P10295,Admission,2023-03-09 02:00:00,ICU-Bed18,Elective,
+V20402,P10295,Discharge,2023-03-22 02:00:00,Pediatric Ward-Bed4,,Death
+V20407,P10445,Admission,2023-07-27 01:00:00,Surgical Ward-Bed11,Elective,
+V20407,P10445,Discharge,2023-08-05 01:00:00,Surgical Ward-Bed1,,Home
+V20414,P10364,Admission,2023-03-06 02:00:00,Surgical Ward-Bed40,Elective,
+V20414,P10364,Discharge,2023-03-15 02:00:00,ICU-Bed9,,Death
+V20415,P10223,Admission,2023-02-12 02:00:00,CCU-Bed10,Emergency,
+V20415,P10223,Discharge,2023-02-15 02:00:00,Pediatric Ward-Bed6,,Transfer
+V20418,P10288,Admission,2023-09-26 03:00:00,Pediatric Ward-Bed42,Emergency,
+V20418,P10288,Discharge,2023-10-04 03:00:00,CCU-Bed9,,Death
+V20419,P10276,Admission,2023-12-22 01:00:00,Maternity-Bed24,Emergency,
+V20419,P10276,Discharge,2023-12-24 01:00:00,CCU-Bed1,,Death
+V20421,P10431,Admission,2023-03-19 02:00:00,CCU-Bed48,Emergency,
+V20421,P10431,Discharge,2023-03-31 02:00:00,Surgical Ward-Bed3,,Death
+V20422,P10439,Admission,2023-05-23 02:00:00,Pediatric Ward-Bed46,Emergency,
+V20422,P10439,Discharge,2023-05-24 02:00:00,Surgical Ward-Bed9,,Home
+V20423,P10199,Admission,2023-08-04 04:00:00,Pediatric Ward-Bed9,Emergency,
+V20423,P10199,Discharge,2023-08-12 04:00:00,Surgical Ward-Bed24,,Death
+V20424,P10069,Admission,2023-06-03 02:00:00,Private Wing-Bed49,Emergency,
+V20424,P10069,Discharge,2023-06-04 02:00:00,ICU-Bed6,,Transfer
+V20434,P10224,Admission,2023-03-05 03:00:00,Maternity-Bed17,Elective,
+V20434,P10224,Discharge,2023-03-06 03:00:00,Surgical Ward-Bed1,,Death
+V20435,P10078,Admission,2023-06-24 01:00:00,CCU-Bed39,Emergency,
+V20435,P10078,Discharge,2023-06-30 01:00:00,Private Wing-Bed29,,Transfer
+V20438,P10267,Admission,2023-02-15 04:00:00,Maternity-Bed38,Emergency,
+V20438,P10267,Discharge,2023-02-21 04:00:00,ICU-Bed35,,Home
+V20447,P10060,Admission,2023-07-04 02:00:00,Medical Ward-Bed44,Emergency,
+V20447,P10060,Discharge,2023-07-17 02:00:00,CCU-Bed11,,Death
+V20448,P10417,Admission,2023-01-21 01:00:00,CCU-Bed44,Emergency,
+V20448,P10417,Discharge,2023-01-28 01:00:00,Maternity-Bed20,,Transfer
+V20452,P10373,Admission,2023-05-10 01:00:00,Surgical Ward-Bed38,Emergency,
+V20452,P10373,Discharge,2023-05-24 01:00:00,Medical Ward-Bed2,,Transfer
+V20453,P10498,Admission,2023-05-22 02:00:00,CCU-Bed35,Elective,
+V20453,P10498,Discharge,2023-06-05 02:00:00,Medical Ward-Bed40,,Transfer
+V20455,P10285,Admission,2023-11-28 04:00:00,Surgical Ward-Bed37,Emergency,
+V20455,P10285,Discharge,2023-12-01 04:00:00,Private Wing-Bed13,,Home
+V20456,P10399,Admission,2023-09-13 04:00:00,Medical Ward-Bed33,Emergency,
+V20456,P10399,Discharge,2023-09-21 04:00:00,Pediatric Ward-Bed26,,Death
+V20459,P10254,Admission,2023-04-06 03:00:00,Maternity-Bed26,Elective,
+V20459,P10254,Discharge,2023-04-20 03:00:00,Private Wing-Bed3,,Transfer
+V20460,P10438,Admission,2023-09-06 02:00:00,Maternity-Bed10,Emergency,
+V20460,P10438,Discharge,2023-09-18 02:00:00,ICU-Bed33,,Transfer
+V20469,P10125,Admission,2023-03-21 03:00:00,Medical Ward-Bed20,Elective,
+V20469,P10125,Discharge,2023-03-27 03:00:00,Private Wing-Bed49,,Transfer
+V20470,P10114,Admission,2023-04-23 03:00:00,Medical Ward-Bed29,Elective,
+V20470,P10114,Discharge,2023-05-04 03:00:00,Maternity-Bed13,,Death
+V20472,P10493,Admission,2023-11-10 03:00:00,Private Wing-Bed13,Emergency,
+V20472,P10493,Discharge,2023-11-20 03:00:00,ICU-Bed27,,Transfer
+V20474,P10434,Admission,2023-10-25 01:00:00,CCU-Bed39,Elective,
+V20474,P10434,Discharge,2023-10-30 01:00:00,Surgical Ward-Bed30,,Home
+V20475,P10382,Admission,2023-12-28 02:00:00,Surgical Ward-Bed25,Emergency,
+V20475,P10382,Discharge,2024-01-11 02:00:00,Maternity-Bed8,,Home
+V20476,P10189,Admission,2023-05-01 03:00:00,Pediatric Ward-Bed14,Elective,
+V20476,P10189,Discharge,2023-05-04 03:00:00,CCU-Bed9,,Death
+V20480,P10359,Admission,2023-10-11 03:00:00,ICU-Bed45,Elective,
+V20480,P10359,Discharge,2023-10-22 03:00:00,Pediatric Ward-Bed44,,Home
+V20481,P10294,Admission,2023-08-24 01:00:00,ICU-Bed33,Emergency,
+V20481,P10294,Discharge,2023-09-04 01:00:00,ICU-Bed48,,Transfer
+V20483,P10229,Admission,2023-11-29 01:00:00,ICU-Bed27,Emergency,
+V20483,P10229,Discharge,2023-12-11 01:00:00,CCU-Bed16,,Death
+V20487,P10391,Admission,2023-07-22 03:00:00,CCU-Bed6,Elective,
+V20487,P10391,Discharge,2023-08-05 03:00:00,Pediatric Ward-Bed15,,Home
+V20496,P10242,Admission,2023-06-25 03:00:00,Surgical Ward-Bed9,Elective,
+V20496,P10242,Discharge,2023-07-08 03:00:00,Maternity-Bed12,,Transfer
+V20497,P10181,Admission,2023-12-29 01:00:00,ICU-Bed16,Emergency,
+V20497,P10181,Discharge,2024-01-04 01:00:00,Surgical Ward-Bed17,,Home
+V20499,P10179,Admission,2023-11-21 01:00:00,CCU-Bed16,Emergency,
+V20499,P10179,Discharge,2023-12-04 01:00:00,Medical Ward-Bed46,,Transfer
+V20502,P10000,Admission,2023-01-07 04:00:00,Medical Ward-Bed24,Elective,
+V20502,P10000,Discharge,2023-01-14 04:00:00,Pediatric Ward-Bed30,,Death
+V20508,P10454,Admission,2023-06-09 04:00:00,ICU-Bed44,Elective,
+V20508,P10454,Discharge,2023-06-21 04:00:00,Maternity-Bed22,,Transfer
+V20510,P10254,Admission,2023-11-05 04:00:00,CCU-Bed47,Elective,
+V20510,P10254,Discharge,2023-11-15 04:00:00,CCU-Bed50,,Death
+V20511,P10480,Admission,2023-12-04 03:00:00,Pediatric Ward-Bed16,Elective,
+V20511,P10480,Discharge,2023-12-08 03:00:00,Pediatric Ward-Bed37,,Transfer
+V20512,P10483,Admission,2023-12-09 03:00:00,Maternity-Bed47,Elective,
+V20512,P10483,Discharge,2023-12-16 03:00:00,Private Wing-Bed5,,Transfer
+V20514,P10406,Admission,2023-01-22 02:00:00,Surgical Ward-Bed6,Emergency,
+V20514,P10406,Discharge,2023-01-27 02:00:00,Pediatric Ward-Bed19,,Transfer
+V20518,P10329,Admission,2023-05-25 01:00:00,CCU-Bed1,Elective,
+V20518,P10329,Discharge,2023-06-03 01:00:00,Private Wing-Bed40,,Transfer
+V20519,P10390,Admission,2023-05-30 01:00:00,Pediatric Ward-Bed12,Elective,
+V20519,P10390,Discharge,2023-06-13 01:00:00,ICU-Bed10,,Transfer
+V20521,P10164,Admission,2023-09-05 03:00:00,Maternity-Bed26,Elective,
+V20521,P10164,Discharge,2023-09-15 03:00:00,Private Wing-Bed29,,Home
+V20531,P10463,Admission,2023-12-04 01:00:00,Surgical Ward-Bed1,Elective,
+V20531,P10463,Discharge,2023-12-18 01:00:00,Private Wing-Bed18,,Home
+V20533,P10072,Admission,2023-05-07 02:00:00,Private Wing-Bed46,Emergency,
+V20533,P10072,Discharge,2023-05-13 02:00:00,Pediatric Ward-Bed12,,Transfer
+V20535,P10377,Admission,2023-07-29 01:00:00,Pediatric Ward-Bed4,Elective,
+V20535,P10377,Discharge,2023-08-12 01:00:00,CCU-Bed35,,Death
+V20540,P10274,Admission,2023-03-27 02:00:00,Private Wing-Bed11,Elective,
+V20540,P10274,Discharge,2023-03-31 02:00:00,Private Wing-Bed8,,Transfer
+V20546,P10223,Admission,2023-07-09 03:00:00,Surgical Ward-Bed46,Emergency,
+V20546,P10223,Discharge,2023-07-14 03:00:00,Maternity-Bed37,,Transfer
+V20552,P10321,Admission,2023-06-21 02:00:00,Private Wing-Bed30,Emergency,
+V20552,P10321,Discharge,2023-07-02 02:00:00,Medical Ward-Bed44,,Home
+V20557,P10073,Admission,2023-12-17 01:00:00,CCU-Bed44,Emergency,
+V20557,P10073,Discharge,2023-12-26 01:00:00,Maternity-Bed34,,Transfer
+V20561,P10197,Admission,2023-12-18 02:00:00,Medical Ward-Bed6,Elective,
+V20561,P10197,Discharge,2023-12-21 02:00:00,CCU-Bed36,,Transfer
+V20562,P10466,Admission,2023-05-02 01:00:00,Pediatric Ward-Bed21,Emergency,
+V20562,P10466,Discharge,2023-05-11 01:00:00,Surgical Ward-Bed24,,Death
+V20563,P10176,Admission,2023-08-21 03:00:00,Surgical Ward-Bed28,Elective,
+V20563,P10176,Discharge,2023-09-02 03:00:00,Pediatric Ward-Bed18,,Death
+V20565,P10374,Admission,2023-07-18 04:00:00,Medical Ward-Bed32,Emergency,
+V20565,P10374,Discharge,2023-07-19 04:00:00,CCU-Bed11,,Death
+V20567,P10235,Admission,2023-12-30 01:00:00,ICU-Bed27,Elective,
+V20567,P10235,Discharge,2024-01-11 01:00:00,CCU-Bed10,,Home
+V20568,P10064,Admission,2023-06-30 04:00:00,Maternity-Bed9,Elective,
+V20568,P10064,Discharge,2023-07-08 04:00:00,Maternity-Bed44,,Transfer
+V20569,P10452,Admission,2023-08-24 04:00:00,Surgical Ward-Bed30,Emergency,
+V20569,P10452,Discharge,2023-08-28 04:00:00,Medical Ward-Bed18,,Home
+V20572,P10097,Admission,2023-04-10 01:00:00,CCU-Bed45,Elective,
+V20572,P10097,Discharge,2023-04-23 01:00:00,Private Wing-Bed10,,Transfer
+V20573,P10280,Admission,2023-07-11 01:00:00,Pediatric Ward-Bed21,Emergency,
+V20573,P10280,Discharge,2023-07-12 01:00:00,Medical Ward-Bed2,,Home
+V20574,P10072,Admission,2023-02-25 04:00:00,CCU-Bed12,Emergency,
+V20574,P10072,Discharge,2023-03-11 04:00:00,Medical Ward-Bed20,,Home
+V20576,P10172,Admission,2023-03-22 03:00:00,CCU-Bed13,Emergency,
+V20576,P10172,Discharge,2023-03-30 03:00:00,Maternity-Bed2,,Death
+V20579,P10205,Admission,2023-04-12 03:00:00,ICU-Bed45,Emergency,
+V20579,P10205,Discharge,2023-04-16 03:00:00,Private Wing-Bed14,,Transfer
+V20583,P10160,Admission,2023-04-14 01:00:00,Surgical Ward-Bed3,Emergency,
+V20583,P10160,Discharge,2023-04-22 01:00:00,Medical Ward-Bed13,,Transfer
+V20585,P10463,Admission,2023-09-01 03:00:00,CCU-Bed10,Elective,
+V20585,P10463,Discharge,2023-09-07 03:00:00,Surgical Ward-Bed47,,Home
+V20590,P10386,Admission,2023-03-11 02:00:00,CCU-Bed41,Elective,
+V20590,P10386,Discharge,2023-03-21 02:00:00,Private Wing-Bed16,,Transfer
+V20591,P10244,Admission,2023-01-11 02:00:00,Pediatric Ward-Bed40,Elective,
+V20591,P10244,Discharge,2023-01-23 02:00:00,Private Wing-Bed43,,Death
+V20592,P10299,Admission,2023-04-04 02:00:00,Surgical Ward-Bed11,Emergency,
+V20592,P10299,Discharge,2023-04-08 02:00:00,CCU-Bed45,,Transfer
+V20596,P10100,Admission,2023-06-14 02:00:00,ICU-Bed13,Emergency,
+V20596,P10100,Discharge,2023-06-26 02:00:00,Medical Ward-Bed19,,Transfer
+V20597,P10308,Admission,2023-01-09 04:00:00,CCU-Bed15,Elective,
+V20597,P10308,Discharge,2023-01-21 04:00:00,Surgical Ward-Bed9,,Home
+V20598,P10086,Admission,2023-05-10 04:00:00,Medical Ward-Bed33,Elective,
+V20598,P10086,Discharge,2023-05-17 04:00:00,Medical Ward-Bed31,,Transfer
+V20600,P10332,Admission,2023-12-25 01:00:00,ICU-Bed30,Emergency,
+V20600,P10332,Discharge,2023-12-26 01:00:00,ICU-Bed12,,Transfer
+V20603,P10005,Admission,2023-10-21 04:00:00,Medical Ward-Bed49,Emergency,
+V20603,P10005,Discharge,2023-11-03 04:00:00,Private Wing-Bed13,,Transfer
+V20605,P10344,Admission,2023-12-23 01:00:00,Medical Ward-Bed32,Emergency,
+V20605,P10344,Discharge,2023-12-25 01:00:00,Surgical Ward-Bed26,,Home
+V20607,P10482,Admission,2023-05-14 03:00:00,Private Wing-Bed36,Emergency,
+V20607,P10482,Discharge,2023-05-25 03:00:00,ICU-Bed44,,Death
+V20610,P10412,Admission,2023-05-05 02:00:00,Medical Ward-Bed32,Elective,
+V20610,P10412,Discharge,2023-05-17 02:00:00,CCU-Bed49,,Transfer
+V20625,P10327,Admission,2023-04-22 03:00:00,Maternity-Bed31,Emergency,
+V20625,P10327,Discharge,2023-05-05 03:00:00,Pediatric Ward-Bed29,,Transfer
+V20626,P10376,Admission,2023-09-29 02:00:00,Surgical Ward-Bed14,Emergency,
+V20626,P10376,Discharge,2023-10-02 02:00:00,Surgical Ward-Bed11,,Death
+V20627,P10386,Admission,2023-02-03 01:00:00,Medical Ward-Bed49,Elective,
+V20627,P10386,Discharge,2023-02-14 01:00:00,Pediatric Ward-Bed10,,Transfer
+V20629,P10345,Admission,2023-08-17 02:00:00,Private Wing-Bed43,Emergency,
+V20629,P10345,Discharge,2023-08-29 02:00:00,Surgical Ward-Bed47,,Transfer
+V20632,P10415,Admission,2023-07-09 04:00:00,Maternity-Bed12,Elective,
+V20632,P10415,Discharge,2023-07-10 04:00:00,Surgical Ward-Bed24,,Death
+V20634,P10021,Admission,2023-06-30 01:00:00,Surgical Ward-Bed41,Elective,
+V20634,P10021,Discharge,2023-07-07 01:00:00,Private Wing-Bed16,,Home
+V20637,P10403,Admission,2023-07-15 01:00:00,Medical Ward-Bed18,Elective,
+V20637,P10403,Discharge,2023-07-24 01:00:00,CCU-Bed32,,Transfer
+V20639,P10484,Admission,2023-04-22 01:00:00,Surgical Ward-Bed1,Elective,
+V20639,P10484,Discharge,2023-05-06 01:00:00,CCU-Bed21,,Home
+V20641,P10254,Admission,2023-03-23 03:00:00,Medical Ward-Bed42,Elective,
+V20641,P10254,Discharge,2023-04-05 03:00:00,Surgical Ward-Bed1,,Death
+V20642,P10116,Admission,2023-09-07 01:00:00,Private Wing-Bed25,Emergency,
+V20642,P10116,Discharge,2023-09-11 01:00:00,Maternity-Bed43,,Home
+V20644,P10034,Admission,2023-12-28 03:00:00,Maternity-Bed15,Elective,
+V20644,P10034,Discharge,2024-01-08 03:00:00,CCU-Bed24,,Transfer
+V20645,P10072,Admission,2023-09-23 01:00:00,CCU-Bed18,Elective,
+V20645,P10072,Discharge,2023-09-29 01:00:00,Medical Ward-Bed24,,Transfer
+V20649,P10191,Admission,2023-03-07 03:00:00,Medical Ward-Bed12,Emergency,
+V20649,P10191,Discharge,2023-03-17 03:00:00,Pediatric Ward-Bed6,,Transfer
+V20653,P10406,Admission,2023-12-24 03:00:00,Medical Ward-Bed37,Elective,
+V20653,P10406,Discharge,2023-12-26 03:00:00,Pediatric Ward-Bed28,,Transfer
+V20658,P10461,Admission,2023-05-17 01:00:00,CCU-Bed6,Elective,
+V20658,P10461,Discharge,2023-05-27 01:00:00,ICU-Bed14,,Death
+V20660,P10242,Admission,2023-04-25 03:00:00,ICU-Bed32,Elective,
+V20660,P10242,Discharge,2023-05-03 03:00:00,Private Wing-Bed12,,Home
+V20661,P10422,Admission,2023-09-05 04:00:00,Medical Ward-Bed9,Emergency,
+V20661,P10422,Discharge,2023-09-18 04:00:00,Pediatric Ward-Bed11,,Transfer
+V20665,P10144,Admission,2023-07-12 02:00:00,Medical Ward-Bed5,Elective,
+V20665,P10144,Discharge,2023-07-23 02:00:00,Medical Ward-Bed9,,Death
+V20667,P10333,Admission,2023-08-04 01:00:00,Pediatric Ward-Bed5,Emergency,
+V20667,P10333,Discharge,2023-08-07 01:00:00,ICU-Bed16,,Death
+V20669,P10304,Admission,2023-06-10 04:00:00,Maternity-Bed30,Elective,
+V20669,P10304,Discharge,2023-06-20 04:00:00,Maternity-Bed3,,Death
+V20670,P10141,Admission,2023-12-28 04:00:00,Medical Ward-Bed11,Elective,
+V20670,P10141,Discharge,2024-01-01 04:00:00,Maternity-Bed31,,Home
+V20674,P10222,Admission,2023-06-15 01:00:00,ICU-Bed50,Emergency,
+V20674,P10222,Discharge,2023-06-28 01:00:00,Surgical Ward-Bed29,,Death
+V20684,P10349,Admission,2023-01-13 04:00:00,Private Wing-Bed2,Elective,
+V20684,P10349,Discharge,2023-01-24 04:00:00,Pediatric Ward-Bed45,,Death
+V20690,P10041,Admission,2023-07-08 04:00:00,ICU-Bed27,Elective,
+V20690,P10041,Discharge,2023-07-19 04:00:00,Surgical Ward-Bed41,,Home
+V20691,P10108,Admission,2023-10-02 03:00:00,Medical Ward-Bed39,Emergency,
+V20691,P10108,Discharge,2023-10-06 03:00:00,CCU-Bed50,,Transfer
+V20694,P10167,Admission,2023-07-21 03:00:00,Surgical Ward-Bed2,Elective,
+V20694,P10167,Discharge,2023-07-26 03:00:00,Surgical Ward-Bed15,,Home
+V20698,P10345,Admission,2023-10-31 02:00:00,Surgical Ward-Bed8,Emergency,
+V20698,P10345,Discharge,2023-11-01 02:00:00,Pediatric Ward-Bed2,,Transfer
+V20699,P10027,Admission,2023-11-17 04:00:00,Maternity-Bed18,Elective,
+V20699,P10027,Discharge,2023-11-30 04:00:00,ICU-Bed41,,Transfer
+V20706,P10484,Admission,2023-01-01 03:00:00,Medical Ward-Bed46,Emergency,
+V20706,P10484,Discharge,2023-01-09 03:00:00,Medical Ward-Bed9,,Transfer
+V20707,P10373,Admission,2023-03-23 04:00:00,Pediatric Ward-Bed20,Elective,
+V20707,P10373,Discharge,2023-03-30 04:00:00,Maternity-Bed26,,Transfer
+V20710,P10460,Admission,2023-06-04 04:00:00,Maternity-Bed20,Emergency,
+V20710,P10460,Discharge,2023-06-14 04:00:00,Maternity-Bed13,,Transfer
+V20715,P10203,Admission,2023-07-13 03:00:00,CCU-Bed3,Elective,
+V20715,P10203,Discharge,2023-07-20 03:00:00,Private Wing-Bed22,,Home
+V20725,P10297,Admission,2023-07-10 01:00:00,Surgical Ward-Bed23,Elective,
+V20725,P10297,Discharge,2023-07-17 01:00:00,CCU-Bed15,,Transfer
+V20726,P10075,Admission,2023-09-11 02:00:00,ICU-Bed48,Elective,
+V20726,P10075,Discharge,2023-09-12 02:00:00,Pediatric Ward-Bed37,,Transfer
+V20740,P10253,Admission,2023-02-06 02:00:00,Maternity-Bed6,Emergency,
+V20740,P10253,Discharge,2023-02-14 02:00:00,CCU-Bed37,,Death
+V20743,P10423,Admission,2023-02-06 03:00:00,ICU-Bed45,Elective,
+V20743,P10423,Discharge,2023-02-09 03:00:00,Surgical Ward-Bed21,,Home
+V20745,P10357,Admission,2023-06-03 01:00:00,Pediatric Ward-Bed38,Elective,
+V20745,P10357,Discharge,2023-06-15 01:00:00,CCU-Bed1,,Home
+V20746,P10106,Admission,2023-08-08 03:00:00,Medical Ward-Bed11,Emergency,
+V20746,P10106,Discharge,2023-08-14 03:00:00,Maternity-Bed27,,Death
+V20750,P10300,Admission,2023-06-29 02:00:00,Pediatric Ward-Bed16,Emergency,
+V20750,P10300,Discharge,2023-07-06 02:00:00,Private Wing-Bed21,,Death
+V20752,P10047,Admission,2023-05-06 03:00:00,ICU-Bed36,Elective,
+V20752,P10047,Discharge,2023-05-15 03:00:00,ICU-Bed26,,Transfer
+V20759,P10357,Admission,2023-09-09 03:00:00,CCU-Bed28,Emergency,
+V20759,P10357,Discharge,2023-09-16 03:00:00,Pediatric Ward-Bed22,,Transfer
+V20760,P10437,Admission,2023-01-21 03:00:00,Surgical Ward-Bed20,Elective,
+V20760,P10437,Discharge,2023-02-02 03:00:00,Private Wing-Bed5,,Transfer
+V20763,P10413,Admission,2023-04-01 01:00:00,ICU-Bed39,Emergency,
+V20763,P10413,Discharge,2023-04-08 01:00:00,Private Wing-Bed39,,Home
+V20766,P10071,Admission,2023-11-06 03:00:00,ICU-Bed29,Elective,
+V20766,P10071,Discharge,2023-11-11 03:00:00,Surgical Ward-Bed37,,Transfer
+V20768,P10268,Admission,2023-07-08 04:00:00,Medical Ward-Bed34,Emergency,
+V20768,P10268,Discharge,2023-07-13 04:00:00,Surgical Ward-Bed15,,Home
+V20774,P10134,Admission,2023-02-04 03:00:00,Maternity-Bed9,Elective,
+V20774,P10134,Discharge,2023-02-13 03:00:00,CCU-Bed14,,Death
+V20776,P10153,Admission,2023-12-26 03:00:00,Surgical Ward-Bed11,Emergency,
+V20776,P10153,Discharge,2023-12-28 03:00:00,Medical Ward-Bed49,,Death
+V20782,P10341,Admission,2023-09-19 04:00:00,Medical Ward-Bed45,Emergency,
+V20782,P10341,Discharge,2023-09-22 04:00:00,Medical Ward-Bed31,,Home
+V20784,P10385,Admission,2023-11-17 04:00:00,Pediatric Ward-Bed34,Elective,
+V20784,P10385,Discharge,2023-11-23 04:00:00,Surgical Ward-Bed19,,Death
+V20785,P10208,Admission,2023-08-10 04:00:00,Pediatric Ward-Bed31,Emergency,
+V20785,P10208,Discharge,2023-08-16 04:00:00,Private Wing-Bed50,,Home
+V20786,P10014,Admission,2023-12-10 01:00:00,Medical Ward-Bed3,Elective,
+V20786,P10014,Discharge,2023-12-14 01:00:00,Pediatric Ward-Bed37,,Transfer
+V20791,P10456,Admission,2023-11-25 03:00:00,Medical Ward-Bed10,Emergency,
+V20791,P10456,Discharge,2023-12-02 03:00:00,ICU-Bed4,,Home
+V20793,P10309,Admission,2023-06-07 02:00:00,Private Wing-Bed23,Emergency,
+V20793,P10309,Discharge,2023-06-19 02:00:00,Surgical Ward-Bed50,,Home
+V20797,P10323,Admission,2023-05-09 02:00:00,Private Wing-Bed30,Elective,
+V20797,P10323,Discharge,2023-05-21 02:00:00,Private Wing-Bed26,,Transfer
+V20799,P10289,Admission,2023-06-28 04:00:00,Pediatric Ward-Bed38,Elective,
+V20799,P10289,Discharge,2023-07-02 04:00:00,CCU-Bed44,,Transfer
+V20805,P10306,Admission,2023-06-22 01:00:00,Maternity-Bed6,Emergency,
+V20805,P10306,Discharge,2023-07-01 01:00:00,Medical Ward-Bed17,,Death
+V20806,P10125,Admission,2023-09-05 03:00:00,Pediatric Ward-Bed13,Elective,
+V20806,P10125,Discharge,2023-09-14 03:00:00,CCU-Bed21,,Transfer
+V20818,P10118,Admission,2023-11-13 04:00:00,Medical Ward-Bed5,Emergency,
+V20818,P10118,Discharge,2023-11-17 04:00:00,ICU-Bed36,,Transfer
+V20820,P10283,Admission,2023-06-12 01:00:00,Pediatric Ward-Bed12,Emergency,
+V20820,P10283,Discharge,2023-06-16 01:00:00,Private Wing-Bed27,,Home
+V20823,P10048,Admission,2023-07-28 02:00:00,Private Wing-Bed16,Emergency,
+V20823,P10048,Discharge,2023-07-29 02:00:00,Pediatric Ward-Bed30,,Transfer
+V20832,P10360,Admission,2023-11-04 02:00:00,Maternity-Bed14,Emergency,
+V20832,P10360,Discharge,2023-11-09 02:00:00,Medical Ward-Bed20,,Home
+V20833,P10106,Admission,2023-06-10 04:00:00,ICU-Bed27,Elective,
+V20833,P10106,Discharge,2023-06-22 04:00:00,Private Wing-Bed35,,Home
+V20837,P10176,Admission,2023-07-15 01:00:00,Private Wing-Bed42,Elective,
+V20837,P10176,Discharge,2023-07-24 01:00:00,CCU-Bed46,,Home
+V20838,P10370,Admission,2023-08-06 03:00:00,Private Wing-Bed38,Emergency,
+V20838,P10370,Discharge,2023-08-13 03:00:00,Surgical Ward-Bed42,,Home
+V20839,P10178,Admission,2023-05-18 04:00:00,Pediatric Ward-Bed5,Elective,
+V20839,P10178,Discharge,2023-05-26 04:00:00,Pediatric Ward-Bed13,,Home
+V20845,P10439,Admission,2023-05-23 03:00:00,Private Wing-Bed21,Emergency,
+V20845,P10439,Discharge,2023-05-27 03:00:00,Surgical Ward-Bed15,,Death
+V20849,P10308,Admission,2023-02-09 03:00:00,Surgical Ward-Bed11,Elective,
+V20849,P10308,Discharge,2023-02-10 03:00:00,Maternity-Bed26,,Transfer
+V20853,P10416,Admission,2023-09-14 02:00:00,Private Wing-Bed22,Emergency,
+V20853,P10416,Discharge,2023-09-22 02:00:00,Surgical Ward-Bed13,,Home
+V20855,P10123,Admission,2023-07-08 02:00:00,Private Wing-Bed15,Emergency,
+V20855,P10123,Discharge,2023-07-18 02:00:00,Surgical Ward-Bed2,,Home
+V20861,P10367,Admission,2023-07-27 03:00:00,ICU-Bed7,Emergency,
+V20861,P10367,Discharge,2023-08-03 03:00:00,Surgical Ward-Bed1,,Home
+V20864,P10462,Admission,2023-07-15 01:00:00,Surgical Ward-Bed17,Elective,
+V20864,P10462,Discharge,2023-07-19 01:00:00,Maternity-Bed29,,Home
+V20868,P10008,Admission,2023-08-13 01:00:00,Maternity-Bed30,Elective,
+V20868,P10008,Discharge,2023-08-24 01:00:00,Private Wing-Bed1,,Transfer
+V20869,P10238,Admission,2023-08-27 04:00:00,Private Wing-Bed31,Elective,
+V20869,P10238,Discharge,2023-08-30 04:00:00,Private Wing-Bed21,,Home
+V20871,P10472,Admission,2023-06-01 01:00:00,Pediatric Ward-Bed42,Elective,
+V20871,P10472,Discharge,2023-06-04 01:00:00,Surgical Ward-Bed4,,Home
+V20878,P10229,Admission,2023-06-21 02:00:00,CCU-Bed38,Elective,
+V20878,P10229,Discharge,2023-06-25 02:00:00,Private Wing-Bed32,,Home
+V20886,P10214,Admission,2023-04-10 02:00:00,Surgical Ward-Bed18,Emergency,
+V20886,P10214,Discharge,2023-04-11 02:00:00,Medical Ward-Bed9,,Death
+V20890,P10342,Admission,2023-06-25 03:00:00,Medical Ward-Bed38,Emergency,
+V20890,P10342,Discharge,2023-07-03 03:00:00,Medical Ward-Bed30,,Death
+V20894,P10398,Admission,2023-04-26 02:00:00,CCU-Bed9,Elective,
+V20894,P10398,Discharge,2023-04-29 02:00:00,Medical Ward-Bed24,,Home
+V20898,P10237,Admission,2023-02-20 04:00:00,CCU-Bed27,Elective,
+V20898,P10237,Discharge,2023-03-06 04:00:00,CCU-Bed35,,Transfer
+V20899,P10211,Admission,2023-07-24 01:00:00,Maternity-Bed42,Elective,
+V20899,P10211,Discharge,2023-08-07 01:00:00,Pediatric Ward-Bed17,,Transfer
+V20900,P10153,Admission,2023-05-05 01:00:00,Private Wing-Bed39,Emergency,
+V20900,P10153,Discharge,2023-05-15 01:00:00,Pediatric Ward-Bed4,,Transfer
+V20901,P10485,Admission,2023-02-03 03:00:00,ICU-Bed15,Elective,
+V20901,P10485,Discharge,2023-02-14 03:00:00,Surgical Ward-Bed44,,Transfer
+V20903,P10170,Admission,2023-03-02 02:00:00,ICU-Bed5,Emergency,
+V20903,P10170,Discharge,2023-03-08 02:00:00,Surgical Ward-Bed21,,Death
+V20904,P10450,Admission,2023-07-22 01:00:00,ICU-Bed45,Elective,
+V20904,P10450,Discharge,2023-08-04 01:00:00,Maternity-Bed26,,Death
+V20906,P10172,Admission,2023-11-03 03:00:00,Pediatric Ward-Bed33,Emergency,
+V20906,P10172,Discharge,2023-11-15 03:00:00,Surgical Ward-Bed32,,Home
+V20910,P10241,Admission,2023-01-17 02:00:00,ICU-Bed50,Emergency,
+V20910,P10241,Discharge,2023-01-25 02:00:00,Private Wing-Bed12,,Home
+V20914,P10404,Admission,2023-07-20 02:00:00,Medical Ward-Bed4,Emergency,
+V20914,P10404,Discharge,2023-07-22 02:00:00,ICU-Bed30,,Death
+V20916,P10145,Admission,2023-02-03 01:00:00,CCU-Bed23,Elective,
+V20916,P10145,Discharge,2023-02-07 01:00:00,Private Wing-Bed48,,Death
+V20917,P10080,Admission,2023-12-25 01:00:00,Medical Ward-Bed30,Emergency,
+V20917,P10080,Discharge,2024-01-05 01:00:00,Private Wing-Bed32,,Transfer
+V20918,P10310,Admission,2023-12-19 01:00:00,CCU-Bed15,Emergency,
+V20918,P10310,Discharge,2024-01-01 01:00:00,Pediatric Ward-Bed7,,Death
+V20919,P10436,Admission,2023-12-07 03:00:00,Pediatric Ward-Bed12,Elective,
+V20919,P10436,Discharge,2023-12-19 03:00:00,CCU-Bed49,,Home
+V20920,P10183,Admission,2023-06-06 04:00:00,Surgical Ward-Bed12,Emergency,
+V20920,P10183,Discharge,2023-06-08 04:00:00,Maternity-Bed25,,Death
+V20923,P10030,Admission,2023-03-02 03:00:00,Surgical Ward-Bed36,Elective,
+V20923,P10030,Discharge,2023-03-06 03:00:00,Surgical Ward-Bed11,,Home
+V20925,P10163,Admission,2023-05-03 03:00:00,Pediatric Ward-Bed10,Emergency,
+V20925,P10163,Discharge,2023-05-17 03:00:00,Medical Ward-Bed25,,Home
+V20926,P10062,Admission,2023-12-09 04:00:00,Pediatric Ward-Bed44,Elective,
+V20926,P10062,Discharge,2023-12-20 04:00:00,ICU-Bed42,,Transfer
+V20927,P10479,Admission,2023-04-18 02:00:00,CCU-Bed48,Emergency,
+V20927,P10479,Discharge,2023-04-22 02:00:00,CCU-Bed35,,Home
+V20929,P10016,Admission,2023-07-19 02:00:00,Pediatric Ward-Bed20,Elective,
+V20929,P10016,Discharge,2023-07-24 02:00:00,Private Wing-Bed2,,Transfer
+V20932,P10444,Admission,2023-04-05 04:00:00,ICU-Bed38,Elective,
+V20932,P10444,Discharge,2023-04-14 04:00:00,Medical Ward-Bed18,,Transfer
+V20934,P10452,Admission,2023-05-03 01:00:00,Surgical Ward-Bed1,Elective,
+V20934,P10452,Discharge,2023-05-16 01:00:00,ICU-Bed44,,Transfer
+V20938,P10103,Admission,2023-03-17 03:00:00,ICU-Bed50,Elective,
+V20938,P10103,Discharge,2023-03-19 03:00:00,Surgical Ward-Bed44,,Transfer
+V20941,P10148,Admission,2023-08-22 04:00:00,ICU-Bed45,Emergency,
+V20941,P10148,Discharge,2023-08-27 04:00:00,Maternity-Bed28,,Death
+V20942,P10009,Admission,2023-10-29 02:00:00,ICU-Bed48,Elective,
+V20942,P10009,Discharge,2023-11-01 02:00:00,Maternity-Bed15,,Transfer
+V20943,P10475,Admission,2023-11-08 02:00:00,Maternity-Bed31,Elective,
+V20943,P10475,Discharge,2023-11-16 02:00:00,Private Wing-Bed11,,Home
+V20944,P10427,Admission,2023-04-25 03:00:00,Surgical Ward-Bed2,Elective,
+V20944,P10427,Discharge,2023-05-05 03:00:00,Medical Ward-Bed26,,Transfer
+V20945,P10456,Admission,2023-01-20 01:00:00,Private Wing-Bed39,Emergency,
+V20945,P10456,Discharge,2023-01-23 01:00:00,Medical Ward-Bed42,,Transfer
+V20947,P10113,Admission,2023-05-03 02:00:00,ICU-Bed19,Emergency,
+V20947,P10113,Discharge,2023-05-06 02:00:00,Medical Ward-Bed21,,Transfer
+V20948,P10024,Admission,2023-05-21 02:00:00,Surgical Ward-Bed38,Elective,
+V20948,P10024,Discharge,2023-05-22 02:00:00,Pediatric Ward-Bed49,,Death
+V20953,P10350,Admission,2023-02-10 04:00:00,Maternity-Bed16,Elective,
+V20953,P10350,Discharge,2023-02-14 04:00:00,CCU-Bed47,,Home
+V20955,P10149,Admission,2023-05-12 04:00:00,Private Wing-Bed40,Elective,
+V20955,P10149,Discharge,2023-05-15 04:00:00,CCU-Bed49,,Home
+V20956,P10104,Admission,2023-03-25 01:00:00,Maternity-Bed5,Elective,
+V20956,P10104,Discharge,2023-04-01 01:00:00,CCU-Bed17,,Death
+V20958,P10079,Admission,2023-01-02 01:00:00,CCU-Bed36,Elective,
+V20958,P10079,Discharge,2023-01-13 01:00:00,Medical Ward-Bed13,,Home
+V20960,P10256,Admission,2023-08-27 01:00:00,CCU-Bed35,Emergency,
+V20960,P10256,Discharge,2023-08-31 01:00:00,Medical Ward-Bed18,,Death
+V20962,P10180,Admission,2023-07-18 02:00:00,Private Wing-Bed11,Emergency,
+V20962,P10180,Discharge,2023-07-30 02:00:00,Private Wing-Bed42,,Home
+V20965,P10245,Admission,2023-06-29 02:00:00,Surgical Ward-Bed7,Emergency,
+V20965,P10245,Discharge,2023-07-13 02:00:00,Private Wing-Bed5,,Transfer
+V20968,P10357,Admission,2023-04-27 03:00:00,CCU-Bed8,Elective,
+V20968,P10357,Discharge,2023-05-06 03:00:00,ICU-Bed10,,Transfer
+V20970,P10018,Admission,2023-04-07 04:00:00,Maternity-Bed26,Elective,
+V20970,P10018,Discharge,2023-04-16 04:00:00,Medical Ward-Bed7,,Death
+V20976,P10162,Admission,2023-06-09 01:00:00,Pediatric Ward-Bed17,Emergency,
+V20976,P10162,Discharge,2023-06-18 01:00:00,Maternity-Bed20,,Transfer
+V20978,P10132,Admission,2023-03-20 02:00:00,Private Wing-Bed44,Emergency,
+V20978,P10132,Discharge,2023-04-03 02:00:00,Medical Ward-Bed25,,Home
+V20979,P10038,Admission,2023-07-06 04:00:00,CCU-Bed34,Elective,
+V20979,P10038,Discharge,2023-07-14 04:00:00,Surgical Ward-Bed21,,Death
+V20980,P10378,Admission,2023-07-28 03:00:00,CCU-Bed25,Elective,
+V20980,P10378,Discharge,2023-08-10 03:00:00,Pediatric Ward-Bed26,,Death
+V20987,P10336,Admission,2023-02-21 03:00:00,CCU-Bed8,Elective,
+V20987,P10336,Discharge,2023-03-06 03:00:00,CCU-Bed9,,Home
+V20990,P10054,Admission,2023-01-22 03:00:00,Surgical Ward-Bed8,Emergency,
+V20990,P10054,Discharge,2023-02-02 03:00:00,CCU-Bed28,,Home
+V20993,P10332,Admission,2023-12-25 02:00:00,Surgical Ward-Bed12,Emergency,
+V20993,P10332,Discharge,2023-12-27 02:00:00,Pediatric Ward-Bed45,,Home
+V20996,P10348,Admission,2023-05-20 01:00:00,Surgical Ward-Bed40,Elective,
+V20996,P10348,Discharge,2023-05-25 01:00:00,ICU-Bed14,,Home
+V20998,P10341,Admission,2023-04-09 03:00:00,Maternity-Bed33,Emergency,
+V20998,P10341,Discharge,2023-04-21 03:00:00,Medical Ward-Bed31,,Death
+V20999,P10069,Admission,2023-10-30 04:00:00,Private Wing-Bed49,Elective,
+V20999,P10069,Discharge,2023-11-02 04:00:00,ICU-Bed40,,Death
+V21000,P10137,Admission,2023-11-12 03:00:00,CCU-Bed34,Emergency,
+V21000,P10137,Discharge,2023-11-22 03:00:00,CCU-Bed11,,Death
+V21001,P10331,Admission,2023-09-12 02:00:00,CCU-Bed36,Emergency,
+V21001,P10331,Discharge,2023-09-14 02:00:00,Medical Ward-Bed15,,Transfer
+V21005,P10036,Admission,2023-07-22 04:00:00,Medical Ward-Bed48,Emergency,
+V21005,P10036,Discharge,2023-07-29 04:00:00,CCU-Bed1,,Home
+V21007,P10056,Admission,2023-01-08 01:00:00,Surgical Ward-Bed48,Emergency,
+V21007,P10056,Discharge,2023-01-14 01:00:00,ICU-Bed22,,Home
+V21008,P10105,Admission,2023-03-15 04:00:00,Private Wing-Bed7,Emergency,
+V21008,P10105,Discharge,2023-03-19 04:00:00,Pediatric Ward-Bed41,,Home
+V21009,P10166,Admission,2023-07-13 03:00:00,Surgical Ward-Bed18,Emergency,
+V21009,P10166,Discharge,2023-07-26 03:00:00,ICU-Bed16,,Death
+V21010,P10339,Admission,2023-11-22 01:00:00,ICU-Bed45,Emergency,
+V21010,P10339,Discharge,2023-11-28 01:00:00,Maternity-Bed40,,Home
+V21011,P10180,Admission,2023-12-07 01:00:00,Maternity-Bed26,Elective,
+V21011,P10180,Discharge,2023-12-08 01:00:00,Surgical Ward-Bed30,,Transfer
+V21022,P10130,Admission,2023-02-20 02:00:00,Surgical Ward-Bed12,Emergency,
+V21022,P10130,Discharge,2023-03-06 02:00:00,Private Wing-Bed33,,Death
+V21031,P10455,Admission,2023-06-16 04:00:00,Private Wing-Bed14,Emergency,
+V21031,P10455,Discharge,2023-06-27 04:00:00,Private Wing-Bed31,,Transfer
+V21037,P10109,Admission,2023-07-09 01:00:00,Pediatric Ward-Bed41,Emergency,
+V21037,P10109,Discharge,2023-07-18 01:00:00,CCU-Bed35,,Transfer
+V21044,P10298,Admission,2023-10-22 02:00:00,Maternity-Bed7,Emergency,
+V21044,P10298,Discharge,2023-10-29 02:00:00,Maternity-Bed36,,Transfer
+V21050,P10316,Admission,2023-01-17 01:00:00,Medical Ward-Bed13,Emergency,
+V21050,P10316,Discharge,2023-01-18 01:00:00,CCU-Bed33,,Home
+V21054,P10043,Admission,2023-04-19 02:00:00,CCU-Bed39,Emergency,
+V21054,P10043,Discharge,2023-04-23 02:00:00,Medical Ward-Bed44,,Death
+V21060,P10109,Admission,2023-01-11 02:00:00,Surgical Ward-Bed30,Emergency,
+V21060,P10109,Discharge,2023-01-17 02:00:00,ICU-Bed31,,Transfer
+V21063,P10358,Admission,2023-02-27 01:00:00,Maternity-Bed32,Elective,
+V21063,P10358,Discharge,2023-03-06 01:00:00,Medical Ward-Bed42,,Home
+V21072,P10389,Admission,2023-08-24 04:00:00,CCU-Bed47,Elective,
+V21072,P10389,Discharge,2023-09-06 04:00:00,Private Wing-Bed38,,Home
+V21075,P10042,Admission,2023-04-08 01:00:00,ICU-Bed34,Emergency,
+V21075,P10042,Discharge,2023-04-19 01:00:00,Private Wing-Bed42,,Transfer
+V21077,P10383,Admission,2023-01-14 02:00:00,Medical Ward-Bed40,Emergency,
+V21077,P10383,Discharge,2023-01-27 02:00:00,Maternity-Bed39,,Transfer
+V21078,P10194,Admission,2023-02-28 04:00:00,Maternity-Bed33,Emergency,
+V21078,P10194,Discharge,2023-03-02 04:00:00,Pediatric Ward-Bed38,,Transfer
+V21080,P10342,Admission,2023-10-04 02:00:00,CCU-Bed20,Elective,
+V21080,P10342,Discharge,2023-10-13 02:00:00,CCU-Bed32,,Home
+V21084,P10025,Admission,2023-12-05 01:00:00,Private Wing-Bed47,Emergency,
+V21084,P10025,Discharge,2023-12-17 01:00:00,CCU-Bed26,,Transfer
+V21086,P10264,Admission,2023-09-29 03:00:00,Private Wing-Bed26,Elective,
+V21086,P10264,Discharge,2023-10-11 03:00:00,Private Wing-Bed11,,Death
+V21087,P10288,Admission,2023-05-01 03:00:00,Private Wing-Bed7,Emergency,
+V21087,P10288,Discharge,2023-05-11 03:00:00,Pediatric Ward-Bed29,,Home
+V21088,P10261,Admission,2023-06-14 03:00:00,ICU-Bed38,Emergency,
+V21088,P10261,Discharge,2023-06-24 03:00:00,Pediatric Ward-Bed21,,Home
+V21090,P10365,Admission,2023-11-17 03:00:00,Maternity-Bed41,Emergency,
+V21090,P10365,Discharge,2023-11-28 03:00:00,Private Wing-Bed29,,Death
+V21096,P10375,Admission,2023-11-26 03:00:00,ICU-Bed39,Emergency,
+V21096,P10375,Discharge,2023-11-29 03:00:00,Maternity-Bed18,,Death
+V21098,P10391,Admission,2023-09-28 04:00:00,Private Wing-Bed40,Elective,
+V21098,P10391,Discharge,2023-10-01 04:00:00,Maternity-Bed38,,Transfer
+V21101,P10292,Admission,2023-12-09 01:00:00,Maternity-Bed37,Elective,
+V21101,P10292,Discharge,2023-12-22 01:00:00,Maternity-Bed2,,Death
+V21102,P10081,Admission,2023-05-05 01:00:00,Private Wing-Bed39,Elective,
+V21102,P10081,Discharge,2023-05-14 01:00:00,Pediatric Ward-Bed44,,Death
+V21104,P10158,Admission,2023-02-12 04:00:00,ICU-Bed23,Elective,
+V21104,P10158,Discharge,2023-02-17 04:00:00,Maternity-Bed18,,Home
+V21105,P10149,Admission,2023-07-19 02:00:00,ICU-Bed33,Elective,
+V21105,P10149,Discharge,2023-08-01 02:00:00,Medical Ward-Bed27,,Transfer
+V21108,P10095,Admission,2023-04-09 02:00:00,Private Wing-Bed30,Elective,
+V21108,P10095,Discharge,2023-04-14 02:00:00,Surgical Ward-Bed26,,Death
+V21113,P10425,Admission,2023-02-01 01:00:00,Pediatric Ward-Bed50,Emergency,
+V21113,P10425,Discharge,2023-02-08 01:00:00,Pediatric Ward-Bed19,,Transfer
+V21121,P10207,Admission,2023-06-15 01:00:00,ICU-Bed11,Elective,
+V21121,P10207,Discharge,2023-06-28 01:00:00,Medical Ward-Bed21,,Home
+V21130,P10348,Admission,2023-07-20 01:00:00,Medical Ward-Bed11,Elective,
+V21130,P10348,Discharge,2023-08-03 01:00:00,Surgical Ward-Bed30,,Home
+V21134,P10244,Admission,2023-01-14 04:00:00,Pediatric Ward-Bed36,Emergency,
+V21134,P10244,Discharge,2023-01-21 04:00:00,Medical Ward-Bed35,,Home
+V21136,P10258,Admission,2023-02-07 03:00:00,Private Wing-Bed17,Elective,
+V21136,P10258,Discharge,2023-02-16 03:00:00,ICU-Bed7,,Home
+V21137,P10171,Admission,2023-08-03 01:00:00,ICU-Bed37,Emergency,
+V21137,P10171,Discharge,2023-08-12 01:00:00,Private Wing-Bed43,,Home
+V21139,P10274,Admission,2023-01-22 03:00:00,Pediatric Ward-Bed43,Emergency,
+V21139,P10274,Discharge,2023-01-30 03:00:00,ICU-Bed39,,Death
+V21147,P10281,Admission,2023-08-12 04:00:00,Private Wing-Bed48,Emergency,
+V21147,P10281,Discharge,2023-08-17 04:00:00,ICU-Bed23,,Transfer
+V21150,P10123,Admission,2023-10-11 02:00:00,Surgical Ward-Bed29,Elective,
+V21150,P10123,Discharge,2023-10-12 02:00:00,Medical Ward-Bed4,,Home
+V21151,P10399,Admission,2023-06-25 02:00:00,CCU-Bed23,Elective,
+V21151,P10399,Discharge,2023-06-26 02:00:00,Private Wing-Bed44,,Transfer
+V21152,P10441,Admission,2023-10-09 01:00:00,Private Wing-Bed50,Elective,
+V21152,P10441,Discharge,2023-10-19 01:00:00,CCU-Bed14,,Home
+V21155,P10355,Admission,2023-11-07 03:00:00,Pediatric Ward-Bed7,Elective,
+V21155,P10355,Discharge,2023-11-14 03:00:00,Private Wing-Bed37,,Home
+V21156,P10289,Admission,2023-12-29 04:00:00,CCU-Bed19,Elective,
+V21156,P10289,Discharge,2024-01-07 04:00:00,Maternity-Bed37,,Home
+V21159,P10482,Admission,2023-08-04 04:00:00,Medical Ward-Bed42,Emergency,
+V21159,P10482,Discharge,2023-08-16 04:00:00,ICU-Bed31,,Home
+V21162,P10151,Admission,2023-10-02 04:00:00,Private Wing-Bed3,Emergency,
+V21162,P10151,Discharge,2023-10-13 04:00:00,Medical Ward-Bed41,,Home
+V21166,P10429,Admission,2023-05-31 04:00:00,CCU-Bed8,Emergency,
+V21166,P10429,Discharge,2023-06-06 04:00:00,Surgical Ward-Bed18,,Transfer
+V21172,P10124,Admission,2023-03-12 03:00:00,Surgical Ward-Bed39,Emergency,
+V21172,P10124,Discharge,2023-03-17 03:00:00,Maternity-Bed31,,Transfer
+V21174,P10461,Admission,2023-10-17 03:00:00,ICU-Bed26,Elective,
+V21174,P10461,Discharge,2023-10-24 03:00:00,Surgical Ward-Bed20,,Home
+V21175,P10015,Admission,2023-03-17 04:00:00,Private Wing-Bed50,Emergency,
+V21175,P10015,Discharge,2023-03-20 04:00:00,Medical Ward-Bed21,,Transfer
+V21177,P10401,Admission,2023-07-15 04:00:00,Maternity-Bed9,Elective,
+V21177,P10401,Discharge,2023-07-29 04:00:00,Maternity-Bed50,,Home
+V21184,P10341,Admission,2023-08-11 02:00:00,Surgical Ward-Bed8,Emergency,
+V21184,P10341,Discharge,2023-08-25 02:00:00,Pediatric Ward-Bed16,,Home
+V21186,P10038,Admission,2023-12-09 03:00:00,Private Wing-Bed2,Elective,
+V21186,P10038,Discharge,2023-12-17 03:00:00,Maternity-Bed20,,Transfer
+V21188,P10028,Admission,2023-11-28 04:00:00,ICU-Bed19,Elective,
+V21188,P10028,Discharge,2023-12-03 04:00:00,Pediatric Ward-Bed39,,Home
+V21189,P10322,Admission,2023-02-07 04:00:00,Surgical Ward-Bed7,Emergency,
+V21189,P10322,Discharge,2023-02-13 04:00:00,ICU-Bed15,,Transfer
+V21193,P10458,Admission,2023-08-14 01:00:00,Private Wing-Bed6,Emergency,
+V21193,P10458,Discharge,2023-08-22 01:00:00,Pediatric Ward-Bed22,,Death
+V21198,P10358,Admission,2023-02-04 03:00:00,Medical Ward-Bed11,Emergency,
+V21198,P10358,Discharge,2023-02-08 03:00:00,Medical Ward-Bed48,,Home
+V21206,P10239,Admission,2023-10-07 04:00:00,CCU-Bed12,Emergency,
+V21206,P10239,Discharge,2023-10-10 04:00:00,Private Wing-Bed5,,Death
+V21211,P10220,Admission,2023-05-26 04:00:00,Private Wing-Bed41,Emergency,
+V21211,P10220,Discharge,2023-05-30 04:00:00,CCU-Bed30,,Transfer
+V21212,P10104,Admission,2023-05-09 02:00:00,Private Wing-Bed18,Emergency,
+V21212,P10104,Discharge,2023-05-16 02:00:00,ICU-Bed23,,Death
+V21216,P10052,Admission,2023-04-10 03:00:00,CCU-Bed21,Elective,
+V21216,P10052,Discharge,2023-04-22 03:00:00,Surgical Ward-Bed12,,Death
+V21220,P10278,Admission,2023-06-13 03:00:00,CCU-Bed23,Emergency,
+V21220,P10278,Discharge,2023-06-16 03:00:00,CCU-Bed21,,Home
+V21223,P10474,Admission,2023-08-21 04:00:00,ICU-Bed21,Elective,
+V21223,P10474,Discharge,2023-08-23 04:00:00,Pediatric Ward-Bed40,,Home
+V21227,P10322,Admission,2023-06-17 04:00:00,Medical Ward-Bed22,Emergency,
+V21227,P10322,Discharge,2023-06-19 04:00:00,ICU-Bed41,,Home
+V21231,P10292,Admission,2023-06-17 03:00:00,ICU-Bed6,Elective,
+V21231,P10292,Discharge,2023-06-22 03:00:00,Maternity-Bed30,,Transfer
+V21237,P10306,Admission,2023-12-21 03:00:00,Surgical Ward-Bed49,Elective,
+V21237,P10306,Discharge,2023-12-29 03:00:00,CCU-Bed14,,Transfer
+V21239,P10312,Admission,2023-10-11 02:00:00,Maternity-Bed34,Elective,
+V21239,P10312,Discharge,2023-10-16 02:00:00,Medical Ward-Bed30,,Home
+V21240,P10177,Admission,2023-11-17 03:00:00,Pediatric Ward-Bed45,Elective,
+V21240,P10177,Discharge,2023-11-27 03:00:00,Surgical Ward-Bed17,,Transfer
+V21241,P10492,Admission,2023-12-22 02:00:00,Pediatric Ward-Bed15,Elective,
+V21241,P10492,Discharge,2023-12-23 02:00:00,ICU-Bed35,,Home
+V21242,P10472,Admission,2023-05-01 02:00:00,Medical Ward-Bed34,Emergency,
+V21242,P10472,Discharge,2023-05-05 02:00:00,Maternity-Bed6,,Home
+V21251,P10356,Admission,2023-01-16 02:00:00,Private Wing-Bed42,Emergency,
+V21251,P10356,Discharge,2023-01-20 02:00:00,Maternity-Bed3,,Death
+V21254,P10090,Admission,2023-06-25 04:00:00,ICU-Bed12,Emergency,
+V21254,P10090,Discharge,2023-07-04 04:00:00,Pediatric Ward-Bed12,,Transfer
+V21255,P10093,Admission,2023-07-21 04:00:00,Medical Ward-Bed19,Elective,
+V21255,P10093,Discharge,2023-07-25 04:00:00,Surgical Ward-Bed21,,Death
+V21261,P10389,Admission,2023-09-05 01:00:00,Surgical Ward-Bed8,Elective,
+V21261,P10389,Discharge,2023-09-11 01:00:00,CCU-Bed20,,Transfer
+V21265,P10054,Admission,2023-12-30 03:00:00,CCU-Bed14,Elective,
+V21265,P10054,Discharge,2024-01-13 03:00:00,CCU-Bed15,,Transfer
+V21266,P10013,Admission,2023-09-08 01:00:00,ICU-Bed37,Emergency,
+V21266,P10013,Discharge,2023-09-10 01:00:00,Pediatric Ward-Bed28,,Death
+V21267,P10486,Admission,2023-06-16 04:00:00,Pediatric Ward-Bed18,Elective,
+V21267,P10486,Discharge,2023-06-20 04:00:00,Maternity-Bed6,,Death
+V21270,P10457,Admission,2023-10-23 04:00:00,CCU-Bed25,Emergency,
+V21270,P10457,Discharge,2023-10-31 04:00:00,ICU-Bed26,,Death
+V21272,P10426,Admission,2023-06-20 01:00:00,Surgical Ward-Bed14,Elective,
+V21272,P10426,Discharge,2023-06-25 01:00:00,Surgical Ward-Bed38,,Death
+V21273,P10406,Admission,2023-02-14 03:00:00,CCU-Bed28,Elective,
+V21273,P10406,Discharge,2023-02-21 03:00:00,Pediatric Ward-Bed4,,Death
+V21276,P10088,Admission,2023-11-14 01:00:00,Medical Ward-Bed8,Emergency,
+V21276,P10088,Discharge,2023-11-26 01:00:00,ICU-Bed39,,Death
+V21277,P10372,Admission,2023-02-19 03:00:00,Surgical Ward-Bed37,Emergency,
+V21277,P10372,Discharge,2023-02-27 03:00:00,ICU-Bed15,,Death
+V21278,P10435,Admission,2023-01-24 03:00:00,Medical Ward-Bed46,Emergency,
+V21278,P10435,Discharge,2023-01-27 03:00:00,ICU-Bed39,,Transfer
+V21281,P10270,Admission,2023-12-23 03:00:00,Surgical Ward-Bed42,Elective,
+V21281,P10270,Discharge,2023-12-28 03:00:00,Maternity-Bed18,,Death
+V21284,P10285,Admission,2023-07-25 03:00:00,Private Wing-Bed43,Elective,
+V21284,P10285,Discharge,2023-08-04 03:00:00,ICU-Bed24,,Transfer
+V21286,P10259,Admission,2023-08-19 02:00:00,Pediatric Ward-Bed50,Elective,
+V21286,P10259,Discharge,2023-08-28 02:00:00,Pediatric Ward-Bed41,,Death
+V21289,P10173,Admission,2023-10-29 03:00:00,ICU-Bed9,Emergency,
+V21289,P10173,Discharge,2023-11-11 03:00:00,Private Wing-Bed38,,Home
+V21298,P10093,Admission,2023-02-21 02:00:00,Medical Ward-Bed29,Elective,
+V21298,P10093,Discharge,2023-02-24 02:00:00,CCU-Bed35,,Death
+V21299,P10435,Admission,2023-09-26 01:00:00,Surgical Ward-Bed20,Emergency,
+V21299,P10435,Discharge,2023-10-10 01:00:00,CCU-Bed39,,Transfer
+V21303,P10003,Admission,2023-07-07 01:00:00,Medical Ward-Bed22,Elective,
+V21303,P10003,Discharge,2023-07-15 01:00:00,Pediatric Ward-Bed22,,Home
+V21308,P10004,Admission,2023-09-24 03:00:00,Surgical Ward-Bed28,Elective,
+V21308,P10004,Discharge,2023-10-07 03:00:00,Private Wing-Bed11,,Death
+V21309,P10250,Admission,2023-04-15 04:00:00,Medical Ward-Bed6,Emergency,
+V21309,P10250,Discharge,2023-04-24 04:00:00,CCU-Bed14,,Death
+V21312,P10460,Admission,2023-09-03 01:00:00,ICU-Bed33,Elective,
+V21312,P10460,Discharge,2023-09-07 01:00:00,Private Wing-Bed28,,Death
+V21318,P10032,Admission,2023-12-18 01:00:00,Medical Ward-Bed37,Emergency,
+V21318,P10032,Discharge,2023-12-31 01:00:00,ICU-Bed32,,Death
+V21325,P10438,Admission,2023-04-15 01:00:00,Pediatric Ward-Bed37,Emergency,
+V21325,P10438,Discharge,2023-04-20 01:00:00,Private Wing-Bed2,,Death
+V21327,P10380,Admission,2023-04-23 02:00:00,Medical Ward-Bed29,Elective,
+V21327,P10380,Discharge,2023-05-07 02:00:00,ICU-Bed4,,Transfer
+V21328,P10126,Admission,2023-10-20 03:00:00,ICU-Bed28,Elective,
+V21328,P10126,Discharge,2023-10-23 03:00:00,ICU-Bed14,,Home
+V21329,P10295,Admission,2023-11-09 03:00:00,CCU-Bed43,Elective,
+V21329,P10295,Discharge,2023-11-11 03:00:00,CCU-Bed33,,Death
+V21331,P10089,Admission,2023-02-05 01:00:00,CCU-Bed30,Emergency,
+V21331,P10089,Discharge,2023-02-18 01:00:00,Private Wing-Bed43,,Transfer
+V21332,P10126,Admission,2023-11-02 02:00:00,CCU-Bed26,Emergency,
+V21332,P10126,Discharge,2023-11-05 02:00:00,CCU-Bed48,,Home
+V21335,P10014,Admission,2023-02-20 01:00:00,Surgical Ward-Bed38,Emergency,
+V21335,P10014,Discharge,2023-03-02 01:00:00,Medical Ward-Bed16,,Death
+V21340,P10378,Admission,2023-12-27 02:00:00,ICU-Bed31,Elective,
+V21340,P10378,Discharge,2024-01-10 02:00:00,Surgical Ward-Bed42,,Transfer
+V21342,P10408,Admission,2023-04-14 03:00:00,Surgical Ward-Bed47,Elective,
+V21342,P10408,Discharge,2023-04-16 03:00:00,Medical Ward-Bed37,,Home
+V21347,P10012,Admission,2023-06-05 03:00:00,ICU-Bed7,Emergency,
+V21347,P10012,Discharge,2023-06-19 03:00:00,Medical Ward-Bed19,,Transfer
+V21349,P10421,Admission,2023-01-03 01:00:00,Pediatric Ward-Bed14,Elective,
+V21349,P10421,Discharge,2023-01-06 01:00:00,Surgical Ward-Bed26,,Home
+V21353,P10060,Admission,2023-12-25 03:00:00,Private Wing-Bed34,Elective,
+V21353,P10060,Discharge,2024-01-06 03:00:00,Surgical Ward-Bed25,,Transfer
+V21369,P10298,Admission,2023-01-09 02:00:00,Medical Ward-Bed14,Elective,
+V21369,P10298,Discharge,2023-01-17 02:00:00,ICU-Bed47,,Death
+V21370,P10060,Admission,2023-05-22 04:00:00,Surgical Ward-Bed14,Elective,
+V21370,P10060,Discharge,2023-06-01 04:00:00,Surgical Ward-Bed40,,Home
+V21371,P10281,Admission,2023-10-04 01:00:00,Pediatric Ward-Bed35,Elective,
+V21371,P10281,Discharge,2023-10-15 01:00:00,Private Wing-Bed49,,Transfer
+V21373,P10454,Admission,2023-03-21 01:00:00,CCU-Bed19,Elective,
+V21373,P10454,Discharge,2023-03-27 01:00:00,CCU-Bed16,,Home
+V21375,P10082,Admission,2023-04-29 03:00:00,Maternity-Bed25,Emergency,
+V21375,P10082,Discharge,2023-05-13 03:00:00,ICU-Bed32,,Death
+V21376,P10030,Admission,2023-11-03 02:00:00,Pediatric Ward-Bed8,Emergency,
+V21376,P10030,Discharge,2023-11-09 02:00:00,Maternity-Bed19,,Home
+V21378,P10011,Admission,2023-04-27 04:00:00,ICU-Bed3,Emergency,
+V21378,P10011,Discharge,2023-05-08 04:00:00,Private Wing-Bed33,,Home
+V21379,P10271,Admission,2023-02-24 04:00:00,Surgical Ward-Bed30,Emergency,
+V21379,P10271,Discharge,2023-03-04 04:00:00,Private Wing-Bed11,,Death
+V21383,P10468,Admission,2023-08-20 04:00:00,CCU-Bed25,Elective,
+V21383,P10468,Discharge,2023-09-02 04:00:00,Medical Ward-Bed22,,Home
+V21390,P10051,Admission,2023-07-24 03:00:00,ICU-Bed6,Elective,
+V21390,P10051,Discharge,2023-07-27 03:00:00,Private Wing-Bed17,,Transfer
+V21395,P10209,Admission,2023-02-22 01:00:00,CCU-Bed44,Elective,
+V21395,P10209,Discharge,2023-03-08 01:00:00,Medical Ward-Bed3,,Home
+V21396,P10364,Admission,2023-06-20 04:00:00,CCU-Bed14,Elective,
+V21396,P10364,Discharge,2023-06-26 04:00:00,ICU-Bed41,,Transfer
+V21400,P10440,Admission,2023-12-13 04:00:00,Pediatric Ward-Bed3,Elective,
+V21400,P10440,Discharge,2023-12-27 04:00:00,Medical Ward-Bed3,,Home
+V21403,P10343,Admission,2023-11-07 01:00:00,Maternity-Bed14,Emergency,
+V21403,P10343,Discharge,2023-11-10 01:00:00,Pediatric Ward-Bed10,,Transfer
+V21409,P10407,Admission,2023-01-26 04:00:00,Maternity-Bed9,Emergency,
+V21409,P10407,Discharge,2023-01-30 04:00:00,Pediatric Ward-Bed41,,Transfer
+V21415,P10413,Admission,2023-06-02 03:00:00,Medical Ward-Bed34,Emergency,
+V21415,P10413,Discharge,2023-06-10 03:00:00,ICU-Bed21,,Home
+V21420,P10110,Admission,2023-05-27 01:00:00,Maternity-Bed37,Emergency,
+V21420,P10110,Discharge,2023-06-06 01:00:00,Maternity-Bed32,,Transfer
+V21421,P10292,Admission,2023-05-08 03:00:00,Private Wing-Bed43,Emergency,
+V21421,P10292,Discharge,2023-05-20 03:00:00,ICU-Bed12,,Home
+V21423,P10148,Admission,2023-10-19 03:00:00,ICU-Bed30,Elective,
+V21423,P10148,Discharge,2023-10-29 03:00:00,Private Wing-Bed21,,Transfer
+V21424,P10413,Admission,2023-02-04 01:00:00,CCU-Bed16,Elective,
+V21424,P10413,Discharge,2023-02-18 01:00:00,ICU-Bed48,,Transfer
+V21425,P10434,Admission,2023-03-13 02:00:00,Maternity-Bed8,Elective,
+V21425,P10434,Discharge,2023-03-27 02:00:00,Pediatric Ward-Bed13,,Home
+V21433,P10260,Admission,2023-02-06 04:00:00,ICU-Bed36,Emergency,
+V21433,P10260,Discharge,2023-02-19 04:00:00,Private Wing-Bed7,,Transfer
+V21434,P10155,Admission,2023-03-12 03:00:00,CCU-Bed50,Emergency,
+V21434,P10155,Discharge,2023-03-25 03:00:00,Surgical Ward-Bed20,,Home
+V21439,P10431,Admission,2023-07-14 01:00:00,Maternity-Bed14,Elective,
+V21439,P10431,Discharge,2023-07-23 01:00:00,Maternity-Bed42,,Death
+V21444,P10325,Admission,2023-05-17 03:00:00,Surgical Ward-Bed47,Emergency,
+V21444,P10325,Discharge,2023-05-26 03:00:00,Surgical Ward-Bed26,,Transfer
+V21446,P10216,Admission,2023-07-01 04:00:00,Medical Ward-Bed17,Emergency,
+V21446,P10216,Discharge,2023-07-09 04:00:00,Surgical Ward-Bed46,,Home
+V21447,P10460,Admission,2023-11-25 01:00:00,Medical Ward-Bed23,Emergency,
+V21447,P10460,Discharge,2023-12-05 01:00:00,ICU-Bed41,,Transfer
+V21449,P10170,Admission,2023-07-13 01:00:00,ICU-Bed9,Elective,
+V21449,P10170,Discharge,2023-07-16 01:00:00,Surgical Ward-Bed23,,Transfer
+V21450,P10297,Admission,2023-12-10 02:00:00,Pediatric Ward-Bed5,Emergency,
+V21450,P10297,Discharge,2023-12-11 02:00:00,Private Wing-Bed15,,Home
+V21453,P10219,Admission,2023-05-17 01:00:00,CCU-Bed23,Elective,
+V21453,P10219,Discharge,2023-05-29 01:00:00,Maternity-Bed9,,Home
+V21455,P10173,Admission,2023-07-17 03:00:00,Pediatric Ward-Bed5,Emergency,
+V21455,P10173,Discharge,2023-07-30 03:00:00,Medical Ward-Bed46,,Death
+V21459,P10314,Admission,2023-08-12 04:00:00,ICU-Bed46,Elective,
+V21459,P10314,Discharge,2023-08-24 04:00:00,Medical Ward-Bed37,,Home
+V21464,P10365,Admission,2023-02-25 02:00:00,Pediatric Ward-Bed50,Emergency,
+V21464,P10365,Discharge,2023-03-02 02:00:00,Private Wing-Bed36,,Death
+V21467,P10205,Admission,2023-12-25 01:00:00,ICU-Bed31,Elective,
+V21467,P10205,Discharge,2023-12-26 01:00:00,Medical Ward-Bed41,,Home
+V21468,P10464,Admission,2023-06-04 02:00:00,Pediatric Ward-Bed35,Elective,
+V21468,P10464,Discharge,2023-06-17 02:00:00,Medical Ward-Bed38,,Death
+V21471,P10403,Admission,2023-08-02 04:00:00,CCU-Bed25,Elective,
+V21471,P10403,Discharge,2023-08-05 04:00:00,Private Wing-Bed37,,Transfer
+V21474,P10322,Admission,2023-10-07 02:00:00,Surgical Ward-Bed24,Emergency,
+V21474,P10322,Discharge,2023-10-10 02:00:00,Maternity-Bed20,,Home
+V21480,P10316,Admission,2023-08-14 02:00:00,Medical Ward-Bed17,Emergency,
+V21480,P10316,Discharge,2023-08-19 02:00:00,Surgical Ward-Bed27,,Home
+V21481,P10290,Admission,2023-12-19 01:00:00,Private Wing-Bed40,Emergency,
+V21481,P10290,Discharge,2023-12-28 01:00:00,Medical Ward-Bed13,,Transfer
+V21487,P10385,Admission,2023-07-22 04:00:00,Maternity-Bed7,Elective,
+V21487,P10385,Discharge,2023-07-31 04:00:00,Surgical Ward-Bed4,,Transfer
+V21491,P10335,Admission,2023-10-21 01:00:00,ICU-Bed26,Elective,
+V21491,P10335,Discharge,2023-10-24 01:00:00,CCU-Bed42,,Home
+V21492,P10271,Admission,2023-05-09 01:00:00,Private Wing-Bed3,Emergency,
+V21492,P10271,Discharge,2023-05-12 01:00:00,ICU-Bed22,,Home
+V21494,P10222,Admission,2023-09-12 04:00:00,Maternity-Bed47,Emergency,
+V21494,P10222,Discharge,2023-09-25 04:00:00,Medical Ward-Bed37,,Transfer
+V21495,P10404,Admission,2023-05-15 02:00:00,ICU-Bed38,Emergency,
+V21495,P10404,Discharge,2023-05-22 02:00:00,Medical Ward-Bed22,,Transfer
+V21496,P10161,Admission,2023-07-06 04:00:00,Pediatric Ward-Bed2,Emergency,
+V21496,P10161,Discharge,2023-07-16 04:00:00,Medical Ward-Bed32,,Home
+V21497,P10275,Admission,2023-10-20 02:00:00,Private Wing-Bed37,Emergency,
+V21497,P10275,Discharge,2023-10-26 02:00:00,Medical Ward-Bed30,,Home
+V21499,P10217,Admission,2023-05-05 04:00:00,Surgical Ward-Bed49,Emergency,
+V21499,P10217,Discharge,2023-05-07 04:00:00,CCU-Bed29,,Home

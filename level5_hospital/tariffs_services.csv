@@ -1,0 +1,7 @@
+service_code,description,unit_price,department
+CONS,Consultation,1444,Lab
+LAB_CBC,Complete Blood Count,1137,Ward
+LAB_GLU,Glucose Test,455,Lab
+WARD,Ward Bed Day,4193,Pharmacy
+THEA,Theatre Fee,9854,OPD
+MED,Medication,2441,Surgery

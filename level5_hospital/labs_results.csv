@@ -1,0 +1,2594 @@
+order_id,test_name,result_value,units,reference_range,result_date,abnormal_flag
+LO40000,Hemoglobin,14.5,g/dL,12.0-16.0,2023-03-18 04:44:00,No
+LO40001,Creatinine,1.46,mg/dL,0.7-1.3,2023-03-18 09:43:00,Yes
+LO40002,Complete Blood Count,1.16,mg/dL,0.7-1.3,2023-05-02 03:40:00,No
+LO40003,Hemoglobin,8.2,g/dL,12.0-16.0,2023-05-02 08:16:00,No
+LO40004,White Blood Cell Count,9.3,10^9/L,4.0-11.0,2023-05-02 06:56:00,No
+LO40005,Alanine Transaminase,2.07,mg/dL,0.7-1.3,2023-10-02 06:44:00,Yes
+LO40006,Hemoglobin,9.2,g/dL,12.0-16.0,2023-10-02 02:41:00,No
+LO40007,Complete Blood Count,0.67,mg/dL,0.7-1.3,2023-10-02 04:53:00,Yes
+LO40008,Hemoglobin,8.9,g/dL,12.0-16.0,2023-04-07 05:58:00,No
+LO40009,Alanine Transaminase,1.36,mg/dL,0.7-1.3,2023-04-07 03:43:00,Yes
+LO40010,Hemoglobin,13.1,g/dL,12.0-16.0,2023-04-07 01:52:00,No
+LO40011,Hemoglobin,9.8,g/dL,12.0-16.0,2023-04-07 06:21:00,No
+LO40012,Alanine Transaminase,0.59,mg/dL,0.7-1.3,2023-03-09 09:17:00,Yes
+LO40013,Complete Blood Count,0.57,mg/dL,0.7-1.3,2023-03-09 04:55:00,Yes
+LO40014,Hemoglobin,9.0,g/dL,12.0-16.0,2023-03-09 08:00:00,No
+LO40015,White Blood Cell Count,14.1,10^9/L,4.0-11.0,2023-04-05 08:24:00,No
+LO40016,Alanine Transaminase,1.75,mg/dL,0.7-1.3,2023-04-05 06:05:00,Yes
+LO40017,Creatinine,1.98,mg/dL,0.7-1.3,2023-04-05 07:16:00,Yes
+LO40018,Hemoglobin,14.3,g/dL,12.0-16.0,2023-04-05 05:40:00,No
+LO40019,Alanine Transaminase,2.24,mg/dL,0.7-1.3,2023-08-03 05:34:00,Yes
+LO40020,Creatinine,1.47,mg/dL,0.7-1.3,2023-08-03 04:53:00,Yes
+LO40021,Glucose,13.5,mmol/L,3.9-6.1,2023-06-22 03:46:00,No
+LO40022,Hemoglobin,13.2,g/dL,12.0-16.0,2023-06-22 03:36:00,No
+LO40023,Alanine Transaminase,2.04,mg/dL,0.7-1.3,2023-11-14 07:33:00,Yes
+LO40024,Hemoglobin,9.7,g/dL,12.0-16.0,2023-11-14 02:36:00,No
+LO40025,Hemoglobin,13.6,g/dL,12.0-16.0,2023-11-14 05:34:00,No
+LO40026,Hemoglobin,12.0,g/dL,12.0-16.0,2023-11-14 08:44:00,No
+LO40027,Complete Blood Count,0.72,mg/dL,0.7-1.3,2023-08-21 03:32:00,No
+LO40028,Alanine Transaminase,0.92,mg/dL,0.7-1.3,2023-08-21 03:54:00,No
+LO40029,Alanine Transaminase,2.28,mg/dL,0.7-1.3,2023-08-21 04:01:00,Yes
+LO40030,Glucose,7.6,mmol/L,3.9-6.1,2023-01-22 08:49:00,No
+LO40031,White Blood Cell Count,4.2,10^9/L,4.0-11.0,2023-11-01 03:03:00,No
+LO40032,Creatinine,1.27,mg/dL,0.7-1.3,2023-11-01 04:36:00,No
+LO40033,Glucose,5.6,mmol/L,3.9-6.1,2023-04-18 02:09:00,No
+LO40034,Complete Blood Count,1.69,mg/dL,0.7-1.3,2023-04-18 04:22:00,Yes
+LO40035,Alanine Transaminase,2.07,mg/dL,0.7-1.3,2023-04-18 05:14:00,Yes
+LO40036,White Blood Cell Count,8.9,10^9/L,4.0-11.0,2023-04-18 05:37:00,No
+LO40037,Hemoglobin,9.0,g/dL,12.0-16.0,2023-02-01 08:15:00,No
+LO40038,Creatinine,0.57,mg/dL,0.7-1.3,2023-11-18 04:54:00,Yes
+LO40039,Complete Blood Count,1.4,mg/dL,0.7-1.3,2023-04-03 06:47:00,Yes
+LO40040,Alanine Transaminase,1.02,mg/dL,0.7-1.3,2023-04-03 03:39:00,No
+LO40041,Complete Blood Count,1.02,mg/dL,0.7-1.3,2023-04-03 04:17:00,No
+LO40042,Creatinine,1.7,mg/dL,0.7-1.3,2023-04-03 09:18:00,Yes
+LO40043,Creatinine,2.17,mg/dL,0.7-1.3,2023-01-20 04:18:00,Yes
+LO40044,Hemoglobin,10.0,g/dL,12.0-16.0,2023-01-20 06:52:00,No
+LO40045,White Blood Cell Count,3.3,10^9/L,4.0-11.0,2023-01-20 06:19:00,No
+LO40046,Alanine Transaminase,2.36,mg/dL,0.7-1.3,2023-06-19 05:02:00,Yes
+LO40047,Hemoglobin,14.5,g/dL,12.0-16.0,2023-06-19 03:49:00,No
+LO40048,Hemoglobin,10.5,g/dL,12.0-16.0,2023-10-19 05:42:00,No
+LO40049,Complete Blood Count,0.88,mg/dL,0.7-1.3,2023-02-24 04:21:00,No
+LO40050,Glucose,7.2,mmol/L,3.9-6.1,2023-02-24 04:09:00,No
+LO40051,Alanine Transaminase,0.79,mg/dL,0.7-1.3,2023-02-24 03:52:00,No
+LO40052,Complete Blood Count,0.64,mg/dL,0.7-1.3,2023-05-15 08:02:00,Yes
+LO40053,Complete Blood Count,1.05,mg/dL,0.7-1.3,2023-05-15 08:20:00,No
+LO40054,Glucose,13.4,mmol/L,3.9-6.1,2023-05-15 08:02:00,No
+LO40055,Alanine Transaminase,1.52,mg/dL,0.7-1.3,2023-03-21 07:38:00,Yes
+LO40056,Creatinine,1.89,mg/dL,0.7-1.3,2023-03-21 08:44:00,Yes
+LO40057,Alanine Transaminase,0.8,mg/dL,0.7-1.3,2023-03-21 04:30:00,No
+LO40058,Complete Blood Count,1.81,mg/dL,0.7-1.3,2023-07-23 09:19:00,Yes
+LO40059,Glucose,11.8,mmol/L,3.9-6.1,2023-07-23 06:45:00,No
+LO40060,Glucose,4.9,mmol/L,3.9-6.1,2023-07-23 04:14:00,No
+LO40061,Alanine Transaminase,2.33,mg/dL,0.7-1.3,2023-07-08 04:24:00,Yes
+LO40062,Alanine Transaminase,2.26,mg/dL,0.7-1.3,2023-07-08 05:44:00,Yes
+LO40063,White Blood Cell Count,9.4,10^9/L,4.0-11.0,2023-11-23 07:44:00,No
+LO40064,Creatinine,2.45,mg/dL,0.7-1.3,2023-06-22 08:25:00,Yes
+LO40065,Creatinine,2.07,mg/dL,0.7-1.3,2023-06-22 06:05:00,Yes
+LO40066,Glucose,10.6,mmol/L,3.9-6.1,2023-06-22 06:35:00,No
+LO40067,Alanine Transaminase,1.32,mg/dL,0.7-1.3,2023-06-22 05:36:00,Yes
+LO40068,Hemoglobin,13.2,g/dL,12.0-16.0,2023-11-15 04:28:00,No
+LO40069,Glucose,7.8,mmol/L,3.9-6.1,2023-07-10 02:18:00,No
+LO40070,Hemoglobin,15.0,g/dL,12.0-16.0,2023-07-10 09:48:00,No
+LO40071,Creatinine,2.33,mg/dL,0.7-1.3,2023-10-14 03:47:00,Yes
+LO40072,Glucose,12.5,mmol/L,3.9-6.1,2023-10-25 02:56:00,No
+LO40073,Hemoglobin,8.8,g/dL,12.0-16.0,2023-10-25 06:54:00,No
+LO40074,Glucose,9.5,mmol/L,3.9-6.1,2023-01-27 04:18:00,No
+LO40075,Glucose,6.3,mmol/L,3.9-6.1,2023-07-20 01:58:00,No
+LO40076,Hemoglobin,12.4,g/dL,12.0-16.0,2023-07-20 04:54:00,No
+LO40077,Complete Blood Count,1.02,mg/dL,0.7-1.3,2023-07-20 05:34:00,No
+LO40078,White Blood Cell Count,12.3,10^9/L,4.0-11.0,2023-12-16 01:35:00,No
+LO40079,Complete Blood Count,0.97,mg/dL,0.7-1.3,2023-12-16 07:17:00,No
+LO40080,Alanine Transaminase,1.29,mg/dL,0.7-1.3,2023-12-16 03:45:00,No
+LO40081,Glucose,4.7,mmol/L,3.9-6.1,2023-06-29 05:36:00,No
+LO40082,Creatinine,2.24,mg/dL,0.7-1.3,2023-06-29 04:13:00,Yes
+LO40083,Creatinine,0.63,mg/dL,0.7-1.3,2023-05-26 03:16:00,Yes
+LO40084,White Blood Cell Count,6.9,10^9/L,4.0-11.0,2023-05-26 03:38:00,No
+LO40085,Hemoglobin,13.7,g/dL,12.0-16.0,2023-12-18 03:11:00,No
+LO40086,White Blood Cell Count,10.7,10^9/L,4.0-11.0,2023-12-18 01:39:00,No
+LO40087,Glucose,8.0,mmol/L,3.9-6.1,2023-12-18 06:45:00,No
+LO40088,Creatinine,1.34,mg/dL,0.7-1.3,2023-12-18 03:46:00,Yes
+LO40089,White Blood Cell Count,6.5,10^9/L,4.0-11.0,2023-09-13 07:11:00,No
+LO40090,Alanine Transaminase,0.61,mg/dL,0.7-1.3,2023-09-13 04:30:00,Yes
+LO40091,Hemoglobin,14.0,g/dL,12.0-16.0,2023-09-13 04:51:00,No
+LO40092,White Blood Cell Count,10.2,10^9/L,4.0-11.0,2023-09-13 02:19:00,No
+LO40093,Creatinine,0.85,mg/dL,0.7-1.3,2023-09-23 09:20:00,No
+LO40094,Hemoglobin,12.1,g/dL,12.0-16.0,2023-09-24 05:36:00,No
+LO40095,Creatinine,0.63,mg/dL,0.7-1.3,2023-09-24 08:24:00,Yes
+LO40096,White Blood Cell Count,4.8,10^9/L,4.0-11.0,2023-05-08 02:54:00,No
+LO40097,Glucose,11.0,mmol/L,3.9-6.1,2023-05-08 03:04:00,No
+LO40098,Creatinine,1.69,mg/dL,0.7-1.3,2023-04-30 01:58:00,Yes
+LO40099,Hemoglobin,11.9,g/dL,12.0-16.0,2023-04-30 04:50:00,No
+LO40100,Creatinine,1.51,mg/dL,0.7-1.3,2023-04-30 04:30:00,Yes
+LO40101,Creatinine,1.59,mg/dL,0.7-1.3,2023-05-31 06:38:00,Yes
+LO40102,Complete Blood Count,1.97,mg/dL,0.7-1.3,2023-05-31 07:58:00,Yes
+LO40103,Creatinine,1.32,mg/dL,0.7-1.3,2023-05-31 05:25:00,Yes
+LO40104,Alanine Transaminase,1.8,mg/dL,0.7-1.3,2023-05-23 05:02:00,Yes
+LO40105,Creatinine,1.58,mg/dL,0.7-1.3,2023-05-23 05:49:00,Yes
+LO40106,Hemoglobin,15.8,g/dL,12.0-16.0,2023-05-12 07:41:00,No
+LO40107,Hemoglobin,14.3,g/dL,12.0-16.0,2023-03-27 02:59:00,No
+LO40108,Glucose,6.4,mmol/L,3.9-6.1,2023-08-15 06:00:00,No
+LO40109,Creatinine,1.03,mg/dL,0.7-1.3,2023-12-21 08:17:00,No
+LO40110,Creatinine,2.27,mg/dL,0.7-1.3,2023-05-20 04:37:00,Yes
+LO40111,Creatinine,0.83,mg/dL,0.7-1.3,2023-09-27 02:31:00,No
+LO40112,Glucose,3.9,mmol/L,3.9-6.1,2023-09-27 04:43:00,No
+LO40113,Glucose,5.8,mmol/L,3.9-6.1,2023-07-16 06:12:00,No
+LO40114,Alanine Transaminase,2.31,mg/dL,0.7-1.3,2023-07-16 02:44:00,Yes
+LO40115,Glucose,3.8,mmol/L,3.9-6.1,2023-07-16 02:56:00,No
+LO40116,Complete Blood Count,1.13,mg/dL,0.7-1.3,2023-06-21 08:53:00,No
+LO40117,Hemoglobin,14.1,g/dL,12.0-16.0,2023-06-21 03:41:00,No
+LO40118,White Blood Cell Count,3.3,10^9/L,4.0-11.0,2023-06-21 09:13:00,No
+LO40119,Complete Blood Count,0.51,mg/dL,0.7-1.3,2023-06-21 08:31:00,Yes
+LO40120,Glucose,12.6,mmol/L,3.9-6.1,2023-10-12 08:01:00,No
+LO40121,Glucose,4.0,mmol/L,3.9-6.1,2023-10-12 06:03:00,No
+LO40122,Alanine Transaminase,1.03,mg/dL,0.7-1.3,2023-10-12 04:02:00,No
+LO40123,Glucose,11.5,mmol/L,3.9-6.1,2023-10-12 06:37:00,No
+LO40124,Complete Blood Count,1.98,mg/dL,0.7-1.3,2023-11-19 06:16:00,Yes
+LO40125,White Blood Cell Count,13.6,10^9/L,4.0-11.0,2023-03-12 03:19:00,No
+LO40126,Alanine Transaminase,1.83,mg/dL,0.7-1.3,2023-03-12 05:43:00,Yes
+LO40127,White Blood Cell Count,4.0,10^9/L,4.0-11.0,2023-03-12 03:04:00,No
+LO40128,Glucose,11.3,mmol/L,3.9-6.1,2023-04-28 08:36:00,No
+LO40129,Hemoglobin,15.9,g/dL,12.0-16.0,2023-04-28 04:11:00,No
+LO40130,White Blood Cell Count,7.8,10^9/L,4.0-11.0,2023-12-12 08:30:00,No
+LO40131,Hemoglobin,11.8,g/dL,12.0-16.0,2023-12-12 06:33:00,No
+LO40132,Complete Blood Count,0.63,mg/dL,0.7-1.3,2023-12-12 03:59:00,Yes
+LO40133,Glucose,4.9,mmol/L,3.9-6.1,2023-12-12 07:37:00,No
+LO40134,Creatinine,0.65,mg/dL,0.7-1.3,2023-01-27 06:22:00,Yes
+LO40135,Hemoglobin,15.4,g/dL,12.0-16.0,2023-01-27 04:23:00,No
+LO40136,Alanine Transaminase,1.65,mg/dL,0.7-1.3,2023-01-27 07:37:00,Yes
+LO40137,White Blood Cell Count,10.9,10^9/L,4.0-11.0,2023-12-08 04:49:00,No
+LO40138,White Blood Cell Count,5.3,10^9/L,4.0-11.0,2023-12-08 05:31:00,No
+LO40139,Complete Blood Count,2.37,mg/dL,0.7-1.3,2023-12-08 04:16:00,Yes
+LO40140,Alanine Transaminase,1.27,mg/dL,0.7-1.3,2023-12-08 03:28:00,No
+LO40141,Complete Blood Count,1.4,mg/dL,0.7-1.3,2023-12-13 04:22:00,Yes
+LO40142,Hemoglobin,11.6,g/dL,12.0-16.0,2023-03-09 08:11:00,No
+LO40143,Creatinine,1.22,mg/dL,0.7-1.3,2023-11-24 07:00:00,No
+LO40144,Alanine Transaminase,0.63,mg/dL,0.7-1.3,2023-11-24 03:33:00,Yes
+LO40145,Creatinine,1.95,mg/dL,0.7-1.3,2023-04-25 05:49:00,Yes
+LO40146,Hemoglobin,14.8,g/dL,12.0-16.0,2023-04-25 06:51:00,No
+LO40147,Complete Blood Count,0.91,mg/dL,0.7-1.3,2023-04-25 03:17:00,No
+LO40148,Complete Blood Count,2.26,mg/dL,0.7-1.3,2023-05-10 05:31:00,Yes
+LO40149,Glucose,4.5,mmol/L,3.9-6.1,2023-02-14 06:42:00,No
+LO40150,Complete Blood Count,0.75,mg/dL,0.7-1.3,2023-02-14 08:18:00,No
+LO40151,Complete Blood Count,1.3,mg/dL,0.7-1.3,2023-02-14 03:18:00,No
+LO40152,Glucose,4.2,mmol/L,3.9-6.1,2023-02-14 08:56:00,No
+LO40153,Creatinine,1.14,mg/dL,0.7-1.3,2023-02-12 08:18:00,No
+LO40154,Complete Blood Count,1.01,mg/dL,0.7-1.3,2023-02-12 05:43:00,No
+LO40155,Complete Blood Count,1.66,mg/dL,0.7-1.3,2023-06-27 07:42:00,Yes
+LO40156,Creatinine,2.06,mg/dL,0.7-1.3,2023-06-27 03:20:00,Yes
+LO40157,Complete Blood Count,1.45,mg/dL,0.7-1.3,2023-02-21 04:26:00,Yes
+LO40158,Hemoglobin,13.1,g/dL,12.0-16.0,2023-02-21 02:27:00,No
+LO40159,Hemoglobin,14.1,g/dL,12.0-16.0,2023-02-21 05:11:00,No
+LO40160,White Blood Cell Count,10.7,10^9/L,4.0-11.0,2023-06-13 08:25:00,No
+LO40161,White Blood Cell Count,8.4,10^9/L,4.0-11.0,2023-06-13 06:57:00,No
+LO40162,Alanine Transaminase,2.47,mg/dL,0.7-1.3,2023-06-13 01:58:00,Yes
+LO40163,Creatinine,1.77,mg/dL,0.7-1.3,2023-06-13 04:28:00,Yes
+LO40164,Creatinine,1.03,mg/dL,0.7-1.3,2023-09-01 05:31:00,No
+LO40165,Glucose,6.0,mmol/L,3.9-6.1,2023-09-01 06:17:00,No
+LO40166,White Blood Cell Count,11.0,10^9/L,4.0-11.0,2023-09-01 04:38:00,No
+LO40167,White Blood Cell Count,13.0,10^9/L,4.0-11.0,2023-09-01 04:09:00,No
+LO40168,Creatinine,2.09,mg/dL,0.7-1.3,2023-09-08 02:35:00,Yes
+LO40169,Glucose,13.9,mmol/L,3.9-6.1,2023-09-08 04:34:00,No
+LO40170,Complete Blood Count,1.61,mg/dL,0.7-1.3,2023-09-08 06:53:00,Yes
+LO40171,Hemoglobin,13.9,g/dL,12.0-16.0,2023-09-08 05:38:00,No
+LO40172,Creatinine,0.57,mg/dL,0.7-1.3,2023-04-15 09:51:00,Yes
+LO40173,White Blood Cell Count,8.4,10^9/L,4.0-11.0,2023-09-16 03:45:00,No
+LO40174,Glucose,7.8,mmol/L,3.9-6.1,2023-09-16 06:11:00,No
+LO40175,Creatinine,0.68,mg/dL,0.7-1.3,2023-01-23 03:19:00,Yes
+LO40176,Creatinine,0.86,mg/dL,0.7-1.3,2023-01-23 03:39:00,No
+LO40177,White Blood Cell Count,7.7,10^9/L,4.0-11.0,2023-02-11 08:38:00,No
+LO40178,Glucose,8.5,mmol/L,3.9-6.1,2023-01-11 10:00:00,No
+LO40179,White Blood Cell Count,5.5,10^9/L,4.0-11.0,2023-04-03 05:49:00,No
+LO40180,Complete Blood Count,1.47,mg/dL,0.7-1.3,2023-04-03 03:54:00,Yes
+LO40181,Hemoglobin,15.5,g/dL,12.0-16.0,2023-02-27 07:24:00,No
+LO40182,Hemoglobin,15.7,g/dL,12.0-16.0,2023-09-03 07:29:00,No
+LO40183,Creatinine,2.08,mg/dL,0.7-1.3,2023-09-03 02:18:00,Yes
+LO40184,Glucose,10.8,mmol/L,3.9-6.1,2023-02-09 03:21:00,No
+LO40185,Glucose,5.2,mmol/L,3.9-6.1,2023-02-09 08:35:00,No
+LO40186,Complete Blood Count,0.52,mg/dL,0.7-1.3,2023-02-09 07:49:00,Yes
+LO40187,Creatinine,1.69,mg/dL,0.7-1.3,2023-02-09 02:38:00,Yes
+LO40188,Hemoglobin,12.9,g/dL,12.0-16.0,2023-06-23 07:26:00,No
+LO40189,White Blood Cell Count,3.6,10^9/L,4.0-11.0,2023-06-23 04:06:00,No
+LO40190,Hemoglobin,13.3,g/dL,12.0-16.0,2023-06-23 05:55:00,No
+LO40191,White Blood Cell Count,8.9,10^9/L,4.0-11.0,2023-11-09 05:01:00,No
+LO40192,Hemoglobin,11.7,g/dL,12.0-16.0,2023-07-31 04:35:00,No
+LO40193,Creatinine,1.54,mg/dL,0.7-1.3,2023-07-31 05:08:00,Yes
+LO40194,Hemoglobin,9.0,g/dL,12.0-16.0,2023-07-31 03:18:00,No
+LO40195,Creatinine,0.98,mg/dL,0.7-1.3,2023-03-16 01:56:00,No
+LO40196,Glucose,8.7,mmol/L,3.9-6.1,2023-03-16 01:57:00,No
+LO40197,Glucose,14.5,mmol/L,3.9-6.1,2023-03-18 05:13:00,No
+LO40198,Hemoglobin,14.8,g/dL,12.0-16.0,2023-01-02 03:16:00,No
+LO40199,Complete Blood Count,1.55,mg/dL,0.7-1.3,2023-01-02 07:33:00,Yes
+LO40200,Complete Blood Count,0.91,mg/dL,0.7-1.3,2023-04-02 08:57:00,No
+LO40201,Complete Blood Count,2.47,mg/dL,0.7-1.3,2023-04-02 04:32:00,Yes
+LO40202,Creatinine,1.46,mg/dL,0.7-1.3,2023-04-02 07:22:00,Yes
+LO40203,Glucose,8.1,mmol/L,3.9-6.1,2023-04-02 02:27:00,No
+LO40204,Alanine Transaminase,1.73,mg/dL,0.7-1.3,2023-07-06 06:43:00,Yes
+LO40205,White Blood Cell Count,7.5,10^9/L,4.0-11.0,2023-07-06 04:24:00,No
+LO40206,Alanine Transaminase,1.93,mg/dL,0.7-1.3,2023-04-29 06:47:00,Yes
+LO40207,White Blood Cell Count,10.7,10^9/L,4.0-11.0,2023-10-26 02:20:00,No
+LO40208,Hemoglobin,12.3,g/dL,12.0-16.0,2023-10-26 07:39:00,No
+LO40209,Alanine Transaminase,1.65,mg/dL,0.7-1.3,2023-01-29 04:21:00,Yes
+LO40210,Alanine Transaminase,1.13,mg/dL,0.7-1.3,2023-01-29 03:48:00,No
+LO40211,Complete Blood Count,2.34,mg/dL,0.7-1.3,2023-02-25 02:52:00,Yes
+LO40212,Creatinine,2.21,mg/dL,0.7-1.3,2023-02-25 08:39:00,Yes
+LO40213,Creatinine,1.83,mg/dL,0.7-1.3,2023-02-25 08:35:00,Yes
+LO40214,White Blood Cell Count,9.8,10^9/L,4.0-11.0,2023-02-25 04:20:00,No
+LO40215,Complete Blood Count,1.48,mg/dL,0.7-1.3,2023-06-21 05:36:00,Yes
+LO40216,White Blood Cell Count,14.5,10^9/L,4.0-11.0,2023-06-21 08:45:00,No
+LO40217,White Blood Cell Count,5.6,10^9/L,4.0-11.0,2023-06-21 07:38:00,No
+LO40218,Alanine Transaminase,2.27,mg/dL,0.7-1.3,2023-01-18 03:55:00,Yes
+LO40219,Glucose,8.4,mmol/L,3.9-6.1,2023-01-18 05:40:00,No
+LO40220,Complete Blood Count,1.86,mg/dL,0.7-1.3,2023-01-18 06:15:00,Yes
+LO40221,Glucose,9.9,mmol/L,3.9-6.1,2023-06-15 02:53:00,No
+LO40222,Complete Blood Count,2.5,mg/dL,0.7-1.3,2023-06-15 08:20:00,Yes
+LO40223,White Blood Cell Count,3.3,10^9/L,4.0-11.0,2023-06-15 04:56:00,No
+LO40224,Glucose,13.1,mmol/L,3.9-6.1,2023-06-15 05:22:00,No
+LO40225,Glucose,14.7,mmol/L,3.9-6.1,2023-02-20 06:36:00,No
+LO40226,Alanine Transaminase,0.55,mg/dL,0.7-1.3,2023-07-20 08:11:00,Yes
+LO40227,Complete Blood Count,2.26,mg/dL,0.7-1.3,2023-07-20 07:58:00,Yes
+LO40228,White Blood Cell Count,4.7,10^9/L,4.0-11.0,2023-12-25 02:41:00,No
+LO40229,Complete Blood Count,1.4,mg/dL,0.7-1.3,2023-12-25 05:16:00,Yes
+LO40230,Hemoglobin,11.5,g/dL,12.0-16.0,2023-12-25 04:02:00,No
+LO40231,Glucose,3.7,mmol/L,3.9-6.1,2023-01-02 04:02:00,No
+LO40232,Alanine Transaminase,1.17,mg/dL,0.7-1.3,2023-01-02 04:04:00,No
+LO40233,Glucose,10.5,mmol/L,3.9-6.1,2023-01-02 07:56:00,No
+LO40234,Complete Blood Count,2.47,mg/dL,0.7-1.3,2023-01-02 02:36:00,Yes
+LO40235,Alanine Transaminase,2.19,mg/dL,0.7-1.3,2023-05-19 08:58:00,Yes
+LO40236,Creatinine,0.52,mg/dL,0.7-1.3,2023-05-19 09:29:00,Yes
+LO40237,White Blood Cell Count,9.5,10^9/L,4.0-11.0,2023-05-19 03:55:00,No
+LO40238,Alanine Transaminase,2.5,mg/dL,0.7-1.3,2023-08-18 06:30:00,Yes
+LO40239,Hemoglobin,14.6,g/dL,12.0-16.0,2023-08-18 09:34:00,No
+LO40240,Alanine Transaminase,0.57,mg/dL,0.7-1.3,2023-08-18 04:45:00,Yes
+LO40241,Hemoglobin,15.4,g/dL,12.0-16.0,2023-08-21 03:51:00,No
+LO40242,Alanine Transaminase,0.6,mg/dL,0.7-1.3,2023-07-01 03:32:00,Yes
+LO40243,Hemoglobin,14.4,g/dL,12.0-16.0,2023-07-01 07:15:00,No
+LO40244,White Blood Cell Count,3.4,10^9/L,4.0-11.0,2023-07-01 09:02:00,No
+LO40245,Complete Blood Count,2.23,mg/dL,0.7-1.3,2023-07-01 02:27:00,Yes
+LO40246,Creatinine,1.28,mg/dL,0.7-1.3,2023-05-02 09:11:00,No
+LO40247,Creatinine,1.12,mg/dL,0.7-1.3,2023-02-05 05:20:00,No
+LO40248,Complete Blood Count,0.54,mg/dL,0.7-1.3,2023-02-12 02:45:00,Yes
+LO40249,Creatinine,1.56,mg/dL,0.7-1.3,2023-05-28 07:28:00,Yes
+LO40250,Glucose,7.2,mmol/L,3.9-6.1,2023-05-28 06:37:00,No
+LO40251,Creatinine,2.49,mg/dL,0.7-1.3,2023-05-28 04:34:00,Yes
+LO40252,Creatinine,1.13,mg/dL,0.7-1.3,2023-05-12 06:18:00,No
+LO40253,Alanine Transaminase,1.56,mg/dL,0.7-1.3,2023-05-12 01:51:00,Yes
+LO40254,Hemoglobin,9.4,g/dL,12.0-16.0,2023-11-19 01:52:00,No
+LO40255,Complete Blood Count,1.86,mg/dL,0.7-1.3,2023-11-19 06:00:00,Yes
+LO40256,Creatinine,1.24,mg/dL,0.7-1.3,2023-11-19 03:52:00,No
+LO40257,Creatinine,2.38,mg/dL,0.7-1.3,2023-10-20 02:57:00,Yes
+LO40258,Alanine Transaminase,1.87,mg/dL,0.7-1.3,2023-09-12 03:48:00,Yes
+LO40259,Hemoglobin,14.5,g/dL,12.0-16.0,2023-07-20 08:09:00,No
+LO40260,Complete Blood Count,2.05,mg/dL,0.7-1.3,2023-07-20 06:40:00,Yes
+LO40261,Glucose,10.0,mmol/L,3.9-6.1,2023-07-20 07:33:00,No
+LO40262,Alanine Transaminase,1.22,mg/dL,0.7-1.3,2023-07-20 04:44:00,No
+LO40263,Creatinine,1.07,mg/dL,0.7-1.3,2023-04-04 05:07:00,No
+LO40264,Hemoglobin,10.0,g/dL,12.0-16.0,2023-04-04 08:05:00,No
+LO40265,Creatinine,0.87,mg/dL,0.7-1.3,2023-04-04 04:20:00,No
+LO40266,Glucose,6.3,mmol/L,3.9-6.1,2023-02-03 07:11:00,No
+LO40267,Hemoglobin,14.2,g/dL,12.0-16.0,2023-10-28 08:59:00,No
+LO40268,Alanine Transaminase,2.46,mg/dL,0.7-1.3,2023-10-28 09:33:00,Yes
+LO40269,Complete Blood Count,2.44,mg/dL,0.7-1.3,2023-10-28 07:38:00,Yes
+LO40270,White Blood Cell Count,9.9,10^9/L,4.0-11.0,2023-10-28 03:35:00,No
+LO40271,White Blood Cell Count,13.6,10^9/L,4.0-11.0,2023-01-02 05:13:00,No
+LO40272,White Blood Cell Count,9.7,10^9/L,4.0-11.0,2023-01-02 05:14:00,No
+LO40273,White Blood Cell Count,10.7,10^9/L,4.0-11.0,2023-01-02 06:53:00,No
+LO40274,Alanine Transaminase,1.34,mg/dL,0.7-1.3,2023-01-26 07:20:00,Yes
+LO40275,Creatinine,1.41,mg/dL,0.7-1.3,2023-01-26 07:30:00,Yes
+LO40276,Creatinine,1.63,mg/dL,0.7-1.3,2023-12-08 03:59:00,Yes
+LO40277,White Blood Cell Count,4.5,10^9/L,4.0-11.0,2023-12-08 05:01:00,No
+LO40278,Creatinine,1.37,mg/dL,0.7-1.3,2023-12-08 06:21:00,Yes
+LO40279,Hemoglobin,13.5,g/dL,12.0-16.0,2023-12-08 07:42:00,No
+LO40280,Complete Blood Count,2.29,mg/dL,0.7-1.3,2023-12-08 06:00:00,Yes
+LO40281,Glucose,7.1,mmol/L,3.9-6.1,2023-12-08 05:34:00,No
+LO40282,Complete Blood Count,2.19,mg/dL,0.7-1.3,2023-09-11 06:21:00,Yes
+LO40283,Complete Blood Count,1.34,mg/dL,0.7-1.3,2023-09-11 08:53:00,Yes
+LO40284,Complete Blood Count,1.97,mg/dL,0.7-1.3,2023-02-23 08:05:00,Yes
+LO40285,Alanine Transaminase,2.21,mg/dL,0.7-1.3,2023-11-04 04:19:00,Yes
+LO40286,Alanine Transaminase,1.04,mg/dL,0.7-1.3,2023-11-04 06:33:00,No
+LO40287,Creatinine,0.77,mg/dL,0.7-1.3,2023-11-04 06:29:00,No
+LO40288,Creatinine,1.22,mg/dL,0.7-1.3,2023-11-04 06:34:00,No
+LO40289,Complete Blood Count,1.42,mg/dL,0.7-1.3,2023-12-23 09:50:00,Yes
+LO40290,Creatinine,2.49,mg/dL,0.7-1.3,2023-12-23 04:04:00,Yes
+LO40291,Glucose,14.2,mmol/L,3.9-6.1,2023-12-23 05:36:00,No
+LO40292,Creatinine,1.28,mg/dL,0.7-1.3,2023-03-18 07:56:00,No
+LO40293,Hemoglobin,14.6,g/dL,12.0-16.0,2023-03-18 05:23:00,No
+LO40294,Hemoglobin,13.7,g/dL,12.0-16.0,2023-03-18 04:17:00,No
+LO40295,Glucose,4.9,mmol/L,3.9-6.1,2023-12-06 04:25:00,No
+LO40296,Hemoglobin,11.8,g/dL,12.0-16.0,2023-12-06 05:03:00,No
+LO40297,White Blood Cell Count,3.7,10^9/L,4.0-11.0,2023-12-06 06:22:00,No
+LO40298,Glucose,12.8,mmol/L,3.9-6.1,2023-07-02 09:15:00,No
+LO40299,Complete Blood Count,2.12,mg/dL,0.7-1.3,2023-07-02 04:14:00,Yes
+LO40300,White Blood Cell Count,12.3,10^9/L,4.0-11.0,2023-07-02 04:51:00,No
+LO40301,Creatinine,0.89,mg/dL,0.7-1.3,2023-09-26 06:14:00,No
+LO40302,Creatinine,1.71,mg/dL,0.7-1.3,2023-09-26 01:44:00,Yes
+LO40303,Alanine Transaminase,0.95,mg/dL,0.7-1.3,2023-09-26 03:20:00,No
+LO40304,Hemoglobin,10.2,g/dL,12.0-16.0,2023-03-03 06:35:00,No
+LO40305,Complete Blood Count,1.67,mg/dL,0.7-1.3,2023-03-03 05:43:00,Yes
+LO40306,Alanine Transaminase,1.66,mg/dL,0.7-1.3,2023-03-03 05:24:00,Yes
+LO40307,Complete Blood Count,1.19,mg/dL,0.7-1.3,2023-03-03 08:30:00,No
+LO40308,Complete Blood Count,1.2,mg/dL,0.7-1.3,2023-09-12 07:05:00,No
+LO40309,Alanine Transaminase,0.92,mg/dL,0.7-1.3,2023-09-13 07:40:00,No
+LO40310,Complete Blood Count,0.93,mg/dL,0.7-1.3,2023-11-15 05:46:00,No
+LO40311,Glucose,6.6,mmol/L,3.9-6.1,2023-08-29 05:47:00,No
+LO40312,White Blood Cell Count,10.5,10^9/L,4.0-11.0,2023-02-11 07:14:00,No
+LO40313,Complete Blood Count,1.89,mg/dL,0.7-1.3,2023-02-11 05:30:00,Yes
+LO40314,Hemoglobin,15.3,g/dL,12.0-16.0,2023-02-11 08:13:00,No
+LO40315,White Blood Cell Count,9.9,10^9/L,4.0-11.0,2023-02-11 02:00:00,No
+LO40316,Complete Blood Count,1.58,mg/dL,0.7-1.3,2023-05-11 02:47:00,Yes
+LO40317,White Blood Cell Count,6.2,10^9/L,4.0-11.0,2023-05-11 07:03:00,No
+LO40318,Creatinine,2.45,mg/dL,0.7-1.3,2023-05-11 06:59:00,Yes
+LO40319,Glucose,14.9,mmol/L,3.9-6.1,2023-09-09 04:54:00,No
+LO40320,Alanine Transaminase,0.81,mg/dL,0.7-1.3,2023-10-27 08:20:00,No
+LO40321,White Blood Cell Count,11.7,10^9/L,4.0-11.0,2023-10-27 04:18:00,No
+LO40322,Creatinine,2.27,mg/dL,0.7-1.3,2023-10-27 09:40:00,Yes
+LO40323,White Blood Cell Count,5.9,10^9/L,4.0-11.0,2023-10-27 06:46:00,No
+LO40324,Complete Blood Count,2.13,mg/dL,0.7-1.3,2023-10-12 07:32:00,Yes
+LO40325,Hemoglobin,14.3,g/dL,12.0-16.0,2023-10-12 04:24:00,No
+LO40326,Hemoglobin,14.5,g/dL,12.0-16.0,2023-10-12 03:26:00,No
+LO40327,Complete Blood Count,0.82,mg/dL,0.7-1.3,2023-11-25 05:00:00,No
+LO40328,Alanine Transaminase,1.06,mg/dL,0.7-1.3,2023-11-25 08:05:00,No
+LO40329,Hemoglobin,13.5,g/dL,12.0-16.0,2023-11-25 07:48:00,No
+LO40330,Hemoglobin,13.9,g/dL,12.0-16.0,2023-09-02 07:00:00,No
+LO40331,Hemoglobin,14.9,g/dL,12.0-16.0,2023-09-02 07:55:00,No
+LO40332,Complete Blood Count,1.38,mg/dL,0.7-1.3,2023-09-02 04:44:00,Yes
+LO40333,White Blood Cell Count,9.0,10^9/L,4.0-11.0,2023-09-02 06:32:00,No
+LO40334,Complete Blood Count,1.26,mg/dL,0.7-1.3,2023-04-02 03:34:00,No
+LO40335,Creatinine,0.7,mg/dL,0.7-1.3,2023-07-26 05:41:00,No
+LO40336,Creatinine,1.83,mg/dL,0.7-1.3,2023-07-26 05:26:00,Yes
+LO40337,Complete Blood Count,0.54,mg/dL,0.7-1.3,2023-07-26 02:34:00,Yes
+LO40338,Complete Blood Count,2.11,mg/dL,0.7-1.3,2023-07-26 06:32:00,Yes
+LO40339,White Blood Cell Count,8.5,10^9/L,4.0-11.0,2023-07-08 04:33:00,No
+LO40340,Glucose,9.3,mmol/L,3.9-6.1,2023-07-08 06:03:00,No
+LO40341,Glucose,3.9,mmol/L,3.9-6.1,2023-03-07 04:51:00,No
+LO40342,Glucose,10.9,mmol/L,3.9-6.1,2023-03-07 04:23:00,No
+LO40343,Complete Blood Count,1.52,mg/dL,0.7-1.3,2023-03-07 04:34:00,Yes
+LO40344,Creatinine,2.41,mg/dL,0.7-1.3,2023-03-07 06:23:00,Yes
+LO40345,Alanine Transaminase,1.95,mg/dL,0.7-1.3,2023-11-27 04:27:00,Yes
+LO40346,Hemoglobin,10.2,g/dL,12.0-16.0,2023-11-27 04:20:00,No
+LO40347,Creatinine,2.5,mg/dL,0.7-1.3,2023-05-06 04:37:00,Yes
+LO40348,Complete Blood Count,0.93,mg/dL,0.7-1.3,2023-05-06 02:56:00,No
+LO40349,Glucose,12.7,mmol/L,3.9-6.1,2023-05-06 05:02:00,No
+LO40350,Hemoglobin,8.8,g/dL,12.0-16.0,2023-05-06 01:51:00,No
+LO40351,Alanine Transaminase,2.34,mg/dL,0.7-1.3,2023-12-21 02:49:00,Yes
+LO40352,Glucose,3.2,mmol/L,3.9-6.1,2023-12-21 09:23:00,No
+LO40353,Glucose,6.2,mmol/L,3.9-6.1,2023-06-03 07:07:00,No
+LO40354,Alanine Transaminase,2.21,mg/dL,0.7-1.3,2023-04-19 02:13:00,Yes
+LO40355,Creatinine,2.17,mg/dL,0.7-1.3,2023-04-19 03:57:00,Yes
+LO40356,Alanine Transaminase,2.49,mg/dL,0.7-1.3,2023-04-19 01:46:00,Yes
+LO40357,Complete Blood Count,0.67,mg/dL,0.7-1.3,2023-04-19 04:56:00,Yes
+LO40358,Complete Blood Count,1.72,mg/dL,0.7-1.3,2023-09-15 06:58:00,Yes
+LO40359,Hemoglobin,11.9,g/dL,12.0-16.0,2023-09-15 04:44:00,No
+LO40360,Hemoglobin,16.0,g/dL,12.0-16.0,2023-06-30 06:53:00,No
+LO40361,White Blood Cell Count,13.2,10^9/L,4.0-11.0,2023-06-30 06:16:00,No
+LO40362,Alanine Transaminase,1.2,mg/dL,0.7-1.3,2023-03-22 03:51:00,No
+LO40363,Creatinine,1.3,mg/dL,0.7-1.3,2023-03-22 03:15:00,No
+LO40364,Creatinine,1.83,mg/dL,0.7-1.3,2023-03-22 03:09:00,Yes
+LO40365,Complete Blood Count,1.18,mg/dL,0.7-1.3,2023-04-07 09:44:00,No
+LO40366,Creatinine,1.5,mg/dL,0.7-1.3,2023-04-07 04:39:00,Yes
+LO40367,Alanine Transaminase,1.1,mg/dL,0.7-1.3,2023-04-07 04:53:00,No
+LO40368,White Blood Cell Count,7.4,10^9/L,4.0-11.0,2023-04-07 03:07:00,No
+LO40369,White Blood Cell Count,7.2,10^9/L,4.0-11.0,2023-08-19 07:21:00,No
+LO40370,Alanine Transaminase,2.2,mg/dL,0.7-1.3,2023-05-12 07:38:00,Yes
+LO40371,Creatinine,1.97,mg/dL,0.7-1.3,2023-05-12 02:37:00,Yes
+LO40372,Creatinine,2.03,mg/dL,0.7-1.3,2023-10-02 07:05:00,Yes
+LO40373,Hemoglobin,12.2,g/dL,12.0-16.0,2023-10-02 06:36:00,No
+LO40374,Complete Blood Count,0.63,mg/dL,0.7-1.3,2023-10-02 07:58:00,Yes
+LO40375,Glucose,13.5,mmol/L,3.9-6.1,2023-05-20 06:40:00,No
+LO40376,Alanine Transaminase,1.01,mg/dL,0.7-1.3,2023-05-20 02:45:00,No
+LO40377,Alanine Transaminase,1.09,mg/dL,0.7-1.3,2023-05-20 08:54:00,No
+LO40378,Complete Blood Count,1.38,mg/dL,0.7-1.3,2023-05-20 06:07:00,Yes
+LO40379,White Blood Cell Count,8.1,10^9/L,4.0-11.0,2023-05-17 02:37:00,No
+LO40380,White Blood Cell Count,10.2,10^9/L,4.0-11.0,2023-05-17 05:09:00,No
+LO40381,Hemoglobin,13.9,g/dL,12.0-16.0,2023-05-17 06:10:00,No
+LO40382,Hemoglobin,9.0,g/dL,12.0-16.0,2023-05-17 02:50:00,No
+LO40383,Creatinine,1.36,mg/dL,0.7-1.3,2023-06-03 01:37:00,Yes
+LO40384,Creatinine,0.51,mg/dL,0.7-1.3,2023-05-14 04:31:00,Yes
+LO40385,Alanine Transaminase,0.86,mg/dL,0.7-1.3,2023-05-14 06:51:00,No
+LO40386,Creatinine,1.37,mg/dL,0.7-1.3,2023-05-14 05:02:00,Yes
+LO40387,White Blood Cell Count,8.8,10^9/L,4.0-11.0,2023-05-14 08:19:00,No
+LO40388,Alanine Transaminase,1.71,mg/dL,0.7-1.3,2023-03-18 05:26:00,Yes
+LO40389,Glucose,6.6,mmol/L,3.9-6.1,2023-03-18 04:51:00,No
+LO40390,Complete Blood Count,2.4,mg/dL,0.7-1.3,2023-03-18 04:22:00,Yes
+LO40391,White Blood Cell Count,4.9,10^9/L,4.0-11.0,2023-03-18 02:58:00,No
+LO40392,Glucose,12.4,mmol/L,3.9-6.1,2023-11-18 06:28:00,No
+LO40393,Complete Blood Count,0.84,mg/dL,0.7-1.3,2023-11-18 08:23:00,No
+LO40394,Creatinine,1.68,mg/dL,0.7-1.3,2023-02-09 08:29:00,Yes
+LO40395,White Blood Cell Count,5.1,10^9/L,4.0-11.0,2023-02-09 05:37:00,No
+LO40396,Glucose,12.6,mmol/L,3.9-6.1,2023-02-09 06:43:00,No
+LO40397,Alanine Transaminase,2.22,mg/dL,0.7-1.3,2023-01-20 04:40:00,Yes
+LO40398,White Blood Cell Count,8.9,10^9/L,4.0-11.0,2023-01-20 02:08:00,No
+LO40399,Alanine Transaminase,1.97,mg/dL,0.7-1.3,2023-01-28 07:13:00,Yes
+LO40400,Alanine Transaminase,2.35,mg/dL,0.7-1.3,2023-03-24 02:27:00,Yes
+LO40401,White Blood Cell Count,6.8,10^9/L,4.0-11.0,2023-03-24 06:09:00,No
+LO40402,Complete Blood Count,0.8,mg/dL,0.7-1.3,2023-06-15 07:30:00,No
+LO40403,White Blood Cell Count,9.5,10^9/L,4.0-11.0,2023-06-15 07:56:00,No
+LO40404,Alanine Transaminase,2.21,mg/dL,0.7-1.3,2023-06-15 07:19:00,Yes
+LO40405,Complete Blood Count,0.99,mg/dL,0.7-1.3,2023-06-15 05:49:00,No
+LO40406,Glucose,5.1,mmol/L,3.9-6.1,2023-11-15 04:08:00,No
+LO40407,Creatinine,1.27,mg/dL,0.7-1.3,2023-11-15 03:41:00,No
+LO40408,White Blood Cell Count,12.9,10^9/L,4.0-11.0,2023-05-26 07:59:00,No
+LO40409,Hemoglobin,14.5,g/dL,12.0-16.0,2023-05-26 07:37:00,No
+LO40410,White Blood Cell Count,13.7,10^9/L,4.0-11.0,2023-05-26 05:12:00,No
+LO40411,Complete Blood Count,1.37,mg/dL,0.7-1.3,2023-05-26 04:13:00,Yes
+LO40412,White Blood Cell Count,14.5,10^9/L,4.0-11.0,2023-05-07 04:31:00,No
+LO40413,Complete Blood Count,0.95,mg/dL,0.7-1.3,2023-05-07 05:20:00,No
+LO40414,Creatinine,0.5,mg/dL,0.7-1.3,2023-05-07 09:32:00,Yes
+LO40415,Complete Blood Count,1.44,mg/dL,0.7-1.3,2023-02-01 05:40:00,Yes
+LO40416,White Blood Cell Count,8.6,10^9/L,4.0-11.0,2023-02-01 02:42:00,No
+LO40417,White Blood Cell Count,12.0,10^9/L,4.0-11.0,2023-02-01 04:12:00,No
+LO40418,Glucose,3.2,mmol/L,3.9-6.1,2023-02-01 02:37:00,No
+LO40419,Glucose,7.4,mmol/L,3.9-6.1,2023-01-26 06:18:00,No
+LO40420,Creatinine,2.29,mg/dL,0.7-1.3,2023-07-03 09:53:00,Yes
+LO40421,Alanine Transaminase,0.92,mg/dL,0.7-1.3,2023-02-08 04:46:00,No
+LO40422,White Blood Cell Count,9.5,10^9/L,4.0-11.0,2023-02-08 08:48:00,No
+LO40423,Glucose,7.6,mmol/L,3.9-6.1,2023-02-08 05:48:00,No
+LO40424,Complete Blood Count,1.13,mg/dL,0.7-1.3,2023-03-29 05:11:00,No
+LO40425,Glucose,14.5,mmol/L,3.9-6.1,2023-03-29 03:04:00,No
+LO40426,Creatinine,2.3,mg/dL,0.7-1.3,2023-03-29 02:51:00,Yes
+LO40427,Glucose,4.1,mmol/L,3.9-6.1,2023-06-23 05:29:00,No
+LO40428,Alanine Transaminase,1.84,mg/dL,0.7-1.3,2023-06-23 07:40:00,Yes
+LO40429,Creatinine,0.74,mg/dL,0.7-1.3,2023-06-23 04:34:00,No
+LO40430,White Blood Cell Count,9.2,10^9/L,4.0-11.0,2023-09-28 07:38:00,No
+LO40431,Creatinine,2.44,mg/dL,0.7-1.3,2023-12-12 02:02:00,Yes
+LO40432,Hemoglobin,8.5,g/dL,12.0-16.0,2023-02-04 02:40:00,No
+LO40433,Alanine Transaminase,0.93,mg/dL,0.7-1.3,2023-02-04 08:04:00,No
+LO40434,Glucose,12.4,mmol/L,3.9-6.1,2023-02-04 06:14:00,No
+LO40435,Alanine Transaminase,2.17,mg/dL,0.7-1.3,2023-10-10 04:40:00,Yes
+LO40436,Glucose,11.1,mmol/L,3.9-6.1,2023-10-10 03:55:00,No
+LO40437,Glucose,7.5,mmol/L,3.9-6.1,2023-10-10 05:04:00,No
+LO40438,Glucose,8.3,mmol/L,3.9-6.1,2023-12-08 07:57:00,No
+LO40439,Glucose,5.4,mmol/L,3.9-6.1,2023-12-08 06:58:00,No
+LO40440,Glucose,4.6,mmol/L,3.9-6.1,2023-12-08 06:46:00,No
+LO40441,Creatinine,1.63,mg/dL,0.7-1.3,2023-12-08 08:58:00,Yes
+LO40442,Glucose,14.6,mmol/L,3.9-6.1,2023-10-31 05:46:00,No
+LO40443,Creatinine,0.67,mg/dL,0.7-1.3,2023-10-31 09:27:00,Yes
+LO40444,Creatinine,1.25,mg/dL,0.7-1.3,2023-10-31 07:50:00,No
+LO40445,Creatinine,2.48,mg/dL,0.7-1.3,2023-03-01 04:43:00,Yes
+LO40446,Hemoglobin,12.9,g/dL,12.0-16.0,2023-05-26 03:46:00,No
+LO40447,White Blood Cell Count,5.9,10^9/L,4.0-11.0,2023-05-26 06:15:00,No
+LO40448,Glucose,4.9,mmol/L,3.9-6.1,2023-07-05 02:32:00,No
+LO40449,Hemoglobin,8.8,g/dL,12.0-16.0,2023-01-03 07:44:00,No
+LO40450,White Blood Cell Count,6.9,10^9/L,4.0-11.0,2023-01-03 04:31:00,No
+LO40451,Alanine Transaminase,0.55,mg/dL,0.7-1.3,2023-08-19 02:36:00,Yes
+LO40452,Creatinine,2.36,mg/dL,0.7-1.3,2023-08-19 05:48:00,Yes
+LO40453,Alanine Transaminase,1.8,mg/dL,0.7-1.3,2023-09-17 04:57:00,Yes
+LO40454,Alanine Transaminase,1.43,mg/dL,0.7-1.3,2023-09-17 04:38:00,Yes
+LO40455,Alanine Transaminase,2.4,mg/dL,0.7-1.3,2023-09-17 08:39:00,Yes
+LO40456,Creatinine,1.56,mg/dL,0.7-1.3,2023-09-20 04:34:00,Yes
+LO40457,Complete Blood Count,0.69,mg/dL,0.7-1.3,2023-08-02 07:27:00,Yes
+LO40458,White Blood Cell Count,8.6,10^9/L,4.0-11.0,2023-08-02 06:13:00,No
+LO40459,Creatinine,0.78,mg/dL,0.7-1.3,2023-03-05 03:44:00,No
+LO40460,Complete Blood Count,2.18,mg/dL,0.7-1.3,2023-03-05 07:39:00,Yes
+LO40461,Alanine Transaminase,1.51,mg/dL,0.7-1.3,2023-03-05 06:45:00,Yes
+LO40462,Hemoglobin,8.1,g/dL,12.0-16.0,2023-03-05 03:18:00,No
+LO40463,White Blood Cell Count,13.5,10^9/L,4.0-11.0,2023-10-14 08:44:00,No
+LO40464,Glucose,6.7,mmol/L,3.9-6.1,2023-10-14 07:00:00,No
+LO40465,Glucose,7.5,mmol/L,3.9-6.1,2023-10-14 04:13:00,No
+LO40466,White Blood Cell Count,11.1,10^9/L,4.0-11.0,2023-10-14 03:18:00,No
+LO40467,Hemoglobin,15.9,g/dL,12.0-16.0,2023-09-22 03:55:00,No
+LO40468,Alanine Transaminase,0.58,mg/dL,0.7-1.3,2023-09-22 02:25:00,Yes
+LO40469,Creatinine,1.74,mg/dL,0.7-1.3,2023-07-26 08:35:00,Yes
+LO40470,Creatinine,2.32,mg/dL,0.7-1.3,2023-07-26 07:36:00,Yes
+LO40471,Creatinine,1.01,mg/dL,0.7-1.3,2023-05-09 06:33:00,No
+LO40472,Hemoglobin,11.1,g/dL,12.0-16.0,2023-05-07 07:38:00,No
+LO40473,Glucose,11.0,mmol/L,3.9-6.1,2023-05-07 02:25:00,No
+LO40474,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-05-07 06:37:00,No
+LO40475,Hemoglobin,8.4,g/dL,12.0-16.0,2023-05-07 08:16:00,No
+LO40476,Hemoglobin,13.1,g/dL,12.0-16.0,2023-06-09 07:47:00,No
+LO40477,White Blood Cell Count,13.1,10^9/L,4.0-11.0,2023-06-09 07:35:00,No
+LO40478,Glucose,14.1,mmol/L,3.9-6.1,2023-06-09 06:44:00,No
+LO40479,Hemoglobin,11.5,g/dL,12.0-16.0,2023-06-09 06:30:00,No
+LO40480,Complete Blood Count,2.07,mg/dL,0.7-1.3,2023-11-21 03:50:00,Yes
+LO40481,Creatinine,0.97,mg/dL,0.7-1.3,2023-11-21 06:48:00,No
+LO40482,Hemoglobin,10.3,g/dL,12.0-16.0,2023-11-21 05:21:00,No
+LO40483,Glucose,7.7,mmol/L,3.9-6.1,2023-11-21 03:32:00,No
+LO40484,White Blood Cell Count,6.0,10^9/L,4.0-11.0,2023-08-07 06:40:00,No
+LO40485,Complete Blood Count,1.4,mg/dL,0.7-1.3,2023-08-07 06:49:00,Yes
+LO40486,Hemoglobin,11.3,g/dL,12.0-16.0,2023-08-07 03:00:00,No
+LO40487,Glucose,12.9,mmol/L,3.9-6.1,2023-08-07 03:45:00,No
+LO40488,Hemoglobin,14.1,g/dL,12.0-16.0,2023-08-18 05:34:00,No
+LO40489,Creatinine,1.31,mg/dL,0.7-1.3,2023-08-18 06:24:00,Yes
+LO40490,Alanine Transaminase,1.52,mg/dL,0.7-1.3,2023-08-18 02:59:00,Yes
+LO40491,Creatinine,2.31,mg/dL,0.7-1.3,2023-01-27 07:02:00,Yes
+LO40492,Hemoglobin,10.7,g/dL,12.0-16.0,2023-01-27 04:08:00,No
+LO40493,Alanine Transaminase,1.72,mg/dL,0.7-1.3,2023-01-27 06:26:00,Yes
+LO40494,White Blood Cell Count,4.9,10^9/L,4.0-11.0,2023-01-27 05:44:00,No
+LO40495,Complete Blood Count,0.7,mg/dL,0.7-1.3,2024-01-01 07:20:00,No
+LO40496,Creatinine,1.38,mg/dL,0.7-1.3,2024-01-01 02:28:00,Yes
+LO40497,Glucose,14.9,mmol/L,3.9-6.1,2024-01-01 07:14:00,No
+LO40498,White Blood Cell Count,4.7,10^9/L,4.0-11.0,2023-03-12 09:42:00,No
+LO40499,Creatinine,1.8,mg/dL,0.7-1.3,2023-03-12 07:34:00,Yes
+LO40500,Alanine Transaminase,1.22,mg/dL,0.7-1.3,2023-09-30 01:45:00,No
+LO40501,Creatinine,1.62,mg/dL,0.7-1.3,2023-09-30 05:38:00,Yes
+LO40502,Creatinine,1.91,mg/dL,0.7-1.3,2023-09-30 04:35:00,Yes
+LO40503,White Blood Cell Count,8.8,10^9/L,4.0-11.0,2023-09-30 04:15:00,No
+LO40504,Hemoglobin,13.8,g/dL,12.0-16.0,2023-08-11 04:38:00,No
+LO40505,Alanine Transaminase,1.67,mg/dL,0.7-1.3,2023-04-05 05:09:00,Yes
+LO40506,Alanine Transaminase,1.63,mg/dL,0.7-1.3,2023-04-05 02:42:00,Yes
+LO40507,Complete Blood Count,1.36,mg/dL,0.7-1.3,2023-04-05 01:42:00,Yes
+LO40508,Creatinine,1.12,mg/dL,0.7-1.3,2023-04-05 09:01:00,No
+LO40509,Complete Blood Count,2.21,mg/dL,0.7-1.3,2023-08-07 06:42:00,Yes
+LO40510,Hemoglobin,14.4,g/dL,12.0-16.0,2023-01-21 06:44:00,No
+LO40511,Complete Blood Count,2.14,mg/dL,0.7-1.3,2023-01-21 07:50:00,Yes
+LO40512,Glucose,11.2,mmol/L,3.9-6.1,2023-01-21 06:20:00,No
+LO40513,Glucose,4.9,mmol/L,3.9-6.1,2023-01-21 03:37:00,No
+LO40514,Creatinine,0.59,mg/dL,0.7-1.3,2023-06-30 06:55:00,Yes
+LO40515,Alanine Transaminase,2.0,mg/dL,0.7-1.3,2023-06-30 04:10:00,Yes
+LO40516,Complete Blood Count,0.69,mg/dL,0.7-1.3,2023-06-30 04:58:00,Yes
+LO40517,Hemoglobin,10.9,g/dL,12.0-16.0,2023-06-30 03:30:00,No
+LO40518,Glucose,5.9,mmol/L,3.9-6.1,2023-08-07 06:17:00,No
+LO40519,White Blood Cell Count,7.1,10^9/L,4.0-11.0,2023-08-07 07:48:00,No
+LO40520,Complete Blood Count,1.5,mg/dL,0.7-1.3,2023-08-28 04:19:00,Yes
+LO40521,Alanine Transaminase,0.66,mg/dL,0.7-1.3,2023-08-28 07:37:00,Yes
+LO40522,Alanine Transaminase,1.9,mg/dL,0.7-1.3,2023-08-28 02:10:00,Yes
+LO40523,Creatinine,2.35,mg/dL,0.7-1.3,2023-10-13 06:03:00,Yes
+LO40524,White Blood Cell Count,6.1,10^9/L,4.0-11.0,2023-10-13 07:17:00,No
+LO40525,Complete Blood Count,0.83,mg/dL,0.7-1.3,2023-10-13 07:58:00,No
+LO40526,White Blood Cell Count,12.2,10^9/L,4.0-11.0,2023-10-13 09:50:00,No
+LO40527,Alanine Transaminase,0.54,mg/dL,0.7-1.3,2023-10-23 06:36:00,Yes
+LO40528,White Blood Cell Count,6.5,10^9/L,4.0-11.0,2023-08-22 06:27:00,No
+LO40529,Creatinine,1.69,mg/dL,0.7-1.3,2023-08-22 03:28:00,Yes
+LO40530,White Blood Cell Count,13.5,10^9/L,4.0-11.0,2023-03-06 06:37:00,No
+LO40531,Complete Blood Count,0.76,mg/dL,0.7-1.3,2023-03-06 05:30:00,No
+LO40532,Hemoglobin,13.8,g/dL,12.0-16.0,2023-03-06 09:45:00,No
+LO40533,White Blood Cell Count,10.9,10^9/L,4.0-11.0,2023-03-06 05:08:00,No
+LO40534,Alanine Transaminase,0.54,mg/dL,0.7-1.3,2023-06-16 07:10:00,Yes
+LO40535,White Blood Cell Count,10.4,10^9/L,4.0-11.0,2023-10-10 04:44:00,No
+LO40536,Glucose,3.8,mmol/L,3.9-6.1,2023-10-10 07:55:00,No
+LO40537,Hemoglobin,9.0,g/dL,12.0-16.0,2023-10-10 04:03:00,No
+LO40538,Glucose,14.5,mmol/L,3.9-6.1,2023-10-10 06:01:00,No
+LO40539,Glucose,3.0,mmol/L,3.9-6.1,2023-03-25 05:42:00,No
+LO40540,White Blood Cell Count,7.3,10^9/L,4.0-11.0,2023-04-11 07:55:00,No
+LO40541,White Blood Cell Count,6.2,10^9/L,4.0-11.0,2023-04-11 07:36:00,No
+LO40542,Creatinine,1.8,mg/dL,0.7-1.3,2023-04-11 05:59:00,Yes
+LO40543,Glucose,6.3,mmol/L,3.9-6.1,2023-04-11 04:22:00,No
+LO40544,White Blood Cell Count,3.9,10^9/L,4.0-11.0,2023-04-17 03:16:00,No
+LO40545,Glucose,13.3,mmol/L,3.9-6.1,2023-02-24 05:25:00,No
+LO40546,White Blood Cell Count,5.5,10^9/L,4.0-11.0,2023-02-24 04:40:00,No
+LO40547,Hemoglobin,12.2,g/dL,12.0-16.0,2023-02-24 07:01:00,No
+LO40548,Complete Blood Count,1.77,mg/dL,0.7-1.3,2023-11-06 04:10:00,Yes
+LO40549,Creatinine,2.45,mg/dL,0.7-1.3,2023-02-03 04:37:00,Yes
+LO40550,Alanine Transaminase,1.48,mg/dL,0.7-1.3,2023-03-14 08:26:00,Yes
+LO40551,Creatinine,1.74,mg/dL,0.7-1.3,2023-03-14 03:23:00,Yes
+LO40552,Alanine Transaminase,1.39,mg/dL,0.7-1.3,2023-02-27 07:25:00,Yes
+LO40553,Glucose,4.6,mmol/L,3.9-6.1,2023-02-27 06:32:00,No
+LO40554,Complete Blood Count,1.01,mg/dL,0.7-1.3,2023-09-27 07:05:00,No
+LO40555,Alanine Transaminase,1.38,mg/dL,0.7-1.3,2023-09-27 03:33:00,Yes
+LO40556,Glucose,10.4,mmol/L,3.9-6.1,2023-02-06 09:16:00,No
+LO40557,White Blood Cell Count,9.8,10^9/L,4.0-11.0,2023-02-06 05:19:00,No
+LO40558,Complete Blood Count,1.05,mg/dL,0.7-1.3,2023-02-06 06:46:00,No
+LO40559,White Blood Cell Count,9.3,10^9/L,4.0-11.0,2023-08-05 05:25:00,No
+LO40560,Alanine Transaminase,0.7,mg/dL,0.7-1.3,2023-08-05 05:40:00,No
+LO40561,White Blood Cell Count,5.0,10^9/L,4.0-11.0,2023-10-01 08:57:00,No
+LO40562,Creatinine,2.42,mg/dL,0.7-1.3,2023-10-01 07:55:00,Yes
+LO40563,Creatinine,0.89,mg/dL,0.7-1.3,2023-10-01 07:54:00,No
+LO40564,White Blood Cell Count,10.7,10^9/L,4.0-11.0,2023-01-28 02:48:00,No
+LO40565,Alanine Transaminase,1.73,mg/dL,0.7-1.3,2023-01-28 05:08:00,Yes
+LO40566,Alanine Transaminase,1.26,mg/dL,0.7-1.3,2023-01-28 06:54:00,No
+LO40567,Hemoglobin,14.4,g/dL,12.0-16.0,2023-01-28 02:06:00,No
+LO40568,Creatinine,2.28,mg/dL,0.7-1.3,2023-06-02 09:06:00,Yes
+LO40569,White Blood Cell Count,3.7,10^9/L,4.0-11.0,2023-06-02 09:43:00,No
+LO40570,Complete Blood Count,2.38,mg/dL,0.7-1.3,2023-06-02 04:00:00,Yes
+LO40571,Glucose,13.5,mmol/L,3.9-6.1,2023-06-02 08:16:00,No
+LO40572,Creatinine,2.47,mg/dL,0.7-1.3,2023-06-05 04:36:00,Yes
+LO40573,Hemoglobin,13.7,g/dL,12.0-16.0,2023-08-18 08:25:00,No
+LO40574,Alanine Transaminase,2.05,mg/dL,0.7-1.3,2023-08-18 06:22:00,Yes
+LO40575,Glucose,6.8,mmol/L,3.9-6.1,2023-08-18 06:41:00,No
+LO40576,Complete Blood Count,0.83,mg/dL,0.7-1.3,2023-08-18 04:41:00,No
+LO40577,White Blood Cell Count,8.3,10^9/L,4.0-11.0,2023-02-02 05:04:00,No
+LO40578,Alanine Transaminase,1.12,mg/dL,0.7-1.3,2023-02-02 06:19:00,No
+LO40579,Hemoglobin,12.7,g/dL,12.0-16.0,2023-11-25 06:38:00,No
+LO40580,White Blood Cell Count,6.8,10^9/L,4.0-11.0,2023-11-25 07:18:00,No
+LO40581,Hemoglobin,9.4,g/dL,12.0-16.0,2023-11-25 08:44:00,No
+LO40582,White Blood Cell Count,12.2,10^9/L,4.0-11.0,2023-11-07 03:31:00,No
+LO40583,Alanine Transaminase,1.4,mg/dL,0.7-1.3,2023-11-07 06:49:00,Yes
+LO40584,White Blood Cell Count,3.7,10^9/L,4.0-11.0,2023-12-07 03:31:00,No
+LO40585,Hemoglobin,10.8,g/dL,12.0-16.0,2023-12-07 03:48:00,No
+LO40586,Hemoglobin,15.5,g/dL,12.0-16.0,2023-12-07 04:52:00,No
+LO40587,Complete Blood Count,1.41,mg/dL,0.7-1.3,2023-12-07 08:46:00,Yes
+LO40588,Creatinine,1.33,mg/dL,0.7-1.3,2023-07-04 06:39:00,Yes
+LO40589,Alanine Transaminase,2.09,mg/dL,0.7-1.3,2023-04-13 08:27:00,Yes
+LO40590,Complete Blood Count,1.93,mg/dL,0.7-1.3,2023-04-13 07:55:00,Yes
+LO40591,Glucose,3.0,mmol/L,3.9-6.1,2023-04-13 03:30:00,No
+LO40592,Glucose,7.1,mmol/L,3.9-6.1,2023-04-13 07:17:00,No
+LO40593,Alanine Transaminase,1.23,mg/dL,0.7-1.3,2023-08-22 05:17:00,No
+LO40594,Alanine Transaminase,1.68,mg/dL,0.7-1.3,2023-08-22 05:35:00,Yes
+LO40595,Alanine Transaminase,2.03,mg/dL,0.7-1.3,2023-08-22 05:47:00,Yes
+LO40596,White Blood Cell Count,12.5,10^9/L,4.0-11.0,2023-08-30 06:07:00,No
+LO40597,Hemoglobin,8.4,g/dL,12.0-16.0,2023-08-30 03:31:00,No
+LO40598,Creatinine,0.73,mg/dL,0.7-1.3,2023-08-30 07:44:00,No
+LO40599,Hemoglobin,14.9,g/dL,12.0-16.0,2023-08-30 07:12:00,No
+LO40600,Glucose,12.3,mmol/L,3.9-6.1,2023-08-21 02:52:00,No
+LO40601,Creatinine,2.4,mg/dL,0.7-1.3,2023-08-21 04:49:00,Yes
+LO40602,Hemoglobin,9.2,g/dL,12.0-16.0,2023-08-21 05:47:00,No
+LO40603,Glucose,4.3,mmol/L,3.9-6.1,2023-08-21 03:57:00,No
+LO40604,Alanine Transaminase,1.71,mg/dL,0.7-1.3,2023-12-03 05:01:00,Yes
+LO40605,Complete Blood Count,1.04,mg/dL,0.7-1.3,2023-02-13 05:57:00,No
+LO40606,Complete Blood Count,1.39,mg/dL,0.7-1.3,2023-02-13 07:18:00,Yes
+LO40607,Alanine Transaminase,1.69,mg/dL,0.7-1.3,2023-02-13 07:21:00,Yes
+LO40608,Creatinine,1.64,mg/dL,0.7-1.3,2023-02-13 06:23:00,Yes
+LO40609,White Blood Cell Count,12.9,10^9/L,4.0-11.0,2023-11-26 05:39:00,No
+LO40610,Complete Blood Count,1.58,mg/dL,0.7-1.3,2023-05-10 08:21:00,Yes
+LO40611,Creatinine,2.2,mg/dL,0.7-1.3,2023-05-10 08:30:00,Yes
+LO40612,Creatinine,1.74,mg/dL,0.7-1.3,2023-09-19 04:26:00,Yes
+LO40613,White Blood Cell Count,15.0,10^9/L,4.0-11.0,2023-09-19 08:10:00,No
+LO40614,White Blood Cell Count,3.1,10^9/L,4.0-11.0,2023-02-28 05:28:00,No
+LO40615,Complete Blood Count,0.63,mg/dL,0.7-1.3,2023-02-28 08:32:00,Yes
+LO40616,Creatinine,1.68,mg/dL,0.7-1.3,2023-02-28 05:34:00,Yes
+LO40617,Glucose,13.3,mmol/L,3.9-6.1,2023-10-24 04:08:00,No
+LO40618,Alanine Transaminase,1.05,mg/dL,0.7-1.3,2023-09-19 07:45:00,No
+LO40619,White Blood Cell Count,14.4,10^9/L,4.0-11.0,2023-09-19 04:46:00,No
+LO40620,Alanine Transaminase,1.78,mg/dL,0.7-1.3,2023-09-19 06:05:00,Yes
+LO40621,Creatinine,1.84,mg/dL,0.7-1.3,2023-02-24 03:55:00,Yes
+LO40622,Glucose,10.9,mmol/L,3.9-6.1,2023-02-24 09:57:00,No
+LO40623,Creatinine,1.44,mg/dL,0.7-1.3,2023-02-24 07:14:00,Yes
+LO40624,White Blood Cell Count,4.4,10^9/L,4.0-11.0,2023-02-24 04:53:00,No
+LO40625,Creatinine,1.92,mg/dL,0.7-1.3,2023-03-13 03:41:00,Yes
+LO40626,Complete Blood Count,1.11,mg/dL,0.7-1.3,2023-11-04 05:22:00,No
+LO40627,Complete Blood Count,1.16,mg/dL,0.7-1.3,2023-04-27 06:24:00,No
+LO40628,White Blood Cell Count,13.9,10^9/L,4.0-11.0,2023-04-27 05:07:00,No
+LO40629,Alanine Transaminase,2.5,mg/dL,0.7-1.3,2023-04-27 07:54:00,Yes
+LO40630,Alanine Transaminase,0.54,mg/dL,0.7-1.3,2023-05-23 08:02:00,Yes
+LO40631,White Blood Cell Count,10.7,10^9/L,4.0-11.0,2023-05-23 07:23:00,No
+LO40632,Creatinine,2.24,mg/dL,0.7-1.3,2023-05-17 03:19:00,Yes
+LO40633,Alanine Transaminase,2.02,mg/dL,0.7-1.3,2023-05-17 01:56:00,Yes
+LO40634,Hemoglobin,9.3,g/dL,12.0-16.0,2023-05-17 05:05:00,No
+LO40635,Complete Blood Count,1.98,mg/dL,0.7-1.3,2023-12-29 05:37:00,Yes
+LO40636,Hemoglobin,10.2,g/dL,12.0-16.0,2023-12-29 05:51:00,No
+LO40637,Hemoglobin,11.9,g/dL,12.0-16.0,2023-12-29 02:35:00,No
+LO40638,Hemoglobin,13.6,g/dL,12.0-16.0,2023-12-29 08:29:00,No
+LO40639,Complete Blood Count,0.67,mg/dL,0.7-1.3,2023-09-15 02:45:00,Yes
+LO40640,Complete Blood Count,0.86,mg/dL,0.7-1.3,2023-11-26 05:58:00,No
+LO40641,Glucose,10.6,mmol/L,3.9-6.1,2023-11-26 07:49:00,No
+LO40642,Alanine Transaminase,1.72,mg/dL,0.7-1.3,2023-11-26 05:37:00,Yes
+LO40643,White Blood Cell Count,5.2,10^9/L,4.0-11.0,2023-11-26 05:39:00,No
+LO40644,Complete Blood Count,0.96,mg/dL,0.7-1.3,2023-08-22 02:04:00,No
+LO40645,Glucose,11.4,mmol/L,3.9-6.1,2023-06-08 07:42:00,No
+LO40646,Alanine Transaminase,1.65,mg/dL,0.7-1.3,2023-06-08 03:46:00,Yes
+LO40647,Glucose,11.9,mmol/L,3.9-6.1,2023-12-09 08:18:00,No
+LO40648,Creatinine,1.01,mg/dL,0.7-1.3,2023-12-09 05:27:00,No
+LO40649,Complete Blood Count,1.45,mg/dL,0.7-1.3,2023-09-05 02:50:00,Yes
+LO40650,Hemoglobin,13.0,g/dL,12.0-16.0,2023-03-18 03:56:00,No
+LO40651,Glucose,7.3,mmol/L,3.9-6.1,2023-02-12 03:22:00,No
+LO40652,White Blood Cell Count,5.9,10^9/L,4.0-11.0,2023-02-12 05:06:00,No
+LO40653,Alanine Transaminase,0.8,mg/dL,0.7-1.3,2023-02-12 04:12:00,No
+LO40654,Glucose,4.2,mmol/L,3.9-6.1,2023-08-26 06:28:00,No
+LO40655,Glucose,12.5,mmol/L,3.9-6.1,2023-08-26 06:59:00,No
+LO40656,Alanine Transaminase,1.6,mg/dL,0.7-1.3,2023-08-26 05:21:00,Yes
+LO40657,Creatinine,1.92,mg/dL,0.7-1.3,2023-01-15 01:33:00,Yes
+LO40658,Hemoglobin,13.8,g/dL,12.0-16.0,2023-01-15 06:47:00,No
+LO40659,White Blood Cell Count,3.5,10^9/L,4.0-11.0,2023-12-04 05:06:00,No
+LO40660,Hemoglobin,9.5,g/dL,12.0-16.0,2023-12-04 06:10:00,No
+LO40661,Hemoglobin,14.0,g/dL,12.0-16.0,2023-12-04 05:43:00,No
+LO40662,Complete Blood Count,1.76,mg/dL,0.7-1.3,2023-12-03 07:42:00,Yes
+LO40663,Creatinine,1.26,mg/dL,0.7-1.3,2023-12-03 07:28:00,No
+LO40664,White Blood Cell Count,9.5,10^9/L,4.0-11.0,2023-12-03 03:04:00,No
+LO40665,Hemoglobin,14.0,g/dL,12.0-16.0,2023-12-03 04:17:00,No
+LO40666,Alanine Transaminase,0.67,mg/dL,0.7-1.3,2023-08-26 03:35:00,Yes
+LO40667,Glucose,12.0,mmol/L,3.9-6.1,2023-08-26 05:12:00,No
+LO40668,Glucose,13.0,mmol/L,3.9-6.1,2023-08-26 06:46:00,No
+LO40669,Creatinine,2.01,mg/dL,0.7-1.3,2023-08-26 06:32:00,Yes
+LO40670,Glucose,5.8,mmol/L,3.9-6.1,2023-10-21 08:34:00,No
+LO40671,Alanine Transaminase,0.52,mg/dL,0.7-1.3,2023-10-21 08:00:00,Yes
+LO40672,Complete Blood Count,1.51,mg/dL,0.7-1.3,2023-10-21 07:55:00,Yes
+LO40673,White Blood Cell Count,12.6,10^9/L,4.0-11.0,2023-10-21 07:50:00,No
+LO40674,Hemoglobin,11.6,g/dL,12.0-16.0,2023-02-17 07:09:00,No
+LO40675,Hemoglobin,14.3,g/dL,12.0-16.0,2023-02-17 04:19:00,No
+LO40676,Creatinine,2.35,mg/dL,0.7-1.3,2023-05-07 02:10:00,Yes
+LO40677,Glucose,9.5,mmol/L,3.9-6.1,2023-05-07 03:09:00,No
+LO40678,Hemoglobin,14.2,g/dL,12.0-16.0,2023-05-07 05:50:00,No
+LO40679,White Blood Cell Count,4.5,10^9/L,4.0-11.0,2023-07-08 08:25:00,No
+LO40680,White Blood Cell Count,9.7,10^9/L,4.0-11.0,2023-07-08 03:24:00,No
+LO40681,White Blood Cell Count,10.3,10^9/L,4.0-11.0,2023-03-21 08:54:00,No
+LO40682,Creatinine,2.4,mg/dL,0.7-1.3,2023-03-21 03:49:00,Yes
+LO40683,Hemoglobin,12.9,g/dL,12.0-16.0,2023-03-21 06:21:00,No
+LO40684,Complete Blood Count,0.53,mg/dL,0.7-1.3,2023-03-21 05:07:00,Yes
+LO40685,White Blood Cell Count,12.5,10^9/L,4.0-11.0,2023-01-15 06:29:00,No
+LO40686,Complete Blood Count,1.8,mg/dL,0.7-1.3,2023-01-15 02:32:00,Yes
+LO40687,Hemoglobin,12.8,g/dL,12.0-16.0,2023-01-15 03:02:00,No
+LO40688,Hemoglobin,15.3,g/dL,12.0-16.0,2023-01-15 09:43:00,No
+LO40689,Hemoglobin,8.6,g/dL,12.0-16.0,2023-02-16 07:08:00,No
+LO40690,White Blood Cell Count,11.1,10^9/L,4.0-11.0,2023-05-13 07:49:00,No
+LO40691,White Blood Cell Count,12.2,10^9/L,4.0-11.0,2023-05-13 08:44:00,No
+LO40692,Complete Blood Count,1.69,mg/dL,0.7-1.3,2023-11-24 04:55:00,Yes
+LO40693,Hemoglobin,14.2,g/dL,12.0-16.0,2023-02-22 04:36:00,No
+LO40694,Alanine Transaminase,2.46,mg/dL,0.7-1.3,2023-02-22 05:37:00,Yes
+LO40695,Creatinine,0.77,mg/dL,0.7-1.3,2023-01-28 04:23:00,No
+LO40696,Complete Blood Count,2.22,mg/dL,0.7-1.3,2023-01-28 03:14:00,Yes
+LO40697,Hemoglobin,14.8,g/dL,12.0-16.0,2023-01-28 08:36:00,No
+LO40698,Complete Blood Count,1.87,mg/dL,0.7-1.3,2023-12-12 09:00:00,Yes
+LO40699,White Blood Cell Count,5.8,10^9/L,4.0-11.0,2023-12-12 04:55:00,No
+LO40700,White Blood Cell Count,7.0,10^9/L,4.0-11.0,2023-12-09 06:55:00,No
+LO40701,Glucose,9.7,mmol/L,3.9-6.1,2023-10-20 03:52:00,No
+LO40702,Complete Blood Count,1.06,mg/dL,0.7-1.3,2023-10-20 04:57:00,No
+LO40703,Glucose,4.3,mmol/L,3.9-6.1,2023-10-20 05:53:00,No
+LO40704,Creatinine,1.12,mg/dL,0.7-1.3,2023-07-31 08:27:00,No
+LO40705,Complete Blood Count,1.87,mg/dL,0.7-1.3,2023-07-31 02:44:00,Yes
+LO40706,Complete Blood Count,1.56,mg/dL,0.7-1.3,2023-07-31 02:48:00,Yes
+LO40707,Alanine Transaminase,1.91,mg/dL,0.7-1.3,2023-07-31 02:48:00,Yes
+LO40708,White Blood Cell Count,13.5,10^9/L,4.0-11.0,2023-07-25 07:51:00,No
+LO40709,White Blood Cell Count,3.3,10^9/L,4.0-11.0,2023-07-25 06:06:00,No
+LO40710,Glucose,7.6,mmol/L,3.9-6.1,2023-07-25 02:36:00,No
+LO40711,Glucose,3.1,mmol/L,3.9-6.1,2023-07-08 04:52:00,No
+LO40712,Creatinine,0.54,mg/dL,0.7-1.3,2023-07-08 02:54:00,Yes
+LO40713,Complete Blood Count,2.02,mg/dL,0.7-1.3,2023-07-08 07:04:00,Yes
+LO40714,Complete Blood Count,0.81,mg/dL,0.7-1.3,2023-07-08 04:11:00,No
+LO40715,Complete Blood Count,2.41,mg/dL,0.7-1.3,2023-10-25 05:19:00,Yes
+LO40716,White Blood Cell Count,13.4,10^9/L,4.0-11.0,2023-03-10 03:31:00,No
+LO40717,Complete Blood Count,0.57,mg/dL,0.7-1.3,2023-12-09 07:30:00,Yes
+LO40718,Alanine Transaminase,0.81,mg/dL,0.7-1.3,2023-12-09 05:06:00,No
+LO40719,Hemoglobin,8.4,g/dL,12.0-16.0,2023-12-09 07:42:00,No
+LO40720,Hemoglobin,11.5,g/dL,12.0-16.0,2023-12-09 07:51:00,No
+LO40721,Glucose,3.3,mmol/L,3.9-6.1,2023-12-07 03:22:00,No
+LO40722,Alanine Transaminase,0.76,mg/dL,0.7-1.3,2023-12-07 07:17:00,No
+LO40723,Complete Blood Count,1.26,mg/dL,0.7-1.3,2023-12-07 02:49:00,No
+LO40724,Complete Blood Count,2.12,mg/dL,0.7-1.3,2023-08-19 06:20:00,Yes
+LO40725,Creatinine,1.82,mg/dL,0.7-1.3,2023-08-19 02:22:00,Yes
+LO40726,Alanine Transaminase,1.09,mg/dL,0.7-1.3,2023-03-09 02:44:00,No
+LO40727,Complete Blood Count,1.78,mg/dL,0.7-1.3,2023-03-09 05:49:00,Yes
+LO40728,Glucose,8.0,mmol/L,3.9-6.1,2023-03-09 05:55:00,No
+LO40729,Glucose,5.7,mmol/L,3.9-6.1,2023-03-09 04:54:00,No
+LO40730,Alanine Transaminase,1.71,mg/dL,0.7-1.3,2023-08-31 04:21:00,Yes
+LO40731,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-08-31 05:39:00,No
+LO40732,Complete Blood Count,1.28,mg/dL,0.7-1.3,2023-08-31 06:46:00,No
+LO40733,Creatinine,1.36,mg/dL,0.7-1.3,2023-05-21 01:53:00,Yes
+LO40734,Glucose,7.7,mmol/L,3.9-6.1,2023-05-21 07:01:00,No
+LO40735,Complete Blood Count,2.04,mg/dL,0.7-1.3,2023-05-21 02:27:00,Yes
+LO40736,Creatinine,1.28,mg/dL,0.7-1.3,2023-05-21 05:40:00,No
+LO40737,Complete Blood Count,0.78,mg/dL,0.7-1.3,2023-01-25 05:57:00,No
+LO40738,Alanine Transaminase,1.31,mg/dL,0.7-1.3,2023-09-19 03:56:00,Yes
+LO40739,Alanine Transaminase,2.44,mg/dL,0.7-1.3,2023-03-06 03:38:00,Yes
+LO40740,Alanine Transaminase,2.1,mg/dL,0.7-1.3,2023-09-12 06:31:00,Yes
+LO40741,Creatinine,1.8,mg/dL,0.7-1.3,2023-09-12 04:54:00,Yes
+LO40742,Glucose,7.1,mmol/L,3.9-6.1,2023-06-30 09:04:00,No
+LO40743,White Blood Cell Count,12.4,10^9/L,4.0-11.0,2023-06-30 09:12:00,No
+LO40744,Glucose,6.1,mmol/L,3.9-6.1,2023-06-30 02:06:00,No
+LO40745,Complete Blood Count,2.07,mg/dL,0.7-1.3,2023-03-22 02:28:00,Yes
+LO40746,Creatinine,1.25,mg/dL,0.7-1.3,2023-03-22 03:42:00,No
+LO40747,Creatinine,2.07,mg/dL,0.7-1.3,2023-03-22 02:34:00,Yes
+LO40748,Hemoglobin,8.9,g/dL,12.0-16.0,2023-03-22 09:41:00,No
+LO40749,Creatinine,1.21,mg/dL,0.7-1.3,2023-07-23 05:58:00,No
+LO40750,Alanine Transaminase,1.11,mg/dL,0.7-1.3,2023-11-29 08:59:00,No
+LO40751,Alanine Transaminase,1.88,mg/dL,0.7-1.3,2023-11-21 04:04:00,Yes
+LO40752,White Blood Cell Count,10.6,10^9/L,4.0-11.0,2023-11-21 04:22:00,No
+LO40753,Complete Blood Count,1.02,mg/dL,0.7-1.3,2023-11-21 05:36:00,No
+LO40754,Creatinine,1.38,mg/dL,0.7-1.3,2023-03-21 08:20:00,Yes
+LO40755,Alanine Transaminase,0.72,mg/dL,0.7-1.3,2023-12-18 03:22:00,No
+LO40756,Complete Blood Count,0.85,mg/dL,0.7-1.3,2023-12-18 04:33:00,No
+LO40757,Glucose,5.3,mmol/L,3.9-6.1,2023-10-30 09:18:00,No
+LO40758,Hemoglobin,9.5,g/dL,12.0-16.0,2023-10-30 03:25:00,No
+LO40759,Glucose,6.6,mmol/L,3.9-6.1,2023-10-30 05:37:00,No
+LO40760,Creatinine,1.28,mg/dL,0.7-1.3,2023-06-22 06:38:00,No
+LO40761,Alanine Transaminase,2.04,mg/dL,0.7-1.3,2023-06-22 05:39:00,Yes
+LO40762,Creatinine,1.39,mg/dL,0.7-1.3,2023-06-22 06:12:00,Yes
+LO40763,White Blood Cell Count,3.3,10^9/L,4.0-11.0,2023-12-31 08:13:00,No
+LO40764,White Blood Cell Count,10.8,10^9/L,4.0-11.0,2023-12-31 05:55:00,No
+LO40765,Glucose,6.4,mmol/L,3.9-6.1,2023-02-25 04:50:00,No
+LO40766,Alanine Transaminase,1.61,mg/dL,0.7-1.3,2023-03-15 05:36:00,Yes
+LO40767,Creatinine,2.3,mg/dL,0.7-1.3,2023-03-15 05:13:00,Yes
+LO40768,White Blood Cell Count,11.9,10^9/L,4.0-11.0,2023-03-15 05:00:00,No
+LO40769,Complete Blood Count,2.09,mg/dL,0.7-1.3,2023-03-15 07:48:00,Yes
+LO40770,Creatinine,1.53,mg/dL,0.7-1.3,2023-04-17 04:33:00,Yes
+LO40771,Complete Blood Count,1.76,mg/dL,0.7-1.3,2023-04-17 02:06:00,Yes
+LO40772,White Blood Cell Count,11.2,10^9/L,4.0-11.0,2023-05-22 07:09:00,No
+LO40773,Glucose,14.3,mmol/L,3.9-6.1,2023-05-22 02:33:00,No
+LO40774,Creatinine,2.22,mg/dL,0.7-1.3,2023-06-22 06:00:00,Yes
+LO40775,White Blood Cell Count,5.2,10^9/L,4.0-11.0,2023-06-22 05:39:00,No
+LO40776,Glucose,13.2,mmol/L,3.9-6.1,2023-06-22 08:47:00,No
+LO40777,Creatinine,1.48,mg/dL,0.7-1.3,2023-06-22 02:33:00,Yes
+LO40778,Glucose,3.2,mmol/L,3.9-6.1,2023-09-30 07:44:00,No
+LO40779,Alanine Transaminase,1.66,mg/dL,0.7-1.3,2023-03-11 06:06:00,Yes
+LO40780,Hemoglobin,10.6,g/dL,12.0-16.0,2023-03-11 04:38:00,No
+LO40781,Alanine Transaminase,0.57,mg/dL,0.7-1.3,2023-03-11 03:58:00,Yes
+LO40782,Creatinine,1.2,mg/dL,0.7-1.3,2023-03-11 05:45:00,No
+LO40783,White Blood Cell Count,9.1,10^9/L,4.0-11.0,2023-05-16 02:49:00,No
+LO40784,Alanine Transaminase,0.99,mg/dL,0.7-1.3,2023-05-16 05:23:00,No
+LO40785,Hemoglobin,11.3,g/dL,12.0-16.0,2023-05-16 07:51:00,No
+LO40786,Alanine Transaminase,1.75,mg/dL,0.7-1.3,2023-05-16 06:50:00,Yes
+LO40787,Hemoglobin,13.7,g/dL,12.0-16.0,2023-04-10 05:28:00,No
+LO40788,Glucose,8.9,mmol/L,3.9-6.1,2023-04-10 03:37:00,No
+LO40789,White Blood Cell Count,7.9,10^9/L,4.0-11.0,2023-11-08 06:40:00,No
+LO40790,Creatinine,1.12,mg/dL,0.7-1.3,2023-09-08 04:25:00,No
+LO40791,Alanine Transaminase,0.8,mg/dL,0.7-1.3,2023-11-18 08:16:00,No
+LO40792,White Blood Cell Count,12.7,10^9/L,4.0-11.0,2023-11-18 07:23:00,No
+LO40793,White Blood Cell Count,3.4,10^9/L,4.0-11.0,2023-11-18 04:14:00,No
+LO40794,Creatinine,1.67,mg/dL,0.7-1.3,2023-11-18 09:10:00,Yes
+LO40795,Glucose,13.4,mmol/L,3.9-6.1,2023-12-08 07:38:00,No
+LO40796,Alanine Transaminase,1.42,mg/dL,0.7-1.3,2023-02-04 06:36:00,Yes
+LO40797,White Blood Cell Count,14.6,10^9/L,4.0-11.0,2023-02-04 01:47:00,No
+LO40798,Glucose,7.1,mmol/L,3.9-6.1,2023-01-14 03:49:00,No
+LO40799,Hemoglobin,14.4,g/dL,12.0-16.0,2023-01-14 07:33:00,No
+LO40800,Hemoglobin,9.0,g/dL,12.0-16.0,2023-01-14 06:06:00,No
+LO40801,Alanine Transaminase,1.39,mg/dL,0.7-1.3,2023-10-14 05:13:00,Yes
+LO40802,Creatinine,2.27,mg/dL,0.7-1.3,2023-10-14 06:47:00,Yes
+LO40803,Glucose,4.5,mmol/L,3.9-6.1,2023-10-14 07:58:00,No
+LO40804,Alanine Transaminase,0.63,mg/dL,0.7-1.3,2023-04-18 05:25:00,Yes
+LO40805,Complete Blood Count,1.68,mg/dL,0.7-1.3,2023-04-18 06:41:00,Yes
+LO40806,Alanine Transaminase,1.77,mg/dL,0.7-1.3,2023-04-18 05:29:00,Yes
+LO40807,Glucose,4.5,mmol/L,3.9-6.1,2023-02-23 06:19:00,No
+LO40808,White Blood Cell Count,9.1,10^9/L,4.0-11.0,2023-02-23 08:03:00,No
+LO40809,Complete Blood Count,0.52,mg/dL,0.7-1.3,2023-02-23 06:05:00,Yes
+LO40810,Hemoglobin,14.0,g/dL,12.0-16.0,2023-02-13 03:47:00,No
+LO40811,Creatinine,1.61,mg/dL,0.7-1.3,2023-12-17 07:56:00,Yes
+LO40812,Glucose,5.5,mmol/L,3.9-6.1,2023-12-17 04:46:00,No
+LO40813,Hemoglobin,9.7,g/dL,12.0-16.0,2023-12-17 04:38:00,No
+LO40814,Hemoglobin,9.5,g/dL,12.0-16.0,2023-03-30 03:42:00,No
+LO40815,Glucose,9.2,mmol/L,3.9-6.1,2023-03-30 05:00:00,No
+LO40816,Hemoglobin,10.2,g/dL,12.0-16.0,2023-06-27 02:30:00,No
+LO40817,Alanine Transaminase,1.01,mg/dL,0.7-1.3,2023-06-15 05:35:00,No
+LO40818,Glucose,9.7,mmol/L,3.9-6.1,2023-04-18 08:26:00,No
+LO40819,Complete Blood Count,1.8,mg/dL,0.7-1.3,2023-04-18 03:29:00,Yes
+LO40820,Hemoglobin,14.5,g/dL,12.0-16.0,2023-04-18 05:12:00,No
+LO40821,White Blood Cell Count,7.4,10^9/L,4.0-11.0,2023-04-18 03:52:00,No
+LO40822,Creatinine,0.57,mg/dL,0.7-1.3,2023-08-17 08:38:00,Yes
+LO40823,Glucose,8.8,mmol/L,3.9-6.1,2023-08-17 02:21:00,No
+LO40824,Glucose,14.0,mmol/L,3.9-6.1,2023-01-08 06:49:00,No
+LO40825,Alanine Transaminase,0.53,mg/dL,0.7-1.3,2023-01-08 07:26:00,Yes
+LO40826,White Blood Cell Count,8.0,10^9/L,4.0-11.0,2023-01-02 03:30:00,No
+LO40827,Hemoglobin,8.0,g/dL,12.0-16.0,2023-01-02 07:34:00,No
+LO40828,Hemoglobin,11.3,g/dL,12.0-16.0,2023-01-02 02:33:00,No
+LO40829,White Blood Cell Count,8.3,10^9/L,4.0-11.0,2023-01-07 08:21:00,No
+LO40830,Hemoglobin,15.2,g/dL,12.0-16.0,2023-01-07 05:04:00,No
+LO40831,White Blood Cell Count,12.4,10^9/L,4.0-11.0,2023-01-13 05:52:00,No
+LO40832,Creatinine,1.0,mg/dL,0.7-1.3,2023-08-05 06:56:00,No
+LO40833,White Blood Cell Count,5.9,10^9/L,4.0-11.0,2023-06-16 08:36:00,No
+LO40834,Glucose,10.6,mmol/L,3.9-6.1,2023-06-16 03:22:00,No
+LO40835,White Blood Cell Count,7.1,10^9/L,4.0-11.0,2023-06-16 04:55:00,No
+LO40836,Hemoglobin,14.5,g/dL,12.0-16.0,2023-06-16 03:29:00,No
+LO40837,Complete Blood Count,1.27,mg/dL,0.7-1.3,2023-10-28 08:57:00,No
+LO40838,Creatinine,1.62,mg/dL,0.7-1.3,2023-01-23 06:49:00,Yes
+LO40839,Complete Blood Count,2.01,mg/dL,0.7-1.3,2023-03-07 02:39:00,Yes
+LO40840,Glucose,6.7,mmol/L,3.9-6.1,2023-03-07 05:50:00,No
+LO40841,Creatinine,2.13,mg/dL,0.7-1.3,2023-03-07 05:17:00,Yes
+LO40842,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-03-07 08:52:00,No
+LO40843,Glucose,3.3,mmol/L,3.9-6.1,2023-02-23 06:27:00,No
+LO40844,Alanine Transaminase,1.78,mg/dL,0.7-1.3,2023-02-23 05:06:00,Yes
+LO40845,Alanine Transaminase,1.08,mg/dL,0.7-1.3,2023-05-19 06:47:00,No
+LO40846,Hemoglobin,15.5,g/dL,12.0-16.0,2023-05-13 04:16:00,No
+LO40847,Glucose,11.9,mmol/L,3.9-6.1,2023-05-13 07:33:00,No
+LO40848,Creatinine,2.31,mg/dL,0.7-1.3,2023-05-13 07:49:00,Yes
+LO40849,Glucose,8.8,mmol/L,3.9-6.1,2023-05-14 05:33:00,No
+LO40850,Alanine Transaminase,1.88,mg/dL,0.7-1.3,2023-05-14 07:02:00,Yes
+LO40851,Creatinine,1.33,mg/dL,0.7-1.3,2023-05-14 05:39:00,Yes
+LO40852,Alanine Transaminase,0.88,mg/dL,0.7-1.3,2023-10-21 04:49:00,No
+LO40853,White Blood Cell Count,4.6,10^9/L,4.0-11.0,2023-10-21 04:39:00,No
+LO40854,Glucose,10.7,mmol/L,3.9-6.1,2023-07-13 05:09:00,No
+LO40855,White Blood Cell Count,12.5,10^9/L,4.0-11.0,2023-12-14 05:08:00,No
+LO40856,White Blood Cell Count,14.0,10^9/L,4.0-11.0,2023-12-14 07:49:00,No
+LO40857,Complete Blood Count,1.38,mg/dL,0.7-1.3,2023-12-14 06:30:00,Yes
+LO40858,Alanine Transaminase,1.68,mg/dL,0.7-1.3,2023-12-14 05:45:00,Yes
+LO40859,Creatinine,0.68,mg/dL,0.7-1.3,2023-12-23 04:35:00,Yes
+LO40860,White Blood Cell Count,6.8,10^9/L,4.0-11.0,2023-11-14 08:06:00,No
+LO40861,Complete Blood Count,2.34,mg/dL,0.7-1.3,2023-08-12 08:01:00,Yes
+LO40862,Complete Blood Count,1.75,mg/dL,0.7-1.3,2023-08-12 07:35:00,Yes
+LO40863,Glucose,4.5,mmol/L,3.9-6.1,2023-08-12 06:50:00,No
+LO40864,Creatinine,2.09,mg/dL,0.7-1.3,2023-08-12 02:12:00,Yes
+LO40865,Creatinine,1.25,mg/dL,0.7-1.3,2023-09-16 01:46:00,No
+LO40866,Creatinine,1.1,mg/dL,0.7-1.3,2023-09-16 04:51:00,No
+LO40867,White Blood Cell Count,11.0,10^9/L,4.0-11.0,2023-08-19 01:32:00,No
+LO40868,Complete Blood Count,2.24,mg/dL,0.7-1.3,2023-08-19 05:10:00,Yes
+LO40869,Alanine Transaminase,0.73,mg/dL,0.7-1.3,2023-08-31 04:43:00,No
+LO40870,White Blood Cell Count,12.0,10^9/L,4.0-11.0,2023-08-31 04:31:00,No
+LO40871,Alanine Transaminase,1.82,mg/dL,0.7-1.3,2023-08-31 03:14:00,Yes
+LO40872,Alanine Transaminase,2.11,mg/dL,0.7-1.3,2023-04-19 06:13:00,Yes
+LO40873,Hemoglobin,13.6,g/dL,12.0-16.0,2023-12-13 05:06:00,No
+LO40874,Complete Blood Count,0.93,mg/dL,0.7-1.3,2023-12-13 05:51:00,No
+LO40875,Hemoglobin,10.6,g/dL,12.0-16.0,2023-12-13 07:08:00,No
+LO40876,Creatinine,1.27,mg/dL,0.7-1.3,2023-05-07 07:51:00,No
+LO40877,Glucose,8.0,mmol/L,3.9-6.1,2023-05-07 06:48:00,No
+LO40878,Creatinine,2.13,mg/dL,0.7-1.3,2023-05-07 03:30:00,Yes
+LO40879,White Blood Cell Count,9.6,10^9/L,4.0-11.0,2023-01-02 06:06:00,No
+LO40880,Hemoglobin,14.1,g/dL,12.0-16.0,2023-01-02 06:59:00,No
+LO40881,White Blood Cell Count,4.3,10^9/L,4.0-11.0,2023-01-02 05:39:00,No
+LO40882,Hemoglobin,15.8,g/dL,12.0-16.0,2023-01-02 02:19:00,No
+LO40883,Creatinine,0.74,mg/dL,0.7-1.3,2023-08-17 02:05:00,No
+LO40884,White Blood Cell Count,13.4,10^9/L,4.0-11.0,2023-08-17 04:25:00,No
+LO40885,Glucose,13.6,mmol/L,3.9-6.1,2023-08-17 09:40:00,No
+LO40886,Creatinine,0.67,mg/dL,0.7-1.3,2023-12-23 02:47:00,Yes
+LO40887,Glucose,7.0,mmol/L,3.9-6.1,2023-12-23 06:32:00,No
+LO40888,Alanine Transaminase,2.34,mg/dL,0.7-1.3,2023-12-23 08:06:00,Yes
+LO40889,Alanine Transaminase,0.76,mg/dL,0.7-1.3,2023-12-09 07:50:00,No
+LO40890,Glucose,14.3,mmol/L,3.9-6.1,2023-12-09 03:07:00,No
+LO40891,Creatinine,1.38,mg/dL,0.7-1.3,2023-12-09 06:44:00,Yes
+LO40892,Complete Blood Count,0.97,mg/dL,0.7-1.3,2023-09-12 02:42:00,No
+LO40893,Alanine Transaminase,2.49,mg/dL,0.7-1.3,2023-09-12 06:33:00,Yes
+LO40894,White Blood Cell Count,11.9,10^9/L,4.0-11.0,2023-09-12 06:55:00,No
+LO40895,Alanine Transaminase,1.68,mg/dL,0.7-1.3,2023-10-10 04:29:00,Yes
+LO40896,Alanine Transaminase,1.67,mg/dL,0.7-1.3,2023-10-10 04:54:00,Yes
+LO40897,Complete Blood Count,1.17,mg/dL,0.7-1.3,2023-10-10 02:37:00,No
+LO40898,Hemoglobin,15.2,g/dL,12.0-16.0,2023-10-10 02:11:00,No
+LO40899,Alanine Transaminase,1.64,mg/dL,0.7-1.3,2023-06-28 07:24:00,Yes
+LO40900,Complete Blood Count,1.27,mg/dL,0.7-1.3,2023-06-28 05:22:00,No
+LO40901,White Blood Cell Count,10.2,10^9/L,4.0-11.0,2023-12-28 07:59:00,No
+LO40902,Complete Blood Count,1.54,mg/dL,0.7-1.3,2023-12-28 08:46:00,Yes
+LO40903,Glucose,4.5,mmol/L,3.9-6.1,2023-12-28 05:50:00,No
+LO40904,Hemoglobin,14.0,g/dL,12.0-16.0,2023-12-28 03:52:00,No
+LO40905,Hemoglobin,10.1,g/dL,12.0-16.0,2023-01-01 06:52:00,No
+LO40906,Complete Blood Count,1.1,mg/dL,0.7-1.3,2023-12-01 05:05:00,No
+LO40907,Creatinine,1.62,mg/dL,0.7-1.3,2023-12-01 07:08:00,Yes
+LO40908,Complete Blood Count,1.01,mg/dL,0.7-1.3,2023-12-01 04:04:00,No
+LO40909,Hemoglobin,10.2,g/dL,12.0-16.0,2023-12-01 04:50:00,No
+LO40910,Complete Blood Count,2.36,mg/dL,0.7-1.3,2023-01-16 06:32:00,Yes
+LO40911,Alanine Transaminase,1.59,mg/dL,0.7-1.3,2023-01-16 02:31:00,Yes
+LO40912,White Blood Cell Count,8.0,10^9/L,4.0-11.0,2023-01-16 02:28:00,No
+LO40913,Hemoglobin,12.3,g/dL,12.0-16.0,2023-10-29 03:53:00,No
+LO40914,Hemoglobin,8.9,g/dL,12.0-16.0,2023-05-17 06:01:00,No
+LO40915,White Blood Cell Count,7.7,10^9/L,4.0-11.0,2023-08-14 07:14:00,No
+LO40916,Alanine Transaminase,2.05,mg/dL,0.7-1.3,2023-08-14 07:32:00,Yes
+LO40917,Alanine Transaminase,0.86,mg/dL,0.7-1.3,2023-10-30 03:42:00,No
+LO40918,Alanine Transaminase,0.64,mg/dL,0.7-1.3,2023-10-30 08:22:00,Yes
+LO40919,Glucose,5.5,mmol/L,3.9-6.1,2023-10-30 05:45:00,No
+LO40920,White Blood Cell Count,14.3,10^9/L,4.0-11.0,2023-10-30 02:31:00,No
+LO40921,Glucose,6.6,mmol/L,3.9-6.1,2023-04-11 06:25:00,No
+LO40922,White Blood Cell Count,7.4,10^9/L,4.0-11.0,2023-04-11 05:13:00,No
+LO40923,Creatinine,0.56,mg/dL,0.7-1.3,2023-04-11 07:34:00,Yes
+LO40924,Creatinine,1.04,mg/dL,0.7-1.3,2023-04-11 04:10:00,No
+LO40925,White Blood Cell Count,4.2,10^9/L,4.0-11.0,2023-08-23 07:56:00,No
+LO40926,Complete Blood Count,0.84,mg/dL,0.7-1.3,2023-08-23 08:29:00,No
+LO40927,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-08-23 06:38:00,No
+LO40928,White Blood Cell Count,14.0,10^9/L,4.0-11.0,2023-05-11 04:46:00,No
+LO40929,Hemoglobin,10.8,g/dL,12.0-16.0,2023-05-11 06:11:00,No
+LO40930,Alanine Transaminase,1.77,mg/dL,0.7-1.3,2023-05-11 03:36:00,Yes
+LO40931,White Blood Cell Count,3.5,10^9/L,4.0-11.0,2023-09-26 07:03:00,No
+LO40932,Complete Blood Count,0.88,mg/dL,0.7-1.3,2023-09-26 06:13:00,No
+LO40933,Creatinine,0.53,mg/dL,0.7-1.3,2023-09-26 05:56:00,Yes
+LO40934,Creatinine,1.15,mg/dL,0.7-1.3,2023-09-26 02:50:00,No
+LO40935,Alanine Transaminase,2.45,mg/dL,0.7-1.3,2023-06-07 06:42:00,Yes
+LO40936,Complete Blood Count,1.46,mg/dL,0.7-1.3,2023-06-07 09:57:00,Yes
+LO40937,Glucose,14.3,mmol/L,3.9-6.1,2023-10-27 03:54:00,No
+LO40938,White Blood Cell Count,4.1,10^9/L,4.0-11.0,2023-10-27 04:09:00,No
+LO40939,Alanine Transaminase,1.33,mg/dL,0.7-1.3,2023-01-13 06:06:00,Yes
+LO40940,Hemoglobin,8.4,g/dL,12.0-16.0,2023-01-13 07:14:00,No
+LO40941,Alanine Transaminase,0.93,mg/dL,0.7-1.3,2023-01-13 03:46:00,No
+LO40942,Hemoglobin,13.3,g/dL,12.0-16.0,2023-04-19 08:34:00,No
+LO40943,Glucose,7.4,mmol/L,3.9-6.1,2023-09-19 03:35:00,No
+LO40944,Creatinine,0.75,mg/dL,0.7-1.3,2023-09-19 05:19:00,No
+LO40945,Hemoglobin,13.9,g/dL,12.0-16.0,2023-09-19 02:26:00,No
+LO40946,Alanine Transaminase,0.65,mg/dL,0.7-1.3,2023-02-06 04:47:00,Yes
+LO40947,White Blood Cell Count,11.5,10^9/L,4.0-11.0,2023-02-06 08:08:00,No
+LO40948,Creatinine,2.46,mg/dL,0.7-1.3,2023-11-29 07:23:00,Yes
+LO40949,Glucose,4.5,mmol/L,3.9-6.1,2023-08-02 06:11:00,No
+LO40950,White Blood Cell Count,9.0,10^9/L,4.0-11.0,2023-08-02 08:18:00,No
+LO40951,White Blood Cell Count,12.4,10^9/L,4.0-11.0,2023-08-02 04:44:00,No
+LO40952,Creatinine,2.05,mg/dL,0.7-1.3,2023-07-25 02:32:00,Yes
+LO40953,Alanine Transaminase,1.51,mg/dL,0.7-1.3,2023-07-25 07:39:00,Yes
+LO40954,Hemoglobin,13.6,g/dL,12.0-16.0,2023-07-25 03:34:00,No
+LO40955,White Blood Cell Count,3.6,10^9/L,4.0-11.0,2023-07-25 05:21:00,No
+LO40956,Creatinine,0.66,mg/dL,0.7-1.3,2023-08-31 07:32:00,Yes
+LO40957,Complete Blood Count,1.82,mg/dL,0.7-1.3,2023-08-31 07:07:00,Yes
+LO40958,Hemoglobin,13.0,g/dL,12.0-16.0,2023-08-31 04:57:00,No
+LO40959,Glucose,6.9,mmol/L,3.9-6.1,2023-01-05 08:22:00,No
+LO40960,Complete Blood Count,1.57,mg/dL,0.7-1.3,2023-01-05 03:00:00,Yes
+LO40961,Alanine Transaminase,1.04,mg/dL,0.7-1.3,2023-01-05 04:28:00,No
+LO40962,Glucose,6.1,mmol/L,3.9-6.1,2023-01-05 05:34:00,No
+LO40963,Hemoglobin,15.5,g/dL,12.0-16.0,2023-08-12 02:57:00,No
+LO40964,Complete Blood Count,0.99,mg/dL,0.7-1.3,2023-08-12 06:53:00,No
+LO40965,White Blood Cell Count,12.1,10^9/L,4.0-11.0,2023-11-16 01:39:00,No
+LO40966,Hemoglobin,15.6,g/dL,12.0-16.0,2023-11-16 09:45:00,No
+LO40967,Glucose,12.2,mmol/L,3.9-6.1,2023-07-04 02:54:00,No
+LO40968,Creatinine,2.14,mg/dL,0.7-1.3,2023-07-04 07:58:00,Yes
+LO40969,White Blood Cell Count,7.5,10^9/L,4.0-11.0,2023-07-04 06:05:00,No
+LO40970,Creatinine,2.17,mg/dL,0.7-1.3,2023-07-04 08:23:00,Yes
+LO40971,Glucose,4.0,mmol/L,3.9-6.1,2023-08-01 01:37:00,No
+LO40972,White Blood Cell Count,12.1,10^9/L,4.0-11.0,2023-08-01 07:40:00,No
+LO40973,White Blood Cell Count,12.4,10^9/L,4.0-11.0,2023-08-01 06:45:00,No
+LO40974,Hemoglobin,9.4,g/dL,12.0-16.0,2023-08-28 06:57:00,No
+LO40975,White Blood Cell Count,9.7,10^9/L,4.0-11.0,2023-03-13 02:33:00,No
+LO40976,White Blood Cell Count,10.6,10^9/L,4.0-11.0,2023-03-13 07:58:00,No
+LO40977,White Blood Cell Count,7.9,10^9/L,4.0-11.0,2023-03-13 08:43:00,No
+LO40978,Hemoglobin,14.7,g/dL,12.0-16.0,2023-03-13 09:37:00,No
+LO40979,Glucose,10.7,mmol/L,3.9-6.1,2023-01-29 07:51:00,No
+LO40980,Complete Blood Count,0.7,mg/dL,0.7-1.3,2023-01-29 03:10:00,No
+LO40981,White Blood Cell Count,7.3,10^9/L,4.0-11.0,2023-01-29 08:39:00,No
+LO40982,Alanine Transaminase,1.83,mg/dL,0.7-1.3,2023-01-29 03:43:00,Yes
+LO40983,Hemoglobin,11.2,g/dL,12.0-16.0,2023-10-18 02:41:00,No
+LO40984,White Blood Cell Count,5.5,10^9/L,4.0-11.0,2023-10-18 03:28:00,No
+LO40985,Complete Blood Count,2.34,mg/dL,0.7-1.3,2023-10-18 08:12:00,Yes
+LO40986,Glucose,4.8,mmol/L,3.9-6.1,2023-02-25 06:12:00,No
+LO40987,Hemoglobin,8.1,g/dL,12.0-16.0,2023-02-25 06:49:00,No
+LO40988,Alanine Transaminase,1.65,mg/dL,0.7-1.3,2023-02-25 05:12:00,Yes
+LO40989,Complete Blood Count,0.74,mg/dL,0.7-1.3,2023-02-25 08:17:00,No
+LO40990,Alanine Transaminase,1.97,mg/dL,0.7-1.3,2023-07-25 05:16:00,Yes
+LO40991,White Blood Cell Count,13.7,10^9/L,4.0-11.0,2023-07-25 07:34:00,No
+LO40992,Alanine Transaminase,1.47,mg/dL,0.7-1.3,2023-06-25 08:17:00,Yes
+LO40993,Complete Blood Count,1.19,mg/dL,0.7-1.3,2023-06-25 07:27:00,No
+LO40994,Alanine Transaminase,0.77,mg/dL,0.7-1.3,2023-06-25 05:17:00,No
+LO40995,Hemoglobin,8.9,g/dL,12.0-16.0,2023-06-25 06:36:00,No
+LO40996,Complete Blood Count,1.97,mg/dL,0.7-1.3,2023-12-23 06:31:00,Yes
+LO40997,Complete Blood Count,0.86,mg/dL,0.7-1.3,2023-12-23 08:44:00,No
+LO40998,Complete Blood Count,2.11,mg/dL,0.7-1.3,2023-02-23 05:45:00,Yes
+LO40999,Hemoglobin,15.6,g/dL,12.0-16.0,2023-11-08 07:38:00,No
+LO41000,White Blood Cell Count,4.8,10^9/L,4.0-11.0,2023-11-08 04:36:00,No
+LO41001,Hemoglobin,11.9,g/dL,12.0-16.0,2023-11-08 02:54:00,No
+LO41002,Glucose,13.0,mmol/L,3.9-6.1,2023-11-08 03:46:00,No
+LO41003,Alanine Transaminase,0.6,mg/dL,0.7-1.3,2023-09-25 01:39:00,Yes
+LO41004,Alanine Transaminase,2.42,mg/dL,0.7-1.3,2023-09-25 03:20:00,Yes
+LO41005,Glucose,3.9,mmol/L,3.9-6.1,2023-09-25 06:26:00,No
+LO41006,Complete Blood Count,2.11,mg/dL,0.7-1.3,2023-10-20 03:27:00,Yes
+LO41007,Alanine Transaminase,1.95,mg/dL,0.7-1.3,2023-12-31 08:57:00,Yes
+LO41008,Hemoglobin,13.9,g/dL,12.0-16.0,2023-12-31 03:26:00,No
+LO41009,Alanine Transaminase,1.98,mg/dL,0.7-1.3,2023-12-31 05:29:00,Yes
+LO41010,Alanine Transaminase,2.27,mg/dL,0.7-1.3,2023-08-06 05:25:00,Yes
+LO41011,Hemoglobin,15.0,g/dL,12.0-16.0,2023-08-06 04:12:00,No
+LO41012,Creatinine,2.04,mg/dL,0.7-1.3,2023-08-06 09:00:00,Yes
+LO41013,Hemoglobin,12.3,g/dL,12.0-16.0,2023-12-21 06:45:00,No
+LO41014,Alanine Transaminase,2.04,mg/dL,0.7-1.3,2023-12-21 04:11:00,Yes
+LO41015,Creatinine,2.25,mg/dL,0.7-1.3,2023-02-26 03:19:00,Yes
+LO41016,Complete Blood Count,0.55,mg/dL,0.7-1.3,2023-02-26 06:06:00,Yes
+LO41017,Alanine Transaminase,0.81,mg/dL,0.7-1.3,2023-02-26 01:30:00,No
+LO41018,Creatinine,2.12,mg/dL,0.7-1.3,2023-10-31 05:58:00,Yes
+LO41019,White Blood Cell Count,12.5,10^9/L,4.0-11.0,2023-10-31 07:56:00,No
+LO41020,Complete Blood Count,1.18,mg/dL,0.7-1.3,2023-10-31 05:23:00,No
+LO41021,Hemoglobin,14.7,g/dL,12.0-16.0,2023-05-26 02:43:00,No
+LO41022,Creatinine,1.45,mg/dL,0.7-1.3,2023-05-26 06:11:00,Yes
+LO41023,White Blood Cell Count,9.6,10^9/L,4.0-11.0,2023-12-14 04:50:00,No
+LO41024,Hemoglobin,14.2,g/dL,12.0-16.0,2023-06-30 01:57:00,No
+LO41025,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-06-30 02:47:00,No
+LO41026,Glucose,11.2,mmol/L,3.9-6.1,2023-06-30 03:11:00,No
+LO41027,Alanine Transaminase,0.7,mg/dL,0.7-1.3,2023-06-30 05:02:00,No
+LO41028,White Blood Cell Count,14.6,10^9/L,4.0-11.0,2023-05-19 01:30:00,No
+LO41029,Hemoglobin,15.8,g/dL,12.0-16.0,2023-05-19 06:16:00,No
+LO41030,Creatinine,0.8,mg/dL,0.7-1.3,2023-05-19 02:51:00,No
+LO41031,Alanine Transaminase,0.73,mg/dL,0.7-1.3,2023-05-19 05:21:00,No
+LO41032,Alanine Transaminase,1.05,mg/dL,0.7-1.3,2023-07-20 07:15:00,No
+LO41033,Glucose,8.1,mmol/L,3.9-6.1,2023-07-16 06:05:00,No
+LO41034,White Blood Cell Count,6.5,10^9/L,4.0-11.0,2023-07-16 04:19:00,No
+LO41035,Glucose,8.5,mmol/L,3.9-6.1,2023-07-16 04:14:00,No
+LO41036,Alanine Transaminase,1.93,mg/dL,0.7-1.3,2023-07-16 07:59:00,Yes
+LO41037,Complete Blood Count,0.57,mg/dL,0.7-1.3,2023-09-11 07:10:00,Yes
+LO41038,Hemoglobin,13.3,g/dL,12.0-16.0,2023-09-11 05:21:00,No
+LO41039,Hemoglobin,13.4,g/dL,12.0-16.0,2023-09-11 01:55:00,No
+LO41040,Hemoglobin,14.4,g/dL,12.0-16.0,2023-05-26 06:45:00,No
+LO41041,Complete Blood Count,1.74,mg/dL,0.7-1.3,2023-05-26 06:14:00,Yes
+LO41042,Alanine Transaminase,0.78,mg/dL,0.7-1.3,2023-05-26 09:20:00,No
+LO41043,Alanine Transaminase,1.94,mg/dL,0.7-1.3,2023-05-25 05:08:00,Yes
+LO41044,Alanine Transaminase,1.22,mg/dL,0.7-1.3,2023-05-25 04:29:00,No
+LO41045,Hemoglobin,13.5,g/dL,12.0-16.0,2023-05-25 08:30:00,No
+LO41046,Glucose,4.1,mmol/L,3.9-6.1,2023-01-26 08:48:00,No
+LO41047,Glucose,8.2,mmol/L,3.9-6.1,2023-01-26 09:58:00,No
+LO41048,Creatinine,1.3,mg/dL,0.7-1.3,2023-11-04 09:28:00,No
+LO41049,Complete Blood Count,1.2,mg/dL,0.7-1.3,2023-10-27 07:46:00,No
+LO41050,Complete Blood Count,1.03,mg/dL,0.7-1.3,2023-10-27 08:43:00,No
+LO41051,Alanine Transaminase,1.55,mg/dL,0.7-1.3,2023-05-16 03:52:00,Yes
+LO41052,Hemoglobin,12.9,g/dL,12.0-16.0,2023-05-16 07:37:00,No
+LO41053,Glucose,4.1,mmol/L,3.9-6.1,2023-12-26 06:29:00,No
+LO41054,Alanine Transaminase,0.69,mg/dL,0.7-1.3,2023-12-26 06:09:00,Yes
+LO41055,White Blood Cell Count,5.9,10^9/L,4.0-11.0,2023-12-26 07:40:00,No
+LO41056,White Blood Cell Count,6.6,10^9/L,4.0-11.0,2023-12-26 05:43:00,No
+LO41057,Glucose,11.8,mmol/L,3.9-6.1,2023-11-26 06:45:00,No
+LO41058,White Blood Cell Count,10.0,10^9/L,4.0-11.0,2023-11-26 04:36:00,No
+LO41059,Hemoglobin,12.5,g/dL,12.0-16.0,2023-05-12 04:53:00,No
+LO41060,Creatinine,1.26,mg/dL,0.7-1.3,2023-05-12 05:44:00,No
+LO41061,Alanine Transaminase,0.7,mg/dL,0.7-1.3,2023-05-12 05:22:00,No
+LO41062,Glucose,4.6,mmol/L,3.9-6.1,2023-05-12 05:43:00,No
+LO41063,Glucose,12.6,mmol/L,3.9-6.1,2023-12-16 03:31:00,No
+LO41064,White Blood Cell Count,6.1,10^9/L,4.0-11.0,2023-12-16 07:40:00,No
+LO41065,Alanine Transaminase,2.2,mg/dL,0.7-1.3,2023-12-16 05:57:00,Yes
+LO41066,Glucose,9.2,mmol/L,3.9-6.1,2023-12-16 05:12:00,No
+LO41067,Alanine Transaminase,1.45,mg/dL,0.7-1.3,2023-03-07 06:15:00,Yes
+LO41068,Glucose,10.5,mmol/L,3.9-6.1,2023-01-27 06:26:00,No
+LO41069,Hemoglobin,8.1,g/dL,12.0-16.0,2023-02-20 04:37:00,No
+LO41070,Complete Blood Count,1.02,mg/dL,0.7-1.3,2023-02-20 06:56:00,No
+LO41071,Creatinine,1.47,mg/dL,0.7-1.3,2023-02-20 08:44:00,Yes
+LO41072,White Blood Cell Count,9.5,10^9/L,4.0-11.0,2023-10-19 03:59:00,No
+LO41073,Glucose,8.2,mmol/L,3.9-6.1,2023-10-19 02:15:00,No
+LO41074,Alanine Transaminase,0.89,mg/dL,0.7-1.3,2023-10-19 08:47:00,No
+LO41075,White Blood Cell Count,10.6,10^9/L,4.0-11.0,2023-10-19 05:48:00,No
+LO41076,Creatinine,1.27,mg/dL,0.7-1.3,2023-08-17 03:43:00,No
+LO41077,Complete Blood Count,2.11,mg/dL,0.7-1.3,2023-08-17 07:18:00,Yes
+LO41078,Creatinine,1.9,mg/dL,0.7-1.3,2023-08-17 03:34:00,Yes
+LO41079,Complete Blood Count,1.79,mg/dL,0.7-1.3,2023-02-05 03:55:00,Yes
+LO41080,White Blood Cell Count,10.8,10^9/L,4.0-11.0,2023-02-05 06:57:00,No
+LO41081,Creatinine,2.23,mg/dL,0.7-1.3,2023-02-05 09:48:00,Yes
+LO41082,White Blood Cell Count,10.6,10^9/L,4.0-11.0,2023-02-05 09:19:00,No
+LO41083,Creatinine,1.62,mg/dL,0.7-1.3,2023-03-17 06:34:00,Yes
+LO41084,Hemoglobin,9.1,g/dL,12.0-16.0,2023-03-17 04:22:00,No
+LO41085,Alanine Transaminase,2.33,mg/dL,0.7-1.3,2023-12-23 07:28:00,Yes
+LO41086,Alanine Transaminase,0.89,mg/dL,0.7-1.3,2023-12-23 08:38:00,No
+LO41087,Hemoglobin,11.9,g/dL,12.0-16.0,2023-12-11 05:42:00,No
+LO41088,Hemoglobin,9.3,g/dL,12.0-16.0,2023-05-22 02:37:00,No
+LO41089,Creatinine,1.15,mg/dL,0.7-1.3,2023-07-20 04:04:00,No
+LO41090,Hemoglobin,13.6,g/dL,12.0-16.0,2023-07-20 03:38:00,No
+LO41091,Glucose,6.9,mmol/L,3.9-6.1,2023-07-20 06:17:00,No
+LO41092,Alanine Transaminase,2.43,mg/dL,0.7-1.3,2023-07-20 07:51:00,Yes
+LO41093,Glucose,8.0,mmol/L,3.9-6.1,2023-10-16 07:08:00,No
+LO41094,Alanine Transaminase,1.23,mg/dL,0.7-1.3,2023-10-16 01:33:00,No
+LO41095,White Blood Cell Count,3.1,10^9/L,4.0-11.0,2023-03-22 07:40:00,No
+LO41096,Creatinine,1.59,mg/dL,0.7-1.3,2023-03-26 04:26:00,Yes
+LO41097,Hemoglobin,8.4,g/dL,12.0-16.0,2023-06-13 05:51:00,No
+LO41098,Glucose,3.7,mmol/L,3.9-6.1,2023-06-13 03:26:00,No
+LO41099,White Blood Cell Count,9.9,10^9/L,4.0-11.0,2023-06-13 04:45:00,No
+LO41100,Glucose,7.5,mmol/L,3.9-6.1,2023-06-13 03:22:00,No
+LO41101,Complete Blood Count,1.2,mg/dL,0.7-1.3,2023-09-17 04:38:00,No
+LO41102,Hemoglobin,11.6,g/dL,12.0-16.0,2023-09-17 03:58:00,No
+LO41103,Alanine Transaminase,2.16,mg/dL,0.7-1.3,2023-07-10 07:04:00,Yes
+LO41104,Hemoglobin,13.3,g/dL,12.0-16.0,2023-07-10 06:48:00,No
+LO41105,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-01-23 03:48:00,No
+LO41106,Alanine Transaminase,1.79,mg/dL,0.7-1.3,2023-01-23 04:53:00,Yes
+LO41107,Creatinine,1.72,mg/dL,0.7-1.3,2023-01-23 06:52:00,Yes
+LO41108,Hemoglobin,10.9,g/dL,12.0-16.0,2023-06-25 03:31:00,No
+LO41109,White Blood Cell Count,13.1,10^9/L,4.0-11.0,2023-06-25 06:59:00,No
+LO41110,Creatinine,1.8,mg/dL,0.7-1.3,2023-08-17 07:17:00,Yes
+LO41111,White Blood Cell Count,11.0,10^9/L,4.0-11.0,2023-08-17 03:21:00,No
+LO41112,White Blood Cell Count,3.2,10^9/L,4.0-11.0,2023-07-31 06:03:00,No
+LO41113,Hemoglobin,8.7,g/dL,12.0-16.0,2023-07-31 05:00:00,No
+LO41114,Hemoglobin,15.8,g/dL,12.0-16.0,2023-07-31 08:03:00,No
+LO41115,Alanine Transaminase,1.8,mg/dL,0.7-1.3,2023-06-21 06:53:00,Yes
+LO41116,Glucose,6.3,mmol/L,3.9-6.1,2023-06-21 07:02:00,No
+LO41117,Creatinine,1.62,mg/dL,0.7-1.3,2023-06-21 05:50:00,Yes
+LO41118,White Blood Cell Count,9.2,10^9/L,4.0-11.0,2023-06-21 03:31:00,No
+LO41119,White Blood Cell Count,10.0,10^9/L,4.0-11.0,2023-03-03 08:33:00,No
+LO41120,Complete Blood Count,1.34,mg/dL,0.7-1.3,2023-03-03 03:57:00,Yes
+LO41121,White Blood Cell Count,11.8,10^9/L,4.0-11.0,2023-03-03 07:11:00,No
+LO41122,Complete Blood Count,1.21,mg/dL,0.7-1.3,2023-12-27 03:52:00,No
+LO41123,Complete Blood Count,1.07,mg/dL,0.7-1.3,2023-12-27 03:55:00,No
+LO41124,Alanine Transaminase,1.82,mg/dL,0.7-1.3,2023-07-30 06:25:00,Yes
+LO41125,White Blood Cell Count,14.9,10^9/L,4.0-11.0,2023-07-30 03:54:00,No
+LO41126,Hemoglobin,12.0,g/dL,12.0-16.0,2023-07-30 06:12:00,No
+LO41127,White Blood Cell Count,4.2,10^9/L,4.0-11.0,2023-04-04 06:33:00,No
+LO41128,Hemoglobin,9.0,g/dL,12.0-16.0,2023-04-04 08:53:00,No
+LO41129,Glucose,11.4,mmol/L,3.9-6.1,2023-04-04 05:09:00,No
+LO41130,Creatinine,2.07,mg/dL,0.7-1.3,2023-04-04 08:15:00,Yes
+LO41131,Glucose,7.7,mmol/L,3.9-6.1,2023-05-12 03:59:00,No
+LO41132,Creatinine,0.6,mg/dL,0.7-1.3,2023-04-05 07:38:00,Yes
+LO41133,Creatinine,2.3,mg/dL,0.7-1.3,2023-04-05 07:26:00,Yes
+LO41134,Creatinine,2.41,mg/dL,0.7-1.3,2023-04-12 06:08:00,Yes
+LO41135,Complete Blood Count,1.17,mg/dL,0.7-1.3,2023-04-12 08:46:00,No
+LO41136,Glucose,14.3,mmol/L,3.9-6.1,2023-04-12 08:47:00,No
+LO41137,Complete Blood Count,1.93,mg/dL,0.7-1.3,2023-04-12 06:44:00,Yes
+LO41138,Creatinine,1.51,mg/dL,0.7-1.3,2023-08-08 09:47:00,Yes
+LO41139,Creatinine,0.81,mg/dL,0.7-1.3,2023-08-08 02:41:00,No
+LO41140,Complete Blood Count,2.25,mg/dL,0.7-1.3,2023-08-08 06:49:00,Yes
+LO41141,Alanine Transaminase,2.49,mg/dL,0.7-1.3,2023-08-08 03:24:00,Yes
+LO41142,Creatinine,0.78,mg/dL,0.7-1.3,2023-11-23 08:01:00,No
+LO41143,White Blood Cell Count,14.3,10^9/L,4.0-11.0,2023-11-23 06:52:00,No
+LO41144,White Blood Cell Count,12.1,10^9/L,4.0-11.0,2023-11-23 03:36:00,No
+LO41145,Creatinine,1.82,mg/dL,0.7-1.3,2023-11-23 07:32:00,Yes
+LO41146,Complete Blood Count,0.61,mg/dL,0.7-1.3,2023-12-08 02:41:00,Yes
+LO41147,Creatinine,1.78,mg/dL,0.7-1.3,2023-12-08 04:36:00,Yes
+LO41148,Creatinine,1.39,mg/dL,0.7-1.3,2023-12-08 03:31:00,Yes
+LO41149,White Blood Cell Count,10.6,10^9/L,4.0-11.0,2023-12-08 04:04:00,No
+LO41150,Complete Blood Count,1.88,mg/dL,0.7-1.3,2023-12-13 06:59:00,Yes
+LO41151,Creatinine,1.83,mg/dL,0.7-1.3,2023-12-13 03:39:00,Yes
+LO41152,Alanine Transaminase,1.46,mg/dL,0.7-1.3,2023-12-13 05:45:00,Yes
+LO41153,Alanine Transaminase,2.21,mg/dL,0.7-1.3,2023-12-13 06:55:00,Yes
+LO41154,Hemoglobin,14.8,g/dL,12.0-16.0,2023-10-07 02:20:00,No
+LO41155,Creatinine,1.15,mg/dL,0.7-1.3,2023-10-07 09:07:00,No
+LO41156,Creatinine,1.83,mg/dL,0.7-1.3,2023-10-07 03:15:00,Yes
+LO41157,Glucose,3.9,mmol/L,3.9-6.1,2023-10-07 07:08:00,No
+LO41158,Alanine Transaminase,1.54,mg/dL,0.7-1.3,2023-05-31 06:52:00,Yes
+LO41159,Complete Blood Count,1.38,mg/dL,0.7-1.3,2023-05-31 09:27:00,Yes
+LO41160,Alanine Transaminase,1.26,mg/dL,0.7-1.3,2023-05-31 06:59:00,No
+LO41161,Creatinine,2.23,mg/dL,0.7-1.3,2023-05-31 08:09:00,Yes
+LO41162,Alanine Transaminase,1.87,mg/dL,0.7-1.3,2023-01-13 02:36:00,Yes
+LO41163,White Blood Cell Count,15.0,10^9/L,4.0-11.0,2023-01-13 05:30:00,No
+LO41164,Alanine Transaminase,1.93,mg/dL,0.7-1.3,2023-06-05 07:28:00,Yes
+LO41165,Alanine Transaminase,1.9,mg/dL,0.7-1.3,2023-06-05 03:10:00,Yes
+LO41166,White Blood Cell Count,7.6,10^9/L,4.0-11.0,2023-06-05 08:33:00,No
+LO41167,White Blood Cell Count,12.5,10^9/L,4.0-11.0,2023-01-03 04:18:00,No
+LO41168,Glucose,13.0,mmol/L,3.9-6.1,2023-09-16 06:47:00,No
+LO41169,Hemoglobin,14.9,g/dL,12.0-16.0,2023-09-16 04:13:00,No
+LO41170,Glucose,14.9,mmol/L,3.9-6.1,2023-09-16 06:46:00,No
+LO41171,Hemoglobin,9.1,g/dL,12.0-16.0,2023-06-17 05:46:00,No
+LO41172,Hemoglobin,15.4,g/dL,12.0-16.0,2023-06-17 08:42:00,No
+LO41173,White Blood Cell Count,8.1,10^9/L,4.0-11.0,2023-06-17 05:47:00,No
+LO41174,Hemoglobin,9.8,g/dL,12.0-16.0,2023-08-07 04:16:00,No
+LO41175,Alanine Transaminase,1.2,mg/dL,0.7-1.3,2023-07-13 02:57:00,No
+LO41176,Creatinine,2.03,mg/dL,0.7-1.3,2023-07-13 02:13:00,Yes
+LO41177,Glucose,11.3,mmol/L,3.9-6.1,2023-06-05 05:57:00,No
+LO41178,Complete Blood Count,1.2,mg/dL,0.7-1.3,2023-06-05 07:16:00,No
+LO41179,Alanine Transaminase,1.04,mg/dL,0.7-1.3,2023-08-28 05:57:00,No
+LO41180,Creatinine,0.9,mg/dL,0.7-1.3,2023-05-10 06:02:00,No
+LO41181,Glucose,6.1,mmol/L,3.9-6.1,2023-01-24 02:55:00,No
+LO41182,Complete Blood Count,1.28,mg/dL,0.7-1.3,2023-07-22 04:30:00,No
+LO41183,Creatinine,0.86,mg/dL,0.7-1.3,2023-05-20 08:16:00,No
+LO41184,Hemoglobin,13.8,g/dL,12.0-16.0,2023-05-20 05:23:00,No
+LO41185,Hemoglobin,12.7,g/dL,12.0-16.0,2023-05-06 07:13:00,No
+LO41186,Complete Blood Count,0.69,mg/dL,0.7-1.3,2023-11-15 03:54:00,Yes
+LO41187,Hemoglobin,13.4,g/dL,12.0-16.0,2023-11-15 06:52:00,No
+LO41188,Hemoglobin,11.8,g/dL,12.0-16.0,2023-11-15 03:59:00,No
+LO41189,Hemoglobin,15.4,g/dL,12.0-16.0,2023-11-15 05:21:00,No
+LO41190,Hemoglobin,12.3,g/dL,12.0-16.0,2023-06-03 09:53:00,No
+LO41191,Glucose,12.9,mmol/L,3.9-6.1,2023-06-03 04:43:00,No
+LO41192,Glucose,4.8,mmol/L,3.9-6.1,2023-06-03 04:43:00,No
+LO41193,Creatinine,0.59,mg/dL,0.7-1.3,2023-04-27 08:02:00,Yes
+LO41194,Complete Blood Count,0.51,mg/dL,0.7-1.3,2023-01-15 05:06:00,Yes
+LO41195,Alanine Transaminase,0.89,mg/dL,0.7-1.3,2023-05-18 06:12:00,No
+LO41196,Complete Blood Count,2.0,mg/dL,0.7-1.3,2023-05-18 07:35:00,Yes
+LO41197,Glucose,7.8,mmol/L,3.9-6.1,2023-11-27 05:03:00,No
+LO41198,White Blood Cell Count,9.3,10^9/L,4.0-11.0,2023-11-27 06:01:00,No
+LO41199,Glucose,6.6,mmol/L,3.9-6.1,2023-11-20 07:54:00,No
+LO41200,Alanine Transaminase,0.59,mg/dL,0.7-1.3,2023-11-20 07:53:00,Yes
+LO41201,Creatinine,1.92,mg/dL,0.7-1.3,2023-11-20 08:02:00,Yes
+LO41202,White Blood Cell Count,7.9,10^9/L,4.0-11.0,2023-03-22 03:27:00,No
+LO41203,Alanine Transaminase,0.52,mg/dL,0.7-1.3,2023-03-22 03:57:00,Yes
+LO41204,Complete Blood Count,0.53,mg/dL,0.7-1.3,2023-02-19 03:26:00,Yes
+LO41205,Alanine Transaminase,2.06,mg/dL,0.7-1.3,2023-02-19 08:10:00,Yes
+LO41206,White Blood Cell Count,10.7,10^9/L,4.0-11.0,2023-02-19 08:45:00,No
+LO41207,White Blood Cell Count,5.0,10^9/L,4.0-11.0,2023-11-18 07:52:00,No
+LO41208,Glucose,6.0,mmol/L,3.9-6.1,2023-11-18 04:16:00,No
+LO41209,Complete Blood Count,1.88,mg/dL,0.7-1.3,2023-11-18 03:12:00,Yes
+LO41210,White Blood Cell Count,13.2,10^9/L,4.0-11.0,2023-11-18 01:39:00,No
+LO41211,Hemoglobin,10.7,g/dL,12.0-16.0,2023-03-19 04:07:00,No
+LO41212,Creatinine,2.45,mg/dL,0.7-1.3,2023-11-23 07:07:00,Yes
+LO41213,Complete Blood Count,0.93,mg/dL,0.7-1.3,2023-10-31 05:58:00,No
+LO41214,White Blood Cell Count,6.2,10^9/L,4.0-11.0,2023-10-31 07:23:00,No
+LO41215,Hemoglobin,15.4,g/dL,12.0-16.0,2023-10-31 05:12:00,No
+LO41216,Creatinine,1.98,mg/dL,0.7-1.3,2023-10-31 03:07:00,Yes
+LO41217,Glucose,11.3,mmol/L,3.9-6.1,2023-01-24 02:08:00,No
+LO41218,Hemoglobin,8.8,g/dL,12.0-16.0,2023-01-24 01:33:00,No
+LO41219,Glucose,9.5,mmol/L,3.9-6.1,2023-01-24 06:44:00,No
+LO41220,Hemoglobin,13.1,g/dL,12.0-16.0,2023-08-07 03:55:00,No
+LO41221,Alanine Transaminase,1.17,mg/dL,0.7-1.3,2023-08-07 05:54:00,No
+LO41222,Glucose,4.4,mmol/L,3.9-6.1,2023-08-07 06:52:00,No
+LO41223,Hemoglobin,11.3,g/dL,12.0-16.0,2023-10-22 08:42:00,No
+LO41224,Alanine Transaminase,2.3,mg/dL,0.7-1.3,2023-10-22 05:43:00,Yes
+LO41225,White Blood Cell Count,10.0,10^9/L,4.0-11.0,2023-10-22 07:26:00,No
+LO41226,Complete Blood Count,0.5,mg/dL,0.7-1.3,2023-02-23 03:30:00,Yes
+LO41227,Alanine Transaminase,1.28,mg/dL,0.7-1.3,2023-02-23 04:02:00,No
+LO41228,Glucose,8.8,mmol/L,3.9-6.1,2023-02-23 04:44:00,No
+LO41229,Glucose,8.1,mmol/L,3.9-6.1,2023-02-23 04:34:00,No
+LO41230,Alanine Transaminase,1.36,mg/dL,0.7-1.3,2023-05-12 09:49:00,Yes
+LO41231,Creatinine,1.92,mg/dL,0.7-1.3,2023-02-07 08:21:00,Yes
+LO41232,Alanine Transaminase,1.88,mg/dL,0.7-1.3,2023-02-07 04:49:00,Yes
+LO41233,Glucose,6.4,mmol/L,3.9-6.1,2023-02-07 06:09:00,No
+LO41234,Glucose,5.4,mmol/L,3.9-6.1,2023-08-11 03:11:00,No
+LO41235,Hemoglobin,9.4,g/dL,12.0-16.0,2023-08-11 02:20:00,No
+LO41236,White Blood Cell Count,8.8,10^9/L,4.0-11.0,2023-01-30 03:08:00,No
+LO41237,Complete Blood Count,2.34,mg/dL,0.7-1.3,2023-01-30 08:30:00,Yes
+LO41238,Complete Blood Count,2.5,mg/dL,0.7-1.3,2023-01-30 09:25:00,Yes
+LO41239,Creatinine,1.68,mg/dL,0.7-1.3,2023-03-14 04:11:00,Yes
+LO41240,Glucose,7.7,mmol/L,3.9-6.1,2023-03-14 06:57:00,No
+LO41241,White Blood Cell Count,3.4,10^9/L,4.0-11.0,2023-01-28 07:28:00,No
+LO41242,Alanine Transaminase,0.89,mg/dL,0.7-1.3,2023-01-28 05:27:00,No
+LO41243,Glucose,5.5,mmol/L,3.9-6.1,2023-11-18 05:51:00,No
+LO41244,White Blood Cell Count,12.5,10^9/L,4.0-11.0,2023-11-18 06:40:00,No
+LO41245,Complete Blood Count,1.18,mg/dL,0.7-1.3,2023-11-18 09:56:00,No
+LO41246,Creatinine,1.64,mg/dL,0.7-1.3,2023-01-13 07:33:00,Yes
+LO41247,Complete Blood Count,1.19,mg/dL,0.7-1.3,2023-01-13 08:29:00,No
+LO41248,Alanine Transaminase,1.98,mg/dL,0.7-1.3,2023-01-13 03:27:00,Yes
+LO41249,Complete Blood Count,2.25,mg/dL,0.7-1.3,2023-05-16 04:31:00,Yes
+LO41250,White Blood Cell Count,7.7,10^9/L,4.0-11.0,2023-06-29 05:38:00,No
+LO41251,Alanine Transaminase,0.84,mg/dL,0.7-1.3,2023-06-29 05:29:00,No
+LO41252,White Blood Cell Count,11.9,10^9/L,4.0-11.0,2023-06-29 02:38:00,No
+LO41253,Hemoglobin,12.4,g/dL,12.0-16.0,2023-06-29 06:02:00,No
+LO41254,Alanine Transaminase,1.17,mg/dL,0.7-1.3,2023-02-20 06:30:00,No
+LO41255,Glucose,12.6,mmol/L,3.9-6.1,2023-02-20 09:24:00,No
+LO41256,Hemoglobin,14.0,g/dL,12.0-16.0,2023-05-29 04:53:00,No
+LO41257,Complete Blood Count,0.86,mg/dL,0.7-1.3,2023-05-29 05:00:00,No
+LO41258,Creatinine,1.82,mg/dL,0.7-1.3,2023-05-29 02:06:00,Yes
+LO41259,Hemoglobin,13.9,g/dL,12.0-16.0,2023-07-17 06:37:00,No
+LO41260,Alanine Transaminase,1.35,mg/dL,0.7-1.3,2023-07-25 02:33:00,Yes
+LO41261,Creatinine,2.02,mg/dL,0.7-1.3,2023-07-25 03:43:00,Yes
+LO41262,Hemoglobin,10.6,g/dL,12.0-16.0,2023-07-25 02:36:00,No
+LO41263,Hemoglobin,10.4,g/dL,12.0-16.0,2023-09-17 02:45:00,No
+LO41264,Complete Blood Count,1.46,mg/dL,0.7-1.3,2023-09-17 09:20:00,Yes
+LO41265,Creatinine,0.88,mg/dL,0.7-1.3,2023-09-17 05:32:00,No
+LO41266,Complete Blood Count,1.17,mg/dL,0.7-1.3,2023-09-17 04:05:00,No
+LO41267,Hemoglobin,9.9,g/dL,12.0-16.0,2023-10-21 04:08:00,No
+LO41268,Complete Blood Count,2.48,mg/dL,0.7-1.3,2023-10-21 07:17:00,Yes
+LO41269,Creatinine,1.38,mg/dL,0.7-1.3,2023-04-17 07:23:00,Yes
+LO41270,Alanine Transaminase,1.8,mg/dL,0.7-1.3,2023-04-17 03:21:00,Yes
+LO41271,Hemoglobin,9.3,g/dL,12.0-16.0,2023-04-17 05:44:00,No
+LO41272,Alanine Transaminase,1.43,mg/dL,0.7-1.3,2023-04-17 07:29:00,Yes
+LO41273,Alanine Transaminase,1.96,mg/dL,0.7-1.3,2023-04-12 05:50:00,Yes
+LO41274,Creatinine,1.24,mg/dL,0.7-1.3,2023-01-02 08:47:00,No
+LO41275,White Blood Cell Count,4.3,10^9/L,4.0-11.0,2023-01-02 07:46:00,No
+LO41276,Hemoglobin,13.7,g/dL,12.0-16.0,2023-01-02 07:33:00,No
+LO41277,Creatinine,2.15,mg/dL,0.7-1.3,2023-10-08 05:59:00,Yes
+LO41278,Alanine Transaminase,1.88,mg/dL,0.7-1.3,2023-04-30 05:28:00,Yes
+LO41279,Creatinine,0.53,mg/dL,0.7-1.3,2023-04-29 08:03:00,Yes
+LO41280,Complete Blood Count,1.42,mg/dL,0.7-1.3,2023-11-25 02:48:00,Yes
+LO41281,Hemoglobin,8.6,g/dL,12.0-16.0,2023-11-25 06:25:00,No
+LO41282,Creatinine,0.93,mg/dL,0.7-1.3,2023-11-25 06:51:00,No
+LO41283,White Blood Cell Count,8.0,10^9/L,4.0-11.0,2023-03-12 03:39:00,No
+LO41284,Alanine Transaminase,1.79,mg/dL,0.7-1.3,2023-03-12 07:57:00,Yes
+LO41285,Creatinine,1.19,mg/dL,0.7-1.3,2023-03-12 02:37:00,No
+LO41286,Complete Blood Count,1.63,mg/dL,0.7-1.3,2023-03-12 05:13:00,Yes
+LO41287,Alanine Transaminase,0.63,mg/dL,0.7-1.3,2023-12-20 04:43:00,Yes
+LO41288,Glucose,4.3,mmol/L,3.9-6.1,2023-12-20 07:09:00,No
+LO41289,Complete Blood Count,2.23,mg/dL,0.7-1.3,2023-02-25 08:21:00,Yes
+LO41290,Creatinine,1.73,mg/dL,0.7-1.3,2023-05-11 05:42:00,Yes
+LO41291,Alanine Transaminase,2.43,mg/dL,0.7-1.3,2023-10-01 04:15:00,Yes
+LO41292,Hemoglobin,10.8,g/dL,12.0-16.0,2023-07-06 05:17:00,No
+LO41293,Complete Blood Count,0.9,mg/dL,0.7-1.3,2023-07-06 06:39:00,No
+LO41294,Complete Blood Count,1.38,mg/dL,0.7-1.3,2023-07-06 03:07:00,Yes
+LO41295,White Blood Cell Count,12.8,10^9/L,4.0-11.0,2023-06-11 07:48:00,No
+LO41296,White Blood Cell Count,11.9,10^9/L,4.0-11.0,2023-08-24 07:21:00,No
+LO41297,Creatinine,1.32,mg/dL,0.7-1.3,2023-08-14 05:58:00,Yes
+LO41298,Complete Blood Count,2.06,mg/dL,0.7-1.3,2023-08-14 06:33:00,Yes
+LO41299,Hemoglobin,8.2,g/dL,12.0-16.0,2023-08-18 06:47:00,No
+LO41300,Glucose,14.3,mmol/L,3.9-6.1,2023-10-06 09:09:00,No
+LO41301,Hemoglobin,12.1,g/dL,12.0-16.0,2023-03-03 09:52:00,No
+LO41302,Alanine Transaminase,1.17,mg/dL,0.7-1.3,2023-03-03 06:37:00,No
+LO41303,White Blood Cell Count,6.2,10^9/L,4.0-11.0,2023-06-21 05:54:00,No
+LO41304,Glucose,12.8,mmol/L,3.9-6.1,2023-06-21 06:31:00,No
+LO41305,Glucose,10.7,mmol/L,3.9-6.1,2023-06-21 06:19:00,No
+LO41306,Hemoglobin,15.2,g/dL,12.0-16.0,2023-08-13 07:10:00,No
+LO41307,White Blood Cell Count,7.0,10^9/L,4.0-11.0,2023-08-13 01:51:00,No
+LO41308,Glucose,11.4,mmol/L,3.9-6.1,2023-08-13 08:13:00,No
+LO41309,Alanine Transaminase,0.88,mg/dL,0.7-1.3,2023-08-13 05:59:00,No
+LO41310,White Blood Cell Count,8.5,10^9/L,4.0-11.0,2023-02-19 06:29:00,No
+LO41311,White Blood Cell Count,3.0,10^9/L,4.0-11.0,2023-02-19 01:32:00,No
+LO41312,Hemoglobin,12.0,g/dL,12.0-16.0,2023-02-19 03:34:00,No
+LO41313,Glucose,11.6,mmol/L,3.9-6.1,2023-02-19 08:01:00,No
+LO41314,Creatinine,0.61,mg/dL,0.7-1.3,2023-08-27 06:57:00,Yes
+LO41315,Alanine Transaminase,1.79,mg/dL,0.7-1.3,2023-10-12 04:51:00,Yes
+LO41316,Complete Blood Count,1.68,mg/dL,0.7-1.3,2023-10-12 03:24:00,Yes
+LO41317,Hemoglobin,15.6,g/dL,12.0-16.0,2023-01-31 04:44:00,No
+LO41318,Alanine Transaminase,1.61,mg/dL,0.7-1.3,2023-01-31 01:52:00,Yes
+LO41319,Complete Blood Count,1.98,mg/dL,0.7-1.3,2023-01-31 07:31:00,Yes
+LO41320,Glucose,7.7,mmol/L,3.9-6.1,2023-01-31 09:17:00,No
+LO41321,Complete Blood Count,2.28,mg/dL,0.7-1.3,2023-12-20 07:16:00,Yes
+LO41322,Glucose,3.5,mmol/L,3.9-6.1,2023-12-20 05:58:00,No
+LO41323,Alanine Transaminase,1.36,mg/dL,0.7-1.3,2023-12-20 08:13:00,Yes
+LO41324,Hemoglobin,12.2,g/dL,12.0-16.0,2023-12-20 05:00:00,No
+LO41325,Creatinine,1.6,mg/dL,0.7-1.3,2023-10-12 04:23:00,Yes
+LO41326,Creatinine,1.2,mg/dL,0.7-1.3,2023-09-13 04:27:00,No
+LO41327,Creatinine,2.1,mg/dL,0.7-1.3,2023-09-13 05:45:00,Yes
+LO41328,Complete Blood Count,1.34,mg/dL,0.7-1.3,2023-04-08 03:36:00,Yes
+LO41329,Alanine Transaminase,1.9,mg/dL,0.7-1.3,2023-04-08 03:05:00,Yes
+LO41330,White Blood Cell Count,8.3,10^9/L,4.0-11.0,2023-04-08 09:42:00,No
+LO41331,Hemoglobin,12.9,g/dL,12.0-16.0,2023-11-18 05:58:00,No
+LO41332,Alanine Transaminase,0.97,mg/dL,0.7-1.3,2023-01-16 06:37:00,No
+LO41333,Complete Blood Count,1.63,mg/dL,0.7-1.3,2023-01-16 06:23:00,Yes
+LO41334,Hemoglobin,11.5,g/dL,12.0-16.0,2023-01-16 02:00:00,No
+LO41335,Creatinine,1.06,mg/dL,0.7-1.3,2023-01-16 03:35:00,No
+LO41336,Hemoglobin,10.8,g/dL,12.0-16.0,2023-06-07 02:55:00,No
+LO41337,Hemoglobin,8.4,g/dL,12.0-16.0,2023-06-07 03:15:00,No
+LO41338,Complete Blood Count,0.93,mg/dL,0.7-1.3,2023-03-11 04:59:00,No
+LO41339,Alanine Transaminase,1.38,mg/dL,0.7-1.3,2023-03-11 05:52:00,Yes
+LO41340,Creatinine,2.21,mg/dL,0.7-1.3,2023-03-11 06:30:00,Yes
+LO41341,Creatinine,1.02,mg/dL,0.7-1.3,2023-03-11 02:50:00,No
+LO41342,Creatinine,1.49,mg/dL,0.7-1.3,2023-06-13 05:03:00,Yes
+LO41343,White Blood Cell Count,8.5,10^9/L,4.0-11.0,2023-06-13 02:13:00,No
+LO41344,Complete Blood Count,1.49,mg/dL,0.7-1.3,2023-06-13 06:36:00,Yes
+LO41345,Complete Blood Count,1.0,mg/dL,0.7-1.3,2023-06-13 01:59:00,No
+LO41346,White Blood Cell Count,13.9,10^9/L,4.0-11.0,2023-11-05 03:31:00,No
+LO41347,White Blood Cell Count,11.5,10^9/L,4.0-11.0,2023-08-31 05:58:00,No
+LO41348,Complete Blood Count,1.63,mg/dL,0.7-1.3,2023-06-09 06:12:00,Yes
+LO41349,Alanine Transaminase,1.03,mg/dL,0.7-1.3,2023-06-09 05:36:00,No
+LO41350,White Blood Cell Count,12.4,10^9/L,4.0-11.0,2023-06-09 02:41:00,No
+LO41351,Hemoglobin,9.0,g/dL,12.0-16.0,2023-02-23 03:21:00,No
+LO41352,Glucose,4.6,mmol/L,3.9-6.1,2023-02-23 07:26:00,No
+LO41353,Complete Blood Count,2.06,mg/dL,0.7-1.3,2023-02-23 02:57:00,Yes
+LO41354,Complete Blood Count,0.54,mg/dL,0.7-1.3,2023-02-23 05:35:00,Yes
+LO41355,Alanine Transaminase,1.67,mg/dL,0.7-1.3,2023-02-17 06:34:00,Yes
+LO41356,Complete Blood Count,1.27,mg/dL,0.7-1.3,2023-02-17 08:45:00,No
+LO41357,White Blood Cell Count,13.2,10^9/L,4.0-11.0,2023-02-17 05:34:00,No
+LO41358,Creatinine,1.56,mg/dL,0.7-1.3,2023-12-19 04:18:00,Yes
+LO41359,Glucose,9.7,mmol/L,3.9-6.1,2023-12-19 04:48:00,No
+LO41360,Alanine Transaminase,1.11,mg/dL,0.7-1.3,2023-12-19 04:50:00,No
+LO41361,Glucose,11.0,mmol/L,3.9-6.1,2023-12-19 09:33:00,No
+LO41362,White Blood Cell Count,8.3,10^9/L,4.0-11.0,2023-05-17 03:41:00,No
+LO41363,White Blood Cell Count,12.0,10^9/L,4.0-11.0,2023-12-01 05:23:00,No
+LO41364,Complete Blood Count,1.81,mg/dL,0.7-1.3,2023-12-01 08:33:00,Yes
+LO41365,Glucose,3.2,mmol/L,3.9-6.1,2023-12-01 08:56:00,No
+LO41366,Creatinine,1.57,mg/dL,0.7-1.3,2023-12-01 06:12:00,Yes
+LO41367,Creatinine,1.13,mg/dL,0.7-1.3,2023-05-16 07:35:00,No
+LO41368,Glucose,8.9,mmol/L,3.9-6.1,2023-05-16 04:43:00,No
+LO41369,Complete Blood Count,1.51,mg/dL,0.7-1.3,2023-02-08 06:19:00,Yes
+LO41370,Hemoglobin,14.8,g/dL,12.0-16.0,2023-05-20 04:03:00,No
+LO41371,Creatinine,1.61,mg/dL,0.7-1.3,2023-05-20 06:03:00,Yes
+LO41372,Hemoglobin,13.0,g/dL,12.0-16.0,2023-12-05 07:46:00,No
+LO41373,White Blood Cell Count,9.3,10^9/L,4.0-11.0,2023-09-14 07:12:00,No
+LO41374,Glucose,14.8,mmol/L,3.9-6.1,2023-09-14 07:34:00,No
+LO41375,White Blood Cell Count,10.3,10^9/L,4.0-11.0,2023-11-13 02:35:00,No
+LO41376,Glucose,12.5,mmol/L,3.9-6.1,2023-10-19 08:32:00,No
+LO41377,Complete Blood Count,0.54,mg/dL,0.7-1.3,2023-11-30 06:19:00,Yes
+LO41378,Complete Blood Count,1.74,mg/dL,0.7-1.3,2023-11-30 07:03:00,Yes
+LO41379,Complete Blood Count,1.53,mg/dL,0.7-1.3,2023-06-16 03:01:00,Yes
+LO41380,Hemoglobin,14.5,g/dL,12.0-16.0,2023-06-16 03:31:00,No
+LO41381,Complete Blood Count,1.71,mg/dL,0.7-1.3,2023-06-16 05:05:00,Yes
+LO41382,Hemoglobin,10.2,g/dL,12.0-16.0,2023-06-16 07:34:00,No
+LO41383,Glucose,6.7,mmol/L,3.9-6.1,2023-02-16 06:53:00,No
+LO41384,Alanine Transaminase,2.27,mg/dL,0.7-1.3,2023-02-16 07:48:00,Yes
+LO41385,Glucose,12.8,mmol/L,3.9-6.1,2023-09-02 06:04:00,No
+LO41386,White Blood Cell Count,10.8,10^9/L,4.0-11.0,2023-09-02 06:22:00,No
+LO41387,Complete Blood Count,1.39,mg/dL,0.7-1.3,2023-09-02 06:40:00,Yes
+LO41388,Creatinine,1.47,mg/dL,0.7-1.3,2023-08-06 05:41:00,Yes
+LO41389,Hemoglobin,11.1,g/dL,12.0-16.0,2023-08-17 04:16:00,No
+LO41390,Alanine Transaminase,0.64,mg/dL,0.7-1.3,2023-08-17 03:25:00,Yes
+LO41391,Glucose,4.0,mmol/L,3.9-6.1,2023-08-17 05:30:00,No
+LO41392,Creatinine,0.8,mg/dL,0.7-1.3,2023-08-17 03:21:00,No
+LO41393,Hemoglobin,12.1,g/dL,12.0-16.0,2023-02-02 04:14:00,No
+LO41394,Hemoglobin,13.2,g/dL,12.0-16.0,2023-02-02 05:29:00,No
+LO41395,Alanine Transaminase,0.65,mg/dL,0.7-1.3,2023-02-02 05:49:00,Yes
+LO41396,White Blood Cell Count,11.2,10^9/L,4.0-11.0,2023-02-02 05:28:00,No
+LO41397,Alanine Transaminase,0.56,mg/dL,0.7-1.3,2023-02-09 02:36:00,Yes
+LO41398,Complete Blood Count,0.55,mg/dL,0.7-1.3,2023-01-05 07:06:00,Yes
+LO41399,Hemoglobin,10.6,g/dL,12.0-16.0,2023-01-05 01:45:00,No
+LO41400,Hemoglobin,15.2,g/dL,12.0-16.0,2023-01-05 08:52:00,No
+LO41401,Glucose,10.5,mmol/L,3.9-6.1,2023-03-13 06:43:00,No
+LO41402,White Blood Cell Count,7.6,10^9/L,4.0-11.0,2023-03-13 06:32:00,No
+LO41403,Creatinine,1.1,mg/dL,0.7-1.3,2023-03-13 02:04:00,No
+LO41404,Alanine Transaminase,0.73,mg/dL,0.7-1.3,2023-03-13 02:42:00,No
+LO41405,Hemoglobin,12.3,g/dL,12.0-16.0,2023-05-11 04:49:00,No
+LO41406,Glucose,12.6,mmol/L,3.9-6.1,2023-05-11 07:59:00,No
+LO41407,Hemoglobin,12.6,g/dL,12.0-16.0,2023-05-11 05:57:00,No
+LO41408,Alanine Transaminase,2.02,mg/dL,0.7-1.3,2023-11-24 04:26:00,Yes
+LO41409,Creatinine,0.97,mg/dL,0.7-1.3,2023-11-24 07:36:00,No
+LO41410,Creatinine,1.71,mg/dL,0.7-1.3,2023-11-24 08:12:00,Yes
+LO41411,Creatinine,1.76,mg/dL,0.7-1.3,2023-07-20 04:12:00,Yes
+LO41412,Glucose,13.3,mmol/L,3.9-6.1,2023-07-20 05:25:00,No
+LO41413,Creatinine,1.01,mg/dL,0.7-1.3,2023-07-20 04:38:00,No
+LO41414,Creatinine,1.72,mg/dL,0.7-1.3,2023-10-08 08:31:00,Yes
+LO41415,Hemoglobin,11.1,g/dL,12.0-16.0,2023-10-08 01:47:00,No
+LO41416,Hemoglobin,8.5,g/dL,12.0-16.0,2023-10-08 06:12:00,No
+LO41417,Glucose,13.9,mmol/L,3.9-6.1,2023-10-08 07:48:00,No
+LO41418,Complete Blood Count,1.04,mg/dL,0.7-1.3,2023-11-13 06:46:00,No
+LO41419,Hemoglobin,9.1,g/dL,12.0-16.0,2023-11-13 04:27:00,No
+LO41420,White Blood Cell Count,13.8,10^9/L,4.0-11.0,2023-11-13 08:26:00,No
+LO41421,Glucose,6.2,mmol/L,3.9-6.1,2023-11-13 06:51:00,No
+LO41422,White Blood Cell Count,9.2,10^9/L,4.0-11.0,2023-03-11 02:47:00,No
+LO41423,Alanine Transaminase,1.58,mg/dL,0.7-1.3,2023-03-11 09:35:00,Yes
+LO41424,Alanine Transaminase,2.38,mg/dL,0.7-1.3,2023-03-11 05:21:00,Yes
+LO41425,Creatinine,0.71,mg/dL,0.7-1.3,2023-04-25 07:56:00,No
+LO41426,Creatinine,0.89,mg/dL,0.7-1.3,2023-04-25 06:50:00,No
+LO41427,Alanine Transaminase,0.63,mg/dL,0.7-1.3,2023-09-23 03:13:00,Yes
+LO41428,Alanine Transaminase,2.19,mg/dL,0.7-1.3,2023-09-23 04:06:00,Yes
+LO41429,Glucose,5.4,mmol/L,3.9-6.1,2023-09-23 08:45:00,No
+LO41430,Complete Blood Count,1.3,mg/dL,0.7-1.3,2023-05-20 08:26:00,No
+LO41431,Alanine Transaminase,0.84,mg/dL,0.7-1.3,2023-05-20 07:00:00,No
+LO41432,Alanine Transaminase,1.5,mg/dL,0.7-1.3,2023-09-15 05:14:00,Yes
+LO41433,Glucose,4.5,mmol/L,3.9-6.1,2023-09-15 05:28:00,No
+LO41434,Alanine Transaminase,1.38,mg/dL,0.7-1.3,2023-09-15 07:16:00,Yes
+LO41435,Hemoglobin,14.7,g/dL,12.0-16.0,2023-09-15 04:56:00,No
+LO41436,White Blood Cell Count,8.5,10^9/L,4.0-11.0,2023-06-10 08:56:00,No
+LO41437,Glucose,11.3,mmol/L,3.9-6.1,2023-06-10 05:26:00,No
+LO41438,Glucose,14.8,mmol/L,3.9-6.1,2023-06-10 04:08:00,No
+LO41439,Creatinine,0.98,mg/dL,0.7-1.3,2023-11-04 02:27:00,No
+LO41440,Creatinine,1.46,mg/dL,0.7-1.3,2023-11-04 04:02:00,Yes
+LO41441,White Blood Cell Count,9.7,10^9/L,4.0-11.0,2023-04-28 03:16:00,No
+LO41442,White Blood Cell Count,4.1,10^9/L,4.0-11.0,2023-04-28 03:51:00,No
+LO41443,White Blood Cell Count,8.2,10^9/L,4.0-11.0,2023-04-28 03:25:00,No
+LO41444,Hemoglobin,9.7,g/dL,12.0-16.0,2023-01-14 06:20:00,No
+LO41445,Alanine Transaminase,1.61,mg/dL,0.7-1.3,2023-01-14 04:50:00,Yes
+LO41446,Glucose,7.2,mmol/L,3.9-6.1,2023-01-14 05:45:00,No
+LO41447,Complete Blood Count,0.99,mg/dL,0.7-1.3,2023-01-14 04:02:00,No
+LO41448,Glucose,8.4,mmol/L,3.9-6.1,2023-09-14 04:46:00,No
+LO41449,White Blood Cell Count,13.2,10^9/L,4.0-11.0,2023-09-27 08:21:00,No
+LO41450,Alanine Transaminase,0.69,mg/dL,0.7-1.3,2023-09-27 04:40:00,Yes
+LO41451,Alanine Transaminase,1.57,mg/dL,0.7-1.3,2023-09-27 03:02:00,Yes
+LO41452,Glucose,12.6,mmol/L,3.9-6.1,2023-11-21 01:47:00,No
+LO41453,Glucose,7.7,mmol/L,3.9-6.1,2023-11-21 04:48:00,No
+LO41454,Alanine Transaminase,1.37,mg/dL,0.7-1.3,2023-08-21 07:40:00,Yes
+LO41455,Alanine Transaminase,2.47,mg/dL,0.7-1.3,2023-08-21 04:17:00,Yes
+LO41456,Creatinine,0.56,mg/dL,0.7-1.3,2023-08-21 07:49:00,Yes
+LO41457,Alanine Transaminase,2.07,mg/dL,0.7-1.3,2023-08-21 05:42:00,Yes
+LO41458,Alanine Transaminase,1.05,mg/dL,0.7-1.3,2023-06-30 09:50:00,No
+LO41459,White Blood Cell Count,4.1,10^9/L,4.0-11.0,2023-11-24 06:05:00,No
+LO41460,Glucose,14.5,mmol/L,3.9-6.1,2023-11-24 05:24:00,No
+LO41461,Complete Blood Count,1.58,mg/dL,0.7-1.3,2023-03-28 07:04:00,Yes
+LO41462,Glucose,9.0,mmol/L,3.9-6.1,2023-03-28 03:57:00,No
+LO41463,Glucose,14.2,mmol/L,3.9-6.1,2023-03-28 01:54:00,No
+LO41464,Hemoglobin,12.7,g/dL,12.0-16.0,2023-03-31 08:07:00,No
+LO41465,White Blood Cell Count,13.7,10^9/L,4.0-11.0,2023-03-31 01:56:00,No
+LO41466,White Blood Cell Count,14.8,10^9/L,4.0-11.0,2023-01-31 04:46:00,No
+LO41467,Complete Blood Count,1.95,mg/dL,0.7-1.3,2023-01-31 06:53:00,Yes
+LO41468,Alanine Transaminase,0.58,mg/dL,0.7-1.3,2023-01-31 05:38:00,Yes
+LO41469,Hemoglobin,12.2,g/dL,12.0-16.0,2023-08-01 07:39:00,No
+LO41470,Complete Blood Count,0.74,mg/dL,0.7-1.3,2023-08-01 09:46:00,No
+LO41471,Creatinine,0.5,mg/dL,0.7-1.3,2023-08-01 03:31:00,Yes
+LO41472,Glucose,4.4,mmol/L,3.9-6.1,2023-04-24 02:56:00,No
+LO41473,Creatinine,1.74,mg/dL,0.7-1.3,2023-04-24 05:57:00,Yes
+LO41474,Hemoglobin,12.6,g/dL,12.0-16.0,2023-04-24 09:15:00,No
+LO41475,White Blood Cell Count,10.2,10^9/L,4.0-11.0,2023-06-20 07:09:00,No
+LO41476,Creatinine,1.13,mg/dL,0.7-1.3,2023-06-09 03:35:00,No
+LO41477,Hemoglobin,15.3,g/dL,12.0-16.0,2023-06-09 06:02:00,No
+LO41478,Creatinine,2.07,mg/dL,0.7-1.3,2023-06-09 06:47:00,Yes
+LO41479,Complete Blood Count,1.34,mg/dL,0.7-1.3,2023-06-09 05:36:00,Yes
+LO41480,Complete Blood Count,2.48,mg/dL,0.7-1.3,2023-05-19 07:00:00,Yes
+LO41481,Creatinine,1.23,mg/dL,0.7-1.3,2023-07-23 05:05:00,No
+LO41482,Glucose,5.5,mmol/L,3.9-6.1,2023-07-23 07:38:00,No
+LO41483,Complete Blood Count,0.57,mg/dL,0.7-1.3,2023-07-23 03:59:00,Yes
+LO41484,Complete Blood Count,0.9,mg/dL,0.7-1.3,2023-07-23 04:20:00,No
+LO41485,Creatinine,2.43,mg/dL,0.7-1.3,2023-02-09 03:15:00,Yes
+LO41486,Creatinine,1.03,mg/dL,0.7-1.3,2023-12-04 07:36:00,No
+LO41487,Creatinine,1.64,mg/dL,0.7-1.3,2023-12-31 03:54:00,Yes
+LO41488,Glucose,3.4,mmol/L,3.9-6.1,2023-12-31 05:33:00,No
+LO41489,Creatinine,0.7,mg/dL,0.7-1.3,2023-12-31 08:25:00,No
+LO41490,Glucose,5.8,mmol/L,3.9-6.1,2023-04-29 05:55:00,No
+LO41491,Hemoglobin,14.5,g/dL,12.0-16.0,2023-04-29 05:48:00,No
+LO41492,Alanine Transaminase,1.75,mg/dL,0.7-1.3,2023-04-29 06:22:00,Yes
+LO41493,Glucose,11.1,mmol/L,3.9-6.1,2023-02-14 03:39:00,No
+LO41494,Alanine Transaminase,1.02,mg/dL,0.7-1.3,2023-02-14 08:33:00,No
+LO41495,Glucose,10.1,mmol/L,3.9-6.1,2023-02-14 06:36:00,No
+LO41496,Creatinine,1.47,mg/dL,0.7-1.3,2023-08-09 08:12:00,Yes
+LO41497,Glucose,5.3,mmol/L,3.9-6.1,2023-08-09 08:33:00,No
+LO41498,Alanine Transaminase,0.81,mg/dL,0.7-1.3,2023-11-06 05:42:00,No
+LO41499,Creatinine,1.63,mg/dL,0.7-1.3,2023-11-06 08:52:00,Yes
+LO41500,Hemoglobin,9.6,g/dL,12.0-16.0,2023-11-06 05:42:00,No
+LO41501,Complete Blood Count,2.39,mg/dL,0.7-1.3,2023-11-06 05:34:00,Yes
+LO41502,Creatinine,1.88,mg/dL,0.7-1.3,2023-10-04 04:35:00,Yes
+LO41503,Complete Blood Count,0.61,mg/dL,0.7-1.3,2023-10-04 03:33:00,Yes
+LO41504,Glucose,3.9,mmol/L,3.9-6.1,2023-01-17 09:31:00,No
+LO41505,White Blood Cell Count,11.7,10^9/L,4.0-11.0,2023-08-02 04:47:00,No
+LO41506,Hemoglobin,13.3,g/dL,12.0-16.0,2023-08-02 05:24:00,No
+LO41507,White Blood Cell Count,11.1,10^9/L,4.0-11.0,2023-08-02 01:32:00,No
+LO41508,Glucose,4.8,mmol/L,3.9-6.1,2023-06-28 08:56:00,No
+LO41509,Creatinine,1.04,mg/dL,0.7-1.3,2023-06-28 04:50:00,No
+LO41510,Glucose,3.7,mmol/L,3.9-6.1,2023-06-28 09:33:00,No
+LO41511,Hemoglobin,9.2,g/dL,12.0-16.0,2023-12-23 03:01:00,No
+LO41512,Creatinine,0.72,mg/dL,0.7-1.3,2023-12-23 03:37:00,No
+LO41513,White Blood Cell Count,12.0,10^9/L,4.0-11.0,2023-02-26 03:10:00,No
+LO41514,Complete Blood Count,2.36,mg/dL,0.7-1.3,2023-02-26 07:13:00,Yes
+LO41515,Glucose,4.6,mmol/L,3.9-6.1,2023-02-26 08:15:00,No
+LO41516,Hemoglobin,15.3,g/dL,12.0-16.0,2023-04-15 06:46:00,No
+LO41517,Hemoglobin,8.5,g/dL,12.0-16.0,2023-04-15 01:30:00,No
+LO41518,Hemoglobin,9.0,g/dL,12.0-16.0,2023-04-15 03:26:00,No
+LO41519,Alanine Transaminase,2.46,mg/dL,0.7-1.3,2023-04-15 07:07:00,Yes
+LO41520,Hemoglobin,9.8,g/dL,12.0-16.0,2023-01-26 05:32:00,No
+LO41521,Hemoglobin,11.1,g/dL,12.0-16.0,2023-01-26 09:54:00,No
+LO41522,Creatinine,1.11,mg/dL,0.7-1.3,2023-01-26 02:45:00,No
+LO41523,Alanine Transaminase,2.0,mg/dL,0.7-1.3,2023-01-26 03:14:00,Yes
+LO41524,Creatinine,1.19,mg/dL,0.7-1.3,2023-04-09 04:41:00,No
+LO41525,White Blood Cell Count,9.3,10^9/L,4.0-11.0,2023-04-16 07:39:00,No
+LO41526,Alanine Transaminase,1.48,mg/dL,0.7-1.3,2023-09-24 03:54:00,Yes
+LO41527,Complete Blood Count,0.87,mg/dL,0.7-1.3,2023-09-24 04:29:00,No
+LO41528,Complete Blood Count,2.33,mg/dL,0.7-1.3,2023-08-26 05:59:00,Yes
+LO41529,Creatinine,1.6,mg/dL,0.7-1.3,2023-02-24 04:56:00,Yes
+LO41530,Glucose,6.0,mmol/L,3.9-6.1,2023-05-11 07:18:00,No
+LO41531,Creatinine,1.47,mg/dL,0.7-1.3,2023-05-11 03:05:00,Yes
+LO41532,Glucose,6.2,mmol/L,3.9-6.1,2023-05-11 06:48:00,No
+LO41533,White Blood Cell Count,3.3,10^9/L,4.0-11.0,2023-08-21 05:45:00,No
+LO41534,Glucose,14.9,mmol/L,3.9-6.1,2023-08-21 05:49:00,No
+LO41535,Hemoglobin,9.2,g/dL,12.0-16.0,2023-01-28 07:32:00,No
+LO41536,Alanine Transaminase,2.48,mg/dL,0.7-1.3,2023-03-28 08:42:00,Yes
+LO41537,Glucose,14.5,mmol/L,3.9-6.1,2023-03-28 02:44:00,No
+LO41538,Alanine Transaminase,0.95,mg/dL,0.7-1.3,2023-03-28 05:34:00,No
+LO41539,Creatinine,0.53,mg/dL,0.7-1.3,2023-04-28 02:26:00,Yes
+LO41540,Complete Blood Count,1.35,mg/dL,0.7-1.3,2023-04-28 02:46:00,Yes
+LO41541,Glucose,9.0,mmol/L,3.9-6.1,2023-10-02 07:14:00,No
+LO41542,Hemoglobin,13.3,g/dL,12.0-16.0,2023-10-02 03:05:00,No
+LO41543,White Blood Cell Count,13.7,10^9/L,4.0-11.0,2023-10-02 05:39:00,No
+LO41544,Alanine Transaminase,1.63,mg/dL,0.7-1.3,2023-07-16 04:39:00,Yes
+LO41545,Alanine Transaminase,1.73,mg/dL,0.7-1.3,2023-07-16 08:16:00,Yes
+LO41546,Hemoglobin,13.4,g/dL,12.0-16.0,2023-12-03 03:59:00,No
+LO41547,Alanine Transaminase,0.66,mg/dL,0.7-1.3,2023-12-03 09:49:00,Yes
+LO41548,Glucose,11.3,mmol/L,3.9-6.1,2023-12-03 03:33:00,No
+LO41549,Creatinine,1.4,mg/dL,0.7-1.3,2023-12-03 08:09:00,Yes
+LO41550,White Blood Cell Count,4.4,10^9/L,4.0-11.0,2023-09-27 01:40:00,No
+LO41551,Complete Blood Count,1.13,mg/dL,0.7-1.3,2023-09-27 06:42:00,No
+LO41552,Hemoglobin,9.0,g/dL,12.0-16.0,2023-09-27 06:12:00,No
+LO41553,Complete Blood Count,2.13,mg/dL,0.7-1.3,2023-09-27 02:06:00,Yes
+LO41554,White Blood Cell Count,10.8,10^9/L,4.0-11.0,2023-03-05 07:27:00,No
+LO41555,Glucose,12.7,mmol/L,3.9-6.1,2023-03-05 05:45:00,No
+LO41556,Glucose,13.7,mmol/L,3.9-6.1,2023-03-05 02:58:00,No
+LO41557,Hemoglobin,10.5,g/dL,12.0-16.0,2023-06-25 08:20:00,No
+LO41558,Creatinine,0.58,mg/dL,0.7-1.3,2023-06-25 06:59:00,Yes
+LO41559,Complete Blood Count,2.3,mg/dL,0.7-1.3,2023-06-25 04:04:00,Yes
+LO41560,Complete Blood Count,1.59,mg/dL,0.7-1.3,2023-06-25 03:04:00,Yes
+LO41561,White Blood Cell Count,4.4,10^9/L,4.0-11.0,2023-01-30 02:20:00,No
+LO41562,Hemoglobin,8.1,g/dL,12.0-16.0,2023-01-30 05:42:00,No
+LO41563,Glucose,7.1,mmol/L,3.9-6.1,2023-01-17 05:15:00,No
+LO41564,White Blood Cell Count,11.5,10^9/L,4.0-11.0,2023-01-17 08:34:00,No
+LO41565,Alanine Transaminase,1.19,mg/dL,0.7-1.3,2023-11-13 08:51:00,No
+LO41566,Complete Blood Count,1.21,mg/dL,0.7-1.3,2023-11-13 08:21:00,No
+LO41567,Hemoglobin,8.5,g/dL,12.0-16.0,2023-11-13 07:10:00,No
+LO41568,Creatinine,1.97,mg/dL,0.7-1.3,2023-04-14 01:45:00,Yes
+LO41569,Creatinine,0.84,mg/dL,0.7-1.3,2023-04-14 08:04:00,No
+LO41570,Creatinine,1.31,mg/dL,0.7-1.3,2023-04-14 04:23:00,Yes
+LO41571,Creatinine,2.07,mg/dL,0.7-1.3,2023-09-15 05:47:00,Yes
+LO41572,Alanine Transaminase,1.98,mg/dL,0.7-1.3,2023-07-03 03:44:00,Yes
+LO41573,Alanine Transaminase,1.38,mg/dL,0.7-1.3,2023-10-26 05:43:00,Yes
+LO41574,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-10-26 07:44:00,No
+LO41575,Alanine Transaminase,1.78,mg/dL,0.7-1.3,2023-10-26 05:27:00,Yes
+LO41576,Creatinine,2.21,mg/dL,0.7-1.3,2023-05-03 06:36:00,Yes
+LO41577,Creatinine,1.19,mg/dL,0.7-1.3,2023-06-24 06:10:00,No
+LO41578,Alanine Transaminase,1.95,mg/dL,0.7-1.3,2023-06-24 07:26:00,Yes
+LO41579,Alanine Transaminase,2.16,mg/dL,0.7-1.3,2023-07-31 07:14:00,Yes
+LO41580,Creatinine,0.64,mg/dL,0.7-1.3,2023-06-21 02:36:00,Yes
+LO41581,Glucose,4.3,mmol/L,3.9-6.1,2023-06-21 04:48:00,No
+LO41582,Alanine Transaminase,0.72,mg/dL,0.7-1.3,2023-06-21 03:59:00,No
+LO41583,Alanine Transaminase,1.02,mg/dL,0.7-1.3,2023-07-10 07:26:00,No
+LO41584,Creatinine,1.15,mg/dL,0.7-1.3,2023-07-10 04:57:00,No
+LO41585,Complete Blood Count,1.77,mg/dL,0.7-1.3,2023-07-10 06:30:00,Yes
+LO41586,Glucose,14.0,mmol/L,3.9-6.1,2023-11-07 08:13:00,No
+LO41587,Hemoglobin,10.5,g/dL,12.0-16.0,2023-11-07 04:25:00,No
+LO41588,White Blood Cell Count,3.3,10^9/L,4.0-11.0,2023-11-07 07:04:00,No
+LO41589,Complete Blood Count,2.31,mg/dL,0.7-1.3,2023-03-16 03:17:00,Yes
+LO41590,Alanine Transaminase,1.25,mg/dL,0.7-1.3,2023-03-16 03:27:00,No
+LO41591,Glucose,11.7,mmol/L,3.9-6.1,2023-03-16 06:45:00,No
+LO41592,Complete Blood Count,2.4,mg/dL,0.7-1.3,2023-06-09 07:15:00,Yes
+LO41593,Alanine Transaminase,0.61,mg/dL,0.7-1.3,2023-06-09 04:05:00,Yes
+LO41594,Glucose,7.7,mmol/L,3.9-6.1,2023-06-09 03:00:00,No
+LO41595,White Blood Cell Count,3.7,10^9/L,4.0-11.0,2023-06-09 05:52:00,No
+LO41596,Complete Blood Count,2.32,mg/dL,0.7-1.3,2023-11-18 06:55:00,Yes
+LO41597,Complete Blood Count,2.33,mg/dL,0.7-1.3,2023-11-18 09:34:00,Yes
+LO41598,White Blood Cell Count,4.5,10^9/L,4.0-11.0,2023-11-18 04:39:00,No
+LO41599,Complete Blood Count,2.1,mg/dL,0.7-1.3,2023-10-20 04:40:00,Yes
+LO41600,Hemoglobin,11.9,g/dL,12.0-16.0,2023-10-20 02:38:00,No
+LO41601,Hemoglobin,15.6,g/dL,12.0-16.0,2023-10-20 02:46:00,No
+LO41602,Glucose,11.4,mmol/L,3.9-6.1,2023-09-11 03:02:00,No
+LO41603,Alanine Transaminase,1.45,mg/dL,0.7-1.3,2023-09-11 04:01:00,Yes
+LO41604,White Blood Cell Count,4.0,10^9/L,4.0-11.0,2023-03-03 06:00:00,No
+LO41605,Creatinine,1.04,mg/dL,0.7-1.3,2023-03-03 09:53:00,No
+LO41606,Glucose,12.9,mmol/L,3.9-6.1,2023-03-03 02:38:00,No
+LO41607,Alanine Transaminase,0.79,mg/dL,0.7-1.3,2023-11-07 05:13:00,No
+LO41608,White Blood Cell Count,8.8,10^9/L,4.0-11.0,2023-05-05 06:19:00,No
+LO41609,Creatinine,0.57,mg/dL,0.7-1.3,2023-05-05 04:48:00,Yes
+LO41610,Alanine Transaminase,1.84,mg/dL,0.7-1.3,2023-05-05 07:26:00,Yes
+LO41611,White Blood Cell Count,4.2,10^9/L,4.0-11.0,2023-06-27 05:44:00,No
+LO41612,Glucose,5.1,mmol/L,3.9-6.1,2023-06-27 04:17:00,No
+LO41613,White Blood Cell Count,4.8,10^9/L,4.0-11.0,2023-08-02 04:03:00,No
+LO41614,Alanine Transaminase,1.04,mg/dL,0.7-1.3,2023-08-02 05:55:00,No
+LO41615,Hemoglobin,12.4,g/dL,12.0-16.0,2023-01-01 03:37:00,No
+LO41616,White Blood Cell Count,7.9,10^9/L,4.0-11.0,2023-01-01 06:50:00,No
+LO41617,Hemoglobin,11.2,g/dL,12.0-16.0,2023-03-23 04:17:00,No
+LO41618,Glucose,5.4,mmol/L,3.9-6.1,2023-12-22 06:59:00,No
+LO41619,White Blood Cell Count,4.6,10^9/L,4.0-11.0,2023-12-22 07:30:00,No
+LO41620,Creatinine,1.98,mg/dL,0.7-1.3,2023-12-22 08:07:00,Yes
+LO41621,Creatinine,0.65,mg/dL,0.7-1.3,2023-03-07 07:21:00,Yes
+LO41622,Hemoglobin,10.1,g/dL,12.0-16.0,2023-10-13 09:16:00,No
+LO41623,Complete Blood Count,2.02,mg/dL,0.7-1.3,2023-10-13 08:41:00,Yes
+LO41624,Creatinine,2.23,mg/dL,0.7-1.3,2023-10-13 04:35:00,Yes
+LO41625,Glucose,8.5,mmol/L,3.9-6.1,2023-10-13 08:19:00,No
+LO41626,Creatinine,0.98,mg/dL,0.7-1.3,2023-10-26 07:49:00,No
+LO41627,Alanine Transaminase,1.29,mg/dL,0.7-1.3,2023-10-26 05:42:00,No
+LO41628,Alanine Transaminase,2.24,mg/dL,0.7-1.3,2023-12-05 02:45:00,Yes
+LO41629,Complete Blood Count,2.32,mg/dL,0.7-1.3,2023-12-05 08:01:00,Yes
+LO41630,Creatinine,0.85,mg/dL,0.7-1.3,2023-12-05 07:37:00,No
+LO41631,Alanine Transaminase,0.65,mg/dL,0.7-1.3,2023-12-07 05:48:00,Yes
+LO41632,Alanine Transaminase,0.86,mg/dL,0.7-1.3,2023-12-07 06:56:00,No
+LO41633,White Blood Cell Count,5.1,10^9/L,4.0-11.0,2023-12-07 07:13:00,No
+LO41634,White Blood Cell Count,14.3,10^9/L,4.0-11.0,2023-12-07 03:13:00,No
+LO41635,Creatinine,0.64,mg/dL,0.7-1.3,2023-01-16 04:49:00,Yes
+LO41636,Alanine Transaminase,2.43,mg/dL,0.7-1.3,2023-01-16 06:52:00,Yes
+LO41637,Alanine Transaminase,0.82,mg/dL,0.7-1.3,2023-04-28 06:23:00,No
+LO41638,Hemoglobin,11.5,g/dL,12.0-16.0,2023-04-28 05:03:00,No
+LO41639,Complete Blood Count,0.97,mg/dL,0.7-1.3,2023-04-28 06:59:00,No
+LO41640,Hemoglobin,13.9,g/dL,12.0-16.0,2023-04-28 03:42:00,No
+LO41641,Alanine Transaminase,2.17,mg/dL,0.7-1.3,2023-10-25 06:58:00,Yes
+LO41642,White Blood Cell Count,9.3,10^9/L,4.0-11.0,2023-10-25 04:09:00,No
+LO41643,White Blood Cell Count,8.0,10^9/L,4.0-11.0,2023-04-13 03:33:00,No
+LO41644,Complete Blood Count,1.47,mg/dL,0.7-1.3,2023-12-08 05:57:00,Yes
+LO41645,Hemoglobin,10.2,g/dL,12.0-16.0,2023-09-09 07:18:00,No
+LO41646,Complete Blood Count,0.97,mg/dL,0.7-1.3,2023-09-09 06:09:00,No
+LO41647,Creatinine,0.93,mg/dL,0.7-1.3,2023-04-12 05:24:00,No
+LO41648,Glucose,9.9,mmol/L,3.9-6.1,2023-06-25 06:55:00,No
+LO41649,Hemoglobin,15.9,g/dL,12.0-16.0,2023-06-25 05:25:00,No
+LO41650,Hemoglobin,15.0,g/dL,12.0-16.0,2023-06-25 08:09:00,No
+LO41651,Creatinine,2.15,mg/dL,0.7-1.3,2023-06-25 04:10:00,Yes
+LO41652,Hemoglobin,15.5,g/dL,12.0-16.0,2023-05-08 09:44:00,No
+LO41653,Hemoglobin,9.1,g/dL,12.0-16.0,2023-05-08 07:40:00,No
+LO41654,Glucose,10.3,mmol/L,3.9-6.1,2023-10-12 05:51:00,No
+LO41655,Complete Blood Count,2.34,mg/dL,0.7-1.3,2023-10-12 09:20:00,Yes
+LO41656,Hemoglobin,12.8,g/dL,12.0-16.0,2023-10-12 05:36:00,No
+LO41657,White Blood Cell Count,3.2,10^9/L,4.0-11.0,2023-10-12 06:45:00,No
+LO41658,Hemoglobin,16.0,g/dL,12.0-16.0,2023-07-23 04:22:00,No
+LO41659,Creatinine,1.47,mg/dL,0.7-1.3,2023-07-23 04:02:00,Yes
+LO41660,White Blood Cell Count,8.9,10^9/L,4.0-11.0,2023-07-23 04:04:00,No
+LO41661,Glucose,5.2,mmol/L,3.9-6.1,2023-07-23 09:30:00,No
+LO41662,Creatinine,0.6,mg/dL,0.7-1.3,2023-03-23 03:07:00,Yes
+LO41663,Complete Blood Count,2.05,mg/dL,0.7-1.3,2023-03-23 07:08:00,Yes
+LO41664,Glucose,7.3,mmol/L,3.9-6.1,2023-03-23 07:23:00,No
+LO41665,Creatinine,1.34,mg/dL,0.7-1.3,2023-03-28 09:49:00,Yes
+LO41666,White Blood Cell Count,13.0,10^9/L,4.0-11.0,2023-03-28 05:14:00,No
+LO41667,Creatinine,1.66,mg/dL,0.7-1.3,2023-03-28 02:27:00,Yes
+LO41668,Alanine Transaminase,2.16,mg/dL,0.7-1.3,2023-03-28 06:31:00,Yes
+LO41669,Hemoglobin,14.0,g/dL,12.0-16.0,2023-10-28 07:13:00,No
+LO41670,Alanine Transaminase,1.52,mg/dL,0.7-1.3,2023-10-28 04:24:00,Yes
+LO41671,Hemoglobin,9.5,g/dL,12.0-16.0,2023-10-22 03:26:00,No
+LO41672,White Blood Cell Count,9.4,10^9/L,4.0-11.0,2023-10-22 03:59:00,No
+LO41673,Complete Blood Count,1.66,mg/dL,0.7-1.3,2023-03-12 05:25:00,Yes
+LO41674,Hemoglobin,15.8,g/dL,12.0-16.0,2023-03-12 06:57:00,No
+LO41675,Alanine Transaminase,1.21,mg/dL,0.7-1.3,2023-03-12 08:17:00,No
+LO41676,White Blood Cell Count,7.9,10^9/L,4.0-11.0,2023-02-25 06:15:00,No
+LO41677,Creatinine,1.87,mg/dL,0.7-1.3,2023-05-15 05:56:00,Yes
+LO41678,Creatinine,1.98,mg/dL,0.7-1.3,2023-05-15 04:25:00,Yes
+LO41679,Glucose,6.6,mmol/L,3.9-6.1,2023-05-15 07:34:00,No
+LO41680,Complete Blood Count,0.9,mg/dL,0.7-1.3,2023-05-15 05:09:00,No
+LO41681,Creatinine,0.86,mg/dL,0.7-1.3,2023-05-12 07:39:00,No
+LO41682,Complete Blood Count,0.76,mg/dL,0.7-1.3,2023-05-12 05:24:00,No
+LO41683,Hemoglobin,9.5,g/dL,12.0-16.0,2023-05-12 04:57:00,No
+LO41684,White Blood Cell Count,14.0,10^9/L,4.0-11.0,2023-05-12 04:21:00,No
+LO41685,Complete Blood Count,0.56,mg/dL,0.7-1.3,2023-07-22 05:53:00,Yes
+LO41686,Glucose,11.7,mmol/L,3.9-6.1,2023-07-22 07:03:00,No
+LO41687,Glucose,3.3,mmol/L,3.9-6.1,2023-06-25 04:31:00,No
+LO41688,Creatinine,0.68,mg/dL,0.7-1.3,2023-06-25 05:38:00,Yes
+LO41689,Hemoglobin,16.0,g/dL,12.0-16.0,2023-12-29 05:22:00,No
+LO41690,Complete Blood Count,1.71,mg/dL,0.7-1.3,2023-12-29 08:22:00,Yes
+LO41691,Hemoglobin,15.4,g/dL,12.0-16.0,2023-12-29 03:07:00,No
+LO41692,Glucose,10.5,mmol/L,3.9-6.1,2023-12-29 04:36:00,No
+LO41693,Creatinine,2.1,mg/dL,0.7-1.3,2023-02-14 03:57:00,Yes
+LO41694,White Blood Cell Count,3.4,10^9/L,4.0-11.0,2023-02-14 06:06:00,No
+LO41695,Creatinine,0.85,mg/dL,0.7-1.3,2023-01-18 08:26:00,No
+LO41696,White Blood Cell Count,4.4,10^9/L,4.0-11.0,2023-01-18 04:58:00,No
+LO41697,White Blood Cell Count,12.1,10^9/L,4.0-11.0,2023-01-18 06:56:00,No
+LO41698,Alanine Transaminase,2.38,mg/dL,0.7-1.3,2023-03-11 07:15:00,Yes
+LO41699,Complete Blood Count,1.96,mg/dL,0.7-1.3,2023-11-21 04:52:00,Yes
+LO41700,Creatinine,2.34,mg/dL,0.7-1.3,2023-11-21 02:21:00,Yes
+LO41701,Alanine Transaminase,2.2,mg/dL,0.7-1.3,2023-09-02 07:27:00,Yes
+LO41702,Complete Blood Count,2.15,mg/dL,0.7-1.3,2023-09-02 04:55:00,Yes
+LO41703,Glucose,8.8,mmol/L,3.9-6.1,2023-04-13 07:24:00,No
+LO41704,Hemoglobin,11.8,g/dL,12.0-16.0,2023-04-13 07:30:00,No
+LO41705,Alanine Transaminase,2.43,mg/dL,0.7-1.3,2023-09-15 03:16:00,Yes
+LO41706,Complete Blood Count,2.08,mg/dL,0.7-1.3,2023-09-15 02:57:00,Yes
+LO41707,White Blood Cell Count,10.5,10^9/L,4.0-11.0,2023-09-15 03:30:00,No
+LO41708,Alanine Transaminase,0.68,mg/dL,0.7-1.3,2023-01-01 02:43:00,Yes
+LO41709,Alanine Transaminase,0.63,mg/dL,0.7-1.3,2023-01-01 05:06:00,Yes
+LO41710,Complete Blood Count,1.6,mg/dL,0.7-1.3,2023-01-01 08:06:00,Yes
+LO41711,Hemoglobin,13.5,g/dL,12.0-16.0,2023-01-01 05:50:00,No
+LO41712,Complete Blood Count,1.78,mg/dL,0.7-1.3,2023-01-02 04:05:00,Yes
+LO41713,Creatinine,2.45,mg/dL,0.7-1.3,2023-01-02 03:00:00,Yes
+LO41714,Creatinine,2.18,mg/dL,0.7-1.3,2023-01-02 02:36:00,Yes
+LO41715,Hemoglobin,8.4,g/dL,12.0-16.0,2023-09-09 04:48:00,No
+LO41716,White Blood Cell Count,8.7,10^9/L,4.0-11.0,2023-09-09 05:02:00,No
+LO41717,Creatinine,2.14,mg/dL,0.7-1.3,2023-09-09 05:22:00,Yes
+LO41718,Complete Blood Count,2.37,mg/dL,0.7-1.3,2023-09-02 04:03:00,Yes
+LO41719,Complete Blood Count,0.89,mg/dL,0.7-1.3,2023-09-02 07:00:00,No
+LO41720,Hemoglobin,12.1,g/dL,12.0-16.0,2023-09-02 06:44:00,No
+LO41721,White Blood Cell Count,4.4,10^9/L,4.0-11.0,2023-04-14 06:17:00,No
+LO41722,Glucose,8.8,mmol/L,3.9-6.1,2023-04-14 05:08:00,No
+LO41723,Glucose,10.4,mmol/L,3.9-6.1,2023-11-02 05:47:00,No
+LO41724,Complete Blood Count,1.32,mg/dL,0.7-1.3,2023-11-02 07:28:00,Yes
+LO41725,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-11-02 05:41:00,No
+LO41726,Glucose,5.7,mmol/L,3.9-6.1,2023-08-06 06:32:00,No
+LO41727,Hemoglobin,11.2,g/dL,12.0-16.0,2023-08-06 05:20:00,No
+LO41728,Complete Blood Count,2.43,mg/dL,0.7-1.3,2023-12-05 07:57:00,Yes
+LO41729,Hemoglobin,10.8,g/dL,12.0-16.0,2023-08-08 06:02:00,No
+LO41730,Glucose,12.7,mmol/L,3.9-6.1,2023-08-08 06:38:00,No
+LO41731,White Blood Cell Count,9.5,10^9/L,4.0-11.0,2023-06-19 07:02:00,No
+LO41732,Glucose,11.4,mmol/L,3.9-6.1,2023-06-19 04:05:00,No
+LO41733,White Blood Cell Count,4.5,10^9/L,4.0-11.0,2023-06-19 04:53:00,No
+LO41734,Glucose,6.2,mmol/L,3.9-6.1,2023-04-01 02:49:00,No
+LO41735,Complete Blood Count,1.94,mg/dL,0.7-1.3,2023-04-01 04:34:00,Yes
+LO41736,Complete Blood Count,2.19,mg/dL,0.7-1.3,2023-04-01 07:12:00,Yes
+LO41737,White Blood Cell Count,3.4,10^9/L,4.0-11.0,2023-09-11 05:36:00,No
+LO41738,Complete Blood Count,1.77,mg/dL,0.7-1.3,2023-09-11 04:10:00,Yes
+LO41739,Glucose,8.2,mmol/L,3.9-6.1,2023-06-17 04:34:00,No
+LO41740,Hemoglobin,10.6,g/dL,12.0-16.0,2023-12-10 06:56:00,No
+LO41741,Hemoglobin,11.2,g/dL,12.0-16.0,2023-12-10 06:30:00,No
+LO41742,Hemoglobin,13.0,g/dL,12.0-16.0,2023-12-10 06:46:00,No
+LO41743,Creatinine,2.15,mg/dL,0.7-1.3,2023-12-10 03:34:00,Yes
+LO41744,Complete Blood Count,1.04,mg/dL,0.7-1.3,2023-04-29 06:35:00,No
+LO41745,Hemoglobin,8.4,g/dL,12.0-16.0,2023-04-29 06:46:00,No
+LO41746,Glucose,3.6,mmol/L,3.9-6.1,2023-04-29 06:08:00,No
+LO41747,Glucose,10.4,mmol/L,3.9-6.1,2023-04-29 03:52:00,No
+LO41748,Complete Blood Count,1.11,mg/dL,0.7-1.3,2023-10-21 04:50:00,No
+LO41749,Creatinine,1.73,mg/dL,0.7-1.3,2023-10-21 08:24:00,Yes
+LO41750,Complete Blood Count,1.14,mg/dL,0.7-1.3,2023-10-21 07:58:00,No
+LO41751,Hemoglobin,12.9,g/dL,12.0-16.0,2023-10-11 05:37:00,No
+LO41752,Alanine Transaminase,1.13,mg/dL,0.7-1.3,2023-10-11 05:32:00,No
+LO41753,Alanine Transaminase,2.15,mg/dL,0.7-1.3,2023-02-04 03:20:00,Yes
+LO41754,Glucose,13.6,mmol/L,3.9-6.1,2023-02-04 08:52:00,No
+LO41755,Glucose,12.5,mmol/L,3.9-6.1,2023-10-05 07:44:00,No
+LO41756,Complete Blood Count,1.34,mg/dL,0.7-1.3,2023-02-23 02:40:00,Yes
+LO41757,Complete Blood Count,1.82,mg/dL,0.7-1.3,2023-02-23 07:19:00,Yes
+LO41758,Hemoglobin,9.6,g/dL,12.0-16.0,2023-02-23 06:55:00,No
+LO41759,Creatinine,1.98,mg/dL,0.7-1.3,2023-06-30 03:34:00,Yes
+LO41760,Hemoglobin,13.7,g/dL,12.0-16.0,2023-06-30 03:22:00,No
+LO41761,Hemoglobin,14.7,g/dL,12.0-16.0,2023-05-31 04:58:00,No
+LO41762,Complete Blood Count,2.27,mg/dL,0.7-1.3,2023-06-10 07:21:00,Yes
+LO41763,Hemoglobin,15.7,g/dL,12.0-16.0,2023-06-10 04:55:00,No
+LO41764,Alanine Transaminase,1.85,mg/dL,0.7-1.3,2023-10-29 09:20:00,Yes
+LO41765,Hemoglobin,9.2,g/dL,12.0-16.0,2023-10-29 03:49:00,No
+LO41766,Glucose,13.6,mmol/L,3.9-6.1,2023-10-29 07:52:00,No
+LO41767,White Blood Cell Count,12.2,10^9/L,4.0-11.0,2023-10-29 08:32:00,No
+LO41768,Alanine Transaminase,2.06,mg/dL,0.7-1.3,2023-10-05 06:51:00,Yes
+LO41769,Alanine Transaminase,2.31,mg/dL,0.7-1.3,2023-10-05 04:39:00,Yes
+LO41770,White Blood Cell Count,7.2,10^9/L,4.0-11.0,2023-10-05 09:24:00,No
+LO41771,White Blood Cell Count,5.0,10^9/L,4.0-11.0,2023-06-13 05:33:00,No
+LO41772,Complete Blood Count,1.5,mg/dL,0.7-1.3,2023-06-13 07:10:00,Yes
+LO41773,Complete Blood Count,1.77,mg/dL,0.7-1.3,2023-04-19 02:48:00,Yes
+LO41774,White Blood Cell Count,3.1,10^9/L,4.0-11.0,2023-04-19 02:36:00,No
+LO41775,Hemoglobin,14.1,g/dL,12.0-16.0,2023-10-01 05:09:00,No
+LO41776,White Blood Cell Count,5.8,10^9/L,4.0-11.0,2023-12-01 05:07:00,No
+LO41777,Hemoglobin,14.8,g/dL,12.0-16.0,2023-12-01 01:36:00,No
+LO41778,Alanine Transaminase,2.34,mg/dL,0.7-1.3,2023-12-01 03:26:00,Yes
+LO41779,Glucose,12.8,mmol/L,3.9-6.1,2023-12-01 06:08:00,No
+LO41780,Glucose,7.7,mmol/L,3.9-6.1,2023-12-07 07:46:00,No
+LO41781,Glucose,11.7,mmol/L,3.9-6.1,2023-12-28 07:02:00,No
+LO41782,Hemoglobin,8.0,g/dL,12.0-16.0,2023-12-28 02:36:00,No
+LO41783,Hemoglobin,12.4,g/dL,12.0-16.0,2023-03-02 04:47:00,No
+LO41784,Creatinine,0.51,mg/dL,0.7-1.3,2023-03-02 07:02:00,Yes
+LO41785,Creatinine,2.1,mg/dL,0.7-1.3,2023-03-02 03:03:00,Yes
+LO41786,Complete Blood Count,0.84,mg/dL,0.7-1.3,2023-07-27 05:23:00,No
+LO41787,Hemoglobin,10.6,g/dL,12.0-16.0,2023-07-27 08:25:00,No
+LO41788,White Blood Cell Count,12.3,10^9/L,4.0-11.0,2023-07-27 02:04:00,No
+LO41789,Hemoglobin,12.6,g/dL,12.0-16.0,2023-07-27 09:02:00,No
+LO41790,Glucose,4.3,mmol/L,3.9-6.1,2023-12-27 04:26:00,No
+LO41791,Complete Blood Count,0.76,mg/dL,0.7-1.3,2023-12-27 05:13:00,No
+LO41792,White Blood Cell Count,12.8,10^9/L,4.0-11.0,2023-06-13 05:14:00,No
+LO41793,Alanine Transaminase,0.81,mg/dL,0.7-1.3,2023-06-13 05:01:00,No
+LO41794,Hemoglobin,14.2,g/dL,12.0-16.0,2023-11-16 03:36:00,No
+LO41795,Glucose,8.6,mmol/L,3.9-6.1,2023-03-28 03:59:00,No
+LO41796,Complete Blood Count,1.34,mg/dL,0.7-1.3,2023-07-13 04:35:00,Yes
+LO41797,Complete Blood Count,1.23,mg/dL,0.7-1.3,2023-07-13 03:24:00,No
+LO41798,Hemoglobin,15.5,g/dL,12.0-16.0,2023-12-24 07:04:00,No
+LO41799,Alanine Transaminase,1.7,mg/dL,0.7-1.3,2023-12-24 02:46:00,Yes
+LO41800,Creatinine,1.5,mg/dL,0.7-1.3,2023-09-30 04:42:00,Yes
+LO41801,Glucose,12.1,mmol/L,3.9-6.1,2023-09-30 06:19:00,No
+LO41802,White Blood Cell Count,7.2,10^9/L,4.0-11.0,2023-09-30 10:00:00,No
+LO41803,White Blood Cell Count,13.9,10^9/L,4.0-11.0,2023-12-02 05:49:00,No
+LO41804,Alanine Transaminase,2.3,mg/dL,0.7-1.3,2023-12-02 06:16:00,Yes
+LO41805,Creatinine,1.95,mg/dL,0.7-1.3,2023-12-02 08:37:00,Yes
+LO41806,Creatinine,1.7,mg/dL,0.7-1.3,2023-09-24 03:11:00,Yes
+LO41807,White Blood Cell Count,3.8,10^9/L,4.0-11.0,2023-09-24 05:41:00,No
+LO41808,Creatinine,1.13,mg/dL,0.7-1.3,2023-09-24 08:14:00,No
+LO41809,Glucose,3.0,mmol/L,3.9-6.1,2023-09-24 05:15:00,No
+LO41810,White Blood Cell Count,3.6,10^9/L,4.0-11.0,2023-10-06 07:08:00,No
+LO41811,Hemoglobin,13.5,g/dL,12.0-16.0,2023-10-06 05:42:00,No
+LO41812,Alanine Transaminase,0.94,mg/dL,0.7-1.3,2023-10-06 04:27:00,No
+LO41813,Hemoglobin,8.3,g/dL,12.0-16.0,2023-10-06 04:39:00,No
+LO41814,Glucose,13.3,mmol/L,3.9-6.1,2023-05-27 05:54:00,No
+LO41815,Hemoglobin,13.1,g/dL,12.0-16.0,2023-05-27 07:11:00,No
+LO41816,Glucose,4.3,mmol/L,3.9-6.1,2023-05-27 03:55:00,No
+LO41817,Glucose,10.0,mmol/L,3.9-6.1,2023-05-27 05:33:00,No
+LO41818,Creatinine,2.46,mg/dL,0.7-1.3,2023-01-31 09:59:00,Yes
+LO41819,Glucose,6.9,mmol/L,3.9-6.1,2023-01-31 06:06:00,No
+LO41820,Hemoglobin,10.1,g/dL,12.0-16.0,2023-01-31 02:45:00,No
+LO41821,Hemoglobin,10.2,g/dL,12.0-16.0,2023-10-26 02:03:00,No
+LO41822,White Blood Cell Count,5.7,10^9/L,4.0-11.0,2023-10-26 06:31:00,No
+LO41823,Hemoglobin,12.6,g/dL,12.0-16.0,2023-10-26 03:54:00,No
+LO41824,Alanine Transaminase,2.39,mg/dL,0.7-1.3,2023-01-31 06:58:00,Yes
+LO41825,Glucose,10.8,mmol/L,3.9-6.1,2023-07-12 04:50:00,No
+LO41826,Creatinine,1.64,mg/dL,0.7-1.3,2023-07-12 02:03:00,Yes
+LO41827,Complete Blood Count,1.49,mg/dL,0.7-1.3,2023-07-12 03:50:00,Yes
+LO41828,Glucose,6.4,mmol/L,3.9-6.1,2023-10-23 02:01:00,No
+LO41829,White Blood Cell Count,8.1,10^9/L,4.0-11.0,2023-10-23 05:31:00,No
+LO41830,Complete Blood Count,2.36,mg/dL,0.7-1.3,2023-10-23 07:48:00,Yes
+LO41831,Complete Blood Count,1.06,mg/dL,0.7-1.3,2023-10-23 06:21:00,No
+LO41832,Hemoglobin,15.2,g/dL,12.0-16.0,2023-02-09 04:08:00,No
+LO41833,Creatinine,1.73,mg/dL,0.7-1.3,2023-02-09 01:37:00,Yes
+LO41834,Creatinine,2.32,mg/dL,0.7-1.3,2023-02-09 06:23:00,Yes
+LO41835,Creatinine,0.84,mg/dL,0.7-1.3,2023-02-09 06:03:00,No
+LO41836,Glucose,12.8,mmol/L,3.9-6.1,2023-11-23 04:23:00,No
+LO41837,White Blood Cell Count,6.8,10^9/L,4.0-11.0,2023-11-23 04:49:00,No
+LO41838,White Blood Cell Count,5.1,10^9/L,4.0-11.0,2023-11-23 03:29:00,No
+LO41839,Creatinine,1.71,mg/dL,0.7-1.3,2023-01-04 02:55:00,Yes
+LO41840,White Blood Cell Count,13.0,10^9/L,4.0-11.0,2023-01-04 04:27:00,No
+LO41841,Alanine Transaminase,1.81,mg/dL,0.7-1.3,2023-01-04 03:23:00,Yes
+LO41842,Complete Blood Count,0.73,mg/dL,0.7-1.3,2023-03-16 08:18:00,No
+LO41843,Creatinine,2.08,mg/dL,0.7-1.3,2023-03-16 02:13:00,Yes
+LO41844,White Blood Cell Count,14.7,10^9/L,4.0-11.0,2023-03-16 04:07:00,No
+LO41845,Creatinine,1.47,mg/dL,0.7-1.3,2023-03-16 07:03:00,Yes
+LO41846,Glucose,12.8,mmol/L,3.9-6.1,2023-09-19 07:03:00,No
+LO41847,Alanine Transaminase,1.7,mg/dL,0.7-1.3,2023-09-19 08:22:00,Yes
+LO41848,White Blood Cell Count,8.1,10^9/L,4.0-11.0,2023-05-09 07:15:00,No
+LO41849,Hemoglobin,13.3,g/dL,12.0-16.0,2023-04-21 04:00:00,No
+LO41850,Complete Blood Count,1.23,mg/dL,0.7-1.3,2023-04-21 08:45:00,No
+LO41851,White Blood Cell Count,5.5,10^9/L,4.0-11.0,2023-06-26 02:55:00,No
+LO41852,Creatinine,1.62,mg/dL,0.7-1.3,2023-06-26 06:36:00,Yes
+LO41853,Hemoglobin,9.6,g/dL,12.0-16.0,2023-06-26 08:18:00,No
+LO41854,Creatinine,1.68,mg/dL,0.7-1.3,2023-06-26 07:41:00,Yes
+LO41855,Hemoglobin,8.9,g/dL,12.0-16.0,2023-12-22 07:37:00,No
+LO41856,White Blood Cell Count,4.4,10^9/L,4.0-11.0,2023-12-22 04:11:00,No
+LO41857,Glucose,10.3,mmol/L,3.9-6.1,2023-12-22 05:53:00,No
+LO41858,Hemoglobin,8.8,g/dL,12.0-16.0,2023-12-22 03:23:00,No
+LO41859,Complete Blood Count,1.84,mg/dL,0.7-1.3,2023-04-07 08:23:00,Yes
+LO41860,Complete Blood Count,2.04,mg/dL,0.7-1.3,2023-04-07 04:35:00,Yes
+LO41861,Alanine Transaminase,2.02,mg/dL,0.7-1.3,2023-04-07 03:32:00,Yes
+LO41862,White Blood Cell Count,11.1,10^9/L,4.0-11.0,2023-10-20 06:47:00,No
+LO41863,White Blood Cell Count,6.7,10^9/L,4.0-11.0,2023-12-26 03:16:00,No
+LO41864,Creatinine,1.53,mg/dL,0.7-1.3,2023-01-01 04:04:00,Yes
+LO41865,White Blood Cell Count,10.0,10^9/L,4.0-11.0,2023-01-01 03:16:00,No
+LO41866,Creatinine,2.48,mg/dL,0.7-1.3,2023-10-24 05:21:00,Yes
+LO41867,Hemoglobin,9.3,g/dL,12.0-16.0,2023-06-24 07:17:00,No
+LO41868,Alanine Transaminase,1.58,mg/dL,0.7-1.3,2023-11-10 04:30:00,Yes
+LO41869,Hemoglobin,8.3,g/dL,12.0-16.0,2023-08-07 04:23:00,No
+LO41870,Complete Blood Count,1.65,mg/dL,0.7-1.3,2023-08-07 06:39:00,Yes
+LO41871,Creatinine,1.5,mg/dL,0.7-1.3,2023-08-07 09:56:00,Yes
+LO41872,Glucose,5.8,mmol/L,3.9-6.1,2023-08-07 03:58:00,No
+LO41873,Complete Blood Count,2.21,mg/dL,0.7-1.3,2023-03-13 04:10:00,Yes
+LO41874,White Blood Cell Count,9.6,10^9/L,4.0-11.0,2023-03-13 08:34:00,No
+LO41875,Complete Blood Count,1.77,mg/dL,0.7-1.3,2023-07-28 06:25:00,Yes
+LO41876,White Blood Cell Count,6.2,10^9/L,4.0-11.0,2023-04-18 02:57:00,No
+LO41877,Alanine Transaminase,1.84,mg/dL,0.7-1.3,2023-12-15 06:34:00,Yes
+LO41878,Glucose,4.4,mmol/L,3.9-6.1,2023-12-15 05:09:00,No
+LO41879,Hemoglobin,8.4,g/dL,12.0-16.0,2023-12-15 05:35:00,No
+LO41880,Complete Blood Count,1.01,mg/dL,0.7-1.3,2023-12-15 02:31:00,No
+LO41881,Complete Blood Count,2.18,mg/dL,0.7-1.3,2023-10-23 06:03:00,Yes
+LO41882,White Blood Cell Count,7.3,10^9/L,4.0-11.0,2023-10-23 05:40:00,No
+LO41883,Hemoglobin,13.9,g/dL,12.0-16.0,2023-10-23 08:59:00,No
+LO41884,Creatinine,1.08,mg/dL,0.7-1.3,2023-09-24 05:07:00,No
+LO41885,Creatinine,1.4,mg/dL,0.7-1.3,2023-09-24 04:02:00,Yes
+LO41886,Creatinine,1.67,mg/dL,0.7-1.3,2023-09-24 05:29:00,Yes
+LO41887,Creatinine,1.89,mg/dL,0.7-1.3,2023-02-22 04:48:00,Yes
+LO41888,Creatinine,2.1,mg/dL,0.7-1.3,2023-02-22 05:49:00,Yes
+LO41889,Hemoglobin,9.1,g/dL,12.0-16.0,2023-02-22 04:10:00,No
+LO41890,Creatinine,2.27,mg/dL,0.7-1.3,2023-12-08 05:51:00,Yes
+LO41891,White Blood Cell Count,5.9,10^9/L,4.0-11.0,2023-12-08 02:36:00,No
+LO41892,Complete Blood Count,0.81,mg/dL,0.7-1.3,2023-12-08 06:52:00,No
+LO41893,Glucose,12.3,mmol/L,3.9-6.1,2023-12-08 05:55:00,No
+LO41894,Creatinine,1.73,mg/dL,0.7-1.3,2023-12-29 05:44:00,Yes
+LO41895,Alanine Transaminase,2.0,mg/dL,0.7-1.3,2023-12-29 06:33:00,Yes
+LO41896,Alanine Transaminase,1.0,mg/dL,0.7-1.3,2023-12-29 07:01:00,No
+LO41897,Glucose,5.0,mmol/L,3.9-6.1,2023-12-29 03:35:00,No
+LO41898,Hemoglobin,10.2,g/dL,12.0-16.0,2023-02-01 04:44:00,No
+LO41899,Alanine Transaminase,2.45,mg/dL,0.7-1.3,2023-08-09 03:16:00,Yes
+LO41900,Alanine Transaminase,1.1,mg/dL,0.7-1.3,2023-08-09 02:41:00,No
+LO41901,Complete Blood Count,0.93,mg/dL,0.7-1.3,2023-08-09 07:33:00,No
+LO41902,Alanine Transaminase,1.69,mg/dL,0.7-1.3,2023-06-12 03:11:00,Yes
+LO41903,Alanine Transaminase,0.82,mg/dL,0.7-1.3,2023-03-19 03:27:00,No
+LO41904,Complete Blood Count,2.44,mg/dL,0.7-1.3,2023-03-19 06:57:00,Yes
+LO41905,Alanine Transaminase,2.44,mg/dL,0.7-1.3,2023-03-19 05:01:00,Yes
+LO41906,Glucose,12.6,mmol/L,3.9-6.1,2023-03-19 02:52:00,No
+LO41907,Hemoglobin,14.1,g/dL,12.0-16.0,2023-02-10 03:52:00,No
+LO41908,White Blood Cell Count,5.2,10^9/L,4.0-11.0,2023-01-23 01:55:00,No
+LO41909,Creatinine,1.32,mg/dL,0.7-1.3,2023-06-01 05:49:00,Yes
+LO41910,Glucose,7.1,mmol/L,3.9-6.1,2023-06-01 05:18:00,No
+LO41911,White Blood Cell Count,12.2,10^9/L,4.0-11.0,2023-09-19 08:26:00,No
+LO41912,Alanine Transaminase,1.04,mg/dL,0.7-1.3,2023-09-19 05:10:00,No
+LO41913,White Blood Cell Count,6.5,10^9/L,4.0-11.0,2023-09-19 07:25:00,No
+LO41914,Hemoglobin,13.4,g/dL,12.0-16.0,2023-06-09 01:36:00,No
+LO41915,Alanine Transaminase,0.89,mg/dL,0.7-1.3,2023-06-09 02:58:00,No
+LO41916,Complete Blood Count,2.03,mg/dL,0.7-1.3,2023-11-17 08:42:00,Yes
+LO41917,Glucose,9.0,mmol/L,3.9-6.1,2023-11-17 04:35:00,No
+LO41918,Complete Blood Count,1.74,mg/dL,0.7-1.3,2023-05-11 04:03:00,Yes
+LO41919,White Blood Cell Count,3.6,10^9/L,4.0-11.0,2023-05-11 07:20:00,No
+LO41920,White Blood Cell Count,8.6,10^9/L,4.0-11.0,2023-11-25 08:58:00,No
+LO41921,Creatinine,0.85,mg/dL,0.7-1.3,2023-07-11 09:09:00,No
+LO41922,Complete Blood Count,1.21,mg/dL,0.7-1.3,2023-07-11 06:08:00,No
+LO41923,White Blood Cell Count,14.2,10^9/L,4.0-11.0,2023-07-11 02:51:00,No
+LO41924,White Blood Cell Count,8.1,10^9/L,4.0-11.0,2023-01-14 07:01:00,No
+LO41925,Creatinine,0.61,mg/dL,0.7-1.3,2023-01-14 01:57:00,Yes
+LO41926,Creatinine,1.43,mg/dL,0.7-1.3,2023-01-14 03:35:00,Yes
+LO41927,Alanine Transaminase,0.94,mg/dL,0.7-1.3,2023-01-14 01:59:00,No
+LO41928,Alanine Transaminase,2.47,mg/dL,0.7-1.3,2023-02-18 03:53:00,Yes
+LO41929,Complete Blood Count,2.0,mg/dL,0.7-1.3,2023-02-18 04:08:00,Yes
+LO41930,Creatinine,1.67,mg/dL,0.7-1.3,2023-02-18 05:49:00,Yes
+LO41931,White Blood Cell Count,14.7,10^9/L,4.0-11.0,2023-05-11 06:54:00,No
+LO41932,Complete Blood Count,2.1,mg/dL,0.7-1.3,2023-05-11 09:27:00,Yes
+LO41933,Alanine Transaminase,0.71,mg/dL,0.7-1.3,2023-02-03 02:42:00,No
+LO41934,White Blood Cell Count,5.3,10^9/L,4.0-11.0,2023-05-30 03:19:00,No
+LO41935,Complete Blood Count,1.99,mg/dL,0.7-1.3,2023-07-01 05:02:00,Yes
+LO41936,Complete Blood Count,0.96,mg/dL,0.7-1.3,2023-10-08 04:07:00,No
+LO41937,Alanine Transaminase,1.61,mg/dL,0.7-1.3,2023-08-09 07:22:00,Yes
+LO41938,Glucose,6.4,mmol/L,3.9-6.1,2023-11-04 06:10:00,No
+LO41939,Alanine Transaminase,1.49,mg/dL,0.7-1.3,2023-11-04 06:59:00,Yes
+LO41940,Alanine Transaminase,1.24,mg/dL,0.7-1.3,2023-01-28 05:53:00,No
+LO41941,Creatinine,0.82,mg/dL,0.7-1.3,2023-06-01 04:00:00,No
+LO41942,Glucose,8.2,mmol/L,3.9-6.1,2023-06-01 05:10:00,No
+LO41943,Alanine Transaminase,0.83,mg/dL,0.7-1.3,2023-06-01 07:40:00,No
+LO41944,Hemoglobin,11.9,g/dL,12.0-16.0,2023-06-01 06:09:00,No
+LO41945,Creatinine,2.38,mg/dL,0.7-1.3,2023-07-01 06:42:00,Yes
+LO41946,Hemoglobin,10.1,g/dL,12.0-16.0,2023-01-10 03:02:00,No
+LO41947,Glucose,9.4,mmol/L,3.9-6.1,2023-01-10 04:43:00,No
+LO41948,Alanine Transaminase,0.58,mg/dL,0.7-1.3,2023-11-24 04:08:00,Yes
+LO41949,Hemoglobin,15.3,g/dL,12.0-16.0,2023-11-24 03:44:00,No
+LO41950,Alanine Transaminase,1.26,mg/dL,0.7-1.3,2023-12-02 02:01:00,No
+LO41951,Glucose,6.4,mmol/L,3.9-6.1,2023-09-21 01:54:00,No
+LO41952,Glucose,7.2,mmol/L,3.9-6.1,2023-09-21 03:31:00,No
+LO41953,Hemoglobin,14.7,g/dL,12.0-16.0,2023-09-21 07:36:00,No
+LO41954,Hemoglobin,12.2,g/dL,12.0-16.0,2023-05-20 07:16:00,No
+LO41955,White Blood Cell Count,13.7,10^9/L,4.0-11.0,2023-10-27 09:41:00,No
+LO41956,White Blood Cell Count,6.1,10^9/L,4.0-11.0,2023-10-27 07:27:00,No
+LO41957,Creatinine,1.25,mg/dL,0.7-1.3,2023-10-27 08:53:00,No
+LO41958,Creatinine,2.34,mg/dL,0.7-1.3,2023-04-19 03:59:00,Yes
+LO41959,Hemoglobin,13.8,g/dL,12.0-16.0,2023-04-19 08:15:00,No
+LO41960,Creatinine,2.09,mg/dL,0.7-1.3,2023-04-19 04:08:00,Yes
+LO41961,Creatinine,1.67,mg/dL,0.7-1.3,2023-04-19 06:41:00,Yes
+LO41962,Complete Blood Count,2.31,mg/dL,0.7-1.3,2023-11-11 08:25:00,Yes
+LO41963,Alanine Transaminase,0.97,mg/dL,0.7-1.3,2023-11-11 05:45:00,No
+LO41964,White Blood Cell Count,9.5,10^9/L,4.0-11.0,2023-11-11 02:55:00,No
+LO41965,White Blood Cell Count,7.5,10^9/L,4.0-11.0,2023-08-29 09:49:00,No
+LO41966,Complete Blood Count,2.11,mg/dL,0.7-1.3,2023-08-29 06:26:00,Yes
+LO41967,Alanine Transaminase,1.43,mg/dL,0.7-1.3,2023-08-29 04:48:00,Yes
+LO41968,Glucose,3.2,mmol/L,3.9-6.1,2023-08-29 04:22:00,No
+LO41969,Hemoglobin,14.9,g/dL,12.0-16.0,2023-02-06 08:52:00,No
+LO41970,Hemoglobin,8.6,g/dL,12.0-16.0,2023-02-06 05:18:00,No
+LO41971,Creatinine,0.58,mg/dL,0.7-1.3,2023-12-19 05:58:00,Yes
+LO41972,Hemoglobin,10.3,g/dL,12.0-16.0,2023-11-03 06:35:00,No
+LO41973,Alanine Transaminase,1.74,mg/dL,0.7-1.3,2023-11-03 06:52:00,Yes
+LO41974,Complete Blood Count,1.35,mg/dL,0.7-1.3,2023-08-15 06:44:00,Yes
+LO41975,Creatinine,1.64,mg/dL,0.7-1.3,2023-08-15 05:33:00,Yes
+LO41976,Hemoglobin,8.3,g/dL,12.0-16.0,2023-08-15 03:09:00,No
+LO41977,Complete Blood Count,0.56,mg/dL,0.7-1.3,2023-01-04 05:30:00,Yes
+LO41978,Alanine Transaminase,1.32,mg/dL,0.7-1.3,2023-01-04 03:45:00,Yes
+LO41979,White Blood Cell Count,8.7,10^9/L,4.0-11.0,2023-08-12 06:31:00,No
+LO41980,White Blood Cell Count,10.3,10^9/L,4.0-11.0,2023-11-17 04:24:00,No
+LO41981,Alanine Transaminase,0.67,mg/dL,0.7-1.3,2023-11-17 05:15:00,Yes
+LO41982,Complete Blood Count,1.44,mg/dL,0.7-1.3,2023-11-17 07:13:00,Yes
+LO41983,Complete Blood Count,0.61,mg/dL,0.7-1.3,2023-11-17 04:02:00,Yes
+LO41984,Creatinine,1.26,mg/dL,0.7-1.3,2023-05-07 09:22:00,No
+LO41985,Complete Blood Count,0.69,mg/dL,0.7-1.3,2023-05-07 05:32:00,Yes
+LO41986,Glucose,9.0,mmol/L,3.9-6.1,2023-07-22 04:40:00,No
+LO41987,Complete Blood Count,2.0,mg/dL,0.7-1.3,2023-07-22 01:31:00,Yes
+LO41988,Glucose,11.4,mmol/L,3.9-6.1,2023-07-22 06:59:00,No
+LO41989,White Blood Cell Count,13.1,10^9/L,4.0-11.0,2023-07-11 02:51:00,No
+LO41990,Complete Blood Count,1.97,mg/dL,0.7-1.3,2023-07-11 01:49:00,Yes
+LO41991,Hemoglobin,14.3,g/dL,12.0-16.0,2023-10-14 05:58:00,No
+LO41992,Alanine Transaminase,2.19,mg/dL,0.7-1.3,2023-10-14 07:07:00,Yes
+LO41993,Complete Blood Count,0.66,mg/dL,0.7-1.3,2023-10-14 02:42:00,Yes
+LO41994,White Blood Cell Count,7.4,10^9/L,4.0-11.0,2023-07-17 05:40:00,No
+LO41995,White Blood Cell Count,13.9,10^9/L,4.0-11.0,2023-07-17 05:35:00,No
+LO41996,Complete Blood Count,0.72,mg/dL,0.7-1.3,2023-12-24 06:24:00,No
+LO41997,Alanine Transaminase,2.13,mg/dL,0.7-1.3,2023-12-24 04:50:00,Yes
+LO41998,Creatinine,1.13,mg/dL,0.7-1.3,2023-12-24 06:51:00,No
+LO41999,Complete Blood Count,2.35,mg/dL,0.7-1.3,2023-12-24 05:30:00,Yes
+LO42000,White Blood Cell Count,14.0,10^9/L,4.0-11.0,2023-06-27 09:52:00,No
+LO42001,Creatinine,1.74,mg/dL,0.7-1.3,2023-02-17 08:29:00,Yes
+LO42002,Creatinine,1.34,mg/dL,0.7-1.3,2023-09-08 03:34:00,Yes
+LO42003,Glucose,4.4,mmol/L,3.9-6.1,2023-09-08 04:15:00,No
+LO42004,Creatinine,2.39,mg/dL,0.7-1.3,2023-10-29 07:23:00,Yes
+LO42005,Hemoglobin,9.2,g/dL,12.0-16.0,2023-10-29 03:09:00,No
+LO42006,Alanine Transaminase,1.73,mg/dL,0.7-1.3,2023-10-29 04:26:00,Yes
+LO42007,Glucose,8.4,mmol/L,3.9-6.1,2023-10-01 04:49:00,No
+LO42008,White Blood Cell Count,9.7,10^9/L,4.0-11.0,2023-05-09 03:15:00,No
+LO42009,Alanine Transaminase,0.59,mg/dL,0.7-1.3,2023-05-09 05:07:00,Yes
+LO42010,Creatinine,0.56,mg/dL,0.7-1.3,2023-05-09 07:20:00,Yes
+LO42011,Alanine Transaminase,0.85,mg/dL,0.7-1.3,2023-10-05 06:24:00,No
+LO42012,Alanine Transaminase,2.39,mg/dL,0.7-1.3,2023-10-05 04:11:00,Yes
+LO42013,Hemoglobin,14.8,g/dL,12.0-16.0,2023-10-05 07:21:00,No
+LO42014,White Blood Cell Count,6.1,10^9/L,4.0-11.0,2023-10-05 04:13:00,No
+LO42015,Creatinine,2.47,mg/dL,0.7-1.3,2023-06-10 06:53:00,Yes
+LO42016,Creatinine,1.97,mg/dL,0.7-1.3,2023-06-10 08:38:00,Yes
+LO42017,Alanine Transaminase,1.93,mg/dL,0.7-1.3,2023-06-10 05:29:00,Yes
+LO42018,Complete Blood Count,0.72,mg/dL,0.7-1.3,2023-06-10 05:26:00,No
+LO42019,Alanine Transaminase,1.77,mg/dL,0.7-1.3,2023-01-17 08:41:00,Yes
+LO42020,Glucose,4.8,mmol/L,3.9-6.1,2023-01-17 07:28:00,No
+LO42021,Alanine Transaminase,2.01,mg/dL,0.7-1.3,2023-12-13 05:52:00,Yes
+LO42022,White Blood Cell Count,9.0,10^9/L,4.0-11.0,2023-12-13 07:44:00,No
+LO42023,Creatinine,2.46,mg/dL,0.7-1.3,2023-12-13 08:47:00,Yes
+LO42024,Hemoglobin,13.2,g/dL,12.0-16.0,2023-12-13 04:57:00,No
+LO42025,Hemoglobin,14.8,g/dL,12.0-16.0,2023-06-13 02:09:00,No
+LO42026,Creatinine,2.3,mg/dL,0.7-1.3,2023-05-07 06:45:00,Yes
+LO42027,Glucose,14.8,mmol/L,3.9-6.1,2023-05-07 07:51:00,No
+LO42028,Glucose,12.5,mmol/L,3.9-6.1,2023-05-07 03:33:00,No
+LO42029,Creatinine,1.2,mg/dL,0.7-1.3,2023-05-07 07:32:00,No
+LO42030,Glucose,12.8,mmol/L,3.9-6.1,2023-10-03 08:03:00,No
+LO42031,Alanine Transaminase,1.71,mg/dL,0.7-1.3,2023-10-03 08:04:00,Yes
+LO42032,Glucose,4.4,mmol/L,3.9-6.1,2023-08-03 09:07:00,No
+LO42033,Hemoglobin,15.2,g/dL,12.0-16.0,2023-09-02 04:48:00,No
+LO42034,Hemoglobin,8.8,g/dL,12.0-16.0,2023-09-02 06:33:00,No
+LO42035,Creatinine,1.21,mg/dL,0.7-1.3,2023-09-02 01:59:00,No
+LO42036,White Blood Cell Count,13.1,10^9/L,4.0-11.0,2023-09-02 04:12:00,No
+LO42037,Glucose,9.6,mmol/L,3.9-6.1,2023-10-28 06:39:00,No
+LO42038,Complete Blood Count,2.25,mg/dL,0.7-1.3,2023-10-28 05:49:00,Yes
+LO42039,Alanine Transaminase,1.25,mg/dL,0.7-1.3,2023-10-28 03:39:00,No
+LO42040,Complete Blood Count,0.74,mg/dL,0.7-1.3,2023-03-26 05:22:00,No
+LO42041,Creatinine,0.62,mg/dL,0.7-1.3,2023-03-26 01:39:00,Yes
+LO42042,Hemoglobin,9.8,g/dL,12.0-16.0,2023-03-26 06:37:00,No
+LO42043,Alanine Transaminase,1.85,mg/dL,0.7-1.3,2023-11-16 03:05:00,Yes
+LO42044,Creatinine,0.79,mg/dL,0.7-1.3,2023-11-16 06:54:00,No
+LO42045,Hemoglobin,12.4,g/dL,12.0-16.0,2023-11-16 07:10:00,No
+LO42046,Hemoglobin,14.9,g/dL,12.0-16.0,2023-11-16 06:14:00,No
+LO42047,Hemoglobin,10.5,g/dL,12.0-16.0,2023-06-14 06:55:00,No
+LO42048,Complete Blood Count,1.18,mg/dL,0.7-1.3,2023-06-14 06:45:00,No
+LO42049,Complete Blood Count,2.2,mg/dL,0.7-1.3,2023-05-11 03:57:00,Yes
+LO42050,Glucose,4.6,mmol/L,3.9-6.1,2023-05-11 07:34:00,No
+LO42051,Glucose,11.0,mmol/L,3.9-6.1,2023-05-11 04:53:00,No
+LO42052,Creatinine,1.06,mg/dL,0.7-1.3,2023-05-11 08:07:00,No
+LO42053,Hemoglobin,11.3,g/dL,12.0-16.0,2023-05-19 08:40:00,No
+LO42054,Creatinine,1.88,mg/dL,0.7-1.3,2023-05-19 09:35:00,Yes
+LO42055,Hemoglobin,12.5,g/dL,12.0-16.0,2023-10-15 05:36:00,No
+LO42056,White Blood Cell Count,4.6,10^9/L,4.0-11.0,2023-10-15 05:35:00,No
+LO42057,White Blood Cell Count,10.8,10^9/L,4.0-11.0,2023-10-15 07:33:00,No
+LO42058,White Blood Cell Count,5.2,10^9/L,4.0-11.0,2023-03-20 08:00:00,No
+LO42059,Creatinine,0.55,mg/dL,0.7-1.3,2023-03-20 04:58:00,Yes
+LO42060,Hemoglobin,8.2,g/dL,12.0-16.0,2023-03-20 04:08:00,No
+LO42061,Complete Blood Count,0.74,mg/dL,0.7-1.3,2023-03-20 06:12:00,No
+LO42062,Creatinine,1.94,mg/dL,0.7-1.3,2023-07-30 04:23:00,Yes
+LO42063,Alanine Transaminase,1.27,mg/dL,0.7-1.3,2023-07-30 09:08:00,No
+LO42064,Glucose,13.2,mmol/L,3.9-6.1,2023-07-30 08:20:00,No
+LO42065,Glucose,12.0,mmol/L,3.9-6.1,2023-07-07 06:32:00,No
+LO42066,Hemoglobin,13.9,g/dL,12.0-16.0,2023-07-07 05:17:00,No
+LO42067,Glucose,13.4,mmol/L,3.9-6.1,2023-07-07 06:55:00,No
+LO42068,Alanine Transaminase,0.71,mg/dL,0.7-1.3,2023-05-05 07:21:00,No
+LO42069,Creatinine,1.56,mg/dL,0.7-1.3,2023-05-05 03:49:00,Yes
+LO42070,Hemoglobin,10.8,g/dL,12.0-16.0,2023-08-24 01:46:00,No
+LO42071,Creatinine,0.78,mg/dL,0.7-1.3,2023-07-25 06:20:00,No
+LO42072,Creatinine,0.75,mg/dL,0.7-1.3,2023-07-25 08:11:00,No
+LO42073,White Blood Cell Count,9.6,10^9/L,4.0-11.0,2023-12-25 04:49:00,No
+LO42074,White Blood Cell Count,14.2,10^9/L,4.0-11.0,2023-12-25 04:47:00,No
+LO42075,Glucose,7.2,mmol/L,3.9-6.1,2023-12-25 06:25:00,No
+LO42076,Hemoglobin,15.3,g/dL,12.0-16.0,2023-12-25 08:41:00,No
+LO42077,Creatinine,0.93,mg/dL,0.7-1.3,2023-08-27 05:10:00,No
+LO42078,Alanine Transaminase,2.21,mg/dL,0.7-1.3,2023-08-27 04:20:00,Yes
+LO42079,Complete Blood Count,2.37,mg/dL,0.7-1.3,2023-08-13 09:03:00,Yes
+LO42080,Alanine Transaminase,1.62,mg/dL,0.7-1.3,2023-08-13 08:46:00,Yes
+LO42081,Alanine Transaminase,0.94,mg/dL,0.7-1.3,2023-12-19 03:56:00,No
+LO42082,Hemoglobin,8.4,g/dL,12.0-16.0,2023-12-19 07:52:00,No
+LO42083,White Blood Cell Count,3.4,10^9/L,4.0-11.0,2023-12-19 07:41:00,No
+LO42084,Alanine Transaminase,1.87,mg/dL,0.7-1.3,2023-12-19 07:07:00,Yes
+LO42085,Hemoglobin,12.5,g/dL,12.0-16.0,2023-06-16 06:42:00,No
+LO42086,Creatinine,1.07,mg/dL,0.7-1.3,2023-06-16 03:50:00,No
+LO42087,White Blood Cell Count,12.2,10^9/L,4.0-11.0,2023-06-16 03:22:00,No
+LO42088,Alanine Transaminase,1.12,mg/dL,0.7-1.3,2023-08-23 09:31:00,No
+LO42089,Complete Blood Count,0.7,mg/dL,0.7-1.3,2023-08-23 04:09:00,No
+LO42090,Complete Blood Count,1.93,mg/dL,0.7-1.3,2023-08-23 07:33:00,Yes
+LO42091,Glucose,9.6,mmol/L,3.9-6.1,2023-02-21 08:04:00,No
+LO42092,Glucose,8.1,mmol/L,3.9-6.1,2023-02-21 05:02:00,No
+LO42093,Glucose,11.8,mmol/L,3.9-6.1,2023-03-27 06:45:00,No
+LO42094,Complete Blood Count,1.52,mg/dL,0.7-1.3,2023-06-09 09:21:00,Yes
+LO42095,Hemoglobin,15.4,g/dL,12.0-16.0,2023-06-09 04:39:00,No
+LO42096,Glucose,10.7,mmol/L,3.9-6.1,2023-06-09 01:31:00,No
+LO42097,Creatinine,1.98,mg/dL,0.7-1.3,2023-06-09 09:45:00,Yes
+LO42098,Complete Blood Count,2.14,mg/dL,0.7-1.3,2023-10-22 07:45:00,Yes
+LO42099,Hemoglobin,8.8,g/dL,12.0-16.0,2023-10-22 03:55:00,No
+LO42100,Glucose,13.6,mmol/L,3.9-6.1,2023-10-22 05:43:00,No
+LO42101,Hemoglobin,10.7,g/dL,12.0-16.0,2023-05-20 05:20:00,No
+LO42102,Hemoglobin,11.2,g/dL,12.0-16.0,2023-05-20 05:28:00,No
+LO42103,Glucose,11.6,mmol/L,3.9-6.1,2023-05-25 03:35:00,No
+LO42104,Complete Blood Count,0.54,mg/dL,0.7-1.3,2023-01-23 06:57:00,Yes
+LO42105,Creatinine,0.66,mg/dL,0.7-1.3,2023-01-23 07:07:00,Yes
+LO42106,Complete Blood Count,1.24,mg/dL,0.7-1.3,2023-01-23 06:41:00,No
+LO42107,Hemoglobin,14.1,g/dL,12.0-16.0,2023-01-23 03:04:00,No
+LO42108,Complete Blood Count,0.63,mg/dL,0.7-1.3,2023-12-22 09:31:00,Yes
+LO42109,Hemoglobin,9.6,g/dL,12.0-16.0,2023-12-22 03:33:00,No
+LO42110,Alanine Transaminase,1.14,mg/dL,0.7-1.3,2023-12-22 06:42:00,No
+LO42111,Complete Blood Count,0.52,mg/dL,0.7-1.3,2023-05-02 03:51:00,Yes
+LO42112,Alanine Transaminase,1.68,mg/dL,0.7-1.3,2023-04-26 07:25:00,Yes
+LO42113,Alanine Transaminase,1.51,mg/dL,0.7-1.3,2023-06-15 03:54:00,Yes
+LO42114,White Blood Cell Count,14.4,10^9/L,4.0-11.0,2023-06-15 04:53:00,No
+LO42115,Complete Blood Count,0.69,mg/dL,0.7-1.3,2023-11-22 05:55:00,Yes
+LO42116,White Blood Cell Count,8.5,10^9/L,4.0-11.0,2023-11-22 03:29:00,No
+LO42117,White Blood Cell Count,11.2,10^9/L,4.0-11.0,2023-04-25 07:32:00,No
+LO42118,Glucose,10.2,mmol/L,3.9-6.1,2023-08-27 05:03:00,No
+LO42119,Complete Blood Count,0.84,mg/dL,0.7-1.3,2023-08-27 04:02:00,No
+LO42120,Alanine Transaminase,1.47,mg/dL,0.7-1.3,2023-05-03 06:53:00,Yes
+LO42121,Alanine Transaminase,0.67,mg/dL,0.7-1.3,2023-05-03 02:49:00,Yes
+LO42122,White Blood Cell Count,4.4,10^9/L,4.0-11.0,2023-05-03 05:44:00,No
+LO42123,Creatinine,1.85,mg/dL,0.7-1.3,2023-05-03 05:32:00,Yes
+LO42124,Creatinine,2.4,mg/dL,0.7-1.3,2023-04-06 06:07:00,Yes
+LO42125,Alanine Transaminase,0.69,mg/dL,0.7-1.3,2023-04-06 08:04:00,Yes
+LO42126,Creatinine,1.75,mg/dL,0.7-1.3,2023-10-13 07:42:00,Yes
+LO42127,Creatinine,1.69,mg/dL,0.7-1.3,2023-10-13 03:08:00,Yes
+LO42128,Complete Blood Count,1.33,mg/dL,0.7-1.3,2023-07-10 04:34:00,Yes
+LO42129,White Blood Cell Count,6.4,10^9/L,4.0-11.0,2023-07-10 04:38:00,No
+LO42130,Glucose,5.4,mmol/L,3.9-6.1,2023-07-10 03:36:00,No
+LO42131,Alanine Transaminase,1.12,mg/dL,0.7-1.3,2023-07-10 04:32:00,No
+LO42132,Creatinine,1.36,mg/dL,0.7-1.3,2023-01-16 05:47:00,Yes
+LO42133,Creatinine,1.58,mg/dL,0.7-1.3,2023-01-16 06:31:00,Yes
+LO42134,Complete Blood Count,1.73,mg/dL,0.7-1.3,2023-01-16 07:35:00,Yes
+LO42135,White Blood Cell Count,12.1,10^9/L,4.0-11.0,2023-01-16 07:15:00,No
+LO42136,Alanine Transaminase,2.3,mg/dL,0.7-1.3,2023-09-10 07:00:00,Yes
+LO42137,Creatinine,1.18,mg/dL,0.7-1.3,2023-09-10 02:25:00,No
+LO42138,Glucose,7.5,mmol/L,3.9-6.1,2023-09-10 06:45:00,No
+LO42139,White Blood Cell Count,6.9,10^9/L,4.0-11.0,2023-09-10 09:19:00,No
+LO42140,Hemoglobin,14.3,g/dL,12.0-16.0,2023-06-25 07:26:00,No
+LO42141,Creatinine,0.96,mg/dL,0.7-1.3,2023-06-25 06:35:00,No
+LO42142,Complete Blood Count,1.78,mg/dL,0.7-1.3,2023-06-25 03:56:00,Yes
+LO42143,White Blood Cell Count,6.2,10^9/L,4.0-11.0,2023-06-25 09:48:00,No
+LO42144,Alanine Transaminase,1.34,mg/dL,0.7-1.3,2023-03-19 05:06:00,Yes
+LO42145,Alanine Transaminase,2.4,mg/dL,0.7-1.3,2023-03-19 05:17:00,Yes
+LO42146,Complete Blood Count,1.76,mg/dL,0.7-1.3,2023-03-19 07:59:00,Yes
+LO42147,Alanine Transaminase,1.01,mg/dL,0.7-1.3,2023-08-17 08:34:00,No
+LO42148,Complete Blood Count,0.91,mg/dL,0.7-1.3,2023-08-17 04:38:00,No
+LO42149,Alanine Transaminase,1.54,mg/dL,0.7-1.3,2023-08-17 04:41:00,Yes
+LO42150,Hemoglobin,13.4,g/dL,12.0-16.0,2023-08-17 01:33:00,No
+LO42151,Creatinine,1.45,mg/dL,0.7-1.3,2023-03-30 09:43:00,Yes
+LO42152,Hemoglobin,13.5,g/dL,12.0-16.0,2023-03-30 03:34:00,No
+LO42153,Alanine Transaminase,2.3,mg/dL,0.7-1.3,2023-02-09 06:11:00,Yes
+LO42154,Alanine Transaminase,1.93,mg/dL,0.7-1.3,2023-05-14 08:52:00,Yes
+LO42155,Hemoglobin,10.8,g/dL,12.0-16.0,2023-05-14 07:29:00,No
+LO42156,White Blood Cell Count,10.4,10^9/L,4.0-11.0,2023-05-14 09:30:00,No
+LO42157,Complete Blood Count,1.42,mg/dL,0.7-1.3,2023-02-25 02:44:00,Yes
+LO42158,White Blood Cell Count,10.8,10^9/L,4.0-11.0,2023-02-25 05:16:00,No
+LO42159,White Blood Cell Count,12.6,10^9/L,4.0-11.0,2023-02-25 03:06:00,No
+LO42160,Hemoglobin,8.8,g/dL,12.0-16.0,2023-02-25 08:56:00,No
+LO42161,Glucose,7.7,mmol/L,3.9-6.1,2023-11-12 07:21:00,No
+LO42162,Alanine Transaminase,0.79,mg/dL,0.7-1.3,2023-11-12 08:19:00,No
+LO42163,Alanine Transaminase,2.49,mg/dL,0.7-1.3,2023-11-04 03:45:00,Yes
+LO42164,Creatinine,0.69,mg/dL,0.7-1.3,2023-11-04 03:36:00,Yes
+LO42165,Alanine Transaminase,0.93,mg/dL,0.7-1.3,2023-09-07 03:54:00,No
+LO42166,Glucose,8.7,mmol/L,3.9-6.1,2023-09-07 06:42:00,No
+LO42167,Complete Blood Count,2.23,mg/dL,0.7-1.3,2023-09-07 05:32:00,Yes
+LO42168,Complete Blood Count,2.07,mg/dL,0.7-1.3,2023-09-07 03:48:00,Yes
+LO42169,Hemoglobin,10.4,g/dL,12.0-16.0,2023-11-08 07:32:00,No
+LO42170,Creatinine,1.59,mg/dL,0.7-1.3,2023-11-08 04:43:00,Yes
+LO42171,Hemoglobin,11.9,g/dL,12.0-16.0,2023-01-22 07:24:00,No
+LO42172,Glucose,7.0,mmol/L,3.9-6.1,2023-01-22 04:12:00,No
+LO42173,Complete Blood Count,2.47,mg/dL,0.7-1.3,2023-04-21 06:34:00,Yes
+LO42174,Complete Blood Count,2.37,mg/dL,0.7-1.3,2023-04-21 06:39:00,Yes
+LO42175,White Blood Cell Count,9.7,10^9/L,4.0-11.0,2023-04-21 07:18:00,No
+LO42176,Hemoglobin,10.0,g/dL,12.0-16.0,2023-04-21 08:00:00,No
+LO42177,Complete Blood Count,1.65,mg/dL,0.7-1.3,2023-04-24 08:46:00,Yes
+LO42178,Complete Blood Count,2.45,mg/dL,0.7-1.3,2023-08-10 03:41:00,Yes
+LO42179,Alanine Transaminase,2.27,mg/dL,0.7-1.3,2023-02-24 07:34:00,Yes
+LO42180,Alanine Transaminase,0.66,mg/dL,0.7-1.3,2023-02-24 07:33:00,Yes
+LO42181,Creatinine,0.75,mg/dL,0.7-1.3,2023-08-01 02:44:00,No
+LO42182,White Blood Cell Count,4.9,10^9/L,4.0-11.0,2023-08-01 07:33:00,No
+LO42183,Alanine Transaminase,1.96,mg/dL,0.7-1.3,2023-11-22 08:18:00,Yes
+LO42184,Hemoglobin,8.3,g/dL,12.0-16.0,2023-11-22 06:15:00,No
+LO42185,Complete Blood Count,2.28,mg/dL,0.7-1.3,2023-11-22 05:04:00,Yes
+LO42186,White Blood Cell Count,13.7,10^9/L,4.0-11.0,2023-11-22 02:50:00,No
+LO42187,Glucose,6.3,mmol/L,3.9-6.1,2023-06-14 02:27:00,No
+LO42188,Complete Blood Count,1.67,mg/dL,0.7-1.3,2023-06-14 09:36:00,Yes
+LO42189,Complete Blood Count,0.68,mg/dL,0.7-1.3,2023-06-14 07:17:00,Yes
+LO42190,Alanine Transaminase,0.68,mg/dL,0.7-1.3,2023-06-14 05:13:00,Yes
+LO42191,Alanine Transaminase,2.06,mg/dL,0.7-1.3,2023-10-24 06:26:00,Yes
+LO42192,Alanine Transaminase,1.42,mg/dL,0.7-1.3,2023-05-13 07:05:00,Yes
+LO42193,Hemoglobin,8.5,g/dL,12.0-16.0,2023-05-13 05:01:00,No
+LO42194,Hemoglobin,11.9,g/dL,12.0-16.0,2023-07-01 09:04:00,No
+LO42195,Hemoglobin,13.3,g/dL,12.0-16.0,2023-07-01 08:32:00,No
+LO42196,Complete Blood Count,1.65,mg/dL,0.7-1.3,2023-10-22 03:13:00,Yes
+LO42197,Hemoglobin,9.5,g/dL,12.0-16.0,2023-09-14 04:48:00,No
+LO42198,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-09-14 04:20:00,No
+LO42199,White Blood Cell Count,8.0,10^9/L,4.0-11.0,2023-07-23 09:43:00,No
+LO42200,Creatinine,1.98,mg/dL,0.7-1.3,2023-07-23 05:57:00,Yes
+LO42201,Complete Blood Count,1.59,mg/dL,0.7-1.3,2023-07-23 09:45:00,Yes
+LO42202,Hemoglobin,13.6,g/dL,12.0-16.0,2023-07-23 06:03:00,No
+LO42203,Hemoglobin,13.8,g/dL,12.0-16.0,2023-03-15 02:31:00,No
+LO42204,Glucose,9.0,mmol/L,3.9-6.1,2023-03-15 04:06:00,No
+LO42205,Alanine Transaminase,1.56,mg/dL,0.7-1.3,2023-03-07 05:05:00,Yes
+LO42206,Creatinine,2.27,mg/dL,0.7-1.3,2023-03-07 05:33:00,Yes
+LO42207,Creatinine,0.91,mg/dL,0.7-1.3,2023-10-10 08:17:00,No
+LO42208,White Blood Cell Count,4.8,10^9/L,4.0-11.0,2023-10-10 02:26:00,No
+LO42209,Creatinine,0.78,mg/dL,0.7-1.3,2023-07-31 02:36:00,No
+LO42210,Alanine Transaminase,1.88,mg/dL,0.7-1.3,2023-07-31 05:48:00,Yes
+LO42211,Creatinine,1.64,mg/dL,0.7-1.3,2023-07-31 09:44:00,Yes
+LO42212,Creatinine,0.96,mg/dL,0.7-1.3,2023-07-31 06:39:00,No
+LO42213,Hemoglobin,9.2,g/dL,12.0-16.0,2023-07-06 06:18:00,No
+LO42214,Hemoglobin,11.4,g/dL,12.0-16.0,2023-07-06 05:35:00,No
+LO42215,Hemoglobin,15.7,g/dL,12.0-16.0,2023-07-23 05:45:00,No
+LO42216,Complete Blood Count,1.13,mg/dL,0.7-1.3,2023-07-23 02:06:00,No
+LO42217,Creatinine,1.81,mg/dL,0.7-1.3,2023-05-23 04:11:00,Yes
+LO42218,Glucose,10.4,mmol/L,3.9-6.1,2023-05-23 08:04:00,No
+LO42219,White Blood Cell Count,12.1,10^9/L,4.0-11.0,2023-05-23 05:18:00,No
+LO42220,White Blood Cell Count,11.7,10^9/L,4.0-11.0,2023-05-23 03:32:00,No
+LO42221,White Blood Cell Count,9.3,10^9/L,4.0-11.0,2023-10-17 06:23:00,No
+LO42222,White Blood Cell Count,14.5,10^9/L,4.0-11.0,2023-10-17 03:58:00,No
+LO42223,Glucose,14.6,mmol/L,3.9-6.1,2023-10-17 08:34:00,No
+LO42224,Complete Blood Count,1.99,mg/dL,0.7-1.3,2023-10-17 05:59:00,Yes
+LO42225,Alanine Transaminase,1.46,mg/dL,0.7-1.3,2023-01-08 09:04:00,Yes
+LO42226,Glucose,7.5,mmol/L,3.9-6.1,2023-08-01 03:58:00,No
+LO42227,White Blood Cell Count,3.4,10^9/L,4.0-11.0,2023-08-01 06:02:00,No
+LO42228,Glucose,10.1,mmol/L,3.9-6.1,2023-08-01 03:44:00,No
+LO42229,Complete Blood Count,0.81,mg/dL,0.7-1.3,2023-03-31 07:11:00,No
+LO42230,Hemoglobin,9.5,g/dL,12.0-16.0,2023-03-31 04:14:00,No
+LO42231,Complete Blood Count,1.38,mg/dL,0.7-1.3,2023-03-31 03:25:00,Yes
+LO42232,Alanine Transaminase,1.9,mg/dL,0.7-1.3,2023-12-27 09:32:00,Yes
+LO42233,Alanine Transaminase,2.47,mg/dL,0.7-1.3,2023-12-27 03:46:00,Yes
+LO42234,Complete Blood Count,1.03,mg/dL,0.7-1.3,2023-12-27 06:16:00,No
+LO42235,Alanine Transaminase,0.93,mg/dL,0.7-1.3,2023-12-27 08:51:00,No
+LO42236,Creatinine,0.82,mg/dL,0.7-1.3,2023-01-17 04:21:00,No
+LO42237,Creatinine,0.61,mg/dL,0.7-1.3,2023-01-17 04:09:00,Yes
+LO42238,Glucose,14.8,mmol/L,3.9-6.1,2023-01-17 03:08:00,No
+LO42239,Hemoglobin,11.1,g/dL,12.0-16.0,2023-01-17 06:37:00,No
+LO42240,White Blood Cell Count,12.1,10^9/L,4.0-11.0,2023-08-21 04:07:00,No
+LO42241,Complete Blood Count,0.54,mg/dL,0.7-1.3,2023-08-21 03:06:00,Yes
+LO42242,Glucose,6.2,mmol/L,3.9-6.1,2023-08-21 05:30:00,No
+LO42243,White Blood Cell Count,12.2,10^9/L,4.0-11.0,2023-08-04 06:59:00,No
+LO42244,Alanine Transaminase,0.57,mg/dL,0.7-1.3,2023-08-04 09:29:00,Yes
+LO42245,Glucose,9.3,mmol/L,3.9-6.1,2023-03-10 08:15:00,No
+LO42246,Complete Blood Count,1.37,mg/dL,0.7-1.3,2023-03-10 03:58:00,Yes
+LO42247,Hemoglobin,14.3,g/dL,12.0-16.0,2023-03-10 08:55:00,No
+LO42248,Hemoglobin,15.0,g/dL,12.0-16.0,2023-05-25 02:53:00,No
+LO42249,White Blood Cell Count,12.0,10^9/L,4.0-11.0,2023-05-25 02:49:00,No
+LO42250,Creatinine,1.25,mg/dL,0.7-1.3,2023-05-25 09:05:00,No
+LO42251,Creatinine,1.74,mg/dL,0.7-1.3,2023-04-22 04:07:00,Yes
+LO42252,Alanine Transaminase,1.47,mg/dL,0.7-1.3,2023-04-22 04:33:00,Yes
+LO42253,Hemoglobin,11.7,g/dL,12.0-16.0,2023-04-22 08:04:00,No
+LO42254,Hemoglobin,13.8,g/dL,12.0-16.0,2023-09-28 05:48:00,No
+LO42255,Complete Blood Count,2.4,mg/dL,0.7-1.3,2023-09-28 04:31:00,Yes
+LO42256,Complete Blood Count,1.98,mg/dL,0.7-1.3,2023-11-23 04:27:00,Yes
+LO42257,Alanine Transaminase,2.03,mg/dL,0.7-1.3,2023-11-23 07:56:00,Yes
+LO42258,Hemoglobin,14.9,g/dL,12.0-16.0,2023-11-23 07:27:00,No
+LO42259,Hemoglobin,10.0,g/dL,12.0-16.0,2023-11-23 02:51:00,No
+LO42260,Hemoglobin,8.9,g/dL,12.0-16.0,2023-05-12 08:23:00,No
+LO42261,Alanine Transaminase,2.02,mg/dL,0.7-1.3,2023-05-12 05:48:00,Yes
+LO42262,Complete Blood Count,0.61,mg/dL,0.7-1.3,2023-05-12 05:57:00,Yes
+LO42263,Alanine Transaminase,2.4,mg/dL,0.7-1.3,2023-05-12 08:47:00,Yes
+LO42264,White Blood Cell Count,13.4,10^9/L,4.0-11.0,2023-01-27 04:59:00,No
+LO42265,Creatinine,2.39,mg/dL,0.7-1.3,2023-01-27 04:51:00,Yes
+LO42266,Creatinine,0.75,mg/dL,0.7-1.3,2023-01-27 03:24:00,No
+LO42267,Creatinine,1.81,mg/dL,0.7-1.3,2023-06-01 02:18:00,Yes
+LO42268,Alanine Transaminase,0.92,mg/dL,0.7-1.3,2023-06-01 06:54:00,No
+LO42269,Complete Blood Count,1.13,mg/dL,0.7-1.3,2023-06-01 04:51:00,No
+LO42270,Alanine Transaminase,1.7,mg/dL,0.7-1.3,2023-05-07 02:59:00,Yes
+LO42271,Glucose,12.7,mmol/L,3.9-6.1,2023-11-14 04:58:00,No
+LO42272,White Blood Cell Count,11.5,10^9/L,4.0-11.0,2023-11-14 05:44:00,No
+LO42273,White Blood Cell Count,8.4,10^9/L,4.0-11.0,2023-11-14 06:58:00,No
+LO42274,Glucose,9.9,mmol/L,3.9-6.1,2023-11-14 04:25:00,No
+LO42275,Complete Blood Count,1.59,mg/dL,0.7-1.3,2023-05-25 04:50:00,Yes
+LO42276,White Blood Cell Count,4.6,10^9/L,4.0-11.0,2023-05-25 08:04:00,No
+LO42277,Complete Blood Count,0.61,mg/dL,0.7-1.3,2023-04-26 07:17:00,Yes
+LO42278,Glucose,3.6,mmol/L,3.9-6.1,2023-04-26 03:38:00,No
+LO42279,White Blood Cell Count,9.9,10^9/L,4.0-11.0,2023-07-04 05:40:00,No
+LO42280,Complete Blood Count,1.99,mg/dL,0.7-1.3,2023-08-22 06:29:00,Yes
+LO42281,White Blood Cell Count,6.2,10^9/L,4.0-11.0,2023-08-22 07:17:00,No
+LO42282,White Blood Cell Count,6.3,10^9/L,4.0-11.0,2023-08-22 03:50:00,No
+LO42283,Complete Blood Count,1.21,mg/dL,0.7-1.3,2023-08-22 06:31:00,No
+LO42284,White Blood Cell Count,11.2,10^9/L,4.0-11.0,2023-06-23 04:37:00,No
+LO42285,Creatinine,1.17,mg/dL,0.7-1.3,2023-09-27 07:30:00,No
+LO42286,Alanine Transaminase,2.22,mg/dL,0.7-1.3,2023-09-27 03:27:00,Yes
+LO42287,Hemoglobin,16.0,g/dL,12.0-16.0,2023-09-27 03:05:00,No
+LO42288,White Blood Cell Count,10.5,10^9/L,4.0-11.0,2023-09-27 07:49:00,No
+LO42289,Glucose,14.0,mmol/L,3.9-6.1,2023-07-13 09:49:00,No
+LO42290,Hemoglobin,14.7,g/dL,12.0-16.0,2023-12-31 05:06:00,No
+LO42291,Creatinine,2.17,mg/dL,0.7-1.3,2023-12-31 02:59:00,Yes
+LO42292,Creatinine,1.36,mg/dL,0.7-1.3,2023-12-31 08:05:00,Yes
+LO42293,Alanine Transaminase,2.15,mg/dL,0.7-1.3,2023-12-31 07:57:00,Yes
+LO42294,White Blood Cell Count,8.9,10^9/L,4.0-11.0,2023-06-02 04:04:00,No
+LO42295,Glucose,11.5,mmol/L,3.9-6.1,2023-06-02 05:08:00,No
+LO42296,Complete Blood Count,2.12,mg/dL,0.7-1.3,2023-05-27 09:52:00,Yes
+LO42297,Complete Blood Count,0.78,mg/dL,0.7-1.3,2023-05-27 06:01:00,No
+LO42298,Alanine Transaminase,0.87,mg/dL,0.7-1.3,2023-10-28 04:45:00,No
+LO42299,Hemoglobin,8.6,g/dL,12.0-16.0,2023-10-28 07:28:00,No
+LO42300,Complete Blood Count,0.76,mg/dL,0.7-1.3,2023-10-28 08:58:00,No
+LO42301,Glucose,14.9,mmol/L,3.9-6.1,2023-11-01 06:25:00,No
+LO42302,White Blood Cell Count,14.4,10^9/L,4.0-11.0,2023-11-01 04:50:00,No
+LO42303,Complete Blood Count,1.0,mg/dL,0.7-1.3,2023-05-04 05:04:00,No
+LO42304,White Blood Cell Count,7.6,10^9/L,4.0-11.0,2023-05-04 02:23:00,No
+LO42305,Creatinine,1.33,mg/dL,0.7-1.3,2023-08-16 07:09:00,Yes
+LO42306,Alanine Transaminase,2.02,mg/dL,0.7-1.3,2023-08-16 07:10:00,Yes
+LO42307,Complete Blood Count,2.34,mg/dL,0.7-1.3,2023-08-16 09:18:00,Yes
+LO42308,Complete Blood Count,2.31,mg/dL,0.7-1.3,2023-08-16 01:42:00,Yes
+LO42309,Hemoglobin,10.6,g/dL,12.0-16.0,2023-09-24 04:49:00,No
+LO42310,Creatinine,1.04,mg/dL,0.7-1.3,2023-09-24 01:53:00,No
+LO42311,Hemoglobin,11.6,g/dL,12.0-16.0,2023-09-24 08:26:00,No
+LO42312,Alanine Transaminase,1.74,mg/dL,0.7-1.3,2023-08-01 07:08:00,Yes
+LO42313,White Blood Cell Count,7.2,10^9/L,4.0-11.0,2023-02-28 08:56:00,No
+LO42314,Hemoglobin,11.4,g/dL,12.0-16.0,2023-02-28 02:45:00,No
+LO42315,Complete Blood Count,1.01,mg/dL,0.7-1.3,2023-02-28 08:18:00,No
+LO42316,Complete Blood Count,2.19,mg/dL,0.7-1.3,2023-04-28 06:03:00,Yes
+LO42317,Creatinine,0.97,mg/dL,0.7-1.3,2023-03-12 06:20:00,No
+LO42318,Hemoglobin,12.0,g/dL,12.0-16.0,2023-03-12 08:12:00,No
+LO42319,Alanine Transaminase,1.71,mg/dL,0.7-1.3,2023-03-12 06:20:00,Yes
+LO42320,Glucose,6.4,mmol/L,3.9-6.1,2023-09-10 07:28:00,No
+LO42321,Alanine Transaminase,1.36,mg/dL,0.7-1.3,2023-11-27 03:17:00,Yes
+LO42322,White Blood Cell Count,4.2,10^9/L,4.0-11.0,2023-05-11 06:57:00,No
+LO42323,Alanine Transaminase,1.31,mg/dL,0.7-1.3,2023-05-11 04:50:00,Yes
+LO42324,Hemoglobin,13.3,g/dL,12.0-16.0,2023-05-11 05:47:00,No
+LO42325,Complete Blood Count,1.86,mg/dL,0.7-1.3,2023-06-14 07:21:00,Yes
+LO42326,Glucose,12.8,mmol/L,3.9-6.1,2023-06-14 05:20:00,No
+LO42327,Alanine Transaminase,1.51,mg/dL,0.7-1.3,2023-06-14 02:11:00,Yes
+LO42328,Creatinine,1.39,mg/dL,0.7-1.3,2023-05-10 06:57:00,Yes
+LO42329,Hemoglobin,11.9,g/dL,12.0-16.0,2023-05-10 03:28:00,No
+LO42330,Alanine Transaminase,1.62,mg/dL,0.7-1.3,2023-05-10 04:06:00,Yes
+LO42331,Hemoglobin,13.3,g/dL,12.0-16.0,2023-01-01 08:58:00,No
+LO42332,Complete Blood Count,1.89,mg/dL,0.7-1.3,2023-01-01 05:12:00,Yes
+LO42333,Hemoglobin,12.2,g/dL,12.0-16.0,2023-01-01 05:47:00,No
+LO42334,Complete Blood Count,0.8,mg/dL,0.7-1.3,2023-04-04 05:19:00,No
+LO42335,Hemoglobin,10.8,g/dL,12.0-16.0,2023-04-04 04:56:00,No
+LO42336,Creatinine,1.27,mg/dL,0.7-1.3,2023-04-04 06:34:00,No
+LO42337,Hemoglobin,10.6,g/dL,12.0-16.0,2023-12-11 04:37:00,No
+LO42338,Complete Blood Count,1.02,mg/dL,0.7-1.3,2023-12-11 05:39:00,No
+LO42339,Creatinine,1.53,mg/dL,0.7-1.3,2023-12-27 03:04:00,Yes
+LO42340,Alanine Transaminase,0.51,mg/dL,0.7-1.3,2023-12-27 03:49:00,Yes
+LO42341,Complete Blood Count,1.0,mg/dL,0.7-1.3,2023-04-03 09:20:00,No
+LO42342,Complete Blood Count,0.92,mg/dL,0.7-1.3,2023-04-03 04:48:00,No
+LO42343,Glucose,13.1,mmol/L,3.9-6.1,2023-04-03 07:26:00,No
+LO42344,Complete Blood Count,1.26,mg/dL,0.7-1.3,2023-04-03 04:59:00,No
+LO42345,Hemoglobin,15.9,g/dL,12.0-16.0,2023-06-17 03:07:00,No
+LO42346,Creatinine,1.45,mg/dL,0.7-1.3,2023-06-17 05:28:00,Yes
+LO42347,White Blood Cell Count,5.4,10^9/L,4.0-11.0,2023-06-17 03:31:00,No
+LO42348,Complete Blood Count,0.53,mg/dL,0.7-1.3,2023-06-17 08:35:00,Yes
+LO42349,White Blood Cell Count,10.9,10^9/L,4.0-11.0,2023-08-18 05:33:00,No
+LO42350,Complete Blood Count,0.7,mg/dL,0.7-1.3,2023-03-08 05:59:00,No
+LO42351,White Blood Cell Count,6.9,10^9/L,4.0-11.0,2023-03-08 09:16:00,No
+LO42352,Glucose,7.6,mmol/L,3.9-6.1,2023-03-08 07:34:00,No
+LO42353,Glucose,11.7,mmol/L,3.9-6.1,2023-06-15 07:10:00,No
+LO42354,White Blood Cell Count,5.9,10^9/L,4.0-11.0,2023-06-15 03:46:00,No
+LO42355,White Blood Cell Count,12.9,10^9/L,4.0-11.0,2023-06-15 05:47:00,No
+LO42356,Creatinine,1.93,mg/dL,0.7-1.3,2023-06-15 06:05:00,Yes
+LO42357,White Blood Cell Count,14.1,10^9/L,4.0-11.0,2023-01-01 05:38:00,No
+LO42358,Creatinine,1.83,mg/dL,0.7-1.3,2023-07-21 02:30:00,Yes
+LO42359,Alanine Transaminase,1.22,mg/dL,0.7-1.3,2023-07-21 06:30:00,No
+LO42360,Hemoglobin,12.1,g/dL,12.0-16.0,2023-07-21 04:22:00,No
+LO42361,Complete Blood Count,1.78,mg/dL,0.7-1.3,2023-02-16 02:15:00,Yes
+LO42362,Alanine Transaminase,2.12,mg/dL,0.7-1.3,2023-02-16 05:32:00,Yes
+LO42363,Glucose,10.4,mmol/L,3.9-6.1,2023-07-08 05:26:00,No
+LO42364,Creatinine,0.79,mg/dL,0.7-1.3,2023-07-08 02:37:00,No
+LO42365,Creatinine,1.43,mg/dL,0.7-1.3,2023-01-26 05:42:00,Yes
+LO42366,Glucose,6.1,mmol/L,3.9-6.1,2023-07-18 04:17:00,No
+LO42367,Glucose,13.3,mmol/L,3.9-6.1,2023-07-18 04:53:00,No
+LO42368,White Blood Cell Count,13.1,10^9/L,4.0-11.0,2023-07-18 05:18:00,No
+LO42369,White Blood Cell Count,4.7,10^9/L,4.0-11.0,2023-06-16 07:21:00,No
+LO42370,Complete Blood Count,1.93,mg/dL,0.7-1.3,2023-06-16 08:07:00,Yes
+LO42371,White Blood Cell Count,4.9,10^9/L,4.0-11.0,2023-06-16 08:09:00,No
+LO42372,Hemoglobin,13.2,g/dL,12.0-16.0,2023-09-08 03:52:00,No
+LO42373,Creatinine,1.72,mg/dL,0.7-1.3,2023-10-14 04:52:00,Yes
+LO42374,Complete Blood Count,1.23,mg/dL,0.7-1.3,2023-10-14 07:21:00,No
+LO42375,Creatinine,1.9,mg/dL,0.7-1.3,2023-10-14 06:42:00,Yes
+LO42376,Creatinine,0.58,mg/dL,0.7-1.3,2023-10-14 04:19:00,Yes
+LO42377,Glucose,5.4,mmol/L,3.9-6.1,2023-09-25 04:43:00,No
+LO42378,Alanine Transaminase,1.58,mg/dL,0.7-1.3,2023-09-25 08:07:00,Yes
+LO42379,Creatinine,0.81,mg/dL,0.7-1.3,2023-07-17 07:54:00,No
+LO42380,Complete Blood Count,2.23,mg/dL,0.7-1.3,2023-07-17 08:33:00,Yes
+LO42381,Creatinine,1.75,mg/dL,0.7-1.3,2023-07-17 05:02:00,Yes
+LO42382,Creatinine,1.53,mg/dL,0.7-1.3,2023-04-04 03:56:00,Yes
+LO42383,White Blood Cell Count,14.9,10^9/L,4.0-11.0,2023-04-04 09:08:00,No
+LO42384,Glucose,8.9,mmol/L,3.9-6.1,2023-04-04 06:18:00,No
+LO42385,Alanine Transaminase,0.62,mg/dL,0.7-1.3,2023-04-04 06:47:00,Yes
+LO42386,Complete Blood Count,0.99,mg/dL,0.7-1.3,2023-11-24 03:02:00,No
+LO42387,Creatinine,0.86,mg/dL,0.7-1.3,2023-05-02 05:14:00,No
+LO42388,Creatinine,2.15,mg/dL,0.7-1.3,2023-05-02 06:38:00,Yes
+LO42389,Creatinine,2.01,mg/dL,0.7-1.3,2023-05-02 06:23:00,Yes
+LO42390,Alanine Transaminase,1.74,mg/dL,0.7-1.3,2023-05-02 05:54:00,Yes
+LO42391,Creatinine,0.93,mg/dL,0.7-1.3,2023-06-22 04:05:00,No
+LO42392,White Blood Cell Count,14.2,10^9/L,4.0-11.0,2023-06-22 03:57:00,No
+LO42393,Creatinine,1.86,mg/dL,0.7-1.3,2023-11-30 03:35:00,Yes
+LO42394,Alanine Transaminase,2.41,mg/dL,0.7-1.3,2023-03-02 04:51:00,Yes
+LO42395,Hemoglobin,15.8,g/dL,12.0-16.0,2023-03-02 08:13:00,No
+LO42396,Creatinine,1.45,mg/dL,0.7-1.3,2023-03-02 04:56:00,Yes
+LO42397,Creatinine,1.59,mg/dL,0.7-1.3,2023-03-02 04:56:00,Yes
+LO42398,Complete Blood Count,0.82,mg/dL,0.7-1.3,2023-05-13 05:59:00,No
+LO42399,Creatinine,2.22,mg/dL,0.7-1.3,2023-11-20 02:15:00,Yes
+LO42400,Alanine Transaminase,0.77,mg/dL,0.7-1.3,2023-11-20 07:41:00,No
+LO42401,Glucose,4.2,mmol/L,3.9-6.1,2023-11-20 07:00:00,No
+LO42402,Hemoglobin,8.9,g/dL,12.0-16.0,2023-02-01 04:15:00,No
+LO42403,Creatinine,0.71,mg/dL,0.7-1.3,2023-02-01 04:21:00,No
+LO42404,Creatinine,1.48,mg/dL,0.7-1.3,2023-10-27 04:08:00,Yes
+LO42405,Alanine Transaminase,2.03,mg/dL,0.7-1.3,2023-10-27 06:50:00,Yes
+LO42406,Complete Blood Count,2.02,mg/dL,0.7-1.3,2023-10-27 07:01:00,Yes
+LO42407,Alanine Transaminase,0.89,mg/dL,0.7-1.3,2023-10-28 06:46:00,No
+LO42408,Glucose,5.3,mmol/L,3.9-6.1,2023-10-28 09:25:00,No
+LO42409,Alanine Transaminase,0.92,mg/dL,0.7-1.3,2023-02-19 08:24:00,No
+LO42410,Hemoglobin,8.7,g/dL,12.0-16.0,2023-02-19 08:00:00,No
+LO42411,Creatinine,0.99,mg/dL,0.7-1.3,2023-02-19 04:51:00,No
+LO42412,Creatinine,0.78,mg/dL,0.7-1.3,2023-09-02 04:57:00,No
+LO42413,Hemoglobin,15.0,g/dL,12.0-16.0,2023-10-07 04:31:00,No
+LO42414,Creatinine,2.47,mg/dL,0.7-1.3,2023-10-07 05:42:00,Yes
+LO42415,White Blood Cell Count,9.1,10^9/L,4.0-11.0,2023-09-04 08:44:00,No
+LO42416,Complete Blood Count,1.49,mg/dL,0.7-1.3,2023-07-11 07:28:00,Yes
+LO42417,White Blood Cell Count,11.0,10^9/L,4.0-11.0,2023-07-11 06:55:00,No
+LO42418,Complete Blood Count,2.27,mg/dL,0.7-1.3,2023-07-11 08:15:00,Yes
+LO42419,White Blood Cell Count,7.7,10^9/L,4.0-11.0,2023-02-13 08:27:00,No
+LO42420,Glucose,10.2,mmol/L,3.9-6.1,2023-02-13 05:18:00,No
+LO42421,Hemoglobin,10.3,g/dL,12.0-16.0,2023-02-13 01:39:00,No
+LO42422,Alanine Transaminase,2.31,mg/dL,0.7-1.3,2023-06-22 05:43:00,Yes
+LO42423,Glucose,4.6,mmol/L,3.9-6.1,2023-04-10 04:31:00,No
+LO42424,White Blood Cell Count,14.6,10^9/L,4.0-11.0,2023-04-10 07:12:00,No
+LO42425,White Blood Cell Count,3.8,10^9/L,4.0-11.0,2023-04-01 07:38:00,No
+LO42426,Alanine Transaminase,1.92,mg/dL,0.7-1.3,2023-04-01 02:47:00,Yes
+LO42427,Hemoglobin,10.4,g/dL,12.0-16.0,2023-04-01 06:00:00,No
+LO42428,Glucose,11.2,mmol/L,3.9-6.1,2023-10-06 07:13:00,No
+LO42429,Creatinine,0.54,mg/dL,0.7-1.3,2023-10-06 07:21:00,Yes
+LO42430,Creatinine,1.83,mg/dL,0.7-1.3,2023-10-06 06:36:00,Yes
+LO42431,Glucose,8.5,mmol/L,3.9-6.1,2023-10-06 06:44:00,No
+LO42432,White Blood Cell Count,9.6,10^9/L,4.0-11.0,2023-07-11 08:49:00,No
+LO42433,Creatinine,1.01,mg/dL,0.7-1.3,2023-06-03 06:46:00,No
+LO42434,Glucose,9.8,mmol/L,3.9-6.1,2023-06-03 02:55:00,No
+LO42435,Glucose,3.5,mmol/L,3.9-6.1,2023-07-04 06:31:00,No
+LO42436,White Blood Cell Count,11.2,10^9/L,4.0-11.0,2023-09-24 05:57:00,No
+LO42437,Creatinine,1.99,mg/dL,0.7-1.3,2023-10-09 04:54:00,Yes
+LO42438,Complete Blood Count,1.83,mg/dL,0.7-1.3,2023-10-04 06:59:00,Yes
+LO42439,Hemoglobin,11.8,g/dL,12.0-16.0,2023-10-04 05:22:00,No
+LO42440,Creatinine,2.32,mg/dL,0.7-1.3,2023-10-04 07:11:00,Yes
+LO42441,Glucose,4.6,mmol/L,3.9-6.1,2023-01-07 05:47:00,No
+LO42442,Hemoglobin,13.6,g/dL,12.0-16.0,2023-01-07 06:26:00,No
+LO42443,Glucose,3.2,mmol/L,3.9-6.1,2023-05-14 08:35:00,No
+LO42444,Creatinine,1.57,mg/dL,0.7-1.3,2023-05-14 03:34:00,Yes
+LO42445,Complete Blood Count,0.78,mg/dL,0.7-1.3,2023-05-14 05:42:00,No
+LO42446,White Blood Cell Count,8.4,10^9/L,4.0-11.0,2023-04-19 07:56:00,No
+LO42447,Alanine Transaminase,1.64,mg/dL,0.7-1.3,2023-04-19 06:15:00,Yes
+LO42448,White Blood Cell Count,5.0,10^9/L,4.0-11.0,2023-04-19 08:50:00,No
+LO42449,Creatinine,2.37,mg/dL,0.7-1.3,2023-04-19 06:09:00,Yes
+LO42450,Complete Blood Count,1.67,mg/dL,0.7-1.3,2023-08-15 02:32:00,Yes
+LO42451,Complete Blood Count,1.22,mg/dL,0.7-1.3,2023-08-15 07:21:00,No
+LO42452,Complete Blood Count,0.65,mg/dL,0.7-1.3,2023-08-15 07:51:00,Yes
+LO42453,Creatinine,0.73,mg/dL,0.7-1.3,2023-08-15 07:24:00,No
+LO42454,Glucose,3.0,mmol/L,3.9-6.1,2023-04-12 04:37:00,No
+LO42455,Alanine Transaminase,1.44,mg/dL,0.7-1.3,2023-04-12 02:48:00,Yes
+LO42456,Alanine Transaminase,0.86,mg/dL,0.7-1.3,2023-04-12 05:50:00,No
+LO42457,Complete Blood Count,1.87,mg/dL,0.7-1.3,2023-08-09 05:05:00,Yes
+LO42458,Creatinine,0.55,mg/dL,0.7-1.3,2023-08-09 03:31:00,Yes
+LO42459,Glucose,9.9,mmol/L,3.9-6.1,2023-08-09 03:56:00,No
+LO42460,Alanine Transaminase,2.33,mg/dL,0.7-1.3,2023-08-09 05:23:00,Yes
+LO42461,Complete Blood Count,1.69,mg/dL,0.7-1.3,2023-06-26 03:01:00,Yes
+LO42462,White Blood Cell Count,14.8,10^9/L,4.0-11.0,2023-06-26 05:06:00,No
+LO42463,Glucose,5.4,mmol/L,3.9-6.1,2023-01-26 07:17:00,No
+LO42464,Creatinine,1.69,mg/dL,0.7-1.3,2023-01-26 04:24:00,Yes
+LO42465,Hemoglobin,10.0,g/dL,12.0-16.0,2023-08-02 07:49:00,No
+LO42466,Creatinine,0.89,mg/dL,0.7-1.3,2023-08-02 07:13:00,No
+LO42467,Complete Blood Count,1.34,mg/dL,0.7-1.3,2023-07-01 04:12:00,Yes
+LO42468,Hemoglobin,14.0,g/dL,12.0-16.0,2023-07-01 03:54:00,No
+LO42469,Creatinine,1.53,mg/dL,0.7-1.3,2023-07-01 04:13:00,Yes
+LO42470,Hemoglobin,15.1,g/dL,12.0-16.0,2023-07-01 03:24:00,No
+LO42471,White Blood Cell Count,12.9,10^9/L,4.0-11.0,2023-07-13 07:52:00,No
+LO42472,White Blood Cell Count,11.5,10^9/L,4.0-11.0,2023-07-13 07:45:00,No
+LO42473,White Blood Cell Count,8.5,10^9/L,4.0-11.0,2023-07-13 06:00:00,No
+LO42474,Creatinine,0.5,mg/dL,0.7-1.3,2023-06-12 03:00:00,Yes
+LO42475,Hemoglobin,15.6,g/dL,12.0-16.0,2023-06-12 05:45:00,No
+LO42476,Glucose,6.9,mmol/L,3.9-6.1,2023-08-13 09:51:00,No
+LO42477,Complete Blood Count,2.46,mg/dL,0.7-1.3,2023-08-13 03:48:00,Yes
+LO42478,Alanine Transaminase,1.3,mg/dL,0.7-1.3,2023-08-12 03:33:00,No
+LO42479,Glucose,6.0,mmol/L,3.9-6.1,2023-09-28 07:38:00,No
+LO42480,Alanine Transaminase,0.9,mg/dL,0.7-1.3,2023-08-20 08:10:00,No
+LO42481,Alanine Transaminase,2.37,mg/dL,0.7-1.3,2023-08-20 04:12:00,Yes
+LO42482,Creatinine,0.91,mg/dL,0.7-1.3,2023-11-04 07:50:00,No
+LO42483,Alanine Transaminase,1.72,mg/dL,0.7-1.3,2023-11-04 06:40:00,Yes
+LO42484,Alanine Transaminase,1.28,mg/dL,0.7-1.3,2023-11-04 07:18:00,No
+LO42485,Hemoglobin,13.7,g/dL,12.0-16.0,2023-11-04 04:08:00,No
+LO42486,Hemoglobin,9.1,g/dL,12.0-16.0,2023-06-13 03:22:00,No
+LO42487,Complete Blood Count,1.78,mg/dL,0.7-1.3,2023-09-02 04:30:00,Yes
+LO42488,Alanine Transaminase,1.71,mg/dL,0.7-1.3,2023-09-02 08:33:00,Yes
+LO42489,White Blood Cell Count,13.3,10^9/L,4.0-11.0,2023-03-22 06:09:00,No
+LO42490,Creatinine,1.21,mg/dL,0.7-1.3,2023-03-22 02:48:00,No
+LO42491,Complete Blood Count,2.09,mg/dL,0.7-1.3,2023-03-22 07:39:00,Yes
+LO42492,Hemoglobin,14.6,g/dL,12.0-16.0,2023-09-21 04:11:00,No
+LO42493,White Blood Cell Count,9.8,10^9/L,4.0-11.0,2023-09-21 03:10:00,No
+LO42494,Hemoglobin,14.2,g/dL,12.0-16.0,2023-09-21 04:48:00,No
+LO42495,Alanine Transaminase,1.73,mg/dL,0.7-1.3,2023-08-29 04:22:00,Yes
+LO42496,White Blood Cell Count,14.4,10^9/L,4.0-11.0,2023-08-29 03:10:00,No
+LO42497,Alanine Transaminase,2.32,mg/dL,0.7-1.3,2023-08-29 08:03:00,Yes
+LO42498,White Blood Cell Count,8.1,10^9/L,4.0-11.0,2023-08-29 06:53:00,No
+LO42499,Hemoglobin,13.9,g/dL,12.0-16.0,2023-10-03 03:43:00,No
+LO42500,Glucose,13.0,mmol/L,3.9-6.1,2023-01-17 05:24:00,No
+LO42501,White Blood Cell Count,10.7,10^9/L,4.0-11.0,2023-05-22 09:58:00,No
+LO42502,Creatinine,1.89,mg/dL,0.7-1.3,2023-05-22 10:00:00,Yes
+LO42503,Complete Blood Count,0.89,mg/dL,0.7-1.3,2023-12-03 05:09:00,No
+LO42504,Glucose,5.7,mmol/L,3.9-6.1,2023-12-03 04:05:00,No
+LO42505,Complete Blood Count,2.41,mg/dL,0.7-1.3,2023-04-30 04:28:00,Yes
+LO42506,Hemoglobin,14.1,g/dL,12.0-16.0,2023-04-30 07:59:00,No
+LO42507,Alanine Transaminase,1.7,mg/dL,0.7-1.3,2023-04-30 04:48:00,Yes
+LO42508,Alanine Transaminase,0.99,mg/dL,0.7-1.3,2023-04-14 06:46:00,No
+LO42509,Complete Blood Count,0.86,mg/dL,0.7-1.3,2023-04-14 08:51:00,No
+LO42510,White Blood Cell Count,6.9,10^9/L,4.0-11.0,2023-04-14 07:57:00,No
+LO42511,Creatinine,2.09,mg/dL,0.7-1.3,2023-04-14 06:25:00,Yes
+LO42512,Creatinine,0.81,mg/dL,0.7-1.3,2023-08-30 02:36:00,No
+LO42513,Complete Blood Count,1.12,mg/dL,0.7-1.3,2023-08-30 06:45:00,No
+LO42514,Hemoglobin,14.5,g/dL,12.0-16.0,2023-08-30 08:12:00,No
+LO42515,White Blood Cell Count,4.7,10^9/L,4.0-11.0,2023-08-30 07:01:00,No
+LO42516,Complete Blood Count,1.54,mg/dL,0.7-1.3,2023-10-20 02:32:00,Yes
+LO42517,White Blood Cell Count,10.0,10^9/L,4.0-11.0,2023-12-27 02:44:00,No
+LO42518,White Blood Cell Count,11.4,10^9/L,4.0-11.0,2023-12-27 04:43:00,No
+LO42519,Glucose,14.9,mmol/L,3.9-6.1,2023-09-26 02:35:00,No
+LO42520,Alanine Transaminase,0.61,mg/dL,0.7-1.3,2023-09-26 05:56:00,Yes
+LO42521,Creatinine,1.38,mg/dL,0.7-1.3,2023-09-26 04:31:00,Yes
+LO42522,White Blood Cell Count,4.7,10^9/L,4.0-11.0,2023-09-26 04:56:00,No
+LO42523,Complete Blood Count,1.68,mg/dL,0.7-1.3,2023-06-16 04:52:00,Yes
+LO42524,Hemoglobin,10.2,g/dL,12.0-16.0,2023-06-16 07:57:00,No
+LO42525,Complete Blood Count,2.46,mg/dL,0.7-1.3,2023-06-16 08:39:00,Yes
+LO42526,Glucose,5.3,mmol/L,3.9-6.1,2023-03-16 03:31:00,No
+LO42527,Complete Blood Count,1.92,mg/dL,0.7-1.3,2023-03-16 07:51:00,Yes
+LO42528,Creatinine,1.45,mg/dL,0.7-1.3,2023-03-16 01:39:00,Yes
+LO42529,Glucose,10.2,mmol/L,3.9-6.1,2023-03-16 04:16:00,No
+LO42530,Glucose,9.3,mmol/L,3.9-6.1,2023-05-07 06:53:00,No
+LO42531,Complete Blood Count,1.49,mg/dL,0.7-1.3,2023-05-07 05:29:00,Yes
+LO42532,Complete Blood Count,2.07,mg/dL,0.7-1.3,2023-05-07 03:15:00,Yes
+LO42533,Alanine Transaminase,0.71,mg/dL,0.7-1.3,2023-10-25 06:40:00,No
+LO42534,Glucose,12.5,mmol/L,3.9-6.1,2023-10-25 05:25:00,No
+LO42535,Complete Blood Count,2.38,mg/dL,0.7-1.3,2023-10-25 02:15:00,Yes
+LO42536,White Blood Cell Count,13.1,10^9/L,4.0-11.0,2023-10-25 07:57:00,No
+LO42537,Complete Blood Count,1.27,mg/dL,0.7-1.3,2023-07-30 01:54:00,No
+LO42538,Glucose,9.1,mmol/L,3.9-6.1,2023-09-13 06:12:00,No
+LO42539,White Blood Cell Count,12.4,10^9/L,4.0-11.0,2023-09-13 05:33:00,No
+LO42540,Complete Blood Count,1.89,mg/dL,0.7-1.3,2023-09-13 05:59:00,Yes
+LO42541,Complete Blood Count,1.29,mg/dL,0.7-1.3,2023-01-29 06:36:00,No
+LO42542,Glucose,9.7,mmol/L,3.9-6.1,2023-01-29 04:54:00,No
+LO42543,Alanine Transaminase,2.42,mg/dL,0.7-1.3,2023-08-16 08:47:00,Yes
+LO42544,White Blood Cell Count,13.1,10^9/L,4.0-11.0,2023-08-16 04:07:00,No
+LO42545,White Blood Cell Count,11.0,10^9/L,4.0-11.0,2023-08-16 03:48:00,No
+LO42546,Creatinine,1.45,mg/dL,0.7-1.3,2023-01-14 01:33:00,Yes
+LO42547,White Blood Cell Count,4.4,10^9/L,4.0-11.0,2023-05-02 02:54:00,No
+LO42548,Complete Blood Count,1.12,mg/dL,0.7-1.3,2023-05-02 07:46:00,No
+LO42549,Hemoglobin,14.1,g/dL,12.0-16.0,2023-08-23 02:35:00,No
+LO42550,Creatinine,1.57,mg/dL,0.7-1.3,2023-08-23 06:55:00,Yes
+LO42551,White Blood Cell Count,9.8,10^9/L,4.0-11.0,2023-08-23 04:07:00,No
+LO42552,Complete Blood Count,1.34,mg/dL,0.7-1.3,2023-08-15 04:01:00,Yes
+LO42553,Creatinine,1.02,mg/dL,0.7-1.3,2023-09-17 03:31:00,No
+LO42554,White Blood Cell Count,5.4,10^9/L,4.0-11.0,2023-09-17 03:52:00,No
+LO42555,Alanine Transaminase,1.45,mg/dL,0.7-1.3,2023-12-31 06:09:00,Yes
+LO42556,Alanine Transaminase,1.61,mg/dL,0.7-1.3,2023-07-06 09:35:00,Yes
+LO42557,Creatinine,2.09,mg/dL,0.7-1.3,2023-09-02 08:47:00,Yes
+LO42558,Complete Blood Count,0.75,mg/dL,0.7-1.3,2023-09-02 07:43:00,No
+LO42559,Creatinine,1.57,mg/dL,0.7-1.3,2023-09-02 05:48:00,Yes
+LO42560,White Blood Cell Count,5.7,10^9/L,4.0-11.0,2023-09-02 07:04:00,No
+LO42561,Complete Blood Count,0.78,mg/dL,0.7-1.3,2023-07-09 05:04:00,No
+LO42562,Creatinine,0.84,mg/dL,0.7-1.3,2023-07-09 07:43:00,No
+LO42563,Glucose,10.8,mmol/L,3.9-6.1,2023-07-09 07:14:00,No
+LO42564,Hemoglobin,8.1,g/dL,12.0-16.0,2023-06-28 05:49:00,No
+LO42565,White Blood Cell Count,8.7,10^9/L,4.0-11.0,2023-08-01 07:45:00,No
+LO42566,Hemoglobin,15.2,g/dL,12.0-16.0,2023-08-01 03:19:00,No
+LO42567,Complete Blood Count,1.9,mg/dL,0.7-1.3,2023-08-01 03:22:00,Yes
+LO42568,Glucose,11.4,mmol/L,3.9-6.1,2023-10-01 05:04:00,No
+LO42569,Creatinine,2.18,mg/dL,0.7-1.3,2023-10-01 07:57:00,Yes
+LO42570,White Blood Cell Count,12.7,10^9/L,4.0-11.0,2023-10-01 06:36:00,No
+LO42571,Creatinine,1.89,mg/dL,0.7-1.3,2023-10-01 04:40:00,Yes
+LO42572,Alanine Transaminase,1.27,mg/dL,0.7-1.3,2023-10-11 05:09:00,No
+LO42573,Hemoglobin,10.5,g/dL,12.0-16.0,2023-10-11 03:55:00,No
+LO42574,Complete Blood Count,2.44,mg/dL,0.7-1.3,2023-06-20 05:27:00,Yes
+LO42575,Complete Blood Count,0.54,mg/dL,0.7-1.3,2023-06-20 02:39:00,Yes
+LO42576,White Blood Cell Count,11.3,10^9/L,4.0-11.0,2023-06-20 09:18:00,No
+LO42577,Hemoglobin,14.1,g/dL,12.0-16.0,2023-06-20 08:46:00,No
+LO42578,Hemoglobin,14.4,g/dL,12.0-16.0,2023-03-21 08:56:00,No
+LO42579,Alanine Transaminase,0.77,mg/dL,0.7-1.3,2023-03-21 04:02:00,No
+LO42580,Alanine Transaminase,0.56,mg/dL,0.7-1.3,2023-03-21 04:50:00,Yes
+LO42581,Hemoglobin,15.0,g/dL,12.0-16.0,2023-03-21 03:18:00,No
+LO42582,White Blood Cell Count,3.8,10^9/L,4.0-11.0,2023-06-08 03:42:00,No
+LO42583,Alanine Transaminase,2.0,mg/dL,0.7-1.3,2023-06-08 09:44:00,Yes
+LO42584,Creatinine,0.82,mg/dL,0.7-1.3,2023-06-08 03:41:00,No
+LO42585,White Blood Cell Count,12.9,10^9/L,4.0-11.0,2023-05-04 04:25:00,No
+LO42586,Complete Blood Count,0.63,mg/dL,0.7-1.3,2023-05-04 09:26:00,Yes
+LO42587,Glucose,3.1,mmol/L,3.9-6.1,2023-05-04 04:59:00,No
+LO42588,Complete Blood Count,0.99,mg/dL,0.7-1.3,2023-05-04 03:31:00,No
+LO42589,Hemoglobin,8.8,g/dL,12.0-16.0,2023-04-15 08:55:00,No
+LO42590,Creatinine,1.17,mg/dL,0.7-1.3,2023-04-15 02:56:00,No
+LO42591,Complete Blood Count,1.6,mg/dL,0.7-1.3,2023-04-15 04:00:00,Yes
+LO42592,White Blood Cell Count,4.7,10^9/L,4.0-11.0,2023-03-24 06:06:00,No

@@ -1,0 +1,501 @@
+patient_id,national_id,name,sex,date_of_birth,county,sub_county,insurance_type,contact
+P10000,18456906,Elizabeth Kipchoge,M,1970-01-10,Kericho,Soin Sigowet,NHIF,0796-858658
+P10001,28314695,James Atieno,M,1952-09-03,Kericho,Kericho West,Private,0774-716127
+P10002,36570404,Esther Jepkosgei,F,1969-10-11,Kericho,Kipkelion,Cash,0710-877925
+P10003,22833826,Sarah Mwangi,F,1963-12-13,Kericho,Bureti,NHIF,0721-489199
+P10004,17751695,Ann Njoroge,M,2015-06-20,Kericho,Kipkelion,NHIF,0758-180665
+P10005,24268916,Lucy Atieno,M,2013-03-18,Kericho,Kericho East,Private,0747-181975
+P10006,25509840,Grace Chebet,F,1990-09-05,Kericho,Bureti,Private,0757-463314
+P10007,11484921,William Chebet,M,1964-08-29,Kericho,Belgut,Cash,0791-804670
+P10008,03753933,Grace Njoroge,M,1952-11-17,Kericho,Bureti,Company,0744-167316
+P10009,14269126,Richard Njoroge,F,1985-06-30,Bomet,Soin Sigowet,Company,0728-371242
+P10010,36170154,Grace Omondi,F,2017-01-07,Kericho,Belgut,CBHI,0761-470324
+P10011,33119288,Robert Omondi,M,2017-10-21,Kericho,Kericho East,Private,0790-263911
+P10012,04263273,Jane Atieno,F,1984-03-27,Kericho,Belgut,CBHI,0742-666981
+P10013,36035469,John Chebet,F,2018-12-15,Kericho,Bureti,NHIF,0747-545261
+P10014,17675740,Charles Kipchoge,M,1995-07-19,Bomet,Kericho East,Cash,0791-619723
+P10015,25092934,Michael Korir,M,1998-05-23,Nakuru,Kipkelion,NHIF,0786-431600
+P10016,24359227,John Chebet,F,1971-06-26,Kericho,Kericho West,CBHI,0720-187849
+P10017,35749306,Ruth Chebet,M,1961-07-09,Kericho,Belgut,CBHI,0731-371640
+P10018,14213537,Mercy Mwangi,M,2013-12-17,Kericho,Belgut,Cash,0766-629562
+P10019,15079184,Elizabeth Jepkosgei,M,1980-05-01,Kericho,Kipkelion,CBHI,0739-702325
+P10020,03950952,John Chebet,M,1956-01-18,Bomet,Kericho East,Cash,0719-626343
+P10021,14377189,William Nyong'o,M,2014-11-23,Bomet,Kipkelion,CBHI,0770-348903
+P10022,12778194,Ruth Mwangi,M,1958-09-12,Kericho,Belgut,Cash,0764-520578
+P10023,04067648,Mary Chebet,F,2015-05-02,Kericho,Kericho East,Private,0734-294649
+P10024,28311998,Charles Korir,M,1974-12-28,Kericho,Kericho West,NHIF,0766-927982
+P10025,03394926,Esther Chebet,M,1958-05-15,Bomet,Kericho West,Private,0762-597592
+P10026,03934956,Michael Mwangi,M,1984-01-01,Kericho,Belgut,Cash,0768-392533
+P10027,10388240,Esther Nyong'o,M,1976-08-14,Kericho,Kericho East,CBHI,0779-162865
+P10028,03364996,David Kipchoge,F,1995-02-11,Bomet,Kipkelion,Private,0717-620182
+P10029,39932131,Sarah Chebet,M,2010-07-30,Kericho,Kericho West,Company,0725-683352
+P10030,02667018,Richard Atieno,M,1987-08-12,Kericho,Kipkelion,CBHI,0776-423367
+P10031,16017944,Michael Njoroge,F,1985-07-05,Kericho,Soin Sigowet,Cash,0768-423869
+P10032,30755021,James Kipchoge,M,1956-07-28,Kericho,Kericho West,CBHI,0743-235457
+P10033,24798544,James Jepkosgei,F,1964-02-26,Kericho,Kipkelion,Cash,0788-926769
+P10034,37218730,Thomas Kipchoge,F,2009-07-07,Kericho,Kericho West,Cash,0724-209860
+P10035,18276980,Esther Korir,F,2004-04-06,Kericho,Soin Sigowet,Cash,0736-803749
+P10036,32784818,William Omondi,F,1954-07-23,Kericho,Soin Sigowet,Company,0745-145103
+P10037,17579521,David Korir,M,2016-07-01,Kericho,Kipkelion,Company,0781-109214
+P10038,36613945,James Korir,M,1983-02-15,Kericho,Kipkelion,Private,0765-230142
+P10039,02677300,Lucy Njoroge,F,1968-11-05,Kericho,Kericho West,NHIF,0755-898673
+P10040,10371899,Jane Atieno,M,1964-07-30,Nakuru,Kericho West,Company,0713-283854
+P10041,16654222,David Mwangi,F,1964-04-13,Kericho,Soin Sigowet,NHIF,0758-993139
+P10042,13393106,Ruth Jepkosgei,F,1981-05-15,Kericho,Kericho West,Private,0713-775297
+P10043,18696735,Joseph Njoroge,M,2019-05-19,Kericho,Bureti,CBHI,0761-795963
+P10044,01852241,Esther Njoroge,M,1973-06-08,Kericho,Kipkelion,Cash,0714-211710
+P10045,21050529,Jane Njoroge,F,2004-05-21,Kericho,Kericho East,Company,0783-294360
+P10046,00113500,Mary Mwangi,M,1982-09-04,Kericho,Kericho East,Cash,0789-421779
+P10047,34032416,Elizabeth Kiptoo,F,2009-10-30,Kericho,Bureti,Company,0799-402667
+P10048,28215676,Robert Jepkosgei,F,2010-10-07,Kericho,Kericho West,CBHI,0782-408515
+P10049,20392703,Esther Kipchoge,F,1968-11-09,Kericho,Kipkelion,CBHI,0793-429576
+P10050,14341259,Charles Nyong'o,F,2016-01-10,Kericho,Soin Sigowet,NHIF,0746-627779
+P10051,06267109,Mercy Njoroge,M,2010-05-12,Kericho,Kericho West,Private,0728-125147
+P10052,04887420,Grace Nyong'o,F,1987-03-08,Bomet,Soin Sigowet,CBHI,0734-835813
+P10053,26820250,Joseph Nyong'o,M,1963-03-29,Kericho,Soin Sigowet,NHIF,0723-897535
+P10054,34759557,Grace Korir,F,1954-07-04,Kericho,Kericho West,NHIF,0768-236920
+P10055,37508842,Charles Omondi,F,2017-10-04,Bomet,Belgut,CBHI,0774-536950
+P10056,10680907,Esther Nyong'o,F,1990-05-18,Kericho,Kericho West,Cash,0776-596741
+P10057,29519351,Grace Kiptoo,M,2014-01-06,Kericho,Kericho West,Cash,0752-427653
+P10058,10122075,James Korir,M,1984-05-13,Kericho,Kericho West,Private,0718-524517
+P10059,31267651,David Omondi,F,1955-08-03,Kericho,Belgut,Company,0784-812120
+P10060,32009569,Richard Mwangi,M,1981-07-23,Kericho,Belgut,Company,0778-865852
+P10061,14800102,Esther Atieno,F,1969-09-08,Kericho,Belgut,Company,0713-498444
+P10062,31366022,Joseph Korir,M,2005-10-29,Kericho,Kericho East,Company,0785-677778
+P10063,28763717,John Chebet,M,1991-06-03,Kericho,Kericho East,Cash,0758-435316
+P10064,22649279,Charles Njoroge,F,1974-12-18,Kericho,Belgut,Cash,0720-581119
+P10065,23485442,Esther Kipchoge,M,2008-04-29,Kericho,Soin Sigowet,NHIF,0713-353304
+P10066,10226207,John Atieno,M,1961-04-29,Kericho,Soin Sigowet,NHIF,0782-323576
+P10067,11260139,William Njoroge,M,2019-10-12,Kericho,Kericho West,Cash,0723-692126
+P10068,25186424,Lucy Atieno,F,2014-02-23,Kericho,Kericho East,CBHI,0798-950742
+P10069,20238872,Grace Chebet,M,2000-10-09,Kericho,Kericho East,Cash,0778-538777
+P10070,33954454,Ann Chebet,F,1951-02-19,Kericho,Belgut,Company,0723-543470
+P10071,29225048,Charles Korir,M,2015-11-01,Kericho,Soin Sigowet,Cash,0788-927651
+P10072,29230910,Ruth Nyong'o,F,1978-12-01,Kericho,Kericho West,NHIF,0745-561349
+P10073,25433542,Charles Atieno,F,1952-07-29,Kericho,Bureti,Private,0772-317463
+P10074,18767564,William Njoroge,F,1999-11-12,Kericho,Kipkelion,Private,0720-347837
+P10075,37257245,Jane Nyong'o,M,2011-12-16,Kericho,Soin Sigowet,Company,0767-911117
+P10076,14871083,James Kiptoo,F,2012-01-24,Kericho,Bureti,CBHI,0757-584666
+P10077,28555078,Thomas Njoroge,F,1981-07-25,Kericho,Belgut,Cash,0749-357336
+P10078,21176065,Elizabeth Jepkosgei,M,2016-08-24,Kericho,Soin Sigowet,Private,0734-321856
+P10079,39566508,Ruth Kiptoo,F,1959-01-08,Kericho,Kericho West,Cash,0739-469283
+P10080,35845200,Lucy Kipchoge,M,1974-08-11,Kericho,Kericho East,CBHI,0747-814229
+P10081,00823118,Ruth Chebet,F,1992-02-11,Kericho,Belgut,Cash,0733-152358
+P10082,04385124,Ruth Chebet,F,1994-02-12,Kericho,Kipkelion,NHIF,0729-252930
+P10083,05716394,Richard Kiptoo,M,1960-08-17,Kericho,Belgut,CBHI,0786-909733
+P10084,25526738,Grace Omondi,F,1989-09-20,Kericho,Kipkelion,Company,0749-682735
+P10085,06659453,Mary Atieno,M,2006-02-12,Kericho,Bureti,NHIF,0730-345277
+P10086,10504727,Esther Chebet,M,1986-08-26,Kericho,Soin Sigowet,CBHI,0770-398133
+P10087,18972909,Grace Kiptoo,F,1956-05-21,Kericho,Kericho West,Cash,0790-703777
+P10088,07702508,Michael Mwangi,M,2008-02-07,Kericho,Bureti,Private,0719-161269
+P10089,38198839,Lucy Atieno,F,1989-05-26,Kericho,Belgut,Cash,0799-512378
+P10090,33138037,Thomas Omondi,F,1957-03-20,Kericho,Kericho East,Company,0751-718356
+P10091,15362858,John Chebet,M,2018-08-11,Kericho,Bureti,CBHI,0715-881874
+P10092,34827074,Sarah Nyong'o,F,1974-12-15,Kericho,Kipkelion,Company,0791-933603
+P10093,23351272,James Nyong'o,F,1979-11-26,Kericho,Soin Sigowet,NHIF,0730-437521
+P10094,26873896,Ruth Kiptoo,M,1990-10-21,Kericho,Bureti,Cash,0751-218891
+P10095,00077247,Joseph Omondi,F,1987-01-28,Kericho,Kericho West,CBHI,0756-737874
+P10096,03463608,Ruth Nyong'o,M,1973-12-16,Kericho,Kericho West,Cash,0766-815596
+P10097,16058981,Elizabeth Kipchoge,M,1977-11-17,Kericho,Kericho East,CBHI,0762-195330
+P10098,07883020,Elizabeth Nyong'o,M,1994-09-17,Bomet,Soin Sigowet,Cash,0775-822379
+P10099,31690134,Jane Nyong'o,M,1990-12-24,Kericho,Kericho West,Company,0734-713620
+P10100,18538650,Robert Chebet,F,1980-06-29,Bomet,Kipkelion,Cash,0710-389843
+P10101,38918000,Lucy Atieno,F,1963-05-02,Kericho,Kipkelion,Company,0754-440665
+P10102,30557660,Esther Mwangi,F,1966-12-04,Kericho,Kericho West,CBHI,0759-339976
+P10103,21352452,Jane Kipchoge,F,2013-04-08,Bomet,Belgut,Company,0794-911940
+P10104,02484345,Robert Nyong'o,M,1995-01-24,Nakuru,Kipkelion,Cash,0722-995965
+P10105,35295980,Charles Chebet,F,1951-05-18,Kericho,Kericho West,Company,0793-258176
+P10106,22720460,Ruth Kiptoo,F,2008-04-19,Kericho,Bureti,CBHI,0758-424741
+P10107,02409148,Ruth Omondi,M,1971-01-23,Kericho,Soin Sigowet,Cash,0739-864192
+P10108,06744927,Jane Chebet,F,1964-12-04,Kericho,Bureti,NHIF,0715-432915
+P10109,24056068,Mary Kiptoo,F,1988-08-21,Kericho,Kericho West,CBHI,0762-679798
+P10110,11748706,Sarah Korir,M,2004-09-05,Kericho,Belgut,CBHI,0797-346609
+P10111,15581903,Richard Korir,F,2007-03-25,Kericho,Belgut,Cash,0795-109923
+P10112,36681581,Charles Kiptoo,M,1956-08-17,Kericho,Bureti,CBHI,0748-754534
+P10113,20275043,William Nyong'o,M,1984-07-06,Kericho,Belgut,NHIF,0740-490685
+P10114,19855660,Ann Atieno,F,1951-12-20,Kericho,Soin Sigowet,Company,0745-108679
+P10115,33334804,Mary Atieno,F,2019-08-06,Kericho,Kericho West,CBHI,0755-324751
+P10116,16819280,Michael Atieno,M,2006-05-13,Kericho,Soin Sigowet,NHIF,0749-907551
+P10117,24485423,Mary Atieno,M,1958-02-01,Bomet,Bureti,Cash,0763-279305
+P10118,24552284,Robert Omondi,F,1964-10-05,Kericho,Belgut,Cash,0753-923217
+P10119,09446044,Charles Chebet,M,2010-09-04,Kericho,Soin Sigowet,Company,0781-474192
+P10120,17747515,Joseph Kipchoge,M,1990-10-20,Kericho,Soin Sigowet,Cash,0784-490942
+P10121,15691523,Ann Chebet,F,1952-03-31,Kericho,Kipkelion,Cash,0788-326763
+P10122,20279640,James Nyong'o,F,1960-06-20,Kericho,Kericho East,NHIF,0748-604218
+P10123,36074143,Elizabeth Jepkosgei,M,1984-11-13,Kericho,Bureti,CBHI,0763-701860
+P10124,06645230,Robert Mwangi,F,2005-03-26,Kericho,Bureti,NHIF,0798-479322
+P10125,15845251,Charles Nyong'o,F,1958-11-30,Kericho,Bureti,CBHI,0792-467162
+P10126,12737837,Joseph Kiptoo,M,1990-10-18,Kericho,Soin Sigowet,Private,0792-754711
+P10127,22381421,John Kipchoge,M,1961-04-19,Kericho,Kipkelion,Private,0718-949883
+P10128,39351503,Esther Jepkosgei,M,1970-11-26,Kericho,Kericho West,CBHI,0710-383979
+P10129,36253246,Robert Korir,F,1965-08-27,Kericho,Soin Sigowet,NHIF,0726-115466
+P10130,21727936,Grace Atieno,M,1965-08-19,Kericho,Kericho East,Private,0763-638216
+P10131,30083241,James Nyong'o,F,1996-01-17,Kericho,Kericho East,Company,0774-326729
+P10132,20242069,Mary Omondi,F,2007-09-19,Nakuru,Kericho East,NHIF,0771-967511
+P10133,32901386,Jane Chebet,F,1956-08-05,Bomet,Kericho East,Cash,0787-251167
+P10134,39283160,Robert Kiptoo,F,1984-03-04,Kericho,Kipkelion,Cash,0768-617719
+P10135,07678199,Jane Chebet,M,1988-08-01,Kericho,Kericho West,Company,0753-947564
+P10136,06381103,Joseph Mwangi,F,1988-04-15,Kericho,Soin Sigowet,Cash,0757-256803
+P10137,06121992,Ruth Chebet,M,1958-05-13,Kericho,Kericho East,Cash,0726-669161
+P10138,37693934,Richard Omondi,F,2010-02-09,Kericho,Belgut,Cash,0795-868533
+P10139,20968091,Mary Kiptoo,F,1959-04-18,Kericho,Kipkelion,Private,0729-772593
+P10140,23495753,Grace Chebet,F,1960-04-22,Kericho,Bureti,CBHI,0738-926539
+P10141,37362173,Esther Atieno,M,2004-08-20,Bomet,Soin Sigowet,Cash,0713-284379
+P10142,23556784,Lucy Njoroge,M,1966-04-11,Kericho,Kericho West,CBHI,0794-510171
+P10143,06157754,Robert Kipchoge,M,1983-10-02,Kericho,Belgut,Cash,0730-478419
+P10144,05701371,David Atieno,M,1963-12-17,Kericho,Kipkelion,NHIF,0796-183378
+P10145,32592206,Charles Mwangi,F,1987-02-27,Kericho,Kericho West,CBHI,0724-453540
+P10146,39804566,Elizabeth Kiptoo,F,1997-04-10,Kericho,Bureti,NHIF,0738-504713
+P10147,13718604,Mary Kipchoge,F,1968-12-13,Kericho,Kericho West,Cash,0747-435222
+P10148,28900769,John Nyong'o,M,1961-08-04,Kericho,Kipkelion,Private,0774-672953
+P10149,26646996,Ann Chebet,M,1989-02-19,Kericho,Belgut,NHIF,0750-689539
+P10150,28030968,Richard Mwangi,F,1960-05-02,Kericho,Kericho East,Cash,0731-920732
+P10151,05914297,Charles Njoroge,F,1959-07-01,Kericho,Belgut,CBHI,0761-636180
+P10152,22784351,Joseph Kiptoo,M,1979-11-18,Kericho,Kericho West,NHIF,0775-748216
+P10153,13012658,Thomas Omondi,F,1981-07-01,Kericho,Soin Sigowet,Private,0740-205249
+P10154,11643323,William Jepkosgei,M,2018-03-15,Kericho,Soin Sigowet,NHIF,0732-891743
+P10155,37831648,Ruth Nyong'o,F,2011-02-09,Bomet,Kipkelion,CBHI,0751-984742
+P10156,29511984,David Korir,M,1992-01-26,Kericho,Soin Sigowet,Cash,0745-705157
+P10157,04978851,Ann Omondi,F,1991-06-05,Kericho,Kericho East,NHIF,0757-951393
+P10158,39868022,James Chebet,F,1991-07-07,Kericho,Kipkelion,NHIF,0767-929685
+P10159,31918924,Michael Njoroge,M,1955-07-21,Kericho,Kericho East,Cash,0720-616761
+P10160,16625800,Sarah Kipchoge,F,1989-06-03,Kericho,Kipkelion,CBHI,0730-472481
+P10161,27432050,Lucy Mwangi,F,2010-11-28,Kericho,Kericho East,Cash,0718-437196
+P10162,19068781,Esther Mwangi,F,2014-12-06,Kericho,Soin Sigowet,CBHI,0729-441183
+P10163,23476076,Richard Korir,F,2008-11-09,Kericho,Soin Sigowet,Company,0726-709825
+P10164,37508626,James Kiptoo,F,2007-09-24,Kericho,Bureti,Private,0795-819948
+P10165,28414321,Thomas Chebet,F,1951-08-21,Kericho,Bureti,Private,0737-449884
+P10166,15203047,Ruth Jepkosgei,M,1963-11-26,Kericho,Bureti,NHIF,0774-889652
+P10167,22599875,Thomas Kipchoge,M,2003-08-01,Kericho,Kericho West,Private,0733-951809
+P10168,29371766,Mercy Korir,M,1986-11-11,Kericho,Soin Sigowet,Private,0766-725391
+P10169,35836882,Charles Jepkosgei,M,1977-10-06,Nakuru,Belgut,Private,0757-794684
+P10170,18909381,Charles Nyong'o,F,1995-02-13,Kericho,Belgut,Private,0735-920719
+P10171,03501728,Robert Kiptoo,F,1983-04-21,Kericho,Kericho East,CBHI,0725-391185
+P10172,30153303,Sarah Kiptoo,M,1989-04-01,Kericho,Kericho West,Company,0754-127524
+P10173,33689128,Mary Mwangi,F,1971-02-25,Kericho,Kericho East,Cash,0738-128426
+P10174,09801204,Elizabeth Njoroge,M,1953-06-09,Kericho,Belgut,Private,0770-559730
+P10175,01275330,John Chebet,F,1969-05-07,Kericho,Kericho West,CBHI,0787-640533
+P10176,15947766,Elizabeth Kiptoo,F,1960-12-06,Kericho,Kericho West,Company,0791-912737
+P10177,07439548,Charles Chebet,F,2003-07-15,Kericho,Kericho East,CBHI,0783-347835
+P10178,28805735,Robert Kiptoo,M,2005-02-27,Kericho,Kericho West,CBHI,0763-291780
+P10179,24199709,James Omondi,M,1997-03-12,Kericho,Kipkelion,CBHI,0780-120499
+P10180,25963166,Ruth Kipchoge,F,1972-10-03,Kericho,Kericho East,Cash,0718-453346
+P10181,22314947,Elizabeth Atieno,M,1953-12-23,Kericho,Kipkelion,Cash,0792-279950
+P10182,12232470,Charles Nyong'o,M,1955-08-30,Kericho,Belgut,NHIF,0747-306144
+P10183,21179277,Michael Kipchoge,F,1996-03-28,Kericho,Kipkelion,Company,0742-137871
+P10184,23956132,Michael Kiptoo,M,2008-10-30,Kericho,Bureti,NHIF,0757-547509
+P10185,22752363,Charles Mwangi,M,1994-07-08,Kericho,Belgut,Cash,0776-373920
+P10186,05296702,James Mwangi,F,2004-01-19,Kericho,Kericho West,CBHI,0747-428205
+P10187,19840062,James Njoroge,F,1990-01-02,Kericho,Soin Sigowet,Company,0731-806554
+P10188,02842407,Ann Nyong'o,F,2005-02-28,Kericho,Bureti,NHIF,0719-787752
+P10189,34432620,Joseph Njoroge,M,1952-10-17,Kericho,Kipkelion,Company,0714-229168
+P10190,24303515,Grace Njoroge,F,2000-11-21,Kericho,Kipkelion,Private,0796-560479
+P10191,05159694,Ann Nyong'o,M,1997-07-02,Kericho,Belgut,Cash,0793-385355
+P10192,12485474,Elizabeth Kipchoge,F,1996-06-13,Kericho,Kipkelion,NHIF,0743-893366
+P10193,19164740,Charles Jepkosgei,F,1967-12-17,Kericho,Kericho West,NHIF,0767-276830
+P10194,21447173,Charles Chebet,F,2013-08-28,Kericho,Kipkelion,CBHI,0747-407971
+P10195,24259330,Sarah Korir,M,1960-11-20,Kericho,Kericho West,Private,0773-126469
+P10196,24757210,Esther Atieno,F,1999-06-29,Kericho,Kipkelion,NHIF,0718-416507
+P10197,27567994,Ruth Omondi,F,2001-07-30,Kericho,Kericho West,Cash,0792-175560
+P10198,23119996,Charles Omondi,M,1999-06-18,Kericho,Kipkelion,Private,0726-543614
+P10199,34769246,Mary Chebet,M,1977-04-14,Kericho,Kericho West,Cash,0738-454631
+P10200,16817838,Lucy Chebet,M,2006-12-22,Nakuru,Kipkelion,Cash,0726-740410
+P10201,06269875,Mercy Omondi,M,2003-02-04,Nakuru,Kipkelion,Private,0731-774739
+P10202,37823767,Mercy Njoroge,M,1952-07-18,Kericho,Kericho East,CBHI,0743-766315
+P10203,02032453,Richard Mwangi,F,2006-04-07,Kericho,Bureti,Cash,0771-350924
+P10204,30436832,Joseph Kiptoo,M,2011-10-12,Kericho,Kericho West,Company,0763-595575
+P10205,09641443,Michael Njoroge,F,2014-06-13,Kericho,Soin Sigowet,Cash,0761-233878
+P10206,37691776,Ann Omondi,M,1978-08-18,Kericho,Belgut,NHIF,0744-560353
+P10207,03396064,Robert Chebet,F,1984-06-18,Kericho,Kipkelion,Company,0741-986263
+P10208,20985944,David Atieno,M,2018-06-18,Kericho,Belgut,CBHI,0769-610415
+P10209,06043093,Ruth Kipchoge,F,1995-05-07,Kericho,Kericho West,Private,0784-461149
+P10210,33211788,Mary Kiptoo,F,1975-08-21,Kericho,Kericho East,NHIF,0765-237370
+P10211,24557641,Ann Mwangi,M,1985-12-09,Kericho,Kipkelion,CBHI,0734-471666
+P10212,25927431,Lucy Chebet,F,2018-07-30,Kericho,Bureti,CBHI,0797-725221
+P10213,26434431,Robert Chebet,F,1980-06-03,Kericho,Bureti,Private,0735-716621
+P10214,02701462,Joseph Omondi,M,1953-06-29,Kericho,Soin Sigowet,Cash,0770-631567
+P10215,34595005,Robert Atieno,M,1979-06-04,Bomet,Kipkelion,Cash,0730-502731
+P10216,22573641,Lucy Atieno,F,2013-08-01,Kericho,Bureti,Company,0712-477439
+P10217,39171588,Elizabeth Mwangi,F,2015-01-27,Kericho,Soin Sigowet,NHIF,0786-585371
+P10218,15270168,Richard Atieno,M,2002-05-08,Kericho,Kericho West,CBHI,0790-838734
+P10219,16253537,Joseph Korir,M,2001-05-14,Nakuru,Soin Sigowet,NHIF,0734-119551
+P10220,10162380,David Mwangi,F,2011-12-13,Kericho,Belgut,CBHI,0788-582993
+P10221,34808242,Mary Korir,M,2000-04-27,Kericho,Soin Sigowet,Company,0777-485421
+P10222,35777552,Sarah Nyong'o,F,1999-01-04,Kericho,Soin Sigowet,Cash,0788-595296
+P10223,37452562,Grace Kiptoo,F,1970-03-05,Nakuru,Bureti,Cash,0736-806821
+P10224,32199063,Ruth Njoroge,F,2000-04-14,Bomet,Soin Sigowet,Cash,0746-224687
+P10225,26476625,Esther Mwangi,F,2019-05-10,Kericho,Kericho West,Cash,0715-394831
+P10226,29687359,James Njoroge,F,2017-01-17,Kericho,Kericho West,Private,0778-377675
+P10227,07330072,William Korir,M,1971-10-02,Kericho,Soin Sigowet,CBHI,0738-753338
+P10228,27736186,Mary Chebet,F,2014-05-11,Kericho,Kericho East,Private,0710-663261
+P10229,32041028,Jane Nyong'o,M,2017-10-25,Nakuru,Bureti,Cash,0746-761160
+P10230,15584034,James Atieno,M,1965-09-15,Kericho,Kericho West,NHIF,0760-906607
+P10231,02514313,Sarah Kiptoo,M,1976-10-08,Kericho,Kipkelion,NHIF,0752-391565
+P10232,33145902,Esther Omondi,M,1995-03-28,Kericho,Bureti,Private,0724-438266
+P10233,12495609,Charles Kiptoo,M,2016-02-01,Kericho,Bureti,CBHI,0796-875297
+P10234,27211999,Sarah Atieno,F,1996-03-24,Kericho,Kericho East,Company,0795-197289
+P10235,21716541,Robert Nyong'o,M,1950-08-12,Kericho,Belgut,Private,0767-871373
+P10236,39088280,David Kiptoo,M,1973-06-19,Kericho,Bureti,Private,0717-783221
+P10237,10718415,Charles Kiptoo,F,2011-07-21,Kericho,Soin Sigowet,Cash,0798-220754
+P10238,14820942,Lucy Njoroge,M,1961-12-25,Kericho,Kericho West,Company,0787-482525
+P10239,36072202,Esther Nyong'o,M,2018-05-08,Kericho,Soin Sigowet,CBHI,0720-638557
+P10240,05241385,Thomas Njoroge,M,1955-07-17,Kericho,Kipkelion,CBHI,0735-686649
+P10241,22019602,Robert Korir,F,1960-06-05,Kericho,Kericho West,CBHI,0772-193622
+P10242,30429327,Charles Kipchoge,M,1996-01-18,Kericho,Belgut,CBHI,0717-672573
+P10243,26571669,Lucy Kipchoge,F,1950-04-09,Kericho,Kericho West,CBHI,0719-146533
+P10244,36316868,Ann Chebet,M,1956-03-11,Bomet,Belgut,NHIF,0746-518284
+P10245,25129647,Robert Mwangi,F,1990-03-29,Kericho,Belgut,Company,0720-799777
+P10246,23338443,Esther Korir,M,1966-01-05,Kericho,Belgut,CBHI,0726-845328
+P10247,20022802,John Kipchoge,F,2010-06-04,Kericho,Kipkelion,Company,0778-488943
+P10248,30912040,Grace Jepkosgei,F,1963-12-02,Kericho,Kericho West,NHIF,0714-928776
+P10249,01049972,Jane Atieno,M,1968-06-27,Kericho,Kericho East,CBHI,0714-557712
+P10250,02968677,Mary Jepkosgei,F,1989-05-19,Kericho,Kipkelion,Private,0717-243615
+P10251,38662111,Lucy Jepkosgei,F,2001-10-22,Kericho,Soin Sigowet,Cash,0740-409997
+P10252,14833928,Robert Omondi,F,1976-12-16,Kericho,Kericho East,CBHI,0785-852279
+P10253,33260549,Jane Omondi,M,1980-11-24,Nakuru,Soin Sigowet,Company,0777-426813
+P10254,10013825,Jane Mwangi,F,1983-10-10,Kericho,Kipkelion,Company,0740-969330
+P10255,31073093,Lucy Korir,M,2000-06-15,Kericho,Belgut,CBHI,0777-237497
+P10256,13645698,Grace Kiptoo,F,2008-01-08,Kericho,Belgut,Cash,0721-648841
+P10257,18016153,Michael Kipchoge,F,2010-06-09,Kericho,Kipkelion,NHIF,0719-292923
+P10258,14563733,Richard Omondi,F,1968-09-27,Kericho,Bureti,Cash,0711-316294
+P10259,16280153,Elizabeth Nyong'o,M,1985-08-01,Bomet,Kericho West,CBHI,0751-894389
+P10260,35812654,Joseph Nyong'o,F,1977-09-02,Kericho,Bureti,CBHI,0773-577200
+P10261,13631656,Ruth Njoroge,F,1978-01-27,Kericho,Kericho East,CBHI,0738-859249
+P10262,37132111,John Kiptoo,F,1976-06-25,Kericho,Kericho West,Cash,0739-488683
+P10263,36952995,Grace Nyong'o,F,1973-02-01,Kericho,Belgut,Company,0768-272850
+P10264,09392458,Ann Korir,F,1966-07-06,Bomet,Kipkelion,NHIF,0777-134959
+P10265,00428412,James Kipchoge,F,1962-05-03,Kericho,Soin Sigowet,Private,0718-824254
+P10266,33939162,John Jepkosgei,F,1983-06-26,Kericho,Kipkelion,CBHI,0771-775599
+P10267,35716176,John Kipchoge,F,1951-01-24,Kericho,Kipkelion,Cash,0778-393117
+P10268,12030395,Thomas Mwangi,M,1958-08-23,Kericho,Kericho West,Private,0734-734639
+P10269,17939860,William Njoroge,F,1957-02-02,Kericho,Belgut,Company,0782-349813
+P10270,05410110,Grace Kiptoo,M,1958-05-22,Kericho,Belgut,Company,0780-587157
+P10271,05548972,John Korir,F,1988-12-05,Kericho,Bureti,CBHI,0722-640143
+P10272,38036241,Grace Jepkosgei,F,1974-04-28,Kericho,Kericho East,Cash,0779-677773
+P10273,21104711,Mary Korir,M,1968-08-02,Kericho,Kericho West,Company,0719-406266
+P10274,38030320,Richard Jepkosgei,F,2010-09-28,Bomet,Kipkelion,Cash,0759-873857
+P10275,33607640,Robert Chebet,F,1954-10-26,Kericho,Belgut,Private,0719-448719
+P10276,26622291,Mercy Atieno,F,1952-08-28,Kericho,Bureti,Company,0772-333464
+P10277,28980826,Esther Mwangi,M,2010-12-24,Kericho,Soin Sigowet,Company,0720-890733
+P10278,04932951,Lucy Jepkosgei,M,1974-01-15,Kericho,Belgut,Private,0759-424469
+P10279,00348646,Elizabeth Chebet,F,1989-11-25,Kericho,Bureti,NHIF,0726-189291
+P10280,37378633,Jane Nyong'o,F,1959-04-08,Kericho,Kericho East,Cash,0780-195711
+P10281,25852880,Mercy Njoroge,M,1976-03-08,Kericho,Belgut,NHIF,0781-348685
+P10282,25550494,Thomas Korir,M,1962-06-16,Kericho,Bureti,Cash,0773-249164
+P10283,18519488,Sarah Mwangi,F,1976-11-22,Kericho,Kericho East,Cash,0742-352838
+P10284,13123020,Ruth Atieno,F,1959-08-07,Kericho,Bureti,NHIF,0760-440961
+P10285,22115171,Mercy Mwangi,F,1980-01-12,Kericho,Soin Sigowet,CBHI,0727-407428
+P10286,32145800,Mercy Jepkosgei,F,1965-12-08,Nakuru,Belgut,Cash,0747-852811
+P10287,16268820,Ruth Atieno,F,1983-09-27,Kericho,Belgut,Cash,0724-677304
+P10288,12074711,Richard Omondi,M,2015-03-30,Kericho,Soin Sigowet,Private,0766-916398
+P10289,33507672,James Mwangi,M,2006-10-27,Kericho,Kericho West,Cash,0794-257832
+P10290,04963717,Jane Mwangi,F,2003-08-24,Kericho,Kipkelion,Company,0778-618990
+P10291,02467269,Jane Omondi,F,2012-12-12,Bomet,Kipkelion,CBHI,0791-187211
+P10292,11162788,Grace Njoroge,M,2000-07-12,Kericho,Soin Sigowet,Company,0752-915540
+P10293,06617375,Elizabeth Kipchoge,F,1969-12-01,Kericho,Soin Sigowet,CBHI,0781-694804
+P10294,29915693,Richard Jepkosgei,F,1985-02-02,Kericho,Soin Sigowet,CBHI,0798-612254
+P10295,32398220,Ann Kipchoge,M,1976-07-03,Kericho,Kericho East,NHIF,0728-456419
+P10296,13882632,David Nyong'o,F,1981-04-01,Kericho,Kericho East,Company,0799-563426
+P10297,02998629,James Kiptoo,M,1952-01-11,Kericho,Bureti,NHIF,0796-919268
+P10298,11707359,Grace Omondi,M,1979-09-11,Kericho,Belgut,Company,0739-916514
+P10299,29000053,Sarah Korir,F,1952-08-14,Kericho,Kipkelion,Private,0767-706539
+P10300,14414723,Joseph Kipchoge,M,1974-12-21,Kericho,Soin Sigowet,NHIF,0783-204918
+P10301,24547955,Esther Korir,F,1967-09-06,Kericho,Kericho East,Cash,0795-983601
+P10302,26081140,Thomas Njoroge,F,2002-08-30,Kericho,Bureti,Cash,0768-732276
+P10303,39605529,Lucy Atieno,M,2010-04-19,Kericho,Bureti,NHIF,0740-412219
+P10304,09486412,Sarah Njoroge,F,1987-07-10,Kericho,Kericho West,CBHI,0759-533290
+P10305,11625591,Ruth Omondi,M,1993-12-05,Kericho,Kericho West,Private,0750-962561
+P10306,24094711,Mercy Kipchoge,M,1993-06-23,Kericho,Kericho West,Company,0781-617768
+P10307,32999166,Ruth Mwangi,F,2013-09-16,Kericho,Belgut,Company,0731-184678
+P10308,19601823,John Jepkosgei,M,1974-08-29,Kericho,Kipkelion,Cash,0731-899568
+P10309,36891500,Richard Nyong'o,M,2001-05-19,Kericho,Bureti,CBHI,0756-655942
+P10310,36665148,Mary Nyong'o,M,1988-02-22,Kericho,Soin Sigowet,Private,0748-995133
+P10311,23392605,Charles Kiptoo,M,1989-05-23,Kericho,Kericho East,Private,0736-930855
+P10312,28733806,Richard Njoroge,M,2005-04-12,Kericho,Kericho West,Private,0717-683459
+P10313,36156146,Esther Kiptoo,M,1979-01-14,Kericho,Bureti,Cash,0783-373978
+P10314,09099218,Thomas Chebet,F,1955-04-27,Kericho,Soin Sigowet,Private,0799-986235
+P10315,21615545,Grace Korir,M,2018-04-25,Kericho,Soin Sigowet,Company,0772-245691
+P10316,25177389,William Mwangi,F,1956-10-10,Kericho,Kericho East,Company,0775-867384
+P10317,32752111,Ann Nyong'o,F,2002-03-18,Kericho,Soin Sigowet,NHIF,0768-750780
+P10318,35864619,Ann Chebet,F,1969-07-17,Nakuru,Belgut,Private,0773-374430
+P10319,36729389,Lucy Njoroge,M,2000-10-16,Kericho,Belgut,Cash,0797-880149
+P10320,30842011,Mary Chebet,M,1961-02-23,Bomet,Kericho West,Company,0768-100538
+P10321,20257852,Michael Korir,M,1974-08-02,Kericho,Soin Sigowet,Cash,0742-184480
+P10322,26598033,Sarah Kipchoge,F,2015-02-18,Kericho,Kericho West,Company,0793-193820
+P10323,14322453,Elizabeth Kipchoge,F,1956-12-28,Kericho,Kipkelion,Private,0776-796555
+P10324,23056871,John Kipchoge,M,1987-11-21,Kericho,Kericho West,Company,0719-334492
+P10325,06925738,James Chebet,F,1982-12-23,Bomet,Bureti,Private,0758-892932
+P10326,04591026,Robert Korir,M,2004-10-02,Kericho,Kericho West,Company,0754-839318
+P10327,29687879,Robert Mwangi,M,1957-10-11,Bomet,Kericho East,Private,0725-703847
+P10328,28815791,Joseph Njoroge,F,1962-07-18,Kericho,Bureti,NHIF,0741-666715
+P10329,19120712,Mercy Atieno,M,2009-01-25,Kericho,Bureti,Private,0776-721621
+P10330,19833492,Michael Mwangi,M,1971-06-22,Kericho,Belgut,NHIF,0740-611753
+P10331,35452707,Mercy Chebet,M,1982-05-25,Bomet,Bureti,Private,0759-981959
+P10332,24522416,Richard Mwangi,M,2018-06-06,Kericho,Kericho East,NHIF,0785-169114
+P10333,02672736,William Jepkosgei,M,1985-09-14,Kericho,Bureti,CBHI,0763-533818
+P10334,36008256,Joseph Chebet,M,1974-11-23,Kericho,Bureti,NHIF,0775-308927
+P10335,21927842,Robert Omondi,F,2002-08-12,Kericho,Soin Sigowet,NHIF,0749-815547
+P10336,16406759,Grace Kipchoge,M,1988-12-24,Kericho,Belgut,CBHI,0787-156416
+P10337,00849932,Sarah Chebet,M,2012-12-07,Kericho,Kericho West,Company,0754-635629
+P10338,24955736,William Korir,M,2017-04-07,Kericho,Bureti,NHIF,0713-443926
+P10339,35155262,Jane Kiptoo,M,1973-08-04,Kericho,Kipkelion,NHIF,0773-566623
+P10340,33528260,Ann Kipchoge,M,1982-12-27,Kericho,Bureti,NHIF,0783-790840
+P10341,34146661,Elizabeth Jepkosgei,M,1953-12-14,Kericho,Kericho East,Private,0715-583472
+P10342,12009865,Joseph Korir,M,1999-08-08,Kericho,Soin Sigowet,Company,0738-429354
+P10343,18203814,Jane Njoroge,M,2001-04-11,Kericho,Kericho East,CBHI,0796-153283
+P10344,03082216,Grace Omondi,F,1956-03-08,Kericho,Belgut,Cash,0749-435188
+P10345,00534803,Esther Nyong'o,F,1968-01-02,Kericho,Kipkelion,Cash,0789-348575
+P10346,33108875,Ann Atieno,M,2015-09-18,Bomet,Kipkelion,Private,0729-106519
+P10347,36342484,John Jepkosgei,F,2007-01-20,Kericho,Soin Sigowet,NHIF,0752-101877
+P10348,06975901,Joseph Kiptoo,M,1997-07-13,Kericho,Belgut,Company,0717-245828
+P10349,02946097,William Chebet,M,1996-08-18,Kericho,Soin Sigowet,Cash,0768-865186
+P10350,33918684,Richard Chebet,M,2007-03-03,Kericho,Belgut,NHIF,0785-681163
+P10351,15889483,Jane Korir,F,1973-06-01,Kericho,Bureti,Company,0799-951853
+P10352,30384066,David Njoroge,F,1970-12-16,Kericho,Kericho West,Private,0784-211259
+P10353,30169914,Elizabeth Korir,F,1978-03-05,Kericho,Kericho East,CBHI,0755-888312
+P10354,31094664,Charles Kiptoo,F,1960-10-04,Kericho,Kericho West,Cash,0799-717141
+P10355,09953842,Michael Njoroge,M,2013-10-20,Kericho,Bureti,Company,0775-150793
+P10356,11668067,Lucy Kiptoo,M,1986-04-13,Kericho,Belgut,CBHI,0780-355196
+P10357,09381353,Charles Chebet,M,1951-01-27,Kericho,Kericho West,Private,0735-943510
+P10358,39079089,Ann Chebet,F,1956-09-23,Kericho,Kericho East,Private,0792-554928
+P10359,22249937,Robert Chebet,M,1953-10-31,Nakuru,Belgut,NHIF,0731-687543
+P10360,01978524,Joseph Nyong'o,F,2011-04-18,Kericho,Kericho West,Cash,0737-291381
+P10361,09974486,William Nyong'o,M,2005-02-04,Kericho,Kipkelion,Private,0792-402610
+P10362,32147222,Jane Omondi,M,1957-11-14,Kericho,Belgut,Private,0763-304758
+P10363,36484183,Thomas Jepkosgei,M,1984-04-25,Kericho,Soin Sigowet,Cash,0771-657900
+P10364,37960204,Ruth Njoroge,F,1984-11-04,Kericho,Kericho West,NHIF,0750-711324
+P10365,03931991,John Kiptoo,F,1997-07-01,Kericho,Kipkelion,Private,0730-202353
+P10366,35815301,Grace Kiptoo,M,2018-07-19,Nakuru,Kericho West,CBHI,0759-463959
+P10367,15874678,Sarah Korir,F,2016-03-21,Kericho,Bureti,CBHI,0713-820817
+P10368,37822992,Ann Atieno,M,2000-07-08,Nakuru,Kericho West,Company,0779-416279
+P10369,06057071,Ruth Kipchoge,M,1970-11-14,Kericho,Kericho West,NHIF,0777-589100
+P10370,13520046,David Atieno,M,1980-07-27,Kericho,Kericho West,Cash,0717-122251
+P10371,07443755,Richard Korir,F,1956-07-04,Kericho,Soin Sigowet,Company,0785-203444
+P10372,09157117,Lucy Njoroge,M,2015-09-14,Nakuru,Belgut,Company,0793-424278
+P10373,23946158,Esther Atieno,M,2009-09-16,Kericho,Kericho West,Company,0749-851805
+P10374,11925802,Lucy Korir,M,2012-12-24,Nakuru,Kipkelion,Company,0782-133286
+P10375,14824030,Mercy Njoroge,M,1994-07-07,Kericho,Bureti,NHIF,0740-455427
+P10376,22531766,Sarah Chebet,F,1951-01-09,Kericho,Kericho West,Private,0798-169458
+P10377,00085978,William Chebet,M,1984-08-16,Kericho,Soin Sigowet,Company,0731-523604
+P10378,36643049,Joseph Njoroge,F,1959-02-06,Kericho,Belgut,CBHI,0793-876803
+P10379,30285387,Grace Korir,M,1952-12-30,Kericho,Kericho East,Cash,0743-207175
+P10380,25196553,David Korir,M,2015-09-02,Kericho,Kipkelion,NHIF,0753-708728
+P10381,28945619,Ruth Kipchoge,M,2004-06-26,Bomet,Belgut,Private,0716-203439
+P10382,27466307,Michael Jepkosgei,F,2009-04-07,Kericho,Bureti,Private,0722-150502
+P10383,32946982,Richard Omondi,M,1954-11-22,Kericho,Kericho East,Company,0721-401943
+P10384,13399950,Mercy Nyong'o,M,1952-04-23,Kericho,Kericho West,Cash,0720-584964
+P10385,26673583,Elizabeth Kiptoo,F,1993-11-17,Bomet,Soin Sigowet,Cash,0721-757657
+P10386,24898766,Joseph Korir,F,1983-02-21,Kericho,Belgut,NHIF,0743-550576
+P10387,18022891,William Jepkosgei,M,1963-07-24,Kericho,Soin Sigowet,NHIF,0720-784452
+P10388,39575872,Esther Mwangi,M,1999-09-01,Kericho,Belgut,CBHI,0763-648803
+P10389,15813669,Ruth Atieno,F,1976-10-23,Kericho,Belgut,NHIF,0774-684629
+P10390,09895045,Richard Atieno,M,2017-12-06,Kericho,Kericho West,Private,0737-927297
+P10391,28412209,Robert Kipchoge,M,2011-04-15,Kericho,Kericho West,Private,0786-364427
+P10392,26044894,James Chebet,F,1999-07-12,Kericho,Bureti,CBHI,0768-994112
+P10393,35068543,Mercy Atieno,F,1960-02-05,Kericho,Kericho West,Private,0782-702696
+P10394,37761068,Elizabeth Chebet,M,1975-09-01,Kericho,Kipkelion,Cash,0762-370492
+P10395,31745622,Ruth Atieno,M,1965-06-13,Kericho,Belgut,Private,0789-723797
+P10396,26561202,Joseph Kipchoge,F,2011-12-13,Kericho,Kericho East,Company,0744-481120
+P10397,20867455,David Kiptoo,F,1994-02-08,Kericho,Soin Sigowet,NHIF,0739-237407
+P10398,18080469,Charles Njoroge,F,2004-04-10,Kericho,Kericho East,Private,0766-316943
+P10399,34661824,Jane Nyong'o,F,1955-01-16,Kericho,Kericho West,NHIF,0749-826618
+P10400,35184253,Joseph Korir,M,1965-08-03,Kericho,Kericho West,NHIF,0741-133567
+P10401,13362031,Mary Njoroge,F,1983-01-18,Kericho,Belgut,CBHI,0760-750226
+P10402,24995822,John Jepkosgei,F,2003-04-18,Kericho,Kericho West,Company,0785-664458
+P10403,17358374,Ann Korir,M,1975-07-30,Kericho,Belgut,NHIF,0730-974685
+P10404,15107014,Michael Jepkosgei,M,1974-02-21,Kericho,Belgut,CBHI,0712-985899
+P10405,08879449,John Nyong'o,M,2003-12-07,Kericho,Kericho East,Private,0742-722924
+P10406,28441193,Lucy Kiptoo,F,1981-04-14,Kericho,Bureti,Private,0769-409793
+P10407,26652456,Thomas Atieno,M,1950-08-29,Kericho,Soin Sigowet,Cash,0781-762708
+P10408,20030381,Mercy Kiptoo,M,1993-03-21,Kericho,Bureti,Cash,0791-432982
+P10409,20051533,William Kiptoo,M,1963-06-14,Kericho,Kericho West,NHIF,0786-513776
+P10410,01708275,David Korir,F,1976-07-09,Kericho,Belgut,Company,0759-854136
+P10411,12744991,Richard Atieno,F,2015-03-08,Kericho,Kericho West,CBHI,0791-903587
+P10412,20145734,Ann Omondi,M,2008-12-30,Kericho,Kipkelion,Private,0747-199582
+P10413,37515980,Robert Kiptoo,M,2010-12-24,Bomet,Bureti,NHIF,0738-463328
+P10414,22234317,Lucy Mwangi,F,1973-05-18,Kericho,Bureti,Company,0725-581154
+P10415,04779208,Richard Atieno,F,1967-06-15,Kericho,Kericho East,Company,0777-405523
+P10416,09218427,Mary Korir,M,1980-09-28,Kericho,Kipkelion,Company,0728-423983
+P10417,32720997,Sarah Chebet,F,2006-08-12,Kericho,Bureti,NHIF,0710-562380
+P10418,38673424,Michael Korir,M,1993-12-03,Kericho,Kericho East,Private,0788-544748
+P10419,28791411,Jane Mwangi,F,1984-05-22,Kericho,Kericho East,CBHI,0735-848482
+P10420,35637075,John Njoroge,M,1951-08-11,Kericho,Kericho East,Private,0738-810998
+P10421,08652400,Ann Kiptoo,M,1984-05-30,Kericho,Kipkelion,Cash,0731-166943
+P10422,19517123,Mary Kiptoo,F,2015-04-19,Kericho,Kipkelion,CBHI,0753-544803
+P10423,32895335,Robert Njoroge,F,2017-04-18,Kericho,Kericho West,Company,0712-333329
+P10424,01470575,Robert Jepkosgei,M,1961-01-18,Kericho,Soin Sigowet,NHIF,0758-997755
+P10425,03260616,William Omondi,M,2009-05-22,Kericho,Soin Sigowet,NHIF,0716-806218
+P10426,25518399,Jane Nyong'o,M,1999-02-06,Kericho,Belgut,Private,0736-811802
+P10427,28244206,John Kiptoo,M,2009-06-08,Kericho,Bureti,CBHI,0787-817240
+P10428,34331874,Jane Chebet,M,1975-05-13,Kericho,Kericho East,Company,0735-723304
+P10429,13534059,William Omondi,F,2013-02-09,Kericho,Bureti,Private,0715-661608
+P10430,22186434,Michael Nyong'o,M,1950-03-31,Kericho,Soin Sigowet,NHIF,0724-955687
+P10431,06045346,Ruth Korir,M,2014-11-30,Kericho,Kericho East,Cash,0792-336567
+P10432,31157127,Lucy Kiptoo,M,1958-12-15,Kericho,Kericho West,NHIF,0747-468920
+P10433,07777989,David Mwangi,M,2018-01-08,Bomet,Kericho East,NHIF,0727-779762
+P10434,23993258,Sarah Njoroge,F,2005-10-14,Kericho,Soin Sigowet,NHIF,0757-934450
+P10435,26895724,Sarah Chebet,F,1990-12-16,Kericho,Belgut,Company,0763-764916
+P10436,08892702,Sarah Chebet,M,1964-04-20,Kericho,Belgut,CBHI,0771-921682
+P10437,25484644,Charles Korir,F,2004-11-05,Kericho,Soin Sigowet,Private,0771-599215
+P10438,03085151,Jane Nyong'o,M,1973-06-21,Kericho,Bureti,NHIF,0796-637885
+P10439,15031374,Richard Atieno,F,1996-07-27,Kericho,Soin Sigowet,CBHI,0722-543777
+P10440,23202856,Grace Nyong'o,F,1963-05-04,Kericho,Kipkelion,CBHI,0716-111758
+P10441,31493448,Sarah Omondi,F,1964-11-02,Kericho,Belgut,Cash,0740-438384
+P10442,14945582,Mary Omondi,F,1986-03-07,Kericho,Kericho West,NHIF,0768-554920
+P10443,05906913,Richard Nyong'o,F,1990-02-09,Kericho,Kericho East,Company,0793-118205
+P10444,02404641,Joseph Mwangi,M,1958-02-26,Kericho,Kipkelion,CBHI,0791-411620
+P10445,30615596,Esther Jepkosgei,F,1982-08-07,Kericho,Kericho East,Private,0768-439673
+P10446,31751464,Mercy Atieno,F,2014-03-25,Kericho,Kericho East,NHIF,0794-327102
+P10447,19594686,David Njoroge,F,2012-12-27,Kericho,Kericho East,Private,0773-243941
+P10448,17065067,Jane Chebet,M,1966-10-29,Kericho,Belgut,Private,0768-944900
+P10449,07232037,Michael Njoroge,F,1954-03-04,Bomet,Soin Sigowet,CBHI,0725-890561
+P10450,33836127,Charles Atieno,M,1994-10-02,Kericho,Kipkelion,NHIF,0780-543958
+P10451,34113644,Richard Nyong'o,M,2012-01-25,Kericho,Kericho West,Private,0723-496773
+P10452,21598570,Mercy Atieno,F,1987-07-24,Kericho,Soin Sigowet,Private,0745-507451
+P10453,08950433,Lucy Nyong'o,M,1987-01-11,Kericho,Soin Sigowet,CBHI,0748-963818
+P10454,37150230,Esther Njoroge,M,1968-01-09,Kericho,Kipkelion,Cash,0797-453788
+P10455,33815717,Robert Korir,F,2013-09-23,Kericho,Bureti,CBHI,0771-696684
+P10456,19188302,Jane Omondi,F,1951-02-23,Kericho,Kericho East,NHIF,0758-248154
+P10457,17916609,Mary Jepkosgei,M,1975-09-18,Kericho,Bureti,Private,0717-807903
+P10458,36317445,Lucy Jepkosgei,M,1982-03-07,Kericho,Belgut,NHIF,0788-988791
+P10459,37666230,Esther Jepkosgei,F,1971-04-26,Kericho,Soin Sigowet,Cash,0798-780148
+P10460,27955287,Joseph Mwangi,F,1999-07-15,Kericho,Kericho East,Cash,0735-735989
+P10461,24678689,Charles Jepkosgei,M,2019-08-19,Kericho,Kericho West,Cash,0767-281799
+P10462,11663194,James Korir,M,1983-11-04,Kericho,Belgut,Cash,0781-370233
+P10463,17113845,Sarah Atieno,M,1979-08-28,Kericho,Soin Sigowet,Private,0715-257430
+P10464,20210158,Mercy Kipchoge,F,2001-05-18,Kericho,Bureti,NHIF,0750-638325
+P10465,04575246,Sarah Omondi,M,1987-04-26,Kericho,Kipkelion,Company,0721-457326
+P10466,22217500,Michael Njoroge,F,1976-05-03,Kericho,Kipkelion,CBHI,0770-674943
+P10467,23220157,John Chebet,F,1971-07-25,Bomet,Soin Sigowet,CBHI,0789-349140
+P10468,07608403,David Mwangi,F,1973-01-07,Kericho,Soin Sigowet,Cash,0713-629941
+P10469,34140668,Ann Omondi,F,1993-09-03,Kericho,Bureti,Private,0751-626184
+P10470,36102880,Elizabeth Korir,M,2006-03-31,Kericho,Kericho West,Private,0797-534955
+P10471,36088075,Elizabeth Jepkosgei,F,2008-01-03,Kericho,Kericho East,Private,0713-570834
+P10472,05873429,David Kipchoge,M,1954-11-14,Kericho,Bureti,CBHI,0719-688941
+P10473,27355773,Grace Kiptoo,F,1990-06-22,Kericho,Belgut,Company,0750-117498
+P10474,00395871,Elizabeth Omondi,M,2017-10-27,Kericho,Kipkelion,NHIF,0799-968174
+P10475,07122636,Ann Omondi,F,2011-07-14,Kericho,Kipkelion,NHIF,0746-883548
+P10476,02068239,Joseph Mwangi,F,1964-01-10,Kericho,Kericho West,Private,0760-915916
+P10477,09668746,Esther Kiptoo,F,2010-10-06,Bomet,Soin Sigowet,Cash,0711-666995
+P10478,08270172,Esther Korir,M,1950-06-14,Kericho,Kipkelion,Company,0778-660187
+P10479,23075494,Lucy Jepkosgei,M,1987-01-08,Bomet,Soin Sigowet,CBHI,0728-264288
+P10480,16961214,Grace Atieno,M,1960-04-13,Kericho,Soin Sigowet,CBHI,0716-971869
+P10481,36887368,Esther Nyong'o,M,1976-01-29,Kericho,Kericho East,Cash,0722-302843
+P10482,22203031,Richard Nyong'o,F,1961-07-03,Kericho,Soin Sigowet,Private,0722-391734
+P10483,21326254,James Jepkosgei,F,1990-06-06,Kericho,Kipkelion,Cash,0798-698256
+P10484,24460741,Richard Atieno,F,1988-06-04,Kericho,Kericho East,Cash,0741-904326
+P10485,24124698,Jane Kiptoo,M,2010-12-20,Kericho,Bureti,Company,0769-556467
+P10486,37022070,Lucy Nyong'o,M,1965-10-08,Kericho,Kipkelion,NHIF,0745-979946
+P10487,13182324,Robert Omondi,F,2015-10-23,Bomet,Soin Sigowet,NHIF,0719-119969
+P10488,39050010,Thomas Kipchoge,F,2019-01-04,Kericho,Kericho West,NHIF,0780-366656
+P10489,09974591,Esther Nyong'o,F,1985-03-19,Kericho,Kipkelion,Cash,0727-575613
+P10490,26627802,Thomas Chebet,F,1995-01-20,Kericho,Soin Sigowet,Private,0788-800269
+P10491,29945348,Thomas Korir,M,1966-01-27,Kericho,Kipkelion,Private,0771-467141
+P10492,15552474,Grace Nyong'o,M,1973-09-19,Kericho,Kericho West,NHIF,0795-311630
+P10493,31519304,Ann Mwangi,F,1954-03-02,Kericho,Soin Sigowet,Cash,0723-820633
+P10494,38831299,William Kiptoo,M,1983-10-17,Kericho,Belgut,Cash,0785-769955
+P10495,16883679,James Omondi,F,1969-12-30,Kericho,Belgut,Cash,0754-598911
+P10496,00442764,Ruth Atieno,M,1989-06-19,Kericho,Kericho West,NHIF,0775-758387
+P10497,12543028,Michael Korir,M,1982-07-01,Kericho,Soin Sigowet,NHIF,0794-335524
+P10498,32314036,David Chebet,F,1992-12-22,Kericho,Kipkelion,Private,0792-953520
+P10499,02895368,John Jepkosgei,M,2001-06-14,Kericho,Kericho West,Private,0790-624140

@@ -1,0 +1,1501 @@
+visit_id,patient_id,visit_type,visit_date,department,referral_source,disposition
+V20000,P10456,Inpatient,2023-03-17,General OPD,Health Center,Admitted
+V20001,P10472,OPD,2023-09-22,Pediatrics,Other Hospital,Referred
+V20002,P10326,OPD,2023-12-05,Medical OPD,Self,Discharged
+V20003,P10229,Inpatient,2023-08-30,Pediatrics,Health Center,Discharged
+V20004,P10425,ED,2023-11-04,Surgical OPD,Other Hospital,Discharged
+V20005,P10319,Inpatient,2023-09-19,Medical OPD,Health Center,Referred
+V20006,P10351,ED,2023-08-21,MCH,Other Hospital,Discharged
+V20007,P10117,ED,2023-07-17,Surgical OPD,Self,Discharged
+V20008,P10103,Inpatient,2023-09-16,Pediatrics,Health Center,Referred
+V20009,P10049,OPD,2023-09-01,MCH,Other Hospital,Discharged
+V20010,P10449,Inpatient,2023-09-15,General OPD,Self,Admitted
+V20011,P10337,OPD,2023-11-05,MCH,Self,Referred
+V20012,P10332,ED,2023-09-25,Pediatrics,Private Clinic,Discharged
+V20013,P10357,Inpatient,2023-08-08,Surgical OPD,CHV,Admitted
+V20014,P10179,Inpatient,2023-12-23,MCH,Self,Admitted
+V20015,P10068,ED,2023-09-02,Surgical OPD,Self,Admitted
+V20016,P10306,Inpatient,2023-07-29,Medical OPD,Health Center,Discharged
+V20017,P10363,Inpatient,2023-01-04,MCH,Other Hospital,Discharged
+V20018,P10266,OPD,2023-07-12,Surgical OPD,Private Clinic,Admitted
+V20019,P10185,OPD,2023-03-21,Pediatrics,Other Hospital,Admitted
+V20020,P10133,Inpatient,2023-08-05,MCH,Private Clinic,Referred
+V20021,P10141,Inpatient,2023-07-23,Surgical OPD,CHV,Referred
+V20022,P10401,Inpatient,2023-09-05,Surgical OPD,Private Clinic,Referred
+V20023,P10284,ED,2023-05-10,Medical OPD,Other Hospital,Admitted
+V20024,P10396,Inpatient,2023-07-23,Surgical OPD,Self,Referred
+V20025,P10117,ED,2023-12-25,Surgical OPD,Self,Discharged
+V20026,P10260,ED,2023-06-23,MCH,Other Hospital,Referred
+V20027,P10350,Inpatient,2023-01-27,Surgical OPD,CHV,Referred
+V20028,P10002,OPD,2023-03-16,Pediatrics,Other Hospital,Admitted
+V20029,P10045,OPD,2023-05-15,Surgical OPD,Private Clinic,Discharged
+V20030,P10311,OPD,2023-07-16,Pediatrics,Other Hospital,Referred
+V20031,P10266,ED,2023-12-31,MCH,Self,Discharged
+V20032,P10327,ED,2023-08-13,General OPD,Health Center,Referred
+V20033,P10476,Inpatient,2023-05-27,Surgical OPD,Self,Referred
+V20034,P10261,Inpatient,2023-12-24,Surgical OPD,Other Hospital,Discharged
+V20035,P10345,OPD,2023-07-04,Surgical OPD,Self,Discharged
+V20036,P10044,ED,2023-07-24,Medical OPD,CHV,Admitted
+V20037,P10300,OPD,2023-09-23,General OPD,Self,Discharged
+V20038,P10281,ED,2023-10-14,MCH,Private Clinic,Admitted
+V20039,P10493,ED,2023-04-26,MCH,Health Center,Admitted
+V20040,P10476,ED,2023-10-22,General OPD,Private Clinic,Discharged
+V20041,P10208,Inpatient,2023-02-24,MCH,Self,Referred
+V20042,P10150,ED,2023-03-01,MCH,Private Clinic,Referred
+V20043,P10416,Inpatient,2023-05-09,Pediatrics,CHV,Referred
+V20044,P10247,OPD,2023-06-23,Pediatrics,CHV,Referred
+V20045,P10441,OPD,2023-09-04,General OPD,Private Clinic,Discharged
+V20046,P10195,Inpatient,2023-04-23,Surgical OPD,Private Clinic,Admitted
+V20047,P10489,ED,2023-09-22,MCH,Self,Referred
+V20048,P10426,ED,2023-05-08,Medical OPD,Self,Admitted
+V20049,P10344,Inpatient,2023-06-25,General OPD,Other Hospital,Discharged
+V20050,P10243,ED,2023-07-01,Surgical OPD,Other Hospital,Admitted
+V20051,P10093,Inpatient,2023-12-16,Surgical OPD,CHV,Referred
+V20052,P10102,OPD,2023-05-04,Medical OPD,Health Center,Discharged
+V20053,P10103,OPD,2023-11-13,Medical OPD,Health Center,Discharged
+V20054,P10061,OPD,2023-12-13,Pediatrics,Other Hospital,Discharged
+V20055,P10391,Inpatient,2023-01-22,Pediatrics,Private Clinic,Referred
+V20056,P10161,ED,2023-10-22,Medical OPD,CHV,Discharged
+V20057,P10391,Inpatient,2023-05-24,Pediatrics,Health Center,Referred
+V20058,P10065,OPD,2023-09-27,Pediatrics,CHV,Referred
+V20059,P10016,Inpatient,2023-06-27,Pediatrics,Health Center,Admitted
+V20060,P10499,OPD,2023-12-24,MCH,CHV,Admitted
+V20061,P10352,OPD,2023-01-07,Surgical OPD,CHV,Referred
+V20062,P10051,ED,2023-07-05,MCH,Private Clinic,Discharged
+V20063,P10280,ED,2023-05-02,Medical OPD,CHV,Referred
+V20064,P10175,ED,2023-04-05,Pediatrics,CHV,Discharged
+V20065,P10214,Inpatient,2023-07-10,Medical OPD,CHV,Admitted
+V20066,P10230,OPD,2023-10-20,Surgical OPD,Other Hospital,Referred
+V20067,P10117,OPD,2023-05-19,Surgical OPD,Other Hospital,Admitted
+V20068,P10438,ED,2023-04-11,Surgical OPD,Health Center,Admitted
+V20069,P10412,OPD,2023-04-01,Pediatrics,CHV,Discharged
+V20070,P10457,Inpatient,2023-09-22,MCH,Private Clinic,Admitted
+V20071,P10153,ED,2023-10-15,MCH,Self,Admitted
+V20072,P10050,Inpatient,2023-03-25,General OPD,Health Center,Admitted
+V20073,P10243,Inpatient,2023-02-19,Pediatrics,Private Clinic,Admitted
+V20074,P10184,ED,2023-10-14,MCH,Private Clinic,Admitted
+V20075,P10010,ED,2023-03-04,Medical OPD,Other Hospital,Discharged
+V20076,P10295,Inpatient,2023-11-29,MCH,Health Center,Admitted
+V20077,P10181,ED,2023-12-11,MCH,CHV,Referred
+V20078,P10228,OPD,2023-07-15,MCH,Private Clinic,Admitted
+V20079,P10323,OPD,2023-03-27,Medical OPD,CHV,Referred
+V20080,P10313,Inpatient,2023-07-27,General OPD,Self,Discharged
+V20081,P10175,OPD,2023-06-10,Medical OPD,Private Clinic,Referred
+V20082,P10136,Inpatient,2023-11-27,Pediatrics,Private Clinic,Admitted
+V20083,P10399,ED,2023-10-28,MCH,CHV,Admitted
+V20084,P10085,OPD,2023-01-12,Surgical OPD,Health Center,Referred
+V20085,P10128,Inpatient,2023-12-25,General OPD,Health Center,Discharged
+V20086,P10203,OPD,2023-02-18,General OPD,CHV,Referred
+V20087,P10027,OPD,2023-07-23,MCH,Self,Discharged
+V20088,P10134,Inpatient,2023-03-21,General OPD,CHV,Admitted
+V20089,P10117,OPD,2023-05-26,Pediatrics,Health Center,Discharged
+V20090,P10269,OPD,2023-01-15,General OPD,Private Clinic,Admitted
+V20091,P10442,ED,2023-08-28,MCH,Private Clinic,Referred
+V20092,P10227,OPD,2023-12-24,MCH,Health Center,Referred
+V20093,P10305,ED,2023-11-20,MCH,CHV,Referred
+V20094,P10327,Inpatient,2023-10-01,Medical OPD,Private Clinic,Admitted
+V20095,P10276,OPD,2023-02-15,Pediatrics,Private Clinic,Admitted
+V20096,P10211,ED,2023-03-21,Medical OPD,Self,Discharged
+V20097,P10267,OPD,2023-06-26,Medical OPD,CHV,Referred
+V20098,P10004,Inpatient,2023-09-09,Pediatrics,Private Clinic,Discharged
+V20099,P10392,ED,2023-05-30,MCH,Health Center,Discharged
+V20100,P10280,ED,2023-04-07,Pediatrics,Other Hospital,Admitted
+V20101,P10202,OPD,2023-03-25,Pediatrics,CHV,Discharged
+V20102,P10134,OPD,2023-08-05,Surgical OPD,Other Hospital,Referred
+V20103,P10413,Inpatient,2023-12-17,Medical OPD,Private Clinic,Referred
+V20104,P10380,Inpatient,2023-05-18,Pediatrics,Health Center,Discharged
+V20105,P10093,OPD,2023-05-29,General OPD,CHV,Referred
+V20106,P10231,ED,2023-12-25,MCH,CHV,Discharged
+V20107,P10164,OPD,2023-03-19,General OPD,Other Hospital,Discharged
+V20108,P10095,OPD,2023-05-25,Medical OPD,Health Center,Referred
+V20109,P10224,Inpatient,2023-01-05,Surgical OPD,Self,Discharged
+V20110,P10007,ED,2023-04-22,Medical OPD,CHV,Admitted
+V20111,P10402,ED,2023-07-10,Pediatrics,Self,Admitted
+V20112,P10041,OPD,2023-01-29,Medical OPD,CHV,Discharged
+V20113,P10278,ED,2023-04-03,Surgical OPD,Private Clinic,Admitted
+V20114,P10424,OPD,2023-03-04,Surgical OPD,CHV,Admitted
+V20115,P10126,Inpatient,2023-01-18,Surgical OPD,CHV,Referred
+V20116,P10394,OPD,2023-09-24,Surgical OPD,CHV,Admitted
+V20117,P10348,ED,2023-06-15,Surgical OPD,Self,Referred
+V20118,P10479,Inpatient,2023-09-24,General OPD,Private Clinic,Admitted
+V20119,P10326,ED,2023-04-12,Medical OPD,Self,Referred
+V20120,P10111,OPD,2023-05-01,Pediatrics,Private Clinic,Discharged
+V20121,P10085,ED,2023-10-27,General OPD,CHV,Discharged
+V20122,P10004,OPD,2023-10-25,Pediatrics,Other Hospital,Discharged
+V20123,P10190,OPD,2023-05-08,Surgical OPD,CHV,Discharged
+V20124,P10351,Inpatient,2023-06-23,General OPD,Self,Admitted
+V20125,P10330,OPD,2023-12-26,MCH,Self,Discharged
+V20126,P10249,OPD,2023-06-12,MCH,Private Clinic,Admitted
+V20127,P10375,OPD,2023-01-11,Pediatrics,Private Clinic,Referred
+V20128,P10068,ED,2023-01-21,Pediatrics,CHV,Referred
+V20129,P10150,Inpatient,2023-12-23,Pediatrics,Health Center,Referred
+V20130,P10095,Inpatient,2023-06-28,Medical OPD,CHV,Admitted
+V20131,P10444,Inpatient,2023-10-11,Surgical OPD,Self,Referred
+V20132,P10079,ED,2023-06-01,Medical OPD,Other Hospital,Admitted
+V20133,P10232,OPD,2023-11-23,MCH,CHV,Referred
+V20134,P10094,OPD,2023-11-14,Medical OPD,Other Hospital,Discharged
+V20135,P10164,Inpatient,2023-02-02,MCH,CHV,Discharged
+V20136,P10268,Inpatient,2023-09-12,MCH,Health Center,Referred
+V20137,P10144,ED,2023-07-29,Medical OPD,Self,Discharged
+V20138,P10267,Inpatient,2023-02-04,General OPD,Health Center,Discharged
+V20139,P10447,OPD,2023-04-14,General OPD,CHV,Discharged
+V20140,P10050,OPD,2023-10-20,Pediatrics,CHV,Referred
+V20141,P10319,Inpatient,2023-10-30,Medical OPD,Self,Admitted
+V20142,P10113,Inpatient,2023-02-06,General OPD,Health Center,Referred
+V20143,P10251,OPD,2023-08-28,General OPD,Private Clinic,Referred
+V20144,P10380,ED,2023-07-08,General OPD,Other Hospital,Admitted
+V20145,P10270,OPD,2023-02-06,Medical OPD,Self,Discharged
+V20146,P10491,Inpatient,2023-02-19,General OPD,Health Center,Referred
+V20147,P10197,OPD,2023-04-09,MCH,Health Center,Referred
+V20148,P10320,OPD,2023-10-13,MCH,CHV,Referred
+V20149,P10054,Inpatient,2023-10-23,Medical OPD,CHV,Referred
+V20150,P10340,ED,2023-02-23,Surgical OPD,Health Center,Referred
+V20151,P10205,Inpatient,2023-06-22,Surgical OPD,Other Hospital,Referred
+V20152,P10226,ED,2023-06-11,MCH,Private Clinic,Admitted
+V20153,P10211,Inpatient,2023-08-09,Medical OPD,Other Hospital,Discharged
+V20154,P10288,Inpatient,2023-04-20,Pediatrics,Other Hospital,Referred
+V20155,P10130,ED,2023-08-20,Pediatrics,CHV,Discharged
+V20156,P10371,OPD,2023-05-26,MCH,Self,Referred
+V20157,P10069,ED,2023-01-04,Medical OPD,Health Center,Discharged
+V20158,P10438,ED,2023-01-12,Medical OPD,Other Hospital,Referred
+V20159,P10284,Inpatient,2023-10-20,Surgical OPD,Self,Discharged
+V20160,P10235,ED,2023-03-21,Surgical OPD,Private Clinic,Admitted
+V20161,P10455,Inpatient,2023-05-08,Surgical OPD,Private Clinic,Admitted
+V20162,P10047,Inpatient,2023-07-24,MCH,Health Center,Referred
+V20163,P10039,Inpatient,2023-06-16,Pediatrics,Health Center,Admitted
+V20164,P10422,Inpatient,2023-12-26,MCH,Self,Referred
+V20165,P10328,ED,2023-01-20,MCH,CHV,Discharged
+V20166,P10399,OPD,2023-06-21,Medical OPD,CHV,Admitted
+V20167,P10476,OPD,2023-04-27,MCH,Self,Referred
+V20168,P10398,Inpatient,2023-07-15,General OPD,Private Clinic,Referred
+V20169,P10021,ED,2023-10-04,MCH,Health Center,Admitted
+V20170,P10257,Inpatient,2023-04-24,Surgical OPD,Self,Referred
+V20171,P10374,ED,2023-08-17,MCH,Other Hospital,Referred
+V20172,P10046,OPD,2023-08-10,Medical OPD,CHV,Discharged
+V20173,P10067,ED,2023-02-12,Pediatrics,Other Hospital,Referred
+V20174,P10025,Inpatient,2023-07-24,Medical OPD,Self,Admitted
+V20175,P10256,ED,2023-12-24,Surgical OPD,Health Center,Admitted
+V20176,P10286,OPD,2023-09-07,Pediatrics,Other Hospital,Discharged
+V20177,P10287,Inpatient,2023-09-26,Surgical OPD,Health Center,Discharged
+V20178,P10136,ED,2023-06-15,MCH,Self,Discharged
+V20179,P10343,ED,2023-08-05,Medical OPD,Private Clinic,Discharged
+V20180,P10164,ED,2023-11-01,General OPD,Private Clinic,Discharged
+V20181,P10179,Inpatient,2023-08-15,MCH,Health Center,Admitted
+V20182,P10022,OPD,2023-04-13,Medical OPD,Health Center,Referred
+V20183,P10436,OPD,2023-02-27,General OPD,Health Center,Referred
+V20184,P10474,OPD,2023-05-28,General OPD,Private Clinic,Referred
+V20185,P10411,OPD,2023-06-06,Pediatrics,CHV,Discharged
+V20186,P10169,OPD,2023-10-03,Surgical OPD,Health Center,Referred
+V20187,P10267,ED,2023-10-08,Pediatrics,Other Hospital,Referred
+V20188,P10072,Inpatient,2023-12-24,General OPD,CHV,Referred
+V20189,P10463,Inpatient,2023-09-27,General OPD,Private Clinic,Discharged
+V20190,P10030,ED,2023-04-13,MCH,Private Clinic,Discharged
+V20191,P10238,Inpatient,2023-01-05,General OPD,CHV,Referred
+V20192,P10138,Inpatient,2023-12-04,Medical OPD,Self,Discharged
+V20193,P10149,Inpatient,2023-07-17,Surgical OPD,CHV,Referred
+V20194,P10363,OPD,2023-06-11,Pediatrics,Other Hospital,Referred
+V20195,P10045,OPD,2023-04-12,MCH,CHV,Referred
+V20196,P10474,Inpatient,2023-01-12,General OPD,Health Center,Referred
+V20197,P10156,ED,2023-09-08,Pediatrics,Health Center,Discharged
+V20198,P10177,Inpatient,2023-06-30,Medical OPD,Private Clinic,Discharged
+V20199,P10256,ED,2023-02-01,Medical OPD,CHV,Discharged
+V20200,P10483,Inpatient,2023-05-24,Surgical OPD,Health Center,Admitted
+V20201,P10459,ED,2023-12-03,Surgical OPD,Self,Referred
+V20202,P10195,Inpatient,2023-12-14,MCH,Health Center,Admitted
+V20203,P10123,Inpatient,2023-03-20,Pediatrics,Private Clinic,Referred
+V20204,P10168,ED,2023-10-05,Surgical OPD,Health Center,Referred
+V20205,P10070,Inpatient,2023-10-05,Surgical OPD,Health Center,Admitted
+V20206,P10352,Inpatient,2023-09-26,Surgical OPD,CHV,Discharged
+V20207,P10335,Inpatient,2023-03-22,Medical OPD,Self,Referred
+V20208,P10272,Inpatient,2023-03-02,Surgical OPD,Private Clinic,Discharged
+V20209,P10372,OPD,2023-06-13,Pediatrics,CHV,Admitted
+V20210,P10226,Inpatient,2023-11-23,Medical OPD,Health Center,Discharged
+V20211,P10054,OPD,2023-04-05,General OPD,Other Hospital,Referred
+V20212,P10136,Inpatient,2023-10-18,MCH,Health Center,Referred
+V20213,P10118,OPD,2023-12-18,General OPD,Private Clinic,Discharged
+V20214,P10352,ED,2023-03-10,MCH,Other Hospital,Admitted
+V20215,P10364,Inpatient,2023-07-11,Surgical OPD,CHV,Admitted
+V20216,P10242,OPD,2023-03-25,Surgical OPD,Health Center,Discharged
+V20217,P10209,OPD,2023-05-19,Pediatrics,Health Center,Referred
+V20218,P10343,OPD,2023-04-15,General OPD,Health Center,Admitted
+V20219,P10443,Inpatient,2023-09-08,Medical OPD,CHV,Discharged
+V20220,P10218,ED,2023-01-22,MCH,CHV,Referred
+V20221,P10160,ED,2023-11-10,MCH,Other Hospital,Referred
+V20222,P10268,Inpatient,2023-12-27,General OPD,Other Hospital,Discharged
+V20223,P10231,ED,2023-01-22,Surgical OPD,Other Hospital,Referred
+V20224,P10202,Inpatient,2023-01-21,MCH,CHV,Referred
+V20225,P10391,Inpatient,2023-01-26,Surgical OPD,Private Clinic,Admitted
+V20226,P10203,ED,2023-05-27,Pediatrics,Health Center,Admitted
+V20227,P10150,Inpatient,2023-01-28,MCH,Health Center,Admitted
+V20228,P10424,Inpatient,2023-08-20,General OPD,Other Hospital,Discharged
+V20229,P10092,Inpatient,2023-12-23,MCH,Health Center,Admitted
+V20230,P10211,ED,2023-08-19,General OPD,Health Center,Admitted
+V20231,P10302,Inpatient,2023-04-14,Pediatrics,Self,Admitted
+V20232,P10165,Inpatient,2023-11-29,Surgical OPD,Self,Discharged
+V20233,P10058,Inpatient,2023-08-19,Medical OPD,Self,Referred
+V20234,P10362,ED,2023-09-19,MCH,Health Center,Admitted
+V20235,P10281,ED,2023-01-23,Surgical OPD,Private Clinic,Referred
+V20236,P10446,Inpatient,2023-03-18,Surgical OPD,Health Center,Discharged
+V20237,P10393,Inpatient,2023-01-27,Pediatrics,Private Clinic,Admitted
+V20238,P10373,ED,2023-05-28,Surgical OPD,Self,Discharged
+V20239,P10491,OPD,2023-01-02,MCH,Private Clinic,Discharged
+V20240,P10234,ED,2023-09-13,MCH,Self,Referred
+V20241,P10451,ED,2023-05-02,Surgical OPD,Other Hospital,Referred
+V20242,P10243,ED,2023-07-29,Pediatrics,Self,Referred
+V20243,P10307,OPD,2023-05-06,MCH,Private Clinic,Referred
+V20244,P10321,Inpatient,2023-04-17,General OPD,Health Center,Discharged
+V20245,P10028,Inpatient,2023-06-28,General OPD,Health Center,Discharged
+V20246,P10341,Inpatient,2023-11-05,Medical OPD,Private Clinic,Discharged
+V20247,P10025,OPD,2023-08-02,Surgical OPD,Health Center,Referred
+V20248,P10145,Inpatient,2023-12-05,MCH,Other Hospital,Referred
+V20249,P10090,ED,2023-10-24,Medical OPD,Self,Discharged
+V20250,P10393,ED,2023-06-15,Medical OPD,CHV,Discharged
+V20251,P10388,ED,2023-10-09,General OPD,Private Clinic,Admitted
+V20252,P10068,OPD,2023-12-22,Medical OPD,Private Clinic,Referred
+V20253,P10211,Inpatient,2023-04-18,Surgical OPD,Other Hospital,Discharged
+V20254,P10055,Inpatient,2023-11-19,MCH,Self,Admitted
+V20255,P10370,Inpatient,2023-11-06,Medical OPD,CHV,Referred
+V20256,P10434,ED,2023-05-13,MCH,Other Hospital,Referred
+V20257,P10181,OPD,2023-11-11,MCH,CHV,Referred
+V20258,P10373,Inpatient,2023-09-12,Pediatrics,Health Center,Referred
+V20259,P10119,Inpatient,2023-05-29,Surgical OPD,Self,Discharged
+V20260,P10012,ED,2023-11-17,General OPD,Health Center,Referred
+V20261,P10212,ED,2023-01-24,Medical OPD,Private Clinic,Referred
+V20262,P10412,Inpatient,2023-04-19,General OPD,Health Center,Referred
+V20263,P10144,ED,2023-02-04,Medical OPD,Private Clinic,Referred
+V20264,P10281,ED,2023-01-04,General OPD,Private Clinic,Admitted
+V20265,P10202,Inpatient,2023-10-19,MCH,Self,Discharged
+V20266,P10099,ED,2023-06-23,Pediatrics,CHV,Discharged
+V20267,P10330,OPD,2023-09-04,Surgical OPD,CHV,Referred
+V20268,P10458,ED,2023-08-25,Pediatrics,Self,Referred
+V20269,P10153,Inpatient,2023-12-14,Medical OPD,Other Hospital,Referred
+V20270,P10009,OPD,2023-10-23,Medical OPD,Private Clinic,Discharged
+V20271,P10496,OPD,2023-05-24,General OPD,Private Clinic,Admitted
+V20272,P10320,Inpatient,2023-03-26,MCH,Other Hospital,Admitted
+V20273,P10095,Inpatient,2023-03-01,Medical OPD,Private Clinic,Referred
+V20274,P10016,ED,2023-07-31,General OPD,CHV,Discharged
+V20275,P10190,ED,2023-06-04,Surgical OPD,Other Hospital,Admitted
+V20276,P10089,OPD,2023-07-11,General OPD,Health Center,Discharged
+V20277,P10227,Inpatient,2023-01-13,Pediatrics,Other Hospital,Discharged
+V20278,P10097,ED,2023-09-05,MCH,Private Clinic,Admitted
+V20279,P10073,OPD,2023-09-22,Surgical OPD,Health Center,Referred
+V20280,P10018,ED,2023-07-18,MCH,Self,Discharged
+V20281,P10159,OPD,2023-12-18,MCH,Self,Admitted
+V20282,P10239,OPD,2023-02-22,MCH,Private Clinic,Discharged
+V20283,P10295,ED,2023-11-24,Surgical OPD,Private Clinic,Discharged
+V20284,P10098,ED,2023-05-22,MCH,Private Clinic,Admitted
+V20285,P10343,OPD,2023-05-20,Surgical OPD,Health Center,Admitted
+V20286,P10058,OPD,2023-11-15,MCH,Other Hospital,Discharged
+V20287,P10105,Inpatient,2023-06-29,MCH,Private Clinic,Admitted
+V20288,P10072,Inpatient,2023-05-26,MCH,Health Center,Discharged
+V20289,P10036,ED,2023-11-10,Medical OPD,Other Hospital,Admitted
+V20290,P10025,OPD,2023-01-15,Pediatrics,Self,Discharged
+V20291,P10196,OPD,2023-02-14,Pediatrics,CHV,Discharged
+V20292,P10360,Inpatient,2023-10-31,Pediatrics,Other Hospital,Admitted
+V20293,P10159,ED,2023-04-12,MCH,Self,Admitted
+V20294,P10290,OPD,2023-02-17,Pediatrics,Self,Admitted
+V20295,P10158,Inpatient,2023-11-26,Pediatrics,CHV,Discharged
+V20296,P10485,OPD,2023-03-15,MCH,Private Clinic,Admitted
+V20297,P10200,OPD,2023-12-25,Medical OPD,Private Clinic,Admitted
+V20298,P10249,OPD,2023-02-03,Pediatrics,Self,Admitted
+V20299,P10245,ED,2023-03-29,Medical OPD,Private Clinic,Referred
+V20300,P10294,OPD,2023-09-18,General OPD,CHV,Referred
+V20301,P10407,OPD,2023-06-16,MCH,Self,Admitted
+V20302,P10272,ED,2023-07-25,MCH,CHV,Discharged
+V20303,P10317,OPD,2023-10-08,Surgical OPD,CHV,Admitted
+V20304,P10033,ED,2023-04-17,MCH,CHV,Admitted
+V20305,P10290,ED,2023-10-06,Surgical OPD,Health Center,Referred
+V20306,P10342,OPD,2023-12-31,MCH,CHV,Discharged
+V20307,P10303,Inpatient,2023-08-26,Medical OPD,Other Hospital,Discharged
+V20308,P10420,ED,2023-04-01,Medical OPD,CHV,Discharged
+V20309,P10306,OPD,2023-12-17,MCH,CHV,Admitted
+V20310,P10253,Inpatient,2023-12-05,General OPD,Self,Discharged
+V20311,P10418,OPD,2023-10-25,General OPD,Health Center,Referred
+V20312,P10076,ED,2023-09-30,Medical OPD,CHV,Referred
+V20313,P10295,ED,2023-04-11,Surgical OPD,Private Clinic,Admitted
+V20314,P10291,Inpatient,2023-06-05,Pediatrics,Private Clinic,Discharged
+V20315,P10298,OPD,2023-11-10,MCH,CHV,Discharged
+V20316,P10436,ED,2023-02-01,Medical OPD,Other Hospital,Discharged
+V20317,P10000,Inpatient,2023-10-14,Medical OPD,Self,Admitted
+V20318,P10443,OPD,2023-05-01,Pediatrics,Other Hospital,Admitted
+V20319,P10320,ED,2023-12-31,Pediatrics,CHV,Admitted
+V20320,P10222,Inpatient,2023-04-19,Surgical OPD,CHV,Discharged
+V20321,P10096,Inpatient,2023-07-16,Medical OPD,CHV,Discharged
+V20322,P10147,Inpatient,2023-03-06,Surgical OPD,Self,Discharged
+V20323,P10331,OPD,2023-03-15,Pediatrics,CHV,Discharged
+V20324,P10043,OPD,2023-11-25,Pediatrics,CHV,Referred
+V20325,P10309,ED,2023-11-16,Surgical OPD,CHV,Referred
+V20326,P10217,Inpatient,2023-08-19,Pediatrics,Private Clinic,Discharged
+V20327,P10095,ED,2023-11-06,General OPD,Other Hospital,Admitted
+V20328,P10433,Inpatient,2023-05-02,MCH,Private Clinic,Admitted
+V20329,P10474,Inpatient,2023-10-23,Medical OPD,Self,Discharged
+V20330,P10290,ED,2023-12-27,Medical OPD,Self,Referred
+V20331,P10246,Inpatient,2023-02-10,Surgical OPD,Other Hospital,Admitted
+V20332,P10238,Inpatient,2023-02-10,MCH,Other Hospital,Discharged
+V20333,P10125,ED,2023-11-19,General OPD,Other Hospital,Referred
+V20334,P10159,Inpatient,2023-01-28,Medical OPD,Other Hospital,Discharged
+V20335,P10240,ED,2023-09-20,Pediatrics,Other Hospital,Referred
+V20336,P10169,ED,2023-06-30,Medical OPD,Private Clinic,Discharged
+V20337,P10018,Inpatient,2023-11-02,Medical OPD,Other Hospital,Admitted
+V20338,P10031,Inpatient,2023-08-31,MCH,Health Center,Referred
+V20339,P10026,Inpatient,2023-05-30,MCH,Self,Admitted
+V20340,P10248,OPD,2023-03-06,MCH,Self,Admitted
+V20341,P10129,OPD,2023-11-12,Medical OPD,Private Clinic,Admitted
+V20342,P10007,Inpatient,2023-02-27,MCH,Health Center,Referred
+V20343,P10378,OPD,2023-12-04,Pediatrics,Private Clinic,Discharged
+V20344,P10133,Inpatient,2023-05-01,Pediatrics,Health Center,Referred
+V20345,P10441,OPD,2023-06-25,General OPD,Health Center,Referred
+V20346,P10478,OPD,2023-09-11,Pediatrics,CHV,Discharged
+V20347,P10338,ED,2023-11-23,Surgical OPD,Health Center,Referred
+V20348,P10375,ED,2023-01-28,Medical OPD,Self,Discharged
+V20349,P10085,ED,2023-07-24,Pediatrics,Private Clinic,Admitted
+V20350,P10382,Inpatient,2023-04-30,Pediatrics,CHV,Admitted
+V20351,P10134,OPD,2023-09-29,Pediatrics,Self,Admitted
+V20352,P10474,ED,2023-07-15,Medical OPD,Other Hospital,Referred
+V20353,P10489,OPD,2023-02-19,MCH,Private Clinic,Admitted
+V20354,P10312,Inpatient,2023-05-20,Medical OPD,Private Clinic,Admitted
+V20355,P10410,OPD,2023-05-11,MCH,CHV,Admitted
+V20356,P10395,Inpatient,2023-05-04,MCH,Health Center,Referred
+V20357,P10172,Inpatient,2023-12-20,Surgical OPD,Private Clinic,Referred
+V20358,P10005,Inpatient,2023-01-05,General OPD,Self,Admitted
+V20359,P10050,Inpatient,2023-02-23,Pediatrics,Private Clinic,Discharged
+V20360,P10371,ED,2023-05-09,Surgical OPD,Self,Discharged
+V20361,P10317,OPD,2023-01-30,MCH,Health Center,Referred
+V20362,P10326,OPD,2023-12-29,General OPD,Self,Referred
+V20363,P10066,ED,2023-12-03,MCH,Health Center,Discharged
+V20364,P10356,OPD,2023-05-10,Medical OPD,CHV,Referred
+V20365,P10479,OPD,2023-11-24,Pediatrics,Private Clinic,Admitted
+V20366,P10354,Inpatient,2023-06-15,Medical OPD,Health Center,Discharged
+V20367,P10141,OPD,2023-07-15,Pediatrics,Private Clinic,Discharged
+V20368,P10132,ED,2023-04-02,Pediatrics,Self,Admitted
+V20369,P10475,OPD,2023-11-09,Pediatrics,Health Center,Referred
+V20370,P10251,OPD,2023-03-15,MCH,CHV,Discharged
+V20371,P10314,Inpatient,2023-02-24,Pediatrics,Private Clinic,Discharged
+V20372,P10017,OPD,2023-02-06,MCH,Private Clinic,Admitted
+V20373,P10009,ED,2023-03-18,General OPD,Self,Referred
+V20374,P10199,ED,2023-03-19,Medical OPD,CHV,Referred
+V20375,P10001,Inpatient,2023-12-29,Pediatrics,CHV,Admitted
+V20376,P10206,Inpatient,2023-02-05,MCH,Health Center,Discharged
+V20377,P10196,Inpatient,2023-09-04,General OPD,Other Hospital,Referred
+V20378,P10478,ED,2023-06-20,Medical OPD,CHV,Discharged
+V20379,P10323,Inpatient,2023-02-16,Medical OPD,Other Hospital,Admitted
+V20380,P10041,ED,2023-05-29,Surgical OPD,Health Center,Referred
+V20381,P10020,ED,2023-12-05,Surgical OPD,Private Clinic,Referred
+V20382,P10199,OPD,2023-11-19,Medical OPD,CHV,Discharged
+V20383,P10453,Inpatient,2023-08-13,Surgical OPD,Health Center,Discharged
+V20384,P10098,OPD,2023-10-31,Surgical OPD,CHV,Admitted
+V20385,P10032,Inpatient,2023-11-26,Medical OPD,CHV,Referred
+V20386,P10494,ED,2023-01-09,General OPD,Private Clinic,Discharged
+V20387,P10172,Inpatient,2023-01-22,Pediatrics,Self,Discharged
+V20388,P10413,Inpatient,2023-12-08,MCH,CHV,Referred
+V20389,P10445,Inpatient,2023-03-18,MCH,Health Center,Discharged
+V20390,P10018,Inpatient,2023-03-14,Pediatrics,Self,Admitted
+V20391,P10464,Inpatient,2023-01-24,Surgical OPD,Health Center,Discharged
+V20392,P10088,Inpatient,2023-01-26,Medical OPD,Self,Admitted
+V20393,P10312,OPD,2023-10-30,General OPD,Self,Discharged
+V20394,P10254,Inpatient,2023-11-12,Surgical OPD,Self,Discharged
+V20395,P10218,ED,2023-12-14,Pediatrics,Private Clinic,Discharged
+V20396,P10499,Inpatient,2023-10-22,MCH,Health Center,Admitted
+V20397,P10428,OPD,2023-01-24,MCH,Health Center,Admitted
+V20398,P10032,OPD,2023-05-21,Surgical OPD,CHV,Discharged
+V20399,P10356,ED,2023-10-11,Surgical OPD,CHV,Discharged
+V20400,P10473,Inpatient,2023-01-21,Surgical OPD,Self,Referred
+V20401,P10313,ED,2023-03-22,General OPD,CHV,Discharged
+V20402,P10003,OPD,2023-04-02,General OPD,Other Hospital,Admitted
+V20403,P10213,Inpatient,2023-09-01,Surgical OPD,Health Center,Discharged
+V20404,P10327,ED,2023-09-25,Pediatrics,CHV,Discharged
+V20405,P10480,OPD,2023-11-09,General OPD,Other Hospital,Discharged
+V20406,P10367,ED,2023-11-10,General OPD,Private Clinic,Admitted
+V20407,P10214,OPD,2023-10-13,Surgical OPD,Health Center,Discharged
+V20408,P10271,OPD,2023-11-13,Medical OPD,Other Hospital,Referred
+V20409,P10112,ED,2023-11-17,Surgical OPD,Private Clinic,Discharged
+V20410,P10099,OPD,2023-03-18,Pediatrics,CHV,Discharged
+V20411,P10081,Inpatient,2023-01-23,General OPD,Private Clinic,Admitted
+V20412,P10107,ED,2023-05-09,Medical OPD,Other Hospital,Admitted
+V20413,P10022,OPD,2023-01-27,MCH,Health Center,Discharged
+V20414,P10402,OPD,2023-09-06,MCH,Self,Discharged
+V20415,P10458,OPD,2023-08-16,MCH,Other Hospital,Admitted
+V20416,P10214,OPD,2023-12-13,Medical OPD,Health Center,Discharged
+V20417,P10166,OPD,2023-02-20,Surgical OPD,CHV,Discharged
+V20418,P10192,OPD,2023-02-07,Pediatrics,Other Hospital,Admitted
+V20419,P10027,ED,2023-03-16,Surgical OPD,Other Hospital,Admitted
+V20420,P10091,ED,2023-07-11,Surgical OPD,CHV,Referred
+V20421,P10099,Inpatient,2023-07-03,Medical OPD,Health Center,Admitted
+V20422,P10065,OPD,2023-12-21,MCH,Self,Admitted
+V20423,P10069,OPD,2023-08-27,Pediatrics,CHV,Discharged
+V20424,P10389,ED,2023-04-23,Medical OPD,Other Hospital,Discharged
+V20425,P10404,Inpatient,2023-11-10,Surgical OPD,Other Hospital,Referred
+V20426,P10437,OPD,2023-02-14,Pediatrics,Other Hospital,Admitted
+V20427,P10441,OPD,2023-10-30,Pediatrics,CHV,Admitted
+V20428,P10007,Inpatient,2023-08-08,Surgical OPD,Health Center,Admitted
+V20429,P10222,Inpatient,2023-04-24,MCH,Health Center,Referred
+V20430,P10459,OPD,2023-08-02,General OPD,Self,Admitted
+V20431,P10375,Inpatient,2023-01-18,Pediatrics,Other Hospital,Admitted
+V20432,P10245,Inpatient,2023-02-20,Pediatrics,CHV,Discharged
+V20433,P10042,Inpatient,2023-01-07,Pediatrics,Health Center,Discharged
+V20434,P10183,ED,2023-05-03,General OPD,Self,Admitted
+V20435,P10342,ED,2023-03-24,Pediatrics,Other Hospital,Referred
+V20436,P10298,OPD,2023-08-21,Pediatrics,Health Center,Referred
+V20437,P10207,OPD,2023-07-09,Pediatrics,Self,Referred
+V20438,P10036,ED,2023-12-20,Medical OPD,Other Hospital,Discharged
+V20439,P10151,ED,2023-05-19,MCH,Other Hospital,Referred
+V20440,P10406,OPD,2023-12-17,General OPD,Other Hospital,Admitted
+V20441,P10376,OPD,2023-09-21,Medical OPD,Self,Discharged
+V20442,P10196,ED,2023-08-27,MCH,Self,Admitted
+V20443,P10187,OPD,2023-11-28,MCH,Self,Referred
+V20444,P10363,OPD,2023-03-12,Medical OPD,Health Center,Referred
+V20445,P10058,Inpatient,2023-09-02,MCH,Health Center,Referred
+V20446,P10389,OPD,2023-06-14,Medical OPD,Private Clinic,Referred
+V20447,P10348,ED,2023-05-22,General OPD,Self,Admitted
+V20448,P10176,ED,2023-09-06,MCH,Other Hospital,Discharged
+V20449,P10240,Inpatient,2023-09-30,MCH,Private Clinic,Admitted
+V20450,P10317,ED,2023-12-11,General OPD,Health Center,Admitted
+V20451,P10044,OPD,2023-07-20,Surgical OPD,Private Clinic,Discharged
+V20452,P10055,OPD,2023-05-22,General OPD,Health Center,Admitted
+V20453,P10077,OPD,2023-09-24,General OPD,Private Clinic,Admitted
+V20454,P10496,Inpatient,2023-10-05,Surgical OPD,CHV,Admitted
+V20455,P10215,ED,2023-11-27,General OPD,Private Clinic,Discharged
+V20456,P10032,OPD,2023-04-29,MCH,Private Clinic,Admitted
+V20457,P10296,ED,2023-12-02,Medical OPD,CHV,Referred
+V20458,P10340,Inpatient,2023-09-29,MCH,CHV,Admitted
+V20459,P10155,Inpatient,2023-03-09,Medical OPD,Health Center,Admitted
+V20460,P10116,ED,2023-07-10,Medical OPD,Self,Discharged
+V20461,P10180,ED,2023-08-22,Surgical OPD,Other Hospital,Discharged
+V20462,P10364,Inpatient,2023-05-27,Surgical OPD,Health Center,Referred
+V20463,P10354,Inpatient,2023-03-20,Surgical OPD,Health Center,Discharged
+V20464,P10021,ED,2023-10-22,Surgical OPD,CHV,Admitted
+V20465,P10189,OPD,2023-04-16,MCH,Self,Referred
+V20466,P10162,ED,2023-03-17,Medical OPD,CHV,Referred
+V20467,P10499,OPD,2023-10-01,Medical OPD,Self,Discharged
+V20468,P10207,ED,2023-03-16,Pediatrics,Private Clinic,Discharged
+V20469,P10002,Inpatient,2023-10-07,MCH,Private Clinic,Referred
+V20470,P10361,ED,2023-08-31,Medical OPD,Other Hospital,Referred
+V20471,P10075,Inpatient,2023-08-15,Medical OPD,Self,Referred
+V20472,P10245,OPD,2023-03-13,MCH,Self,Admitted
+V20473,P10012,ED,2023-11-13,Surgical OPD,CHV,Admitted
+V20474,P10047,ED,2023-01-29,MCH,Health Center,Referred
+V20475,P10269,OPD,2023-05-23,Surgical OPD,Self,Discharged
+V20476,P10275,ED,2023-12-13,General OPD,Other Hospital,Admitted
+V20477,P10099,ED,2023-06-12,MCH,Other Hospital,Referred
+V20478,P10483,OPD,2023-12-08,Medical OPD,CHV,Discharged
+V20479,P10366,ED,2023-07-09,Pediatrics,Private Clinic,Discharged
+V20480,P10145,ED,2023-06-29,Medical OPD,CHV,Referred
+V20481,P10044,OPD,2023-08-16,Pediatrics,CHV,Admitted
+V20482,P10083,Inpatient,2023-08-06,Pediatrics,Health Center,Referred
+V20483,P10306,OPD,2023-03-15,Surgical OPD,Private Clinic,Admitted
+V20484,P10444,Inpatient,2023-06-21,General OPD,Other Hospital,Admitted
+V20485,P10045,OPD,2023-07-29,Medical OPD,CHV,Discharged
+V20486,P10284,ED,2023-12-30,MCH,Health Center,Discharged
+V20487,P10095,ED,2023-05-29,MCH,CHV,Discharged
+V20488,P10421,ED,2023-10-27,Medical OPD,CHV,Referred
+V20489,P10378,ED,2023-04-25,General OPD,Self,Discharged
+V20490,P10134,ED,2023-11-24,Pediatrics,Self,Referred
+V20491,P10340,ED,2023-08-02,Surgical OPD,CHV,Referred
+V20492,P10330,OPD,2023-01-15,General OPD,Private Clinic,Admitted
+V20493,P10496,OPD,2023-11-03,Medical OPD,Other Hospital,Admitted
+V20494,P10289,ED,2023-05-13,Pediatrics,Self,Admitted
+V20495,P10262,Inpatient,2023-10-22,General OPD,Private Clinic,Discharged
+V20496,P10297,OPD,2023-03-16,Medical OPD,CHV,Referred
+V20497,P10069,ED,2023-03-25,General OPD,Private Clinic,Admitted
+V20498,P10214,Inpatient,2023-07-02,General OPD,Private Clinic,Admitted
+V20499,P10271,Inpatient,2023-02-09,MCH,Health Center,Referred
+V20500,P10093,OPD,2023-11-03,Surgical OPD,Other Hospital,Admitted
+V20501,P10446,ED,2023-12-17,Medical OPD,Private Clinic,Referred
+V20502,P10357,Inpatient,2023-07-05,General OPD,Other Hospital,Referred
+V20503,P10180,OPD,2023-01-07,Surgical OPD,Other Hospital,Admitted
+V20504,P10190,ED,2023-07-30,Medical OPD,Health Center,Discharged
+V20505,P10111,OPD,2023-09-15,Surgical OPD,Health Center,Referred
+V20506,P10314,Inpatient,2023-09-27,MCH,Other Hospital,Referred
+V20507,P10387,OPD,2023-08-02,Pediatrics,Self,Discharged
+V20508,P10419,OPD,2023-01-09,Pediatrics,Private Clinic,Admitted
+V20509,P10353,ED,2023-03-13,Pediatrics,Other Hospital,Referred
+V20510,P10390,ED,2023-03-30,Medical OPD,Self,Referred
+V20511,P10417,OPD,2023-04-24,Surgical OPD,Health Center,Referred
+V20512,P10116,ED,2023-03-06,Surgical OPD,Health Center,Discharged
+V20513,P10217,Inpatient,2023-02-27,General OPD,Self,Admitted
+V20514,P10387,ED,2023-01-22,Surgical OPD,Self,Discharged
+V20515,P10406,Inpatient,2023-09-20,MCH,Self,Admitted
+V20516,P10060,ED,2023-01-23,General OPD,Private Clinic,Referred
+V20517,P10005,OPD,2023-03-05,MCH,Health Center,Referred
+V20518,P10461,OPD,2023-04-05,Medical OPD,Self,Discharged
+V20519,P10074,Inpatient,2023-05-23,MCH,Private Clinic,Admitted
+V20520,P10082,Inpatient,2023-11-10,Surgical OPD,Other Hospital,Referred
+V20521,P10034,OPD,2023-10-24,General OPD,Other Hospital,Discharged
+V20522,P10366,OPD,2023-05-25,Surgical OPD,Other Hospital,Discharged
+V20523,P10498,Inpatient,2023-02-20,Surgical OPD,Other Hospital,Referred
+V20524,P10243,ED,2023-12-24,MCH,Health Center,Admitted
+V20525,P10344,OPD,2023-04-03,Medical OPD,CHV,Admitted
+V20526,P10109,Inpatient,2023-04-27,Pediatrics,Self,Admitted
+V20527,P10063,ED,2023-02-26,MCH,Health Center,Admitted
+V20528,P10390,ED,2023-12-27,Medical OPD,Other Hospital,Referred
+V20529,P10020,OPD,2023-06-17,Pediatrics,Self,Admitted
+V20530,P10145,ED,2023-11-04,Medical OPD,CHV,Discharged
+V20531,P10283,ED,2023-05-29,Pediatrics,Health Center,Discharged
+V20532,P10458,ED,2023-12-14,Medical OPD,Health Center,Discharged
+V20533,P10345,ED,2023-12-11,General OPD,CHV,Admitted
+V20534,P10267,Inpatient,2023-12-13,General OPD,Self,Discharged
+V20535,P10202,ED,2023-12-22,MCH,Self,Referred
+V20536,P10473,OPD,2023-02-03,Medical OPD,Health Center,Admitted
+V20537,P10102,Inpatient,2023-07-26,General OPD,Health Center,Admitted
+V20538,P10371,ED,2023-05-23,MCH,Other Hospital,Admitted
+V20539,P10387,Inpatient,2023-07-24,Medical OPD,CHV,Referred
+V20540,P10308,ED,2023-09-06,MCH,Private Clinic,Discharged
+V20541,P10393,ED,2023-02-25,General OPD,Private Clinic,Admitted
+V20542,P10254,OPD,2023-11-18,Surgical OPD,Self,Discharged
+V20543,P10377,OPD,2023-02-04,Pediatrics,Self,Discharged
+V20544,P10195,Inpatient,2023-12-14,Medical OPD,Health Center,Admitted
+V20545,P10318,Inpatient,2023-02-19,General OPD,Other Hospital,Admitted
+V20546,P10405,ED,2023-04-14,Medical OPD,CHV,Admitted
+V20547,P10258,ED,2023-10-05,Medical OPD,Other Hospital,Referred
+V20548,P10009,OPD,2023-08-09,General OPD,CHV,Admitted
+V20549,P10161,ED,2023-08-15,Pediatrics,Self,Discharged
+V20550,P10090,Inpatient,2023-12-04,Medical OPD,Health Center,Admitted
+V20551,P10220,OPD,2023-06-09,Pediatrics,CHV,Discharged
+V20552,P10291,Inpatient,2023-09-09,MCH,Other Hospital,Referred
+V20553,P10240,ED,2023-10-15,Surgical OPD,Other Hospital,Discharged
+V20554,P10200,ED,2023-09-11,MCH,CHV,Referred
+V20555,P10346,ED,2023-05-26,Medical OPD,Self,Discharged
+V20556,P10302,OPD,2023-03-07,Medical OPD,Private Clinic,Referred
+V20557,P10298,OPD,2023-11-17,Medical OPD,CHV,Discharged
+V20558,P10219,ED,2023-07-02,Pediatrics,Private Clinic,Discharged
+V20559,P10338,OPD,2023-05-07,Surgical OPD,Private Clinic,Referred
+V20560,P10043,Inpatient,2023-02-03,Medical OPD,Self,Admitted
+V20561,P10086,OPD,2023-10-03,Medical OPD,Self,Admitted
+V20562,P10336,ED,2023-10-18,MCH,CHV,Admitted
+V20563,P10010,Inpatient,2023-08-29,MCH,Self,Admitted
+V20564,P10193,Inpatient,2023-07-19,Medical OPD,Other Hospital,Discharged
+V20565,P10413,ED,2023-02-21,Surgical OPD,Private Clinic,Admitted
+V20566,P10257,Inpatient,2023-06-23,Surgical OPD,Other Hospital,Admitted
+V20567,P10186,ED,2023-04-14,Pediatrics,Self,Referred
+V20568,P10109,ED,2023-05-16,General OPD,Private Clinic,Referred
+V20569,P10205,OPD,2023-11-16,General OPD,Other Hospital,Discharged
+V20570,P10303,ED,2023-05-20,General OPD,Other Hospital,Referred
+V20571,P10243,ED,2023-04-18,Medical OPD,Self,Referred
+V20572,P10421,ED,2023-09-16,Medical OPD,CHV,Referred
+V20573,P10276,ED,2023-04-13,Pediatrics,CHV,Admitted
+V20574,P10319,Inpatient,2023-08-21,MCH,Health Center,Discharged
+V20575,P10321,Inpatient,2023-09-22,Surgical OPD,Other Hospital,Admitted
+V20576,P10109,Inpatient,2023-08-28,Medical OPD,Other Hospital,Referred
+V20577,P10436,ED,2023-10-17,General OPD,Other Hospital,Discharged
+V20578,P10186,ED,2023-03-17,Surgical OPD,Health Center,Referred
+V20579,P10350,ED,2023-08-11,Pediatrics,Private Clinic,Discharged
+V20580,P10324,OPD,2023-07-31,Medical OPD,Private Clinic,Referred
+V20581,P10082,ED,2023-12-18,MCH,Health Center,Admitted
+V20582,P10122,OPD,2023-03-18,Surgical OPD,Self,Discharged
+V20583,P10408,ED,2023-08-26,Pediatrics,Other Hospital,Admitted
+V20584,P10216,Inpatient,2023-01-19,Surgical OPD,Health Center,Admitted
+V20585,P10069,OPD,2023-05-13,Medical OPD,Other Hospital,Discharged
+V20586,P10329,OPD,2023-09-06,General OPD,Self,Discharged
+V20587,P10160,Inpatient,2023-06-02,General OPD,CHV,Admitted
+V20588,P10343,Inpatient,2023-02-16,Pediatrics,Health Center,Discharged
+V20589,P10057,Inpatient,2023-09-14,General OPD,Other Hospital,Referred
+V20590,P10424,Inpatient,2023-09-26,Medical OPD,CHV,Discharged
+V20591,P10121,Inpatient,2023-03-04,Medical OPD,Private Clinic,Referred
+V20592,P10377,ED,2023-05-01,Pediatrics,Health Center,Discharged
+V20593,P10054,OPD,2023-04-20,Medical OPD,CHV,Admitted
+V20594,P10130,Inpatient,2023-01-29,Pediatrics,Other Hospital,Admitted
+V20595,P10358,OPD,2023-06-12,MCH,CHV,Admitted
+V20596,P10349,OPD,2023-05-23,Surgical OPD,Private Clinic,Admitted
+V20597,P10366,ED,2023-06-07,General OPD,Other Hospital,Discharged
+V20598,P10430,Inpatient,2023-12-06,General OPD,Health Center,Admitted
+V20599,P10282,ED,2023-06-08,Medical OPD,Self,Referred
+V20600,P10443,OPD,2023-08-15,Pediatrics,Self,Admitted
+V20601,P10474,ED,2023-06-04,General OPD,Health Center,Admitted
+V20602,P10107,OPD,2023-08-13,Medical OPD,CHV,Discharged
+V20603,P10140,OPD,2023-09-09,Pediatrics,CHV,Admitted
+V20604,P10367,ED,2023-02-21,Surgical OPD,Private Clinic,Referred
+V20605,P10033,ED,2023-08-04,MCH,Other Hospital,Referred
+V20606,P10167,ED,2023-12-22,General OPD,Self,Referred
+V20607,P10328,OPD,2023-11-19,Pediatrics,Health Center,Discharged
+V20608,P10205,OPD,2023-11-18,Medical OPD,Private Clinic,Referred
+V20609,P10042,OPD,2023-03-22,Surgical OPD,Other Hospital,Referred
+V20610,P10496,Inpatient,2023-03-08,MCH,CHV,Admitted
+V20611,P10231,ED,2023-03-10,Medical OPD,Health Center,Referred
+V20612,P10303,ED,2023-05-25,Surgical OPD,Self,Admitted
+V20613,P10188,OPD,2023-07-21,Pediatrics,Other Hospital,Discharged
+V20614,P10010,OPD,2023-10-13,MCH,Health Center,Discharged
+V20615,P10498,ED,2023-04-12,Medical OPD,Health Center,Discharged
+V20616,P10205,Inpatient,2023-08-08,MCH,Private Clinic,Discharged
+V20617,P10045,ED,2023-03-29,MCH,Self,Discharged
+V20618,P10367,Inpatient,2023-08-11,Pediatrics,CHV,Discharged
+V20619,P10114,Inpatient,2023-04-15,Surgical OPD,Private Clinic,Admitted
+V20620,P10382,ED,2023-07-15,Surgical OPD,CHV,Discharged
+V20621,P10307,OPD,2023-05-25,Surgical OPD,CHV,Discharged
+V20622,P10209,OPD,2023-01-15,Medical OPD,Private Clinic,Discharged
+V20623,P10316,ED,2023-05-08,Medical OPD,Other Hospital,Referred
+V20624,P10331,ED,2023-02-13,General OPD,CHV,Discharged
+V20625,P10446,ED,2023-12-21,Pediatrics,Health Center,Referred
+V20626,P10196,Inpatient,2023-08-05,MCH,Private Clinic,Discharged
+V20627,P10048,Inpatient,2023-01-31,General OPD,Private Clinic,Discharged
+V20628,P10241,ED,2023-11-07,MCH,Self,Discharged
+V20629,P10129,Inpatient,2023-11-14,Pediatrics,Private Clinic,Admitted
+V20630,P10343,ED,2023-03-09,MCH,Self,Referred
+V20631,P10091,ED,2023-03-28,MCH,CHV,Admitted
+V20632,P10449,ED,2023-03-09,General OPD,Private Clinic,Referred
+V20633,P10271,ED,2023-03-14,Medical OPD,Self,Admitted
+V20634,P10022,OPD,2023-09-13,Medical OPD,Private Clinic,Admitted
+V20635,P10144,ED,2023-11-10,Medical OPD,Other Hospital,Admitted
+V20636,P10223,OPD,2023-06-11,Pediatrics,Health Center,Referred
+V20637,P10436,Inpatient,2023-11-22,Pediatrics,Self,Discharged
+V20638,P10076,OPD,2023-04-28,Surgical OPD,Self,Admitted
+V20639,P10133,OPD,2023-12-28,Pediatrics,CHV,Discharged
+V20640,P10458,ED,2023-01-21,Pediatrics,Private Clinic,Referred
+V20641,P10287,ED,2023-08-23,Pediatrics,Self,Referred
+V20642,P10443,OPD,2023-03-05,Medical OPD,Self,Discharged
+V20643,P10444,ED,2023-04-03,Surgical OPD,Other Hospital,Admitted
+V20644,P10288,Inpatient,2023-10-27,Surgical OPD,Other Hospital,Discharged
+V20645,P10269,Inpatient,2023-04-03,Pediatrics,Self,Discharged
+V20646,P10393,ED,2023-12-13,General OPD,Private Clinic,Discharged
+V20647,P10145,Inpatient,2023-12-15,General OPD,CHV,Admitted
+V20648,P10302,OPD,2023-06-15,Surgical OPD,Self,Discharged
+V20649,P10235,Inpatient,2023-12-04,Pediatrics,CHV,Referred
+V20650,P10489,ED,2023-11-01,General OPD,Private Clinic,Discharged
+V20651,P10335,Inpatient,2023-08-20,Medical OPD,Other Hospital,Discharged
+V20652,P10108,OPD,2023-11-26,Medical OPD,Private Clinic,Discharged
+V20653,P10380,OPD,2023-10-08,MCH,CHV,Discharged
+V20654,P10204,ED,2023-04-02,Surgical OPD,CHV,Discharged
+V20655,P10010,OPD,2023-03-25,Pediatrics,CHV,Admitted
+V20656,P10331,Inpatient,2023-03-20,General OPD,Private Clinic,Admitted
+V20657,P10410,ED,2023-06-08,MCH,Health Center,Admitted
+V20658,P10340,OPD,2023-07-08,MCH,Health Center,Admitted
+V20659,P10228,ED,2023-09-01,Medical OPD,Other Hospital,Referred
+V20660,P10216,OPD,2023-08-05,Medical OPD,Other Hospital,Discharged
+V20661,P10222,Inpatient,2023-08-07,General OPD,Self,Referred
+V20662,P10174,ED,2023-12-13,Surgical OPD,Health Center,Admitted
+V20663,P10269,Inpatient,2023-11-28,MCH,Self,Admitted
+V20664,P10239,ED,2023-02-10,Pediatrics,Private Clinic,Discharged
+V20665,P10065,Inpatient,2023-06-03,Surgical OPD,Other Hospital,Admitted
+V20666,P10151,Inpatient,2023-01-25,MCH,Self,Discharged
+V20667,P10262,OPD,2023-09-19,Pediatrics,CHV,Discharged
+V20668,P10237,Inpatient,2023-10-19,Medical OPD,Private Clinic,Admitted
+V20669,P10299,OPD,2023-09-15,General OPD,Self,Referred
+V20670,P10338,ED,2023-04-02,Surgical OPD,CHV,Discharged
+V20671,P10042,ED,2023-12-27,Medical OPD,Private Clinic,Referred
+V20672,P10370,ED,2023-12-10,Pediatrics,Other Hospital,Admitted
+V20673,P10174,OPD,2023-04-19,Surgical OPD,Self,Referred
+V20674,P10309,ED,2023-12-11,General OPD,CHV,Referred
+V20675,P10009,OPD,2023-07-22,General OPD,Self,Discharged
+V20676,P10335,ED,2023-08-24,Pediatrics,Other Hospital,Referred
+V20677,P10249,ED,2023-11-13,MCH,Private Clinic,Referred
+V20678,P10344,Inpatient,2023-12-12,Pediatrics,Private Clinic,Discharged
+V20679,P10064,OPD,2023-01-08,Surgical OPD,Self,Discharged
+V20680,P10356,OPD,2023-01-14,Surgical OPD,CHV,Referred
+V20681,P10074,Inpatient,2023-05-04,Pediatrics,Other Hospital,Discharged
+V20682,P10044,ED,2023-08-26,Surgical OPD,CHV,Admitted
+V20683,P10011,OPD,2023-03-27,Surgical OPD,CHV,Admitted
+V20684,P10241,OPD,2023-08-19,MCH,Health Center,Discharged
+V20685,P10150,Inpatient,2023-07-20,General OPD,Private Clinic,Discharged
+V20686,P10052,Inpatient,2024-01-01,Pediatrics,CHV,Admitted
+V20687,P10377,Inpatient,2023-11-02,MCH,Private Clinic,Discharged
+V20688,P10249,ED,2023-09-06,MCH,Other Hospital,Referred
+V20689,P10313,Inpatient,2023-09-07,Surgical OPD,Self,Referred
+V20690,P10009,ED,2023-10-23,Medical OPD,Other Hospital,Discharged
+V20691,P10137,Inpatient,2023-08-02,Pediatrics,Self,Admitted
+V20692,P10318,Inpatient,2023-06-27,Pediatrics,CHV,Discharged
+V20693,P10082,ED,2023-04-09,Pediatrics,Private Clinic,Admitted
+V20694,P10118,Inpatient,2023-04-23,MCH,Private Clinic,Referred
+V20695,P10436,Inpatient,2023-12-03,Pediatrics,Health Center,Admitted
+V20696,P10370,Inpatient,2023-07-19,Pediatrics,Private Clinic,Admitted
+V20697,P10409,OPD,2023-11-15,Surgical OPD,Private Clinic,Referred
+V20698,P10383,OPD,2023-12-08,Pediatrics,Health Center,Discharged
+V20699,P10102,OPD,2023-11-07,Pediatrics,Self,Admitted
+V20700,P10482,ED,2023-06-05,Surgical OPD,Health Center,Referred
+V20701,P10024,OPD,2023-07-03,Medical OPD,Private Clinic,Referred
+V20702,P10081,OPD,2023-09-15,General OPD,Self,Admitted
+V20703,P10220,OPD,2023-11-13,Surgical OPD,Self,Referred
+V20704,P10114,ED,2023-05-13,Medical OPD,Private Clinic,Discharged
+V20705,P10394,Inpatient,2023-05-17,Surgical OPD,Other Hospital,Referred
+V20706,P10342,OPD,2023-12-28,General OPD,CHV,Admitted
+V20707,P10492,OPD,2023-02-24,MCH,Other Hospital,Discharged
+V20708,P10421,Inpatient,2023-01-22,MCH,Self,Discharged
+V20709,P10322,OPD,2023-04-16,Medical OPD,Health Center,Referred
+V20710,P10149,Inpatient,2023-08-15,MCH,CHV,Referred
+V20711,P10445,OPD,2023-03-20,Medical OPD,Private Clinic,Discharged
+V20712,P10062,OPD,2023-08-13,Pediatrics,Self,Discharged
+V20713,P10427,ED,2023-06-24,Medical OPD,Other Hospital,Discharged
+V20714,P10043,ED,2023-07-10,Pediatrics,Private Clinic,Referred
+V20715,P10340,OPD,2023-03-19,MCH,CHV,Discharged
+V20716,P10070,ED,2023-07-31,Pediatrics,CHV,Referred
+V20717,P10406,Inpatient,2023-07-05,General OPD,CHV,Discharged
+V20718,P10394,OPD,2023-09-22,General OPD,Self,Admitted
+V20719,P10161,ED,2023-03-26,Pediatrics,Self,Admitted
+V20720,P10388,OPD,2023-12-05,Surgical OPD,Other Hospital,Discharged
+V20721,P10323,Inpatient,2023-12-05,MCH,Private Clinic,Admitted
+V20722,P10205,Inpatient,2023-12-25,MCH,Private Clinic,Referred
+V20723,P10380,ED,2023-06-26,General OPD,Private Clinic,Referred
+V20724,P10312,OPD,2023-12-25,Pediatrics,CHV,Referred
+V20725,P10105,Inpatient,2023-11-16,MCH,CHV,Referred
+V20726,P10176,Inpatient,2023-07-27,Surgical OPD,Private Clinic,Discharged
+V20727,P10018,Inpatient,2023-06-21,Pediatrics,Health Center,Referred
+V20728,P10276,ED,2023-04-20,General OPD,Other Hospital,Referred
+V20729,P10159,Inpatient,2023-06-24,Surgical OPD,Self,Discharged
+V20730,P10455,Inpatient,2023-10-31,Medical OPD,Health Center,Admitted
+V20731,P10371,ED,2023-09-16,General OPD,Self,Admitted
+V20732,P10132,Inpatient,2023-09-17,Medical OPD,Self,Discharged
+V20733,P10387,Inpatient,2023-03-05,Pediatrics,Private Clinic,Referred
+V20734,P10377,OPD,2023-08-21,Medical OPD,Health Center,Referred
+V20735,P10297,Inpatient,2024-01-01,MCH,Other Hospital,Discharged
+V20736,P10179,ED,2023-05-26,MCH,Health Center,Referred
+V20737,P10193,Inpatient,2023-05-07,General OPD,Private Clinic,Referred
+V20738,P10298,OPD,2023-07-04,Pediatrics,Self,Discharged
+V20739,P10364,ED,2023-07-30,General OPD,Self,Discharged
+V20740,P10217,OPD,2023-09-01,Surgical OPD,CHV,Discharged
+V20741,P10189,Inpatient,2023-09-27,Pediatrics,Other Hospital,Referred
+V20742,P10265,ED,2023-05-16,MCH,CHV,Referred
+V20743,P10216,ED,2023-12-19,Pediatrics,CHV,Discharged
+V20744,P10073,Inpatient,2023-03-07,Pediatrics,CHV,Discharged
+V20745,P10495,Inpatient,2023-09-20,MCH,Self,Referred
+V20746,P10108,ED,2023-08-31,General OPD,Health Center,Referred
+V20747,P10189,OPD,2023-11-05,Pediatrics,Self,Discharged
+V20748,P10189,Inpatient,2023-05-29,General OPD,Other Hospital,Discharged
+V20749,P10060,ED,2023-06-06,Medical OPD,Private Clinic,Admitted
+V20750,P10248,OPD,2023-03-15,Surgical OPD,Other Hospital,Admitted
+V20751,P10024,ED,2023-05-26,Surgical OPD,Health Center,Referred
+V20752,P10250,OPD,2023-03-04,MCH,Private Clinic,Discharged
+V20753,P10445,OPD,2023-08-02,Pediatrics,Other Hospital,Admitted
+V20754,P10289,ED,2023-06-22,Pediatrics,CHV,Referred
+V20755,P10426,Inpatient,2023-03-09,Surgical OPD,Other Hospital,Referred
+V20756,P10235,ED,2023-12-08,Pediatrics,Health Center,Referred
+V20757,P10166,OPD,2023-11-16,MCH,CHV,Admitted
+V20758,P10119,ED,2023-06-23,MCH,Self,Referred
+V20759,P10455,ED,2023-05-23,General OPD,Health Center,Referred
+V20760,P10012,Inpatient,2023-11-19,Medical OPD,Other Hospital,Referred
+V20761,P10063,Inpatient,2023-10-14,General OPD,Health Center,Referred
+V20762,P10277,Inpatient,2023-01-28,MCH,Other Hospital,Discharged
+V20763,P10384,ED,2023-09-15,General OPD,Self,Referred
+V20764,P10479,Inpatient,2023-04-03,General OPD,Private Clinic,Discharged
+V20765,P10125,Inpatient,2023-10-24,Pediatrics,Self,Referred
+V20766,P10310,ED,2023-07-25,MCH,Self,Admitted
+V20767,P10441,OPD,2023-06-24,Pediatrics,Health Center,Admitted
+V20768,P10012,Inpatient,2023-06-12,Pediatrics,Private Clinic,Discharged
+V20769,P10058,OPD,2023-10-05,Surgical OPD,Private Clinic,Discharged
+V20770,P10093,ED,2023-02-15,Surgical OPD,Private Clinic,Admitted
+V20771,P10347,OPD,2023-01-31,MCH,Private Clinic,Discharged
+V20772,P10013,Inpatient,2023-01-30,Medical OPD,CHV,Discharged
+V20773,P10163,OPD,2023-07-31,Medical OPD,Private Clinic,Admitted
+V20774,P10482,OPD,2023-01-27,Surgical OPD,Health Center,Referred
+V20775,P10300,OPD,2023-09-10,MCH,Other Hospital,Admitted
+V20776,P10486,OPD,2023-05-18,General OPD,Private Clinic,Admitted
+V20777,P10283,ED,2023-02-03,Pediatrics,Self,Admitted
+V20778,P10324,OPD,2023-01-10,Medical OPD,Other Hospital,Referred
+V20779,P10345,OPD,2023-05-07,MCH,Health Center,Admitted
+V20780,P10290,ED,2023-08-17,General OPD,Other Hospital,Discharged
+V20781,P10400,OPD,2023-07-11,MCH,Health Center,Discharged
+V20782,P10275,ED,2023-10-12,Pediatrics,Self,Discharged
+V20783,P10416,ED,2023-11-14,Medical OPD,Health Center,Discharged
+V20784,P10030,ED,2023-05-20,MCH,Private Clinic,Referred
+V20785,P10194,ED,2023-11-20,Surgical OPD,Other Hospital,Referred
+V20786,P10144,OPD,2023-03-24,MCH,Other Hospital,Discharged
+V20787,P10153,OPD,2023-07-22,General OPD,Health Center,Referred
+V20788,P10284,ED,2023-08-10,Surgical OPD,Other Hospital,Referred
+V20789,P10490,ED,2023-12-16,Medical OPD,Private Clinic,Referred
+V20790,P10231,ED,2023-05-06,Medical OPD,Private Clinic,Discharged
+V20791,P10235,Inpatient,2023-06-18,General OPD,Health Center,Referred
+V20792,P10472,OPD,2023-11-08,Pediatrics,Self,Discharged
+V20793,P10344,OPD,2023-07-31,MCH,CHV,Admitted
+V20794,P10275,OPD,2023-11-29,General OPD,Other Hospital,Discharged
+V20795,P10456,Inpatient,2023-08-16,General OPD,Private Clinic,Admitted
+V20796,P10423,Inpatient,2023-07-03,Pediatrics,Health Center,Referred
+V20797,P10004,OPD,2023-08-25,Medical OPD,Health Center,Admitted
+V20798,P10004,OPD,2023-01-11,Medical OPD,Private Clinic,Discharged
+V20799,P10046,Inpatient,2023-11-17,Medical OPD,Health Center,Discharged
+V20800,P10252,ED,2023-01-19,Medical OPD,CHV,Referred
+V20801,P10361,Inpatient,2023-04-18,General OPD,Health Center,Referred
+V20802,P10202,OPD,2023-05-23,MCH,Other Hospital,Admitted
+V20803,P10087,Inpatient,2023-04-10,MCH,Other Hospital,Referred
+V20804,P10089,OPD,2023-10-29,Surgical OPD,Self,Discharged
+V20805,P10132,Inpatient,2023-04-27,MCH,Private Clinic,Discharged
+V20806,P10434,Inpatient,2023-01-12,MCH,Other Hospital,Admitted
+V20807,P10348,Inpatient,2023-08-21,General OPD,CHV,Referred
+V20808,P10344,Inpatient,2023-01-27,Medical OPD,CHV,Admitted
+V20809,P10140,OPD,2023-12-15,MCH,CHV,Admitted
+V20810,P10185,Inpatient,2023-01-23,Surgical OPD,Self,Admitted
+V20811,P10470,ED,2023-09-30,Pediatrics,Private Clinic,Discharged
+V20812,P10200,OPD,2023-06-21,General OPD,Other Hospital,Discharged
+V20813,P10377,OPD,2023-12-20,Pediatrics,Self,Discharged
+V20814,P10100,OPD,2023-06-18,Medical OPD,Self,Referred
+V20815,P10320,OPD,2023-01-15,Pediatrics,CHV,Discharged
+V20816,P10303,Inpatient,2023-06-21,Medical OPD,Health Center,Discharged
+V20817,P10242,OPD,2023-06-24,General OPD,Private Clinic,Referred
+V20818,P10406,OPD,2023-02-07,MCH,Other Hospital,Admitted
+V20819,P10391,OPD,2023-11-17,Pediatrics,Other Hospital,Discharged
+V20820,P10043,OPD,2023-01-18,Pediatrics,Private Clinic,Referred
+V20821,P10033,OPD,2023-02-01,Pediatrics,Self,Admitted
+V20822,P10312,Inpatient,2023-08-10,General OPD,Self,Referred
+V20823,P10028,Inpatient,2023-01-27,Medical OPD,CHV,Admitted
+V20824,P10049,Inpatient,2023-07-30,Surgical OPD,Other Hospital,Referred
+V20825,P10319,OPD,2023-08-21,Pediatrics,CHV,Admitted
+V20826,P10450,Inpatient,2023-11-14,General OPD,Private Clinic,Referred
+V20827,P10480,Inpatient,2023-01-14,Pediatrics,Other Hospital,Admitted
+V20828,P10300,OPD,2023-02-25,General OPD,Self,Referred
+V20829,P10365,OPD,2023-10-31,Surgical OPD,Other Hospital,Discharged
+V20830,P10326,Inpatient,2023-05-12,Medical OPD,CHV,Admitted
+V20831,P10371,Inpatient,2023-08-16,Surgical OPD,Health Center,Discharged
+V20832,P10408,OPD,2023-01-31,Surgical OPD,Private Clinic,Referred
+V20833,P10223,Inpatient,2023-11-30,Medical OPD,Private Clinic,Referred
+V20834,P10453,Inpatient,2023-03-16,Surgical OPD,CHV,Admitted
+V20835,P10308,ED,2023-05-30,Medical OPD,Self,Referred
+V20836,P10300,Inpatient,2023-12-14,Surgical OPD,Self,Discharged
+V20837,P10259,Inpatient,2023-01-28,Pediatrics,Private Clinic,Discharged
+V20838,P10499,OPD,2023-11-24,Surgical OPD,Self,Admitted
+V20839,P10096,Inpatient,2023-09-01,Pediatrics,Other Hospital,Referred
+V20840,P10169,Inpatient,2023-10-17,Medical OPD,Other Hospital,Admitted
+V20841,P10214,ED,2023-03-25,General OPD,CHV,Discharged
+V20842,P10253,OPD,2023-01-02,Surgical OPD,Health Center,Admitted
+V20843,P10319,OPD,2023-05-03,Pediatrics,Private Clinic,Referred
+V20844,P10192,OPD,2023-07-24,Surgical OPD,Self,Admitted
+V20845,P10005,OPD,2023-07-03,General OPD,Other Hospital,Discharged
+V20846,P10072,ED,2023-08-14,Surgical OPD,Other Hospital,Admitted
+V20847,P10022,OPD,2023-04-12,Surgical OPD,Private Clinic,Discharged
+V20848,P10112,ED,2023-03-31,Medical OPD,Other Hospital,Discharged
+V20849,P10091,OPD,2023-01-12,Surgical OPD,Private Clinic,Discharged
+V20850,P10010,Inpatient,2023-03-12,Pediatrics,Self,Admitted
+V20851,P10479,OPD,2023-06-06,Pediatrics,Health Center,Admitted
+V20852,P10414,ED,2023-12-05,Surgical OPD,Other Hospital,Referred
+V20853,P10451,ED,2023-12-31,General OPD,Self,Discharged
+V20854,P10451,OPD,2023-04-08,Surgical OPD,Other Hospital,Admitted
+V20855,P10355,ED,2023-06-12,MCH,CHV,Referred
+V20856,P10125,OPD,2023-11-12,MCH,Health Center,Referred
+V20857,P10150,OPD,2023-06-17,Surgical OPD,Self,Referred
+V20858,P10407,ED,2023-03-06,MCH,Other Hospital,Admitted
+V20859,P10107,Inpatient,2023-02-11,Pediatrics,Other Hospital,Discharged
+V20860,P10085,Inpatient,2023-07-18,MCH,Private Clinic,Admitted
+V20861,P10265,ED,2023-04-02,Medical OPD,Private Clinic,Referred
+V20862,P10355,ED,2023-09-11,Pediatrics,Private Clinic,Referred
+V20863,P10205,Inpatient,2023-10-26,General OPD,Health Center,Discharged
+V20864,P10458,OPD,2023-08-20,Surgical OPD,CHV,Discharged
+V20865,P10156,ED,2023-07-13,MCH,Health Center,Admitted
+V20866,P10130,Inpatient,2023-02-13,Surgical OPD,Self,Admitted
+V20867,P10227,Inpatient,2023-06-30,Surgical OPD,Other Hospital,Discharged
+V20868,P10238,Inpatient,2023-11-15,Medical OPD,CHV,Admitted
+V20869,P10239,ED,2023-07-29,Medical OPD,CHV,Admitted
+V20870,P10139,ED,2023-01-13,Surgical OPD,CHV,Discharged
+V20871,P10135,Inpatient,2023-02-08,Medical OPD,Self,Admitted
+V20872,P10431,Inpatient,2023-09-20,MCH,Self,Admitted
+V20873,P10474,OPD,2023-02-20,General OPD,Self,Admitted
+V20874,P10019,Inpatient,2023-04-13,Medical OPD,Health Center,Referred
+V20875,P10168,ED,2023-06-04,Medical OPD,Health Center,Referred
+V20876,P10309,OPD,2023-10-06,Medical OPD,Self,Admitted
+V20877,P10144,ED,2023-07-26,Pediatrics,Other Hospital,Referred
+V20878,P10006,ED,2023-12-01,MCH,Health Center,Admitted
+V20879,P10116,OPD,2023-04-18,Pediatrics,Health Center,Referred
+V20880,P10300,Inpatient,2023-08-28,Pediatrics,Private Clinic,Discharged
+V20881,P10160,OPD,2023-08-08,Pediatrics,Health Center,Admitted
+V20882,P10230,Inpatient,2023-01-16,Medical OPD,Health Center,Referred
+V20883,P10447,OPD,2023-06-06,General OPD,CHV,Referred
+V20884,P10427,ED,2023-06-23,Surgical OPD,CHV,Admitted
+V20885,P10351,ED,2023-12-20,MCH,Private Clinic,Admitted
+V20886,P10300,OPD,2023-10-18,General OPD,Health Center,Discharged
+V20887,P10487,ED,2023-10-18,MCH,Other Hospital,Referred
+V20888,P10443,ED,2023-07-15,Surgical OPD,CHV,Discharged
+V20889,P10273,ED,2023-04-07,Pediatrics,Self,Admitted
+V20890,P10291,ED,2023-11-24,Medical OPD,Self,Discharged
+V20891,P10053,Inpatient,2023-10-11,Surgical OPD,Self,Referred
+V20892,P10308,ED,2023-01-14,Surgical OPD,Health Center,Discharged
+V20893,P10466,ED,2023-05-26,Surgical OPD,Health Center,Admitted
+V20894,P10337,Inpatient,2023-02-05,Pediatrics,Self,Admitted
+V20895,P10265,OPD,2023-03-29,Medical OPD,CHV,Admitted
+V20896,P10080,OPD,2023-03-08,MCH,CHV,Admitted
+V20897,P10380,OPD,2023-07-19,Surgical OPD,Health Center,Discharged
+V20898,P10158,ED,2023-12-30,Pediatrics,Health Center,Referred
+V20899,P10294,ED,2023-10-28,Surgical OPD,Other Hospital,Referred
+V20900,P10350,ED,2023-05-22,Surgical OPD,Self,Discharged
+V20901,P10228,OPD,2023-07-24,MCH,Health Center,Referred
+V20902,P10168,Inpatient,2023-09-09,Pediatrics,CHV,Referred
+V20903,P10020,Inpatient,2023-02-16,Medical OPD,CHV,Admitted
+V20904,P10358,Inpatient,2023-06-02,Pediatrics,Other Hospital,Discharged
+V20905,P10212,OPD,2023-04-02,MCH,CHV,Admitted
+V20906,P10196,Inpatient,2023-04-04,MCH,Self,Admitted
+V20907,P10357,OPD,2023-05-03,Surgical OPD,Private Clinic,Referred
+V20908,P10275,ED,2023-12-08,General OPD,Health Center,Admitted
+V20909,P10210,Inpatient,2023-03-04,Medical OPD,Self,Discharged
+V20910,P10258,ED,2023-07-29,Pediatrics,Health Center,Admitted
+V20911,P10106,Inpatient,2023-01-23,Pediatrics,Self,Discharged
+V20912,P10327,Inpatient,2023-12-12,Pediatrics,CHV,Admitted
+V20913,P10381,ED,2023-04-10,Pediatrics,Self,Discharged
+V20914,P10128,OPD,2023-12-30,Surgical OPD,Private Clinic,Referred
+V20915,P10383,ED,2023-09-06,Pediatrics,Self,Discharged
+V20916,P10280,Inpatient,2023-05-05,Pediatrics,Health Center,Admitted
+V20917,P10420,ED,2023-03-24,Surgical OPD,Self,Referred
+V20918,P10051,OPD,2023-05-31,General OPD,Other Hospital,Referred
+V20919,P10200,OPD,2023-02-09,General OPD,Private Clinic,Discharged
+V20920,P10225,ED,2023-04-02,Surgical OPD,Self,Referred
+V20921,P10272,OPD,2023-08-15,General OPD,Other Hospital,Referred
+V20922,P10339,Inpatient,2023-12-04,General OPD,CHV,Referred
+V20923,P10157,ED,2023-01-27,MCH,Self,Discharged
+V20924,P10395,ED,2023-04-14,Surgical OPD,Private Clinic,Discharged
+V20925,P10102,OPD,2023-01-09,Pediatrics,Self,Discharged
+V20926,P10172,OPD,2023-12-15,General OPD,Health Center,Discharged
+V20927,P10408,Inpatient,2023-03-27,Surgical OPD,Self,Admitted
+V20928,P10262,OPD,2023-06-17,Medical OPD,Other Hospital,Referred
+V20929,P10097,Inpatient,2023-04-17,MCH,CHV,Admitted
+V20930,P10061,OPD,2023-04-20,General OPD,Private Clinic,Admitted
+V20931,P10088,OPD,2023-07-25,Medical OPD,Self,Admitted
+V20932,P10108,ED,2023-04-23,General OPD,Private Clinic,Referred
+V20933,P10319,ED,2023-01-23,General OPD,Health Center,Admitted
+V20934,P10154,Inpatient,2023-09-13,General OPD,Other Hospital,Referred
+V20935,P10087,ED,2023-02-18,MCH,Private Clinic,Referred
+V20936,P10356,ED,2023-12-14,Surgical OPD,Private Clinic,Discharged
+V20937,P10325,Inpatient,2023-06-12,Pediatrics,Self,Admitted
+V20938,P10009,Inpatient,2023-10-27,Pediatrics,CHV,Referred
+V20939,P10327,Inpatient,2023-04-30,MCH,Other Hospital,Referred
+V20940,P10006,OPD,2023-01-11,MCH,Self,Admitted
+V20941,P10121,Inpatient,2023-08-08,Surgical OPD,Other Hospital,Discharged
+V20942,P10030,OPD,2023-07-11,Pediatrics,Private Clinic,Discharged
+V20943,P10077,ED,2023-04-15,General OPD,Health Center,Referred
+V20944,P10306,ED,2023-06-18,Surgical OPD,Private Clinic,Admitted
+V20945,P10329,OPD,2023-09-24,Pediatrics,Private Clinic,Discharged
+V20946,P10117,Inpatient,2023-06-19,Medical OPD,Health Center,Discharged
+V20947,P10276,OPD,2023-12-07,Surgical OPD,Health Center,Referred
+V20948,P10446,ED,2023-09-24,Medical OPD,Health Center,Admitted
+V20949,P10322,OPD,2023-02-03,Pediatrics,Self,Discharged
+V20950,P10026,Inpatient,2023-03-14,Surgical OPD,Health Center,Discharged
+V20951,P10088,Inpatient,2023-10-09,Surgical OPD,Health Center,Referred
+V20952,P10040,ED,2023-08-28,Medical OPD,Health Center,Referred
+V20953,P10101,OPD,2023-08-06,Surgical OPD,Other Hospital,Discharged
+V20954,P10155,ED,2023-10-23,Pediatrics,Health Center,Admitted
+V20955,P10441,ED,2023-02-10,Medical OPD,CHV,Admitted
+V20956,P10085,ED,2023-08-14,Pediatrics,Other Hospital,Referred
+V20957,P10376,ED,2023-03-21,Pediatrics,Self,Admitted
+V20958,P10218,OPD,2023-06-03,MCH,Other Hospital,Discharged
+V20959,P10283,Inpatient,2023-03-31,Medical OPD,CHV,Admitted
+V20960,P10156,ED,2023-05-26,Pediatrics,Other Hospital,Referred
+V20961,P10246,OPD,2023-06-20,Surgical OPD,CHV,Discharged
+V20962,P10079,OPD,2023-01-03,General OPD,Other Hospital,Referred
+V20963,P10371,ED,2023-09-09,Pediatrics,CHV,Admitted
+V20964,P10496,Inpatient,2023-07-11,Pediatrics,CHV,Admitted
+V20965,P10328,Inpatient,2023-02-06,Pediatrics,Self,Discharged
+V20966,P10197,Inpatient,2023-03-25,Surgical OPD,CHV,Admitted
+V20967,P10394,Inpatient,2023-06-28,MCH,CHV,Referred
+V20968,P10352,ED,2023-12-23,General OPD,CHV,Admitted
+V20969,P10376,OPD,2023-05-05,Pediatrics,Self,Admitted
+V20970,P10323,Inpatient,2023-12-13,General OPD,Health Center,Admitted
+V20971,P10309,ED,2023-12-15,Surgical OPD,Private Clinic,Discharged
+V20972,P10308,Inpatient,2023-12-06,Surgical OPD,Self,Discharged
+V20973,P10394,OPD,2023-11-26,Pediatrics,CHV,Referred
+V20974,P10300,OPD,2023-09-23,Surgical OPD,CHV,Discharged
+V20975,P10424,ED,2023-05-10,Medical OPD,Other Hospital,Referred
+V20976,P10337,ED,2023-10-28,Medical OPD,CHV,Referred
+V20977,P10445,OPD,2023-02-25,MCH,Private Clinic,Discharged
+V20978,P10137,Inpatient,2023-04-18,Pediatrics,Private Clinic,Discharged
+V20979,P10086,ED,2023-01-01,General OPD,Self,Referred
+V20980,P10213,Inpatient,2023-08-02,Medical OPD,CHV,Discharged
+V20981,P10090,ED,2023-04-06,Surgical OPD,Health Center,Admitted
+V20982,P10093,Inpatient,2023-02-26,Pediatrics,Other Hospital,Discharged
+V20983,P10095,OPD,2023-01-31,Surgical OPD,Health Center,Admitted
+V20984,P10461,ED,2023-08-14,MCH,Self,Referred
+V20985,P10085,OPD,2023-05-31,General OPD,CHV,Discharged
+V20986,P10141,OPD,2023-06-25,General OPD,Other Hospital,Discharged
+V20987,P10244,ED,2023-12-11,General OPD,Self,Discharged
+V20988,P10136,OPD,2023-12-07,MCH,Self,Discharged
+V20989,P10108,Inpatient,2023-01-04,Pediatrics,Other Hospital,Referred
+V20990,P10492,ED,2023-09-06,Pediatrics,Private Clinic,Referred
+V20991,P10219,ED,2023-07-09,Medical OPD,Private Clinic,Discharged
+V20992,P10481,ED,2023-12-07,Pediatrics,CHV,Referred
+V20993,P10029,ED,2023-06-19,General OPD,Self,Admitted
+V20994,P10445,Inpatient,2023-07-25,Surgical OPD,Self,Referred
+V20995,P10062,Inpatient,2023-05-24,Surgical OPD,Private Clinic,Admitted
+V20996,P10316,Inpatient,2023-12-04,Pediatrics,Other Hospital,Admitted
+V20997,P10338,OPD,2023-01-02,Medical OPD,Self,Referred
+V20998,P10184,OPD,2023-06-16,Pediatrics,Health Center,Referred
+V20999,P10248,ED,2023-11-10,General OPD,Private Clinic,Admitted
+V21000,P10480,ED,2023-12-04,General OPD,CHV,Admitted
+V21001,P10310,OPD,2023-12-31,Surgical OPD,Other Hospital,Referred
+V21002,P10401,Inpatient,2023-09-16,General OPD,Health Center,Admitted
+V21003,P10407,OPD,2023-06-04,MCH,CHV,Discharged
+V21004,P10458,ED,2023-03-01,Pediatrics,Other Hospital,Discharged
+V21005,P10124,OPD,2023-03-29,General OPD,Self,Admitted
+V21006,P10366,OPD,2023-03-24,Medical OPD,CHV,Admitted
+V21007,P10112,Inpatient,2023-05-12,Pediatrics,Self,Referred
+V21008,P10069,Inpatient,2023-11-21,Pediatrics,Self,Referred
+V21009,P10170,OPD,2023-10-22,MCH,Self,Referred
+V21010,P10175,ED,2023-07-15,MCH,CHV,Discharged
+V21011,P10114,ED,2023-03-01,Medical OPD,Self,Discharged
+V21012,P10045,ED,2023-10-31,Surgical OPD,Self,Referred
+V21013,P10188,OPD,2023-06-10,Pediatrics,Other Hospital,Referred
+V21014,P10000,ED,2023-02-01,MCH,Other Hospital,Discharged
+V21015,P10433,ED,2023-08-05,Medical OPD,Private Clinic,Referred
+V21016,P10478,OPD,2023-09-24,MCH,Other Hospital,Discharged
+V21017,P10054,ED,2023-01-05,MCH,CHV,Admitted
+V21018,P10074,ED,2023-04-23,Pediatrics,CHV,Discharged
+V21019,P10307,ED,2023-03-16,General OPD,Other Hospital,Admitted
+V21020,P10158,Inpatient,2023-12-19,General OPD,Private Clinic,Referred
+V21021,P10293,ED,2023-11-20,Surgical OPD,CHV,Admitted
+V21022,P10360,ED,2023-01-31,Medical OPD,Health Center,Referred
+V21023,P10107,Inpatient,2023-04-26,General OPD,Health Center,Admitted
+V21024,P10372,ED,2023-06-03,Surgical OPD,Self,Referred
+V21025,P10200,ED,2023-08-05,Pediatrics,Private Clinic,Admitted
+V21026,P10200,OPD,2023-09-28,Medical OPD,Private Clinic,Referred
+V21027,P10472,OPD,2023-12-25,MCH,CHV,Discharged
+V21028,P10067,ED,2023-10-25,General OPD,Private Clinic,Admitted
+V21029,P10335,OPD,2023-10-23,Surgical OPD,CHV,Referred
+V21030,P10247,ED,2023-03-16,Surgical OPD,Health Center,Referred
+V21031,P10100,Inpatient,2023-11-30,General OPD,Private Clinic,Referred
+V21032,P10438,Inpatient,2023-02-22,Surgical OPD,CHV,Admitted
+V21033,P10347,OPD,2023-01-29,General OPD,Private Clinic,Admitted
+V21034,P10091,OPD,2023-03-02,MCH,Private Clinic,Referred
+V21035,P10222,OPD,2023-11-18,Pediatrics,Health Center,Discharged
+V21036,P10060,OPD,2023-07-23,Pediatrics,Private Clinic,Referred
+V21037,P10305,OPD,2023-12-01,Pediatrics,Self,Admitted
+V21038,P10442,Inpatient,2023-07-15,Medical OPD,CHV,Admitted
+V21039,P10005,OPD,2023-03-01,General OPD,Self,Admitted
+V21040,P10328,Inpatient,2023-09-18,Surgical OPD,Self,Referred
+V21041,P10293,Inpatient,2023-09-03,Medical OPD,Self,Referred
+V21042,P10092,ED,2023-09-05,Pediatrics,Private Clinic,Referred
+V21043,P10064,OPD,2023-06-16,General OPD,Other Hospital,Discharged
+V21044,P10207,Inpatient,2023-01-11,Pediatrics,Other Hospital,Referred
+V21045,P10401,Inpatient,2023-09-08,General OPD,Other Hospital,Referred
+V21046,P10275,Inpatient,2023-11-30,General OPD,Health Center,Referred
+V21047,P10459,OPD,2023-04-03,MCH,Health Center,Discharged
+V21048,P10284,ED,2023-06-10,General OPD,Self,Discharged
+V21049,P10294,OPD,2023-12-01,Surgical OPD,Self,Referred
+V21050,P10131,OPD,2023-02-13,General OPD,Other Hospital,Admitted
+V21051,P10186,Inpatient,2023-03-29,Pediatrics,Self,Discharged
+V21052,P10153,OPD,2023-09-23,Medical OPD,Other Hospital,Admitted
+V21053,P10071,Inpatient,2023-09-09,Medical OPD,Other Hospital,Admitted
+V21054,P10310,Inpatient,2023-09-19,Surgical OPD,Self,Referred
+V21055,P10419,OPD,2023-05-02,General OPD,Health Center,Discharged
+V21056,P10153,OPD,2023-03-10,MCH,Other Hospital,Discharged
+V21057,P10302,ED,2023-05-23,Surgical OPD,Other Hospital,Admitted
+V21058,P10038,Inpatient,2023-05-11,Medical OPD,CHV,Referred
+V21059,P10462,OPD,2023-07-24,Pediatrics,Self,Admitted
+V21060,P10346,ED,2023-12-22,Surgical OPD,Other Hospital,Discharged
+V21061,P10036,Inpatient,2023-05-18,Surgical OPD,Private Clinic,Referred
+V21062,P10336,Inpatient,2023-09-19,MCH,Health Center,Admitted
+V21063,P10420,OPD,2023-06-11,Pediatrics,CHV,Discharged
+V21064,P10493,Inpatient,2023-05-07,General OPD,Private Clinic,Discharged
+V21065,P10272,OPD,2023-12-17,MCH,CHV,Discharged
+V21066,P10168,Inpatient,2023-02-15,Medical OPD,Private Clinic,Admitted
+V21067,P10074,OPD,2023-05-21,General OPD,Self,Admitted
+V21068,P10496,OPD,2023-07-13,General OPD,Self,Discharged
+V21069,P10269,Inpatient,2023-06-06,MCH,CHV,Discharged
+V21070,P10270,ED,2023-12-25,MCH,Private Clinic,Referred
+V21071,P10138,Inpatient,2023-02-20,General OPD,Health Center,Admitted
+V21072,P10484,ED,2023-04-03,Medical OPD,Other Hospital,Referred
+V21073,P10304,ED,2023-09-02,MCH,Health Center,Admitted
+V21074,P10004,Inpatient,2023-09-20,Surgical OPD,Health Center,Discharged
+V21075,P10193,Inpatient,2023-05-17,General OPD,Private Clinic,Referred
+V21076,P10398,OPD,2023-12-14,MCH,CHV,Referred
+V21077,P10234,OPD,2023-08-13,Medical OPD,CHV,Referred
+V21078,P10146,ED,2023-08-08,MCH,Health Center,Admitted
+V21079,P10325,OPD,2023-06-06,Pediatrics,Private Clinic,Discharged
+V21080,P10324,OPD,2023-02-09,Surgical OPD,Self,Discharged
+V21081,P10294,OPD,2023-02-13,Medical OPD,Other Hospital,Admitted
+V21082,P10413,OPD,2023-08-06,MCH,Health Center,Admitted
+V21083,P10254,Inpatient,2023-12-17,MCH,Self,Admitted
+V21084,P10007,Inpatient,2023-04-08,General OPD,CHV,Referred
+V21085,P10273,Inpatient,2023-06-26,Surgical OPD,Other Hospital,Referred
+V21086,P10311,OPD,2023-11-07,Pediatrics,Health Center,Referred
+V21087,P10476,Inpatient,2023-04-26,Surgical OPD,Self,Admitted
+V21088,P10429,OPD,2023-09-21,Medical OPD,Self,Admitted
+V21089,P10253,ED,2023-03-29,Medical OPD,Self,Admitted
+V21090,P10467,Inpatient,2023-05-08,MCH,Self,Admitted
+V21091,P10153,ED,2023-05-31,Medical OPD,Health Center,Discharged
+V21092,P10377,Inpatient,2023-10-19,Pediatrics,Health Center,Admitted
+V21093,P10475,Inpatient,2023-09-21,General OPD,CHV,Referred
+V21094,P10434,ED,2023-01-30,Medical OPD,Self,Referred
+V21095,P10235,ED,2023-06-02,Medical OPD,Self,Discharged
+V21096,P10179,Inpatient,2023-04-06,Pediatrics,Private Clinic,Discharged
+V21097,P10051,ED,2023-09-09,Surgical OPD,Self,Referred
+V21098,P10263,OPD,2023-07-30,General OPD,CHV,Discharged
+V21099,P10079,Inpatient,2023-05-09,Surgical OPD,CHV,Admitted
+V21100,P10191,ED,2023-07-06,Pediatrics,Health Center,Referred
+V21101,P10415,ED,2023-02-25,Pediatrics,CHV,Discharged
+V21102,P10071,ED,2023-08-11,General OPD,Private Clinic,Referred
+V21103,P10101,OPD,2023-04-08,Medical OPD,Self,Discharged
+V21104,P10202,ED,2023-06-19,General OPD,Health Center,Referred
+V21105,P10101,ED,2023-12-07,Medical OPD,Self,Admitted
+V21106,P10250,Inpatient,2023-09-11,Surgical OPD,Private Clinic,Admitted
+V21107,P10256,Inpatient,2023-07-19,Surgical OPD,Self,Discharged
+V21108,P10405,OPD,2023-03-06,Surgical OPD,Private Clinic,Referred
+V21109,P10006,Inpatient,2023-05-02,General OPD,Private Clinic,Admitted
+V21110,P10499,Inpatient,2023-01-05,Pediatrics,CHV,Admitted
+V21111,P10144,ED,2023-02-12,Pediatrics,Health Center,Referred
+V21112,P10078,Inpatient,2023-09-19,Surgical OPD,Health Center,Admitted
+V21113,P10392,OPD,2023-05-15,Surgical OPD,CHV,Discharged
+V21114,P10242,Inpatient,2023-02-22,MCH,Other Hospital,Discharged
+V21115,P10096,Inpatient,2023-11-19,Surgical OPD,Health Center,Discharged
+V21116,P10067,ED,2023-01-20,Medical OPD,Health Center,Discharged
+V21117,P10218,OPD,2023-11-12,Surgical OPD,Self,Discharged
+V21118,P10194,ED,2023-09-26,Medical OPD,Health Center,Discharged
+V21119,P10172,ED,2023-09-03,General OPD,Other Hospital,Admitted
+V21120,P10329,OPD,2023-06-05,General OPD,Private Clinic,Admitted
+V21121,P10143,ED,2023-12-31,Pediatrics,Health Center,Admitted
+V21122,P10458,OPD,2023-04-04,General OPD,Self,Discharged
+V21123,P10338,Inpatient,2023-06-14,Surgical OPD,Private Clinic,Admitted
+V21124,P10143,Inpatient,2023-02-21,Pediatrics,Health Center,Admitted
+V21125,P10485,ED,2023-07-06,Medical OPD,Private Clinic,Discharged
+V21126,P10049,Inpatient,2023-01-07,MCH,Health Center,Admitted
+V21127,P10184,Inpatient,2023-07-05,MCH,Other Hospital,Referred
+V21128,P10190,OPD,2023-11-29,Medical OPD,Health Center,Referred
+V21129,P10196,OPD,2023-02-24,Surgical OPD,Other Hospital,Discharged
+V21130,P10021,Inpatient,2023-12-02,Surgical OPD,Health Center,Referred
+V21131,P10228,OPD,2023-02-08,MCH,Other Hospital,Admitted
+V21132,P10154,Inpatient,2023-08-31,Surgical OPD,Other Hospital,Referred
+V21133,P10078,OPD,2023-03-07,Surgical OPD,CHV,Referred
+V21134,P10364,ED,2023-10-14,Medical OPD,Private Clinic,Admitted
+V21135,P10322,Inpatient,2023-03-02,Pediatrics,Self,Admitted
+V21136,P10214,Inpatient,2023-09-15,General OPD,Health Center,Referred
+V21137,P10140,Inpatient,2023-03-08,Medical OPD,Self,Referred
+V21138,P10031,Inpatient,2023-04-08,Pediatrics,CHV,Referred
+V21139,P10272,Inpatient,2023-02-08,Surgical OPD,CHV,Referred
+V21140,P10196,Inpatient,2023-07-19,Pediatrics,Other Hospital,Admitted
+V21141,P10105,OPD,2023-01-02,Surgical OPD,Other Hospital,Discharged
+V21142,P10303,Inpatient,2023-01-05,MCH,CHV,Referred
+V21143,P10362,Inpatient,2023-09-26,Medical OPD,Private Clinic,Discharged
+V21144,P10151,Inpatient,2023-05-18,MCH,Self,Discharged
+V21145,P10114,OPD,2023-10-01,Surgical OPD,Private Clinic,Discharged
+V21146,P10327,OPD,2023-05-23,Surgical OPD,Private Clinic,Discharged
+V21147,P10328,OPD,2023-04-18,MCH,Self,Discharged
+V21148,P10332,ED,2023-11-20,MCH,Private Clinic,Admitted
+V21149,P10042,Inpatient,2023-10-09,Medical OPD,Health Center,Admitted
+V21150,P10459,Inpatient,2023-05-31,Medical OPD,Self,Referred
+V21151,P10417,OPD,2023-07-02,Surgical OPD,Private Clinic,Discharged
+V21152,P10131,OPD,2023-10-03,MCH,Self,Referred
+V21153,P10381,Inpatient,2023-07-15,Medical OPD,Other Hospital,Referred
+V21154,P10105,ED,2023-04-23,Medical OPD,Private Clinic,Discharged
+V21155,P10297,Inpatient,2023-07-22,Surgical OPD,CHV,Discharged
+V21156,P10373,Inpatient,2023-08-11,Medical OPD,Health Center,Admitted
+V21157,P10047,ED,2023-04-03,Pediatrics,Health Center,Discharged
+V21158,P10096,Inpatient,2023-09-09,Surgical OPD,Private Clinic,Discharged
+V21159,P10158,OPD,2023-04-01,Pediatrics,Other Hospital,Discharged
+V21160,P10035,OPD,2023-02-06,Pediatrics,Health Center,Admitted
+V21161,P10465,Inpatient,2023-07-26,General OPD,Other Hospital,Discharged
+V21162,P10372,OPD,2023-11-05,General OPD,CHV,Admitted
+V21163,P10010,OPD,2023-01-07,General OPD,Health Center,Discharged
+V21164,P10394,OPD,2023-05-18,Surgical OPD,Other Hospital,Discharged
+V21165,P10405,OPD,2023-02-24,MCH,Private Clinic,Referred
+V21166,P10043,OPD,2023-03-13,Pediatrics,Other Hospital,Admitted
+V21167,P10417,OPD,2023-06-07,Medical OPD,CHV,Discharged
+V21168,P10124,OPD,2023-10-06,Medical OPD,Other Hospital,Discharged
+V21169,P10010,OPD,2023-02-22,MCH,Private Clinic,Discharged
+V21170,P10261,ED,2023-03-14,General OPD,Health Center,Discharged
+V21171,P10116,ED,2023-07-17,Surgical OPD,Private Clinic,Referred
+V21172,P10146,OPD,2023-12-17,Pediatrics,Self,Admitted
+V21173,P10086,OPD,2023-04-25,General OPD,Private Clinic,Admitted
+V21174,P10039,Inpatient,2023-06-20,General OPD,Private Clinic,Discharged
+V21175,P10458,OPD,2023-11-06,Surgical OPD,Health Center,Admitted
+V21176,P10271,ED,2023-11-04,Surgical OPD,CHV,Discharged
+V21177,P10457,Inpatient,2023-12-18,Medical OPD,Other Hospital,Admitted
+V21178,P10178,OPD,2023-05-19,Pediatrics,Private Clinic,Admitted
+V21179,P10415,Inpatient,2023-02-09,General OPD,Health Center,Referred
+V21180,P10075,ED,2023-03-17,Pediatrics,CHV,Referred
+V21181,P10407,ED,2023-02-04,General OPD,Other Hospital,Admitted
+V21182,P10491,Inpatient,2023-05-23,Surgical OPD,Self,Admitted
+V21183,P10065,OPD,2023-07-17,Medical OPD,Private Clinic,Admitted
+V21184,P10217,ED,2023-12-22,Pediatrics,Other Hospital,Referred
+V21185,P10170,OPD,2023-12-01,Surgical OPD,CHV,Admitted
+V21186,P10281,ED,2023-10-03,MCH,CHV,Referred
+V21187,P10274,OPD,2023-07-16,General OPD,Other Hospital,Referred
+V21188,P10215,Inpatient,2023-10-23,Surgical OPD,Self,Discharged
+V21189,P10185,OPD,2023-04-15,General OPD,Private Clinic,Referred
+V21190,P10242,OPD,2023-02-26,General OPD,Private Clinic,Admitted
+V21191,P10434,OPD,2023-05-31,Pediatrics,Health Center,Referred
+V21192,P10497,ED,2023-05-05,Surgical OPD,Health Center,Discharged
+V21193,P10382,OPD,2023-03-02,Surgical OPD,CHV,Referred
+V21194,P10013,Inpatient,2023-08-06,Medical OPD,Self,Referred
+V21195,P10054,Inpatient,2023-10-25,General OPD,CHV,Referred
+V21196,P10445,OPD,2023-01-16,Surgical OPD,Private Clinic,Discharged
+V21197,P10040,OPD,2023-02-09,General OPD,Other Hospital,Admitted
+V21198,P10076,OPD,2023-08-29,Surgical OPD,Other Hospital,Referred
+V21199,P10485,ED,2023-08-29,Pediatrics,Private Clinic,Admitted
+V21200,P10400,Inpatient,2023-12-22,General OPD,Private Clinic,Discharged
+V21201,P10079,OPD,2023-11-25,General OPD,Other Hospital,Discharged
+V21202,P10257,OPD,2023-01-06,Pediatrics,CHV,Referred
+V21203,P10485,ED,2023-10-11,Medical OPD,Other Hospital,Referred
+V21204,P10156,Inpatient,2023-04-27,Pediatrics,Health Center,Admitted
+V21205,P10498,OPD,2023-09-25,Pediatrics,Health Center,Referred
+V21206,P10108,ED,2023-11-13,General OPD,Health Center,Admitted
+V21207,P10094,Inpatient,2023-10-14,MCH,Self,Referred
+V21208,P10239,ED,2023-06-10,Pediatrics,CHV,Discharged
+V21209,P10027,ED,2023-11-28,Pediatrics,Health Center,Admitted
+V21210,P10055,OPD,2023-02-09,Medical OPD,Other Hospital,Admitted
+V21211,P10014,OPD,2023-05-25,Surgical OPD,Other Hospital,Discharged
+V21212,P10033,OPD,2023-11-02,General OPD,Private Clinic,Discharged
+V21213,P10282,OPD,2023-11-23,General OPD,Health Center,Admitted
+V21214,P10043,Inpatient,2023-10-17,General OPD,Other Hospital,Admitted
+V21215,P10023,OPD,2023-06-11,General OPD,Private Clinic,Discharged
+V21216,P10182,ED,2023-07-23,MCH,Health Center,Admitted
+V21217,P10384,ED,2023-07-02,Surgical OPD,Self,Admitted
+V21218,P10208,Inpatient,2023-09-15,General OPD,Other Hospital,Discharged
+V21219,P10012,Inpatient,2023-07-15,Pediatrics,Other Hospital,Discharged
+V21220,P10148,OPD,2023-03-19,Pediatrics,Self,Referred
+V21221,P10047,Inpatient,2023-04-29,Surgical OPD,Health Center,Referred
+V21222,P10082,Inpatient,2023-09-22,MCH,Other Hospital,Admitted
+V21223,P10229,OPD,2023-06-23,Medical OPD,Private Clinic,Referred
+V21224,P10438,ED,2023-01-21,Pediatrics,Health Center,Discharged
+V21225,P10312,Inpatient,2023-02-08,Surgical OPD,Other Hospital,Referred
+V21226,P10254,OPD,2023-01-08,Surgical OPD,Private Clinic,Referred
+V21227,P10444,OPD,2023-09-13,General OPD,CHV,Admitted
+V21228,P10086,ED,2023-03-24,General OPD,Private Clinic,Referred
+V21229,P10186,ED,2023-02-15,General OPD,Health Center,Referred
+V21230,P10395,ED,2023-05-13,Pediatrics,Private Clinic,Admitted
+V21231,P10332,OPD,2023-03-05,MCH,CHV,Discharged
+V21232,P10186,ED,2023-07-25,Pediatrics,Other Hospital,Referred
+V21233,P10066,ED,2023-07-07,MCH,Other Hospital,Admitted
+V21234,P10191,OPD,2023-12-16,Pediatrics,Other Hospital,Admitted
+V21235,P10134,Inpatient,2023-01-22,MCH,Self,Referred
+V21236,P10404,OPD,2023-12-25,MCH,Self,Discharged
+V21237,P10436,OPD,2023-05-29,Pediatrics,Health Center,Referred
+V21238,P10204,OPD,2023-04-25,Pediatrics,CHV,Referred
+V21239,P10047,ED,2023-08-27,Pediatrics,Other Hospital,Admitted
+V21240,P10055,OPD,2023-04-03,General OPD,CHV,Admitted
+V21241,P10102,ED,2023-06-18,General OPD,Private Clinic,Admitted
+V21242,P10309,ED,2023-04-19,Pediatrics,Self,Admitted
+V21243,P10232,OPD,2023-10-07,Surgical OPD,CHV,Discharged
+V21244,P10327,OPD,2023-06-13,MCH,Self,Referred
+V21245,P10396,ED,2023-02-01,Medical OPD,CHV,Admitted
+V21246,P10109,OPD,2023-04-19,General OPD,CHV,Admitted
+V21247,P10129,Inpatient,2023-04-01,General OPD,Health Center,Discharged
+V21248,P10140,ED,2023-02-11,Medical OPD,CHV,Admitted
+V21249,P10268,OPD,2023-12-09,Medical OPD,Health Center,Discharged
+V21250,P10047,ED,2023-06-25,Medical OPD,Health Center,Discharged
+V21251,P10178,ED,2023-09-04,Pediatrics,Other Hospital,Referred
+V21252,P10401,OPD,2023-12-23,Pediatrics,Private Clinic,Referred
+V21253,P10292,ED,2023-01-06,MCH,Other Hospital,Discharged
+V21254,P10039,Inpatient,2023-12-08,MCH,Other Hospital,Discharged
+V21255,P10165,Inpatient,2023-06-12,General OPD,Health Center,Admitted
+V21256,P10478,OPD,2023-09-13,Medical OPD,Self,Referred
+V21257,P10208,ED,2023-09-24,General OPD,CHV,Discharged
+V21258,P10324,ED,2023-11-24,MCH,Self,Discharged
+V21259,P10111,Inpatient,2023-04-07,Pediatrics,Other Hospital,Discharged
+V21260,P10307,ED,2023-04-21,Medical OPD,Health Center,Discharged
+V21261,P10497,Inpatient,2023-10-23,General OPD,Private Clinic,Admitted
+V21262,P10008,ED,2023-06-07,MCH,Self,Referred
+V21263,P10255,Inpatient,2023-08-22,Pediatrics,CHV,Admitted
+V21264,P10180,Inpatient,2023-08-07,MCH,Private Clinic,Discharged
+V21265,P10474,OPD,2023-08-23,Pediatrics,Private Clinic,Discharged
+V21266,P10283,Inpatient,2023-03-25,MCH,CHV,Admitted
+V21267,P10145,Inpatient,2023-12-19,Pediatrics,Private Clinic,Referred
+V21268,P10317,OPD,2023-02-14,General OPD,Self,Referred
+V21269,P10008,Inpatient,2023-07-30,General OPD,CHV,Referred
+V21270,P10384,Inpatient,2023-10-06,General OPD,CHV,Referred
+V21271,P10297,OPD,2023-12-08,Medical OPD,CHV,Discharged
+V21272,P10114,ED,2023-10-10,Pediatrics,Self,Discharged
+V21273,P10438,ED,2023-03-05,Medical OPD,CHV,Admitted
+V21274,P10464,Inpatient,2023-12-27,Pediatrics,Self,Admitted
+V21275,P10400,OPD,2023-09-17,Medical OPD,Private Clinic,Referred
+V21276,P10135,ED,2023-08-01,Surgical OPD,Self,Admitted
+V21277,P10016,OPD,2023-01-14,Surgical OPD,Private Clinic,Referred
+V21278,P10419,Inpatient,2023-11-04,Medical OPD,Private Clinic,Discharged
+V21279,P10491,Inpatient,2023-08-09,Surgical OPD,Other Hospital,Admitted
+V21280,P10098,Inpatient,2023-11-26,Pediatrics,Self,Referred
+V21281,P10219,OPD,2023-11-22,Pediatrics,Health Center,Admitted
+V21282,P10462,ED,2023-09-22,Surgical OPD,CHV,Discharged
+V21283,P10050,Inpatient,2023-03-06,MCH,Self,Referred
+V21284,P10295,ED,2023-11-18,Medical OPD,Other Hospital,Discharged
+V21285,P10485,ED,2023-04-15,General OPD,Self,Discharged
+V21286,P10223,OPD,2023-11-18,MCH,Health Center,Discharged
+V21287,P10316,Inpatient,2023-10-06,General OPD,Other Hospital,Admitted
+V21288,P10012,Inpatient,2023-03-08,Pediatrics,Private Clinic,Discharged
+V21289,P10122,Inpatient,2023-04-24,Medical OPD,Health Center,Referred
+V21290,P10430,OPD,2023-07-13,Medical OPD,Self,Admitted
+V21291,P10042,OPD,2023-11-18,General OPD,Other Hospital,Discharged
+V21292,P10056,ED,2023-11-02,General OPD,Self,Discharged
+V21293,P10144,ED,2023-04-03,General OPD,Self,Admitted
+V21294,P10432,ED,2023-04-17,Pediatrics,Self,Admitted
+V21295,P10407,OPD,2023-07-31,General OPD,CHV,Referred
+V21296,P10039,OPD,2023-12-18,Pediatrics,CHV,Admitted
+V21297,P10324,ED,2023-03-24,Surgical OPD,Private Clinic,Discharged
+V21298,P10462,OPD,2023-12-04,MCH,Other Hospital,Discharged
+V21299,P10060,ED,2023-06-27,Pediatrics,Other Hospital,Referred
+V21300,P10279,OPD,2023-03-23,MCH,Private Clinic,Discharged
+V21301,P10098,Inpatient,2023-01-16,MCH,Self,Referred
+V21302,P10262,OPD,2023-04-21,Medical OPD,Self,Discharged
+V21303,P10015,ED,2023-03-12,Surgical OPD,Self,Referred
+V21304,P10354,OPD,2023-05-18,Medical OPD,CHV,Discharged
+V21305,P10488,OPD,2023-06-28,MCH,Private Clinic,Admitted
+V21306,P10381,ED,2023-08-12,MCH,CHV,Discharged
+V21307,P10128,OPD,2023-04-12,Medical OPD,CHV,Discharged
+V21308,P10298,Inpatient,2023-06-09,Surgical OPD,Health Center,Referred
+V21309,P10249,ED,2023-08-17,Pediatrics,Other Hospital,Referred
+V21310,P10139,ED,2023-11-15,General OPD,Other Hospital,Admitted
+V21311,P10219,OPD,2023-10-18,Medical OPD,Private Clinic,Referred
+V21312,P10419,OPD,2023-08-19,Surgical OPD,Self,Referred
+V21313,P10129,Inpatient,2023-07-29,Medical OPD,Other Hospital,Referred
+V21314,P10486,Inpatient,2023-06-30,Pediatrics,Self,Discharged
+V21315,P10092,ED,2023-08-08,Surgical OPD,Private Clinic,Discharged
+V21316,P10037,OPD,2023-12-03,Medical OPD,Private Clinic,Discharged
+V21317,P10399,ED,2023-03-04,General OPD,Private Clinic,Referred
+V21318,P10005,Inpatient,2023-06-18,Surgical OPD,CHV,Referred
+V21319,P10407,ED,2023-04-30,MCH,Self,Admitted
+V21320,P10145,Inpatient,2023-04-19,MCH,Health Center,Discharged
+V21321,P10287,ED,2023-11-08,General OPD,Other Hospital,Referred
+V21322,P10215,Inpatient,2023-08-11,Medical OPD,Private Clinic,Discharged
+V21323,P10100,OPD,2023-09-10,Pediatrics,Self,Admitted
+V21324,P10215,OPD,2023-03-05,Pediatrics,Health Center,Referred
+V21325,P10167,Inpatient,2023-07-16,Surgical OPD,Other Hospital,Discharged
+V21326,P10145,OPD,2023-11-26,MCH,Self,Admitted
+V21327,P10145,OPD,2023-07-26,General OPD,Other Hospital,Referred
+V21328,P10020,ED,2023-11-27,General OPD,Self,Admitted
+V21329,P10048,ED,2023-06-04,Medical OPD,Private Clinic,Admitted
+V21330,P10204,OPD,2023-10-12,Medical OPD,CHV,Referred
+V21331,P10024,ED,2023-06-02,Pediatrics,CHV,Referred
+V21332,P10495,OPD,2023-07-11,MCH,Self,Discharged
+V21333,P10114,OPD,2023-01-06,Surgical OPD,Self,Admitted
+V21334,P10441,Inpatient,2023-08-12,Surgical OPD,Health Center,Discharged
+V21335,P10097,Inpatient,2023-07-08,MCH,Self,Referred
+V21336,P10444,OPD,2023-05-13,General OPD,Self,Discharged
+V21337,P10484,ED,2023-02-08,Medical OPD,Private Clinic,Referred
+V21338,P10313,ED,2023-05-19,Surgical OPD,Health Center,Referred
+V21339,P10235,OPD,2023-03-06,Medical OPD,Health Center,Referred
+V21340,P10454,ED,2023-11-23,Pediatrics,Self,Referred
+V21341,P10270,OPD,2023-10-23,Pediatrics,CHV,Admitted
+V21342,P10164,Inpatient,2023-09-05,Surgical OPD,Self,Admitted
+V21343,P10392,ED,2023-12-31,General OPD,Private Clinic,Referred
+V21344,P10427,OPD,2023-12-04,Surgical OPD,Self,Discharged
+V21345,P10497,ED,2023-01-31,Surgical OPD,Self,Referred
+V21346,P10110,ED,2023-07-17,Surgical OPD,CHV,Discharged
+V21347,P10174,OPD,2023-10-30,MCH,Other Hospital,Admitted
+V21348,P10389,ED,2023-12-29,Pediatrics,Health Center,Referred
+V21349,P10054,OPD,2023-04-23,Medical OPD,CHV,Admitted
+V21350,P10444,Inpatient,2023-09-20,Surgical OPD,CHV,Discharged
+V21351,P10035,ED,2023-08-05,Surgical OPD,Private Clinic,Referred
+V21352,P10331,OPD,2023-03-17,Pediatrics,Self,Referred
+V21353,P10056,OPD,2023-01-09,Pediatrics,Health Center,Admitted
+V21354,P10014,ED,2023-12-05,MCH,CHV,Admitted
+V21355,P10135,OPD,2023-10-09,General OPD,Private Clinic,Admitted
+V21356,P10108,OPD,2023-07-23,MCH,CHV,Referred
+V21357,P10170,OPD,2023-08-14,Medical OPD,Private Clinic,Discharged
+V21358,P10025,Inpatient,2023-07-15,Pediatrics,Health Center,Admitted
+V21359,P10096,ED,2023-04-01,MCH,Private Clinic,Referred
+V21360,P10311,ED,2023-09-23,Pediatrics,Self,Referred
+V21361,P10025,Inpatient,2023-05-08,General OPD,Health Center,Discharged
+V21362,P10027,OPD,2023-10-22,Medical OPD,Health Center,Discharged
+V21363,P10272,OPD,2023-05-22,Surgical OPD,Other Hospital,Referred
+V21364,P10366,ED,2023-07-20,Pediatrics,Self,Discharged
+V21365,P10375,Inpatient,2023-05-18,Pediatrics,Health Center,Discharged
+V21366,P10402,OPD,2023-06-27,Medical OPD,Other Hospital,Admitted
+V21367,P10375,OPD,2023-02-18,Surgical OPD,Other Hospital,Referred
+V21368,P10318,ED,2023-06-06,Surgical OPD,Health Center,Admitted
+V21369,P10348,OPD,2023-03-27,Surgical OPD,Private Clinic,Admitted
+V21370,P10072,OPD,2023-12-08,Pediatrics,CHV,Admitted
+V21371,P10010,OPD,2023-05-16,General OPD,Health Center,Referred
+V21372,P10389,OPD,2023-11-01,Medical OPD,CHV,Referred
+V21373,P10000,ED,2023-05-07,Pediatrics,Self,Discharged
+V21374,P10419,OPD,2023-10-18,Medical OPD,Health Center,Referred
+V21375,P10257,OPD,2023-03-17,General OPD,Self,Admitted
+V21376,P10411,Inpatient,2023-06-21,Pediatrics,CHV,Referred
+V21377,P10179,Inpatient,2023-05-12,Pediatrics,Private Clinic,Admitted
+V21378,P10234,OPD,2023-06-30,Medical OPD,Private Clinic,Referred
+V21379,P10396,Inpatient,2023-11-02,Pediatrics,Self,Admitted
+V21380,P10351,Inpatient,2023-11-24,General OPD,Health Center,Admitted
+V21381,P10438,OPD,2023-12-04,Surgical OPD,Private Clinic,Admitted
+V21382,P10015,OPD,2023-10-23,Pediatrics,Private Clinic,Discharged
+V21383,P10381,OPD,2023-04-10,Pediatrics,Self,Admitted
+V21384,P10449,Inpatient,2023-12-14,MCH,CHV,Referred
+V21385,P10089,ED,2023-12-14,Medical OPD,Private Clinic,Admitted
+V21386,P10301,ED,2023-05-22,Medical OPD,Health Center,Discharged
+V21387,P10296,Inpatient,2023-12-26,Medical OPD,Other Hospital,Discharged
+V21388,P10221,ED,2023-10-18,Medical OPD,Private Clinic,Discharged
+V21389,P10496,OPD,2023-09-13,Surgical OPD,CHV,Referred
+V21390,P10076,Inpatient,2023-05-29,MCH,Other Hospital,Referred
+V21391,P10083,ED,2023-09-07,Medical OPD,Self,Admitted
+V21392,P10007,ED,2023-01-21,Surgical OPD,Private Clinic,Referred
+V21393,P10063,OPD,2023-09-08,Medical OPD,Self,Admitted
+V21394,P10180,Inpatient,2023-01-01,General OPD,Private Clinic,Discharged
+V21395,P10179,ED,2023-09-15,MCH,Health Center,Discharged
+V21396,P10365,ED,2023-03-15,Surgical OPD,CHV,Referred
+V21397,P10470,OPD,2023-05-29,Surgical OPD,Self,Admitted
+V21398,P10477,ED,2023-05-08,Pediatrics,CHV,Admitted
+V21399,P10495,OPD,2023-05-14,Medical OPD,Other Hospital,Admitted
+V21400,P10088,Inpatient,2023-08-12,Medical OPD,Other Hospital,Discharged
+V21401,P10349,OPD,2023-05-09,Surgical OPD,CHV,Referred
+V21402,P10102,ED,2023-06-06,General OPD,Private Clinic,Referred
+V21403,P10474,Inpatient,2023-08-25,MCH,Health Center,Admitted
+V21404,P10400,ED,2023-02-19,Surgical OPD,Other Hospital,Admitted
+V21405,P10355,ED,2023-09-15,Medical OPD,CHV,Admitted
+V21406,P10218,ED,2023-08-04,Pediatrics,CHV,Discharged
+V21407,P10467,Inpatient,2023-01-14,Pediatrics,Self,Discharged
+V21408,P10314,ED,2023-05-05,MCH,Other Hospital,Admitted
+V21409,P10065,Inpatient,2023-10-06,MCH,Private Clinic,Discharged
+V21410,P10386,ED,2023-03-06,Pediatrics,Self,Admitted
+V21411,P10413,Inpatient,2023-08-24,General OPD,Self,Discharged
+V21412,P10138,Inpatient,2023-02-24,Medical OPD,Other Hospital,Discharged
+V21413,P10420,ED,2023-10-17,Pediatrics,Private Clinic,Discharged
+V21414,P10062,Inpatient,2023-10-27,MCH,Self,Referred
+V21415,P10104,Inpatient,2023-03-15,MCH,CHV,Discharged
+V21416,P10114,Inpatient,2023-11-24,Surgical OPD,Private Clinic,Referred
+V21417,P10159,Inpatient,2023-01-04,Pediatrics,Other Hospital,Referred
+V21418,P10102,OPD,2023-02-04,General OPD,Health Center,Referred
+V21419,P10450,OPD,2023-09-24,General OPD,Health Center,Discharged
+V21420,P10053,ED,2023-01-13,MCH,CHV,Admitted
+V21421,P10028,OPD,2023-06-03,Pediatrics,CHV,Discharged
+V21422,P10419,OPD,2023-10-07,Medical OPD,Other Hospital,Referred
+V21423,P10224,Inpatient,2023-11-12,General OPD,CHV,Discharged
+V21424,P10325,OPD,2023-04-05,Surgical OPD,Health Center,Discharged
+V21425,P10261,Inpatient,2023-12-25,MCH,Health Center,Admitted
+V21426,P10245,ED,2023-05-29,General OPD,Other Hospital,Admitted
+V21427,P10188,Inpatient,2023-05-21,Pediatrics,CHV,Referred
+V21428,P10409,OPD,2023-08-26,Pediatrics,CHV,Discharged
+V21429,P10014,ED,2023-08-23,General OPD,Other Hospital,Admitted
+V21430,P10005,Inpatient,2023-06-05,General OPD,Other Hospital,Admitted
+V21431,P10021,ED,2023-03-13,Pediatrics,CHV,Admitted
+V21432,P10004,OPD,2023-07-03,MCH,Other Hospital,Discharged
+V21433,P10178,Inpatient,2023-09-26,Pediatrics,Other Hospital,Discharged
+V21434,P10089,Inpatient,2023-03-19,Medical OPD,Other Hospital,Admitted
+V21435,P10235,Inpatient,2023-03-13,Medical OPD,Private Clinic,Admitted
+V21436,P10034,Inpatient,2023-09-05,Pediatrics,CHV,Referred
+V21437,P10337,OPD,2023-10-22,MCH,Other Hospital,Admitted
+V21438,P10066,Inpatient,2023-06-15,MCH,Other Hospital,Admitted
+V21439,P10299,Inpatient,2023-07-26,General OPD,Self,Discharged
+V21440,P10436,Inpatient,2023-03-23,Surgical OPD,Self,Referred
+V21441,P10054,ED,2023-12-14,Pediatrics,Private Clinic,Discharged
+V21442,P10395,Inpatient,2023-05-02,General OPD,Health Center,Referred
+V21443,P10456,ED,2023-08-04,General OPD,Self,Referred
+V21444,P10128,OPD,2023-01-20,General OPD,CHV,Admitted
+V21445,P10310,Inpatient,2023-01-16,Surgical OPD,Private Clinic,Discharged
+V21446,P10357,ED,2023-07-13,Surgical OPD,Other Hospital,Referred
+V21447,P10102,OPD,2023-05-10,Pediatrics,CHV,Referred
+V21448,P10146,OPD,2023-04-14,Surgical OPD,CHV,Referred
+V21449,P10414,OPD,2023-02-14,MCH,Self,Referred
+V21450,P10491,Inpatient,2023-02-19,Surgical OPD,Self,Discharged
+V21451,P10457,OPD,2023-07-04,Pediatrics,Other Hospital,Referred
+V21452,P10442,OPD,2023-06-24,Surgical OPD,Other Hospital,Admitted
+V21453,P10097,OPD,2023-10-20,Pediatrics,Other Hospital,Admitted
+V21454,P10182,Inpatient,2023-10-14,Surgical OPD,Self,Admitted
+V21455,P10218,Inpatient,2023-07-12,General OPD,Other Hospital,Discharged
+V21456,P10065,Inpatient,2023-06-02,General OPD,Self,Admitted
+V21457,P10118,OPD,2023-11-04,MCH,Private Clinic,Discharged
+V21458,P10114,ED,2023-05-09,Pediatrics,Private Clinic,Discharged
+V21459,P10446,OPD,2023-05-28,General OPD,Other Hospital,Referred
+V21460,P10123,Inpatient,2023-11-09,MCH,Private Clinic,Admitted
+V21461,P10316,OPD,2023-10-07,General OPD,Other Hospital,Admitted
+V21462,P10479,ED,2023-12-01,General OPD,Self,Admitted
+V21463,P10215,ED,2023-04-13,Medical OPD,Self,Discharged
+V21464,P10104,Inpatient,2023-06-18,General OPD,Health Center,Admitted
+V21465,P10037,Inpatient,2023-11-09,General OPD,Private Clinic,Discharged
+V21466,P10486,ED,2023-11-03,MCH,Self,Referred
+V21467,P10245,OPD,2023-05-19,General OPD,Self,Discharged
+V21468,P10254,Inpatient,2023-04-26,Medical OPD,CHV,Admitted
+V21469,P10155,OPD,2023-01-11,General OPD,Self,Discharged
+V21470,P10273,Inpatient,2023-07-14,General OPD,Other Hospital,Admitted
+V21471,P10026,ED,2023-07-13,Surgical OPD,CHV,Referred
+V21472,P10218,Inpatient,2023-03-12,General OPD,CHV,Discharged
+V21473,P10459,Inpatient,2023-07-08,Medical OPD,Health Center,Admitted
+V21474,P10223,OPD,2023-05-02,Surgical OPD,Self,Referred
+V21475,P10005,OPD,2023-07-31,MCH,Other Hospital,Discharged
+V21476,P10410,OPD,2023-05-08,General OPD,Self,Discharged
+V21477,P10064,ED,2023-04-03,Medical OPD,Self,Admitted
+V21478,P10179,Inpatient,2023-12-02,Surgical OPD,Private Clinic,Discharged
+V21479,P10310,ED,2023-09-03,General OPD,Self,Discharged
+V21480,P10128,Inpatient,2023-04-16,Pediatrics,Private Clinic,Discharged
+V21481,P10227,Inpatient,2023-06-04,Medical OPD,Other Hospital,Admitted
+V21482,P10444,Inpatient,2023-05-06,MCH,Private Clinic,Admitted
+V21483,P10357,Inpatient,2023-09-15,General OPD,Self,Admitted
+V21484,P10461,ED,2023-12-28,MCH,CHV,Admitted
+V21485,P10040,OPD,2023-03-12,MCH,Health Center,Admitted
+V21486,P10379,Inpatient,2023-04-18,General OPD,Private Clinic,Referred
+V21487,P10417,OPD,2023-01-19,Surgical OPD,CHV,Referred
+V21488,P10391,ED,2023-02-28,General OPD,CHV,Discharged
+V21489,P10138,ED,2023-10-29,Pediatrics,Private Clinic,Discharged
+V21490,P10030,ED,2023-11-09,Pediatrics,CHV,Discharged
+V21491,P10441,ED,2023-07-16,Pediatrics,Self,Discharged
+V21492,P10105,ED,2023-04-05,Pediatrics,Other Hospital,Discharged
+V21493,P10338,ED,2023-01-17,MCH,Private Clinic,Discharged
+V21494,P10465,Inpatient,2023-06-22,Medical OPD,Other Hospital,Discharged
+V21495,P10387,OPD,2023-06-24,MCH,CHV,Admitted
+V21496,P10400,Inpatient,2023-01-30,General OPD,Other Hospital,Admitted
+V21497,P10487,Inpatient,2023-12-14,Medical OPD,Other Hospital,Admitted
+V21498,P10217,Inpatient,2023-10-18,MCH,Private Clinic,Discharged
+V21499,P10491,ED,2023-08-28,Surgical OPD,Health Center,Discharged
